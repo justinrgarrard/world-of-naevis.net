@@ -1,0 +1,12 @@
+// custom SCSS (or CSS) goes here
+
+// Override header 4 settings.
+h4,
+.text-delta {
+  @include fs-4;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: normal;
+  // text-transform: uppercase;
+  // letter-spacing: 0.1em;
+}

@@ -1,0 +1,43 @@
+# Site settings
+title: Naevis
+email: thenaticswest@gmail.com
+description: A D&D 5E setting for OSR games.
+domain: naevis.github.io
+url: https://naevis.github.io
+theme: just-the-docs
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+# Note Bars
+callouts:
+  note:
+    title: Note
+    color: yellow
+  feat:
+    title: Feat
+    color: green
+  background-feature:
+    title: Background Feature
+    color: green
+  archetypes:
+    title: Archetypes
+    color: green
+  mundane-item:
+    title: Item
+    color: blue
+  language:
+    title: Language
+    color: green
+  exotic-language:
+    title: Exotic Language
+    color: purple
+  downtime:
+    title: Downtime Activity
+    color: green
+  crafting:
+    title: Downtime Activity
+    color: purple
