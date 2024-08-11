@@ -8,7 +8,7 @@ has_toc: false
 
 # Languages
 
-### Kindred Languages
+#### Kindred Languages
 
 {: .language}
 > **Common**, the human tongue, is widely used as the language of trade and diplomacy. All characters are proficient in Common.
@@ -26,7 +26,7 @@ has_toc: false
 > **Cant** is a sign language and [signal language](https://en.wikipedia.org/wiki/Morse_code) that originated among teams of burglars, but now enjoys wider spread use. Being proficient in this language allows you to purchase dangerous items like poison and grenades. [Rogues](../../character_creation/class/rogue) gain this language for free at first level.
 
 
-### City-Dweller Languages
+#### City-Dweller Languages
 
 {: .exotic-language}
 > **Draconic**, the spoken language of the City Below. Only recently discovered in the past few years, no surface dweller can claim to be truly fluent, but those with ambition make a point of learning enough to serve as translators. This language is required for verbal communication with orcs, kobolds, and any other sapient race in the City.

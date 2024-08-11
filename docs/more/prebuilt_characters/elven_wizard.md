@@ -2,7 +2,7 @@
 layout: default
 title: Elven Wizard
 parent: Prebuilt Characters
-grand_parent: Character Creation
+grand_parent: More
 nav_order: 4
 ---
 

@@ -8,7 +8,7 @@ has_toc: false
 
 # Combat
 
-#### Starter Tips
+#### Tips
 
 Combat scenarios can be difficult to run for even the most experienced Game Masters. A few guidelines are offered below:
 

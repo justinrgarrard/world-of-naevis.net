@@ -21,10 +21,10 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 
 #### The Four Classes
 
-* **Clerics** are members of Navean cults, each with their own set of teachings and beliefs.
-* **Fighters** are peerless warriors taking their first steps towards mastery of a martial art.
-* **Rogues** are specialists with many talents, including knowledge of [cant](../../more/languages/index).
-* **Wizards** are trained arcanists with mastery over scrolls and rituals.
+* **[Clerics](cleric)** are members of Navean cults, each with their own set of teachings and beliefs.
+* **[Fighters](fighter)** are peerless warriors taking their first steps towards mastery of a martial art.
+* **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../more/languages/index).
+* **[Wizards](wizard)** are trained arcanists with mastery over scrolls and rituals.
 
 #### Multiclassing
 

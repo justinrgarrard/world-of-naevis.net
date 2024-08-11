@@ -7,13 +7,26 @@ parent: Adventuring
 
 # Rest
 
+#### The Adventuring Day
+
+In a typical session, adventurers can expect to take **one to three short rests** and **no long rests**. 
+
 #### Short Rests 
 
-Short rests are the preferred method to recover while exploring the City. A short rest takes one hour of time and consumes one set of rations. It can be taken so long as the surrounding area is free of immediate dangers. Many abilities, particularly Fighter abilities, recharge on a short rest.
+* **Ration**: Consumes one set of rations.
+* **Time**: Requires one hour of time.
+* **Safety**: Requires a (relatively) safe location free of hostiles.
+* **Healing**: Consumes one or more Hit Dice to restore hit points.
+
 
 #### Long Rests 
 
-Long rests are taken **between** sessions. Players will not typically have the opportunity for a long rest during a session. 
+Long rests are taken **between** sessions, rather than during sessions. [Wizards](../character_creation/class/wizard) should take particular care to ensure that they can continue to survive even if their spell slots are expended. [Scrolls](../gear/scrolls) are a handy tool for this purpose.
+
+{: .note}
+> **Review: Hit Dice**
+>
+> Adventurers have a number of hit dice equal to their level. These hit dice can be rolled on a short rest to restore hit points. Hit dice recover on a long rest.
 
 <!-- #### Potions
 

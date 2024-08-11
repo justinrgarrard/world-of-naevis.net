@@ -1,22 +1,11 @@
 ---
 layout: default
-title: Spellcasting Equipment
+title: Spellcasting
 parent: Adventuring Gear
 grand_parent: Gear
 ---
 
 # Spellcasting Equipment
-
-{: .note}
-> **Review: Spellcasting Requirements**
->
-> * All spellcasters need a focus (wand, amulet) to cast spells.
->
-> * Wizards need a spellbook to prepare spells.
-
-{: .language}
-> Adventurers proficient in **Elven** can purchase focuses, scrolls, and spellbooks at a 20% discount.
-
 
 | Item                            | Cost   | Weight |
 | :------------------------------ | :----- | :----- |
@@ -27,6 +16,17 @@ grand_parent: Gear
 | Robes                           | 1 gp   | 4 lb.  |
 | Spellbook (blank, 100 pages)    | 25 gp  | 3 lb.  |
 | [Scroll](../scrolls), 1st-level | 50 gp  | 3 lb.  |
+
+{: .language}
+> Adventurers proficient in **Elven** can purchase focuses, scrolls, and spellbooks at a 20% discount.
+
+
+{: .note}
+> **Review: Spellcasting Requirements**
+>
+> * All spellcasters need a focus (wand, amulet) to cast spells.
+>
+> * Wizards need a spellbook to prepare spells.
 
 #### Descriptions
 

@@ -6,20 +6,20 @@ grand_parent: Character Creation
 nav_order: 4
 ---
 
-### Nomad
+# Nomad
 
 You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland. Somehow you found your way to the Canvaslands and became caught up in its gravity. 
 
 **[Skill](../../more/skills) Proficiency**: Athletics, Survival
 
-**[Tool](../../more/tools) Proficiency**: Herbalism Kit
+**[Tool](../../more/tools) Proficiency**: Herbalist
 
 **[Language](../../more/languages/index) Proficiency**: [Sylvan](../../more/languages/secret_languages)
 
 {: .background-feature}
-> **Bounce Back**
+> **Wary**
 > 
-> You have an additional hit die matching your class. When you take a short rest and spend hit dice, you recover the maximum hit points possible.
+> You gain proficiency in Dexterity saves. If you already have proficiency, you gain proficiency in Strength or Wisdom saves instead.
 
 ### (Optional) Trait Tables
 

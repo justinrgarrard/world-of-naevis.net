@@ -6,13 +6,13 @@ grand_parent: Character Creation
 nav_order: 8
 ---
 
-### Warlord
+# Warlord
 
 You came to the Forgotten City to conquer and pillage. Warcraft is your birthright. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. The Forgotten City is an opportunity to prove your prowess and enrich your homeland.
 
 **[Skill](../../more/skills) Proficiency**: Intimidation, Medicine
 
-**[Tool](../../more/tools) Proficiency**:  Smith's Tools, Woodworker's Tools
+**[Tool](../../more/tools) Proficiency**:  Smith, Woodworker
 
 {: .background-feature}
 > **First Blood**

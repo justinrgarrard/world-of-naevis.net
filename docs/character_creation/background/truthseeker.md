@@ -6,20 +6,20 @@ grand_parent: Character Creation
 nav_order: 7
 ---
 
-### Truthseeker
+# Truthseeker
 
 You came to the Forgotten City to understand its mysteries. You may be an archaeologist hunting the truth of the past, a wizard seeking new magic to make your own, or a priest following the urgings of your cult. No matter your origin, you are compelled by a quest for knowledge.
 
-**[Skill](../../more/skills) Proficiency**: Investigation, Arcana
+**[Skill](../../more/skills) Proficiency**: Arcana, History
 
-**[Tool](../../more/tools) Proficiency**: Alchemist Supplies
+**[Tool](../../more/tools) Proficiency**: Alchemist
 
 **[Language](../../more/language) Proficiency**: Any One [Secret Language](../../more/languages/secret_languages)
 
 {: .background-feature}
-> **Uncovered Lore**
+> **Illuminate**
 > 
-> You can replicate the effects of the _Detect Magic_ ritual. If you are a wizard, _Detect Magic_ is added to your spellbook.
+> You can replicate the effects of the _Light_ cantrip. If you are a spellcaster, you learn the cantrip.
 
 ### (Optional) Trait Tables
 

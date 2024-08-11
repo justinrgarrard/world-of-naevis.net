@@ -1,11 +1,19 @@
 ---
 layout: default
-title: Lighting Equipment
+title: Lighting
 parent: Adventuring Gear
 grand_parent: Gear
 ---
 
 # Lighting Equipment
+
+| Item                                    | Cost  | Weight |
+| :-------------------------------------- | :---- | :----- |
+| Lantern, bullseye                       | 5 gp  | 2 lb.  |
+| [Luminessence](../alchemics/substances) | 50 gp | 1 lb.  |
+| Oil (flask)                             | 1 gp  | 1 lb.  |
+| Tinderbox                               | 1 gp  | 1 lb.  |
+| Torch (5)                               | 1 gp  | 5 lb.  |
 
 {: .note}
 > **Review: Darkness**
@@ -16,14 +24,6 @@ grand_parent: Gear
 >
 > * Elf and Dwarf adventurers have the Darkvision trait, which allows them to treat _Darkness_ as _Dim Light_ for 30 feet.
 
-
-| Item                                    | Cost  | Weight |
-| :-------------------------------------- | :---- | :----- |
-| Lantern, bullseye                       | 5 gp  | 2 lb.  |
-| [Luminessence](../alchemics/substances) | 50 gp | 1 lb.  |
-| Oil (flask)                             | 1 gp  | 1 lb.  |
-| Tinderbox                               | 1 gp  | 1 lb.  |
-| Torch (5)                               | 1 gp  | 5 lb.  |
 
 #### Descriptions
 

@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Arms
-parent: Gear
-nav_order: 3
+parent: Adventuring Gear
+grand_parent: Gear
 ---
 
 # Arms
 
-{: .language}
-> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 
 #### Cheap Weapons (1 gp)
 
@@ -51,6 +49,10 @@ nav_order: 3
 | Longsword       | 1d8 slashing    | 3 lb.  | Versatile (1d10), **martial**, **elf**, **rogue**                    |
 | Rapier          | 1d8 piercing    | 2 lb.  | Finesse, **martial**, **rogue**                                      |
 | Warhammer       | 1d8 bludgeoning | 2 lb.  | Versatile (1d10), **martial**, **dwarf**                             |
+
+{: .language}
+> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
+
 
 #### Melee Weapon Enhancements (+50 gp)
 
