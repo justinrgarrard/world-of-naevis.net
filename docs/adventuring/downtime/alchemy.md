@@ -8,6 +8,10 @@ grand_parent: Adventuring
 
 # Alchemy
 
+#### Brews and Bombs
+
+Many adventurers dabble in the practice of alchemy, allowing them to create useful items at a reduced price during downtime. Performing alchemy requires proficiency in one or more tools, described below.
+
 {: .downtime}
 > **Craft Alchemic**
 >

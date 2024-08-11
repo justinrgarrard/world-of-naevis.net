@@ -1,20 +1,11 @@
 ---
 layout: default
-title: Medical Equipment
+title: Medical
 parent: Adventuring Gear
 grand_parent: Gear
 ---
 
 # Medical Equipment
-
-{: .note}
-> **Review: Resting**
->
-> * A short rest allows adventurers to expend their hit dice to recover hit points.
->
-> * A short rest consumes one set of rations and takes one hour.
->
-> * Hit dice are recovered after taking a long rest (between sessions).
 
 | Item                              | Cost  | Weight |
 | :-------------------------------- | :---- | :----- |
@@ -22,6 +13,9 @@ grand_parent: Gear
 | Potion, healing                   | 50 gp | 1 lb.  |
 | Potion, cleansing                 | 50 gp | 1 lb.  |
 | [Scroll](../scrolls), cure wounds | 50 gp | 1 lb.  |
+
+{: .language}
+> Adventurers proficient in **Halfling** can purchase potions at a 20% discount.
 
 
 #### Descriptions

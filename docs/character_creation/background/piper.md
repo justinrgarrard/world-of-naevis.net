@@ -6,18 +6,18 @@ grand_parent: Character Creation
 nav_order: 5
 ---
 
-### Piper
+# Piper
 
-You are a member of the Piper's Guild, a loose collective of traveling [illusionists](../../gear/magic_items/woodwinds) that carries news and entertainment between cities. You came to the Canvaslands to ply your trade.
+You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. You came to the Canvaslands to ply your trade.
 
 **[Skill](../../more/skills) Proficiency**: Sleight of Hand, Performance
 
-**[Tool](../../more/tools) Proficiency**: Instrument (Flute), Tinker's Tools
+**[Tool](../../more/tools) Proficiency**: Instrument (Flute), Tinker
 
 {: .background-feature}
 > **Stage Magic**
 > 
-> You can replicate the effects of the _Minor Illusion_ cantrip. Your spellcasting ability for this cantrip is Intelligence. If you are a spellcaster, you learn the cantrip, and it does not count against your cantrips known.
+> You can replicate the effects of the _Minor Illusion_ cantrip. Your spellcasting ability for this cantrip is Intelligence. If you are a spellcaster, you learn the cantrip.
 
 ### (Optional) Trait Tables
 

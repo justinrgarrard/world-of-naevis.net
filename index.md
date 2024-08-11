@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# Naevis
+# The World of Naevis
 
 #### What is Naevis?
 

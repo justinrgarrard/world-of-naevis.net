@@ -6,20 +6,23 @@ grand_parent: Character Creation
 nav_order: 6
 ---
 
-### Treasure Hunter
+# Treasure Hunter
 
 You came to the Forgotten City in search of fortune and glory. You have an eye for spotting valuables and threats.
 
 **[Skill](../../more/skills) Proficiency**: Perception, Insight
 
-**[Tool](../../more/tools) Proficiency**: Thieves' Tools, Jeweler's Kit
+**[Tool](../../more/tools) Proficiency**: Thieves' Tools, Jeweler
 
 {: .background-feature}
 > **Read the Room**
 > 
 > Add +5 to your passive perception.
-> 
-> _Redundant Proficiencies_: If you already have proficiency with Thieves' Tools, choose an artisan tool to become proficient in.
+
+{: .note}
+> **Redundant Proficiencies**
+>
+> If you already have proficiency in Thieves' Tools, you gain Expertise with them instead.
 
 ### (Optional) Trait Tables
 

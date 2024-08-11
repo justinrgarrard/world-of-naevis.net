@@ -14,7 +14,7 @@ Adventurers in the Naevis are survivalists, equally adept at fighting and fieldc
 
 #### Quickstart
 
-Players can choose one of the [prebuilt characters](prebuilt_characters/index) to quickly begin play.
+Players can choose one of the [prebuilt characters](../more/prebuilt_characters/index) to quickly begin play.
 
 #### Standard
 

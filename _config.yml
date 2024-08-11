@@ -6,25 +6,35 @@ domain: naevis.github.io
 url: https://naevis.github.io
 theme: just-the-docs
 
+# Plugins
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
 
+# Exclusions from build
+exclude:
+  [
+    "depreciated/"
+  ]
+
 # Note Bars
 callouts:
   note:
     title: Note
-    color: yellow
+    color: purple
+  background-feature:
+    title: Background Feature
+    color: purple
+  archetypes:
+    title: Archetypes
+    color: purple
   feat:
     title: Feat
     color: green
-  background-feature:
-    title: Background Feature
-    color: green
-  archetypes:
-    title: Archetypes
+  downtime:
+    title: Downtime Activity
     color: green
   mundane-item:
     title: Item
@@ -34,10 +44,4 @@ callouts:
     color: green
   exotic-language:
     title: Exotic Language
-    color: purple
-  downtime:
-    title: Downtime Activity
-    color: green
-  crafting:
-    title: Downtime Activity
-    color: purple
+    color: red

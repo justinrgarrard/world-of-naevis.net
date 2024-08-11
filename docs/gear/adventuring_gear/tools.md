@@ -3,7 +3,6 @@ layout: default
 title: Tools
 parent: Adventuring Gear
 grand_parent: Gear
-nav_order: 0
 ---
 
 # Tools

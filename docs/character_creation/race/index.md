@@ -16,10 +16,10 @@ nav_order: 2
 
 #### The Kindred
 
-* **Elves** are the longest lived race, and the most influential. The Elven Empire is the dominant force in Naevis.
-* **Dwarves** are second in the global order. They contest Elven hegemony from their mountainous city-states.
-* **Humans** are a subservient race, largely enslaved by the Elves and Dwarves. Their kingdoms are puppeted by the longer lived races.
-* **Halflings** are tribal nomads that live in caravans apart from the other races. They are skilled merchants, hunters, and warriors.
+* **[Elves](elf)** are the longest lived race, and the most influential. The Elven Empire is the dominant force in Naevis.
+* **[Dwarves](dwarf)** are second in the global order. They contest Elven hegemony from their mountainous city-states.
+* **[Humans](human)** are a subservient race, largely enslaved by the Elves and Dwarves. Their kingdoms are puppeted by the longer lived races.
+* **[Halflings](halfling)** are tribal nomads that live in caravans apart from the other races. They are skilled merchants, hunters, and warriors.
 
 #### City Dwellers
 

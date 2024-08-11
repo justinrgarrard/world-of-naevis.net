@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Prebuilt Characters
-parent: Character Creation
-nav_order: 99
+parent: More
 has_children: true
 has_toc: true
 ---

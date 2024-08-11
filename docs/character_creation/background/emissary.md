@@ -6,7 +6,7 @@ grand_parent: Character Creation
 nav_order: 2
 ---
 
-### Emissary
+# Emissary
 
 You came to the Forgotten City at the behest of a greater power. Maybe a nation, a temple, or a powerful mage. While there, you are expected to act in their interests.
 
@@ -17,7 +17,7 @@ You came to the Forgotten City at the behest of a greater power. Maybe a nation,
 {: .background-feature}
 > **Herald**
 > 
-> You can replicate the effects of the _Thaumaturgy_ cantrip. If you are a spellcaster, you learn the cantrip, and it does not count against your cantrips known.
+> You can replicate the effects of the _Thaumaturgy_ cantrip. If you are a spellcaster, you learn the cantrip.
 
 ### (Optional) Trait Tables
 

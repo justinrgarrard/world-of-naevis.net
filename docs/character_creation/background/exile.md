@@ -6,7 +6,7 @@ grand_parent: Character Creation
 nav_order: 3
 ---
 
-### Exile
+# Exile
 
 You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. Your time as an outcast led to a familiarity with unsavory practices.
 
@@ -14,7 +14,7 @@ You did not come to the City of your own free will. You were driven here, perhap
 
 **[Language](../../more/language) Proficiency**: Cant
 
-**[Tool](../../more/tools) Proficiency**: Poisoner's Kit
+**[Tool](../../more/tools) Proficiency**: Poisoner
 
 {: .background-feature}
 > **Survivor**

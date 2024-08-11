@@ -2,7 +2,7 @@
 layout: default
 title: Halfling Rogue
 parent: Prebuilt Characters
-grand_parent: Character Creation
+grand_parent: More
 nav_order: 3
 ---
 

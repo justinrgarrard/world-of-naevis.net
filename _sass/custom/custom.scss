@@ -1,12 +1,46 @@
 // custom SCSS (or CSS) goes here
 
+// Override fonts.
+body {
+    font-family: "Lisu Bosa";
+}
+
+h1,h2,h3,h4,h5,h6, .nav-list {
+    font-family: "Lisu Bosa";
+    // font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+    // roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+}
+
 // Override header 4 settings.
 h4,
 .text-delta {
-  @include fs-4;
+  @include fs-6;
   font-weight: 600;
   text-transform: none;
   letter-spacing: normal;
   // text-transform: uppercase;
   // letter-spacing: 0.1em;
+}
+
+// Override text sizes.
+.mundane-item {
+    p {
+        @include fs-4
+    }
+}
+
+.nav-list-link {
+    @include fs-5
+}
+
+p, li {
+    @include fs-5
+}
+
+td {
+    @include fs-4
+}
+
+.site-title {
+    @include fs-7
 }

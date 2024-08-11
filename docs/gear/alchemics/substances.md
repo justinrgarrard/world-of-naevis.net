@@ -7,9 +7,7 @@ grand_parent: Gear
 
 # Substances
 
-{: .note}
-> Proficiency with **Alchemist Tools** increases the save DC of applicable items by the user's proficiency bonus.
-
+#### Substances
 
 {: .mundane-item}
 > **Agua Regia**

@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Armor
-parent: Gear
-nav_order: 3
+parent: Adventuring Gear
+grand_parent: Gear
 ---
 
 # Armor
 
-{: .language}
-> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 
 | Name                                                                | Armor Class (AC)          | Stealth      | Price | Weight |
 | :------------------------------------------------------------------ | :------------------------ | :----------- | :---- | :----- |
@@ -27,6 +25,10 @@ nav_order: 3
 | Shield                                                              |                           |              |       |        |
 | ... Shield                                                          | +2                        | —            | 5 gp  | 6 lb.  |
 | ... Shield ([Holy Symbol](adventuring_gear/spellcasting_equipment)) | +2                        | —            | 15 gp | 6 lb.  |
+
+{: .language}
+> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
+
 
 #### Medium/Heavy Armor Enhancements (+50 gp)
 

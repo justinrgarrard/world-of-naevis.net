@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Craftsman
+title: Alchemist
 parent: Background
 grand_parent: Character Creation
 nav_order: 1
 ---
 
 
-# Craftsman
+# Alchemist
 
-You came to the Forgotten City to be at the forefront of your art. You may be an alchemist, a swordsmith, or someone else intrigued by the wondrous materials being discovered. 
+You came to the Forgotten City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as discipline of magic.
 
-**[Skill](../../more/skills) Proficiency**: History, Investigation
+**[Skill](../../more/skills) Proficiency**: Nature, Investigation
 
-**[Tool](../../more/tools) Proficiency**: Any two artisan tools
+**[Tool](../../more/tools) Proficiency**: Alchemist and one other from Tinker, Poisoner, or Herbalist
 
 
 {: .background-feature}
-> **Intuition**
+> **Caustic Defense**
 >
-> You can replicate the effects of the _Identify_ ritual without requiring material components or spellcasting. If you are a wizard, _Identify_ is added to your spellbook.
+> You can replicate the effects of the _Poison Spray_ cantrip. Your spellcasting ability for this cantrip is Intelligence. If you are a spellcaster, you learn the cantrip.
 
 ### (Optional) Trait Tables
 
