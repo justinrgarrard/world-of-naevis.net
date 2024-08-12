@@ -14,12 +14,12 @@ nav_order: 2
 > 
 > Races outside the four provided in the _[Basic Rules](docs/more/DnD_BasicRules_2018.pdf)_ are not supported by this setting, but can be used with the Game Master's permission.
 
-#### The Kindred
+#### Kindred
 
 * **[Elves](elf)** are the longest lived race, and the most influential. The Elven Empire is the dominant force in Naevis.
 * **[Dwarves](dwarf)** are second in the global order. They contest Elven hegemony from their mountainous city-states.
-* **[Humans](human)** are a subservient race, largely enslaved by the Elves and Dwarves. Their kingdoms are puppeted by the longer lived races.
-* **[Halflings](halfling)** are tribal nomads that live in caravans apart from the other races. They are skilled merchants, hunters, and warriors.
+* **[Humans](human)** are an unfortunate race, largely enslaved by the Elves and Dwarves. Their kingdoms are allowed to exist solely as buffer zones between the two great powers.
+* **[Halflings](halfling)** are tribal nomads that live in caravans. They are skilled merchants, hunters, and warriors.
 
 #### City Dwellers
 

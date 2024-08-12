@@ -31,6 +31,9 @@ The main goal of an expedition is to **Fill a Bag**. One *Backpack of Loot* is e
 > Adventurers can expect to **spend 20 gp between each session** on living necessities. Those that can't afford to pay will be penalized first with a level of exhaustion, then with a dangerous debt, and finally an early end to their adventuring career.
 
 
+<!-- #### The Long Game
+
+An adventurer's goal is to accumulate treasure and levels by surviving expeditions. In addition to _Backpacks of Loot_, they may find strange artifacts, golden relics, or other atypical booty.  -->
 
 <!-- #### Inventory
 

@@ -10,14 +10,14 @@ grand_parent: More
 _Tower Mages are recluses that practice their arts away from civilization, developing a particular talent for scroll scribing. Among their number are researchers, necromancers, and enchanters._
 
 
-#### Deep Reserves
+#### Read Magic
 
-When you take this archetype at 2nd level, you gain an additional use of Arcane Recovery.
+When you take this archetype at 2nd level, you learn to use scrolls outside your spell list. You can cast their spells using your Wizard spellcasting modifier where applicable, but cannot add them to your spellbook.
 
 
 #### Transmute Scroll
 
-At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend a use of Arcane Recovery to magically duplicate one of the spells in your spellbook. The duplicate must be placed within a blank piece of paper and functions identically to a spell scroll. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery, and is cast at the lowest possible level. If the scroll is not used within 24 hours, it crumbles to dust.
+At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The duplicate must be placed within a blank piece of paper and functions identically to a spell scroll. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery, and is cast at the lowest possible level. If the scroll is not used within 24 hours, it crumbles to dust.
 
 
 #### Scroll Arts
@@ -29,9 +29,9 @@ At 6th level, when you cast a spell from a scroll, you can enhance it in one of 
 * **Empower**: If the spell deals damage, you can reroll a number of damage dice equal to the scroll's spell level and take the new result.
 
 
-#### Read Magic
+#### Improved Transmute Scroll
 
-Beginning at 10th level, you can use scrolls outside your spell list, but cannot add them to your spellbook.
+Beginning at 10th level, you can use Transmute Scroll to create a number of scrolls equal to your proficiency bonus. The scrolls' total spell level must be equal to or less than what Arcane Recovery would otherwise recover.
 
 
 #### Doublecast

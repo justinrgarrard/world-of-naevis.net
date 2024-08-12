@@ -32,16 +32,16 @@ callouts:
     color: purple
   feat:
     title: Feat
-    color: green
+    color: purple
   downtime:
     title: Downtime Activity
-    color: green
+    color: purple
   mundane-item:
     title: Item
     color: blue
   language:
     title: Language
-    color: green
+    color: purple
   exotic-language:
     title: Exotic Language
     color: red

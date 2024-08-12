@@ -26,4 +26,4 @@ grand_parent: More
 >
 > *Requirements: None*
 >
-> Choose two skills that you are proficient in. You can add twice your proficiency bonus when you use them. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times, but each time must be for a different skill.
+> Choose two skills that you are proficient in. You can add twice your proficiency bonus when you use them. You can take this feat multiple times, but each time must be for a different skill.
