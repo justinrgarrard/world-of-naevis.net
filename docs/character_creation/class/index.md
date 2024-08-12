@@ -22,9 +22,17 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 #### The Four Classes
 
 * **[Clerics](cleric)** are members of Navean cults, each with their own set of teachings and beliefs.
-* **[Fighters](fighter)** are peerless warriors taking their first steps towards mastery of a martial art.
+* **[Fighters](fighter)** are peerless warriors and martial arts practitioners.
 * **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../more/languages/index).
 * **[Wizards](wizard)** are trained arcanists with mastery over scrolls and rituals.
+
+#### Archetypes
+
+Specializations for each class are unlocked at different levels. Players have three options:
+
+* **Basic Rules**: Use the archetype from the _Basic Rules_ for the class.
+* **Setting-Specific**: Use one of the [archetypes](../../more/archetypes/index#naevis-archetypes) written for Naevis.
+* **Propose**: [Request](../../more/archetypes/index#reflavoring-archetypes) a different archetype, such as one published in the _Player's Handbook_ or other source.
 
 #### Multiclassing
 

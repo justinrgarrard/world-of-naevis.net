@@ -9,9 +9,14 @@ has_toc: false
 # Archetypes
 
 {: .note}
-> **Other Archetypes**
-> 
-> Archetypes outside those listed here are not supported by this setting, but can be used with the Game Master's permission. 
+> **The Three Options**
+>
+> * **Basic Rules**: Use the archetype from the _Basic Rules_ for the class.
+> * **Setting-Specific**: Use one of the [archetypes](../../more/archetypes/index) written for Naevis.
+> * **Propose**: Request a different archetype, such as one published in the _Player's Handbook_ or other source.
+
+
+#### Naevis Archetypes
 
 | Class       | Archetypes                     |                                |
 | :---------- | :----------------------------- | :----------------------------- |
@@ -20,3 +25,10 @@ has_toc: false
 | **Fighter** | [Lionheart](fighter_lionheart) | [Warprince](fighter_warprince) |
 | **Rogue**   | [Delver](rogue_delver)         | [Knife Dancer](rogue_knife)    |
 | **Wizard**  | [Court Mage](wizard_court)     | [Tower Mage](wizard_tower)     |
+
+
+#### Reflavoring Archetypes
+
+Archetypes from outside the _Basic Rules_ may require customization for use in this setting. Some, like the Rune Knight, may involve too much magic for a low-fantasy setting. Others (such as Cleric domains) may provide spells that aren't included in the _Basic Rules_.
+
+If you would like to use an external archetype, work with your GM to modify it appropriately.

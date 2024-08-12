@@ -10,19 +10,11 @@ nav_order: 4
 
 **Wizards** are those adventurers trained in the academic practice of arcane spellcasting. They are, by necessity, highly educated individuals. 
 
-{: .archetypes}
-> [Court Mage](../../more/archetypes/wizard_court), [Tower Mage](../../more/archetypes/wizard_tower) 
-
-
-#### Occupations
-In Navean societies, practitioners of arcane magic are considered skilled professionals with a similar standing to doctors and lawyers. They are broadly divided into [Court Mages](../../more/archetypes/wizard_court), who intermingle with others, and [Tower Mages](../../more/archetypes/wizard_tower), who do not. The former find employment as shopkeepers, teachers, and civil officials. The latter opt for solitary work as enchanters, alchemists, and scribes. 
+#### Scrolls as Industry
+A trained mage is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Stockpiles of scrolls are treated in much the same way as ingots of metal or caches of medicine. Those with the training to produce scrolls often find work as professional scribes.
 
 #### Arcane Magic
-The fundamentals of magic require a firm understanding of mathematics, grammar, and rhetoric before even the barest cantrip can be mustered. The majority of practitioners will never reach beyond [first level spells](../../more/spells/wizard_spells), finding that basic spellcasting is sufficient for most professions.
-
-#### Scrolls
-Mages make use of [scrolls](../../gear/scrolls) to supplement their limited spells per day. Those in the Canvaslands can scribe new scrolls during [downtime](../../the_city_below/downtime/index) or purchase first level scrolls for 50 gp each. 
-
+Arcane magic, unlike divine magic, is akin to technology. Practitioners draw ambient magic from any available source using a wand or similar implement. Once gathered, they perform a carefully choreographed set of motions and chants to shape the energy into a spell. 
 
 
 ### Starting Gear
@@ -39,3 +31,16 @@ _Wizard's Pack (25 lb.)_ or 100 gp.
 | ...Spellbook                             | 3 lb.  | 25 gp |
 | ...[Scroll of Sleep](../../gear/scrolls) | -      | 50 gp |
 | ...Spare Gold                            | -      | 1 gp  |
+
+<!-- {: .archetypes}
+> [Court Mage](../../more/archetypes/wizard_court), [Tower Mage](../../more/archetypes/wizard_tower) 
+
+
+#### Occupations
+In Navean societies, practitioners of arcane magic are considered skilled professionals with a similar standing to doctors and lawyers. They are broadly divided into [Court Mages](../../more/archetypes/wizard_court), who intermingle with others, and [Tower Mages](../../more/archetypes/wizard_tower), who do not. The former find employment as shopkeepers, teachers, and civil officials. The latter opt for solitary work as enchanters, alchemists, and scribes.  -->
+
+<!-- #### Arcane Magic
+The fundamentals of magic require a firm understanding of mathematics, grammar, and rhetoric before even the barest cantrip can be mustered. The majority of practitioners will never reach beyond [first level spells](../../more/spells/wizard_spells), finding that basic spellcasting is sufficient for most professions. -->
+
+<!-- #### Scroll-Users
+Mages make use of [scrolls](../../gear/scrolls) to supplement their limited spells per day. Those in the Canvaslands can scribe new scrolls during [downtime](../../the_city_below/downtime/index) or purchase first level scrolls for 50 gp each.  -->

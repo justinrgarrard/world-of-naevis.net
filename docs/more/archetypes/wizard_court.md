@@ -10,14 +10,14 @@ grand_parent: More
 _Court Mages are sociable arcanists who typically hold civic positions. They may be advisors to kings, tribal shamans, notable professors, or others whose knowledge is held in high esteem._
 
 
+#### Well-Rounded
+
+When you take this archetype at 2nd level, you learn two cantrips chosen from any spell list.
+
+
 #### Learned
 
 At 2nd level, you gain proficiency with two skills from the following list: Arcana, History, Nature, Medicine, Religion. Choose one skill from the list that you are proficient in. Your proficiency bonus with that skill is doubled.
-
-
-#### Well-Rounded
-
-When you take this archetype at 2nd level, you learn three cantrips chosen from any spell list.
 
 
 #### Rhetorical Technique

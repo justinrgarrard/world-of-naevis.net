@@ -8,7 +8,7 @@ nav_order: 2
 
 # Dwarf
 
-Navean dwarves live in city states dominated by individual clans. They are a people motivated by honor, often to a dangerous extent, willing to risk life and limb for the chance at being memorialized.
+Navean dwarves live in city states dominated by individual clans. They are a people motivated by honor, often to a dangerous extent, willing to risk life and limb for their clan's honor.
 
 {: .language}
 > **Dwarven** is the language of industry. Nearly all schematics, blueprints, and architectural diagrams are written in Dwarven. Proficient characters receive a 20% discount when buying weapons and armor.

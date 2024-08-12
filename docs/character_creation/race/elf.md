@@ -11,7 +11,7 @@ nav_order: 1
 Navean elves belong to the Elven Empire, the single most powerful nation state in the known world. Their ancient history is both a blessing and a curse. Elven society is rigidly stratified along bloodlines and codified traditions going back thousands of years.
 
 {: .language}
-> **Elven** is the language of magic. Wandcarvers and enchanters are expected to master it as part of their apprenticeship. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls.
+> **Elven** is the language of magic. Wandcarvers are expected to master it as part of their apprenticeship. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls.
 
 #### High Elf
 

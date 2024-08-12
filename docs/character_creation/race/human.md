@@ -10,7 +10,7 @@ nav_order: 4
 
 Humans live as the vassals of either dwarves or elves in small buffer kingdoms between the two global powers. Their lot in life is one of servitude. The kings of men are pawns of longer lived races, and their armies are little more than game pieces.
 
-As individuals, humans struggle to compete with older, wealthier, and more worldly races. Their singular advantage is a peerless capacity for learning. Where it might take an elf or a dwarf fifty years to become a proficient mage, a human can manage it in a mere twenty.
+As individuals, humans struggle to compete with older, wealthier, and more worldly races. Their singular advantage is a peerless capacity for learning. Where it might take an elf or a dwarf fifty years to become a proficient mage, a human can manage in a mere twenty.
 
 {: .language}
 > **Common**, the human tongue, is widely used as the language of trade and diplomacy. All characters are proficient in Common.

@@ -9,7 +9,7 @@ parent: Adventuring
 
 #### The Adventuring Day
 
-In a typical session, adventurers can expect to take **one to three short rests** and **no long rests**. 
+In a typical session, adventurers can expect to take between **1-3 short rests** and **no long rests**. 
 
 #### Short Rests 
 
