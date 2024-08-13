@@ -12,9 +12,7 @@ You came to the Forgotten City to understand its mysteries. You may be an archae
 
 **[Skill](../../more/skills) Proficiency**: Arcana, History
 
-**[Tool](../../more/tools) Proficiency**: Alchemist
-
-**[Language](../../more/language) Proficiency**: Any One [Secret Language](../../more/languages/secret_languages)
+**[Language](../../more/language) Proficiency**: Infernal or Undercommon, Any One [Secret Language](../../more/languages/secret_languages)
 
 {: .background-feature}
 > **Illuminate**

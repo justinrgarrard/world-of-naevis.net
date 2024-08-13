@@ -10,12 +10,12 @@ nav_order: 2
 
 **Fighters** tend to be drawn from the ranks of sellswords and mercenaries. Individuals that merit membership in this class are distinguished warriors known for their combat prowess.
 
-#### Honor
-One's reputation and history of service take on a force of their own, though it need not be positive. Renegades and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 
-
 #### Martial Arts
 
 Skill at arms is the bare minimum requirement for one to be a fighter. Typically, a warrior will adopt or adapt a system of fighting from one of the many martial arts traditions in Naevis. This is reflected in their choice of _Fighting Style_ and eventual archetype.
+
+#### Honor
+One's reputation and history of service take on a force of their own, though it need not be positive. Renegades and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 
 
 
 ### Starting Gear

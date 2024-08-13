@@ -28,7 +28,7 @@ nav_order: 0
 > 
 > **Senses**               darkvision 60 ft., passive Perception 10
 > 
-> **Languages**            Draconic
+> **Languages**            Undercommon
 >
 > ---
 > 

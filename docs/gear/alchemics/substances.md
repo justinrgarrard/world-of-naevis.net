@@ -31,18 +31,20 @@ grand_parent: Gear
 > *Substance, common, 50 gp, 1 lb.*
 > 
 > This oil is identical to a _flask of oil_, but possesses additional properties. When you coat an object or creature with this oil, any sounds the target makes become muffled for ten minutes, providing advantage on relevant Dexterity (Stealth) rolls and preventing spells with a verbal component. The oil can be wiped off with an action.
+>
+> When the oil is burned, a 20 foot cloud of smoke forms. The smoke spreads around corners, and its area is heavily obscured. It lasts for ten minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 {: .mundane-item}
 > **Pale Soap**
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This soap is identical to a _bar of soap_, but possesses additional properties. Grime, blood, rust, or other corrosion are instantly removed by the soap. Simple illusions, such as those produced by _Minor Illusion_, _Silent Image_, or _Disguise Self_ are also dispersed on contact with the soap. The soap becomes blackened and crumbles apart when touching a fey, fiend, aberration, or undead creature.
+> This soap is identical to a _bar of soap_, but possesses additional properties. Grime, blood, rust, or other corrosion are instantly removed by the soap. Simple illusions, such as those produced by _Minor Illusion_, _Silent Image_, or _Disguise Self_ are also dispersed on contact with the soap. The outer surface of the soap becomes blackened in the presence of a fey, fiend, aberration, or undead creature.
 
 {: .mundane-item}
 > **Winterbloom Extract**
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This fluid is identical to a _flask of alchemist fire_, but causes rapid freezing rather than combustion. When thrown into water it freezes up to 20 gallons into solid ice. When thrown on to a wet creature or object, the target is frozen, and gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break away.
+> This fluid is identical to a _flask of alchemist fire_, but causes rapid freezing rather than combustion. When thrown into water it freezes up to 20 gallons into solid ice. When thrown on to a wet creature or object, the target is frozen and gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break the ice.
 

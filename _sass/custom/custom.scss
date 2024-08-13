@@ -5,10 +5,14 @@ body {
     font-family: "Lisu Bosa";
 }
 
-h1,h2,h3,h4,h5,h6, .nav-list {
-    font-family: "Lisu Bosa";
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Aref Ruqaa Ink";
     // font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
     // roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+}
+
+.nav-list {
+    font-family: "Lisu Bosa";
 }
 
 // Override header 4 settings.
@@ -24,7 +28,7 @@ h4,
 
 // Override text sizes.
 .mundane-item {
-    p {
+    p,li {
         @include fs-4
     }
 }

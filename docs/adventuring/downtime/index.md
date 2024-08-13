@@ -25,7 +25,7 @@ Between each gameplay session, adventurers can choose **one** downtime activity 
 {: .downtime}
 > **Rogue: Thievery**
 > 
-> Waive the downtime fee. You may change the swap the skills you have Expertise in. You must be proficient in a skill to use Expertise with it.
+> Waive the downtime fee. You may change the skills you have Expertise in. You must be proficient in a skill to use Expertise with it.
 
 {: .downtime}
 > **Wizard: Research**

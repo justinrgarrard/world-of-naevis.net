@@ -23,9 +23,9 @@ At 3rd level, you have masted a set of techniques that enhance your use of weapo
 
 * **Sky Piercing Stance**: Melee weapons you wield gain the _Reach_ tag. Ranged weapons you wield are not penalized for attacks made at long range.
 
-* **Windstorm Stance**: Melee weapons you wield are not affected by the _Heavy_ or _Two Handed_ tags. If a weapon has neither tag, it instead gains the _Finesse_ property. 
+* **Windstorm Stance**: Weapons you wield are not affected by the _Heavy_ or _Two Handed_ tags. If a weapon has neither tag, it instead gains the _Finesse_ property. 
 
-* **Dust Devil Stance**: You activate two-weapon fighting when you adopt this stance. You can use two-weapon fighting even when the melee weapons you are using aren't light. 
+* **Dust Devil Stance**: You activate two-weapon fighting when you adopt this stance, making an attack against a creature. You can use two-weapon fighting even when the melee weapons you are using aren't light. 
 
 
 #### Counter

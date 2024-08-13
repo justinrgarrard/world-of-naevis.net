@@ -7,7 +7,7 @@ grand_parent: More
 
 # Wizard: Tower Mage
 
-_Tower Mages are recluses that practice their arts away from civilization, developing a particular talent for scroll scribing. Among their number are researchers, necromancers, and enchanters._
+_Tower Mages are recluses that practice their arts away from civilization, developing a particular talent for scroll scribing. Many run their own ateliers supplying buyers with handmade scrolls._
 
 
 #### Read Magic
@@ -24,14 +24,14 @@ At 2nd level, you gain the ability to improvise spell scrolls. As an action, you
 
 At 6th level, when you cast a spell from a scroll, you can enhance it in one of the following ways:
 
-* **Distant**: If the spell has a range of 5 feet or more, the range doubles.
+* **Distant**: If the spell has a range of 5 feet or more, the range doubles. It the spell has a range of touch, it increases to 30 feet.
 * **Extend**: If the spell has a duration of one round or longer, the duration of the spell doubles, to a maximum of 24 hours.
 * **Empower**: If the spell deals damage, you can reroll a number of damage dice equal to the scroll's spell level and take the new result.
 
 
-#### Improved Transmute Scroll
+#### Salvage Scroll
 
-Beginning at 10th level, you can use Transmute Scroll to create a number of scrolls equal to your proficiency bonus. The scrolls' total spell level must be equal to or less than what Arcane Recovery would otherwise recover.
+Beginning at 10th level, roll a d20 after casting a spell from a scroll. If the result is less than or equal to your Intelligence modifier, the scroll does not crumble to dust after use. 
 
 
 #### Doublecast

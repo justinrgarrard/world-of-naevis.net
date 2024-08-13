@@ -10,9 +10,12 @@ nav_order: 1
 
 **Clerics** are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles their magic. 
 
+{: .note}
+> Clerics are the only one of the four base classes that much choose an [**archetype**](../../more/archetypes/index) at first level.
+
 #### Mystery Cults
 
-Religion in Naevis is organized across countless mystery cults, similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece and Rome. Members are sworn to secrecy regarding their religion's greater mysteries.
+Religion in Naevis is organized across countless mystery cults, similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece. Members are sworn to secrecy regarding their religion's greater mysteries.
 
 #### Divine Magic
 

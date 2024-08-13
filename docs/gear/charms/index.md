@@ -17,7 +17,7 @@ Charms are magical tools crafted from materials found within the City. The proce
 >
 > Charms are unable to be used without attunement. The would-be wielder must form a mental bond with their item over the course of a short or long rest. 
 > 
-> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**, to a minimum of 1. This reflects the difficulty of managing multiple semi-sentient items at one time.
+> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**. An adventurer with a negative modifier is unable to attune to magic items. This limitation reflects the difficulty of bonding and managing multiple semi-sentient items at one time.
 
 
 #### Listings

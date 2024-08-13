@@ -14,7 +14,7 @@ Starting at 3rd level, you can use the bonus action granted by your Cunning Acti
 
 
 #### Savvy
-At 3rd level, you gain proficiency with one tool, language, and skill of your choice.  Additionally, you can use any spell scroll of a level equal to or less than your proficiency bonus, as though it were of a spell you could cast.
+At 3rd level, you gain proficiency with one tool, language, and skill of your choice.  Additionally, you can use any spell scroll of a level equal to or less than your proficiency bonus, as though it were of a spell you could cast. Your spellcasting modifier is Intelligence, where applicable.
 
 
 #### Uncanny Luck

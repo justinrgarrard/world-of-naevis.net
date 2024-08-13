@@ -45,4 +45,4 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 #### Hellfire
 
-At 17th level, creatures and objects that take fire damage from your spells take an additional 1d10 fire damage at the start of their next turn. Any flames you conjure with magic cannot be put out with water.
+At 17th level, creatures and objects that take fire damage from your spells take an additional 1d10 necrotic damage at the start of their next turn. Any flames you conjure with magic cannot be put out with water.

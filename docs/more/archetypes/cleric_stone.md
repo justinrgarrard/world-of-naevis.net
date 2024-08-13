@@ -22,7 +22,7 @@ _Warrior priests who subject themselves to arduous trials to better grow as indi
 
 #### Bonus Proficiencies
 
-At 1st level, you gain proficiency with heavy armor, mason's tools, and the [Celestial](../languages/secret_languages) language.
+At 1st level, you gain proficiency with heavy armor, mason's tools, and the [Giant](../languages/secret_languages) language.
 
 
 #### Transmute Provision

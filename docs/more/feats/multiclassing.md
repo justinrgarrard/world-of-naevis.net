@@ -10,7 +10,7 @@ grand_parent: More
 {: .note}
 > **Multiclassing**
 >
-> Multiclassing is not covered in the _[Basic Rules]()_. Instead, the feat-based mechanic described in this section can be used.
+> An alternative feat-based multiclassing ruleset is presented here for player use. 
 
 #### How It Works
 

@@ -18,7 +18,7 @@ Among the monsters and dangers of the City are thinking creatures, capable of sp
 
 #### Language
 
-Unlike the Kindred, City Dwellers share the same spoken [language](../../more/language) (Draconic) and written language (Infernal) regardless of race. They are notably not proficient in Common.
+Unlike the Kindred, City Dwellers share the same spoken [language](../../more/language) (Undercommon) and written language (Infernal) regardless of race. They are notably not proficient in Common.
 
 #### Magic
 

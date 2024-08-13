@@ -15,6 +15,10 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 {: .language}
 > Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **40 gp**.
 
+{: .note}
+> Items with the _Illicit_ tag (such as poisons and grenades) require proficiency in [Cant](../../more/languages/index) to purchase.
+
+
 <!-- #### Crafting
 
 Adventurers proficient with the right type of artisan tools can [craft alchemics](../../adventuring/downtime/alchemy) during [downtime](../../adventuring/downtime/index). The basis consists of combining mundane ingredients with energy from magical materials. For example, a _Potion of Healing_ might combine a selection of herbal leaves with distilled holy water. -->
@@ -32,6 +36,7 @@ Adventurers proficient with the right type of artisan tools can [craft alchemics
 | ... Grenade: Thunderbomb                       | 5 lb.  | 1    |
 | **[Potions and Poisons](potions_and_poisons)** |        |      |
 | ... Poison: Mellow Dust                        | 1 lb.  | 3    |
+| ... Poison: Scorpion Venom                     | 1 lb.  | 3    |
 | ... Poison: Sleeping Powder                    | 1 lb.  | 3    |
 | ... Potion: Cleansing                          | 1 lb.  | 1    |
 | ... Potion: Healing                            | 1 lb.  | 1    |

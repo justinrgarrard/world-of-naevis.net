@@ -35,9 +35,15 @@ grand_parent: Gear
 > A non-hostile creature subjected to this poison must succeed on a DC 11 Constitution saving throw or be charmed by you. The charmed creature regards you as a friendly acquaintance. After 1 hour the effect ends and the creature knows it was charmed by you. This effect ends early if you or your allies do anything harmful to the creature.
 
 {: .mundane-item}
+> **Scorpion Venom (3)**
+> 
+> *Poison, injury, illicit*
+> 
+> Creatures injured by a weapon coated in this poison take an additional 1d4 poison damage. 
+
+{: .mundane-item}
 > **Sleeping Powder (3)**
 > 
 > *Poison, inhaled, illicit*
 > 
 > When released into the air, this powder fills a 5 foot cube. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or fall unconscious for 8 hours. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. 
-
