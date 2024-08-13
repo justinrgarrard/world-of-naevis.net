@@ -16,7 +16,7 @@ has_toc: false
 >
 > A pair of supple boots that seem to float ever so slightly off the ground.
 > 
-> While wearing and attuned to these boots, you can use a bonus action to increase your jump range until the start of your next turn. Your long jump distance becomes 20 feet and your high jump distance becomes 10 feet. Additionally, you are unaffected by difficult terrain.
+> While wearing and attuned to these boots, you can use an action to increase your jump range until the start of your next turn. Your long jump distance becomes 20 feet and your high jump distance becomes 10 feet. Additionally, you are unaffected by difficult terrain.
 
 {: .mundane-item}
 > **Compliant Rope**
@@ -34,7 +34,7 @@ has_toc: false
 >
 > A cloak that defies gravity, flowing behind the wearer as though it were suspended in water.
 > 
-> While attuned and worn, the wearer glides rather than falls, rendering them resistant to fall damage and able to roughly control their descent. When folded into the shape of a backpack, any contents placed within weigh thirty pounds less.
+> While attuned and worn, the wearer glides rather than falls, rendering them resistant to fall damage and able to roughly control their descent. When folded into the shape of a backpack, any contents placed within weigh thirty pounds less. A backpack of this form can hold up to 60 pounds or one cubic foot of material.
 
 
 

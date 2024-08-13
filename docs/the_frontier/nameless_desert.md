@@ -24,7 +24,7 @@ Rolling sand dunes crest and fall for hundreds of miles in every direction. The 
 
 #### Halflings
 
-The nomadic [Halfling](../character_creation/race/halfling) tribes are not native to the Nameless Desert, but have spent several generations inhabiting it since their exodus from the greenlands. The desert provides a natural barrier against conquest by the Elves or Dwarves, and time spent living among the wastes have made Halfling hunters exceptionally skilled. Deadly poisons are now one of their people's primary exports.
+The nomadic [Halfling](../character_creation/race/halfling) tribes are not native to the Nameless Desert, but have spent several generations inhabiting it since their exodus from the greenlands. The desert provides a natural barrier against conquest by Elves or Dwarves, and time spent living among the wastes have made Halfling hunters exceptionally skilled. Deadly poisons are now one of their people's primary exports.
 
 #### Djinn
 

@@ -20,4 +20,4 @@ nav_order: 1
 | **Pack Weight**    | 50 lb. (No Penalty)                                                                                                         |
 | **Abilities**      | fighting style: dueling, second wind, first blood                                                                           |
 | **Statistics**     | ac: 16, hp: 12, movement: 30, passive perception: 10, proficiency bonus: 2                                                  |
-| **Knowledge**      | languages: draconic, tools: smith, woodworker, armor: all, weapons: all                                                     |
+| **Knowledge**      | languages: undercommon, tools: smith, woodworker, armor: all, weapons: all                                                     |

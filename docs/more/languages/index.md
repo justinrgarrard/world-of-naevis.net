@@ -29,10 +29,10 @@ has_toc: false
 #### City-Dweller Languages
 
 {: .exotic-language}
-> **Draconic**, the spoken language of the City Below. Only recently discovered in the past few years, no surface dweller can claim to be truly fluent, but those with ambition make a point of learning enough to serve as translators. This language is required for verbal communication with orcs, kobolds, and any other sapient race in the City.
+> **Undercommon**, the spoken language of the City Below. Only recently discovered in the past few years, no surface dweller can claim to be truly fluent, but those with ambition make a point of learning enough to serve as translators. This language is required for verbal communication with orcs, kobolds, and any other speaking race in the City. Its written from is _Infernal_.
 
 {: .exotic-language}
-> **Infernal**, the written language of the City Below. Infernal is the name given to several scripts used by City residents. Adventurers find it invaluable given that many of the City's warnings and spells are scrawled in Infernal.
+> **Infernal**, the written language of the City Below. Infernal is the name given to several scripts used by City residents. Adventurers find it invaluable given that many of the City's warnings and spells are scrawled in Infernal. Its spoken form is _Undercommon_.
 
 
 

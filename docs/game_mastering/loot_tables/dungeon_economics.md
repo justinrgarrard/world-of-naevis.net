@@ -3,6 +3,7 @@ layout: default
 title: Dungeon Economics
 parent: Loot Tables
 grand_parent: Game Mastering
+nav_order: 3
 ---
 
 # Dungeon Economics

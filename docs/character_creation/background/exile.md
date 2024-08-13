@@ -21,6 +21,11 @@ You did not come to the City of your own free will. You were driven here, perhap
 > 
 > You gain proficiency in Constitution saves. If you already have proficiency, you gain proficiency in Dexterity or Wisdom saves instead.
 
+{: .background-feature}
+> **Redundant Proficiencies**
+> 
+> If you are already proficient in Cant, you gain proficiency in a [secret language](../../more/languages/secret_languages) instead.
+
 ### (Optional) Trait Tables
 
 ##### Personality Traits

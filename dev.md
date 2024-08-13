@@ -13,6 +13,11 @@
 * [X] Improve writing flow for Adventuring section.
 * [X] Implement a font, experiment with site theme.
 * [X] Add a favicon.
+* [X] Change Draconic to Undercommon.
+* [X] More subclass tweaks.
+* [X] More fluff in the Frontier section.
+* [X] Modify loot tables.
+* [X] Add sentient magic weapons.
 
 ### To-Do Backlog
 
