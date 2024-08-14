@@ -14,7 +14,7 @@ Adventurers have come from far and wide to explore the newly discovered [**Forgo
 
 #### Expeditions
 
-The main goal of an expedition is to **Fill a Bag**. One *Backpack of Loot* is enough to pay an individual's room and board while still generating a profit. 
+The main goal of a session is to **Fill a Bag**. One *Backpack of Loot* is enough to pay an individual's room and board while still generating a profit. 
 
 {: .mundane-item}
 > **Backpack of Loot (50 gp)**
@@ -25,10 +25,15 @@ The main goal of an expedition is to **Fill a Bag**. One *Backpack of Loot* is e
 >
 > The contents can be sold for 50 gp, after which this item reverts to an empty backpack.
 
-{: .note}
+#### Diving Deeper
+
+As parties become better established and [better equipped](../gear/index) they'll be able to dig deeper into the City's mysteries. They may stumble across [swords that speak](../more/magic_items/minor_sentient_weapons), [gods that walk the land](../the_frontier/city_dwellers/devil_princes), and other oddities with the power to throw Naevis into chaos. [Powerful nations](../the_frontier/greenlands/elves) are likely to take an interest in such things. The life of an adventurer is not an easy one, but few get the opportunity to steer history so strongly.
+
+
+<!-- {: .note}
 > **The Downtime Tax**
 > 
-> Adventurers can expect to **spend 20 gp between each session** on living necessities. Those that can't afford to pay will be penalized first with a level of exhaustion, then with a dangerous debt, and finally an early end to their adventuring career.
+> Adventurers can expect to **spend 20 gp between each session** on living necessities. Those that can't afford to pay will be penalized first with a level of exhaustion, then with a dangerous debt, and finally an early end to their adventuring career. -->
 
 
 <!-- #### The Long Game

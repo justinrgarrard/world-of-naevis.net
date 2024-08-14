@@ -3,7 +3,7 @@ layout: default
 title: Minor Sentient Weapons
 parent: Magic Items
 grand_parent: More
-nav_order: 0
+nav_order: 1
 ---
 
 # Minor Sentient Weapons
