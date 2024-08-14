@@ -46,4 +46,4 @@ grand_parent: Gear
 > 
 > *Poison, inhaled, illicit*
 > 
-> When released into the air, this powder fills a 5 foot cube. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or fall unconscious for 8 hours. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. 
+> When released into the air, this powder fills a 5 foot cube. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or fall unconscious for ten minutes. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. 

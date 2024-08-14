@@ -11,8 +11,8 @@ has_toc: false
 {: .note}
 > **The Three Options**
 >
-> * **Basic Rules**: Use the archetype from the _Basic Rules_ for the class.
-> * **Setting-Specific**: Use one of the [archetypes](../../more/archetypes/index) written for Naevis.
+> * **Basic Rules**: Use the archetype from the _Basic Rules_ for the class (*Life*, *Champion*, *Thief*, *Evocation*).
+> * **Setting-Specific**: Use one of the archetypes written for Naevis.
 > * **Propose**: Request a different archetype, such as one published in the _Player's Handbook_ or other source.
 
 

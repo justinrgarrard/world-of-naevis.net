@@ -3,7 +3,7 @@ layout: default
 title: Major Sentient Weapons
 parent: Magic Items
 grand_parent: More
-nav_order: 1
+nav_order: 2
 ---
 
 # Major Sentient Weapons

@@ -34,7 +34,5 @@ nav_order: 0
 | 68    | ... Silent Image                                                               |
 | 69    | ... Sleep                                                                      |
 | 70    | ... Thunderwave                                                                |
-| 71-75 | Elemental Gem                                                                  |
-| 76-80 | Dust of Disappearance                                                          |
-| 81-85 | Immovable Rod                                                                  |
+| 71-85 | [Elemental Crystal](../../more/magic_items/elemental_crystals)                 |
 | 86-00 | [Sentient Weapon](../../more/magic_items/minor_sentient_weapons.md) (Uncommon) |

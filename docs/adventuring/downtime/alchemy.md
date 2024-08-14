@@ -17,13 +17,13 @@ Many adventurers dabble in the practice of alchemy, allowing them to create usef
 >
 > Using an appropriate artisan tool and 25-100 gp of materials, create *Common*-rarity [alchemics](../../gear/alchemics/index). For each 25 gp spent, create one item. You must be proficient in the tool to do so.
 
-| Artisan Tool      | Alchemic                                         |
-| :---------------- | :----------------------------------------------- |
-| Alchemist         | [Substances](../../gear/alchemics/substances) |
-| Herbalist         | [Potions](../../gear/alchemics/potions)       |
-| Poisoner          | [Poisons](../../gear/alchemics/poisons)       |
-| Tinker            | [Grenades](../../gear/alchemics/grenades)     |
-| Woodcarver, Smith | [Ammunition](../../gear/alchemics/ammunition) |
+| Artisan Tool      | Alchemic                                            |
+| :---------------- | :-------------------------------------------------- |
+| Alchemist         | [Substances](../../gear/alchemics/substances)       |
+| Herbalist         | [Potions](../../gear/alchemics/potions_and_poisons) |
+| Poisoner          | [Poisons](../../gear/alchemics/potions_and_poisons) |
+| Tinker            | [Grenades](../../gear/alchemics/munitions)          |
+| Woodcarver, Smith | [Ammunition](../../gear/alchemics/munitions)        |
 
 #### Example
 

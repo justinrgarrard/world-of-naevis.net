@@ -10,7 +10,7 @@ has_toc: false
 
 #### Packing a Bag
 
-An adventurer's inventory is a crucial resource, every bit as important as health or spells. The right item can mean the difference between life and death, as can the [weight](../adventuring/encumbrance) of one's pack. 
+An adventurer's inventory is a crucial resource, every bit as important as health or spells. The right item can mean the difference between life and death, as can the [**weight**](../adventuring/encumbrance) of one's pack. Be sure to make use of [**alchemics**](alchemics/index), [**scrolls**](scrolls), and [**charms**](charms) to supplement more mundane means of self-preservation.
 
 #### Starting Equipment
 

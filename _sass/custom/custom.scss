@@ -3,27 +3,42 @@
 // Override fonts.
 body {
     font-family: "Lisu Bosa";
+    // font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+    // roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "Aref Ruqaa Ink";
-    // font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
-    // roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+}
+
+.site-title {
+    font-family: "Aref Ruqaa Ink";
+    font-weight: bold;
 }
 
 .nav-list {
     font-family: "Lisu Bosa";
 }
 
+a {
+    font-weight: bold;
+}
+
+.nav-list-link {
+    font-weight: normal;
+}
+
 // Override header 4 settings.
+h1 {
+    font-weight: bold;
+}
+
 h4,
 .text-delta {
   @include fs-6;
   font-weight: 600;
   text-transform: none;
   letter-spacing: normal;
-  // text-transform: uppercase;
-  // letter-spacing: 0.1em;
 }
 
 // Override text sizes.
@@ -46,5 +61,5 @@ td {
 }
 
 .site-title {
-    @include fs-7
+    @include fs-8
 }

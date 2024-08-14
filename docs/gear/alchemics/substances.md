@@ -14,7 +14,7 @@ grand_parent: Gear
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This acid is identical to a _vial of acid_, but possesses additional properties. When applied to non-magical metals that are not being worn or carried, the metals dissolve with a quiet hissing noise over the course of one minute.
+> This acid is identical to a _vial of acid_, but possesses additional properties. When applied to non-magical metals, up to one cubic foot of metal can be dissolved with a quiet hissing noise over the course of one minute. The acid is similarly corrosive to stone and wood, making it a favorite of burglars and engravers.
 
 
 {: .mundane-item}
@@ -34,12 +34,14 @@ grand_parent: Gear
 >
 > When the oil is burned, a 20 foot cloud of smoke forms. The smoke spreads around corners, and its area is heavily obscured. It lasts for ten minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
+
 {: .mundane-item}
 > **Pale Soap**
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This soap is identical to a _bar of soap_, but possesses additional properties. Grime, blood, rust, or other corrosion are instantly removed by the soap. Simple illusions, such as those produced by _Minor Illusion_, _Silent Image_, or _Disguise Self_ are also dispersed on contact with the soap. The outer surface of the soap becomes blackened in the presence of a fey, fiend, aberration, or undead creature.
+> This soap is identical to a _bar of soap_, but possesses additional properties. Grime, blood, rust, or other corrosion are instantly removed by the soap. Simple illusions, such as those produced by _Minor Illusion_, _Silent Image_, or _Disguise Self_ are also dispersed on contact with the soap. The outer surface of the soap becomes blackened and corroded if placed within five feet of a fey, fiend, aberration, or undead creature.
+
 
 {: .mundane-item}
 > **Winterbloom Extract**

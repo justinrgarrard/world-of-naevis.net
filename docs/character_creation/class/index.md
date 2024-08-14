@@ -30,7 +30,7 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 
 Specializations for each class are unlocked at different levels. Players have three options:
 
-* **Basic Rules**: Use the archetype from the _Basic Rules_ for the class.
+* **Basic Rules**: Use the archetype from the _Basic Rules_ for the class (*Life*, *Champion*, *Thief*, *Evocation*).
 * **Setting-Specific**: Use one of the [archetypes](../../more/archetypes/index#naevis-archetypes) written for Naevis.
 * **Propose**: [Request](../../more/archetypes/index#reflavoring-archetypes) a different archetype, such as one published in the _Player's Handbook_ or other source.
 

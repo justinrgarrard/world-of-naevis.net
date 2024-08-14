@@ -32,6 +32,8 @@ Between each gameplay session, adventurers can choose **one** downtime activity 
 > 
 > Learn a scroll's spell or create a first-level spell scroll from your list of known spells. You do not need to pay a gold cost for either activity.
 
+---
+
 {: .downtime}
 > **Entertain**
 >
