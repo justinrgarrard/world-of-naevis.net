@@ -64,7 +64,7 @@ grand_parent: Gear
 {: .mundane-item}
 > **Adamantine**
 >
-> This weapon deals double damage to objects.
+> This weapon deals double damage to objects. It can withstand upwards of 2,000 lbs of force before breaking.
 
 {: .mundane-item}
 > **Mythril**

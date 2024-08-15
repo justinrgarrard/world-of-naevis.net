@@ -45,3 +45,6 @@ callouts:
   exotic-language:
     title: Exotic Language
     color: red
+  monster:
+    title: Monster
+    color: purple

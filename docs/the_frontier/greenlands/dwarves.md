@@ -21,4 +21,4 @@ Military service is a stepping stone in many a Dwarf's political career. The Leg
 
 #### Humanity
 
-Human inhabitants can be segregated into two categories; freedmen and slaves. The former are workers and craftsmen of modest means. The latter are treated as little better than cattle, worked mercilessly in mines and other dangerous fields. Neither can apply for citizenship.
+Human inhabitants can be divided into two categories: freedmen and slaves. The former are workers and craftsmen of modest means. The latter are treated as little better than cattle, worked mercilessly in mines and other dangerous fields. Neither can hold citizenship.

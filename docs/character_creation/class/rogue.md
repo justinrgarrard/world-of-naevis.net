@@ -14,7 +14,7 @@ nav_order: 3
 Even a modest rogue can boast six different skills and two areas of expertise. They are universally proficient in the [Cant](../../more/language) sign language as well as a small collection of hand tools for picking locks.
 
 #### Diverse Occupations
-While rogues are commonly associated with thieves and criminals, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".
+While rogues are commonly associated with thieves, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".
 
 
 ### Starting Gear
@@ -26,7 +26,7 @@ _Rogue's Pack (47 lb.)_ or 100 gp.
 | Studded Leather                              | 13 lb. | 10 gp |
 | Backpack (x2)                                | 10 lb. | 4 gp  |
 | ...Rations (x3)                              | 6 lb.  | 3 gp  |
-| ...Lantern, Hooded                           | 2 lb.  | 5 gp  |
+| ...Lantern, Bullseye                         | 2 lb.  | 5 gp  |
 | ...Flasks of Oil (x3)                        | 3 lb.  | 3 gp  |
 | ...Tinderbox                                 | 1 lb.  | 1 gp  |
 | ...Thieves' Tools                            | 1 lb.  | 10 gp |

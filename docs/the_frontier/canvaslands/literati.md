@@ -9,7 +9,7 @@ grand_parent: The Frontier
 
 #### The Bleeding Edge
 
-A community of scholars has taken up residence in the Canvaslands. Despite the inhospitable conditions, many find the intellectual climate to be less stifling than that of their homeland, and enjoy the freedom to publish as their hearts' dictate.
+A community of scholars has taken up residence in the Canvaslands. Despite the inhospitable conditions, many find the intellectual climate to be less stifling than that of their homeland, and enjoy the freedom to publish as their hearts dictate.
 
 #### Heretics and Disgrace
 

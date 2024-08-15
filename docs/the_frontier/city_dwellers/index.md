@@ -22,7 +22,7 @@ Unlike the Kindred, City Dwellers share the same spoken [language](../../more/la
 
 #### Magic
 
-City Dwellers do not use magic as Kindred do. They are neither wizards nor clerics, instead seeming to practice entirely distinct traditions of spellcraft. They are generally superior spellcasters, and nearly all are capable of using spell scrolls.
+City Dwellers do not use magic as Kindred do. They are neither wizards nor clerics, instead seeming to practice entirely distinct traditions of spellcraft. They are generally superior spellcasters, and all are capable of using spell scrolls.
 
 #### Technology
 

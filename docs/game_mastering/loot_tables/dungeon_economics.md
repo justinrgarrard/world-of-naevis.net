@@ -12,21 +12,27 @@ nav_order: 3
 
 {: .note}
 > **The Basic Calculation**
-> 
-> * One Bag of Loot per Session = 50 gp
 >
-> * Avg. One Common Magic Item (Consumable) per Session = 25 gp
+> Avg. Loot* = 125 gp
 >
-> * Downtime Tax per Session = -20 gp
+> Downtime Tax = 20 gp
 >
-> * Profit per Session = 55 gp
+> Consumed Items = 50 gp
+>
+> Profit = 125 gp - (20 + 50) = 55 gp
+>
 
-At a minimum, a successful expedition should increase a low-level adventurer's net worth by 55 gp. This is approximately equal to a single spell scroll, potion of healing, or other item.
+Typically, a successful expedition should increase a low-level adventurer's net worth by about 55 gp. Realistically, this value will fluctuate quite a bit depending on luck and player ingenuity. A roll on the [minor loot table](loot_tables/minor) has an expected value of ~75 gp.
 
+* A **70%** chance of being worth **25 gp** (potion or scroll).
+* A **15%** chance of being worth **125 gp** (Elemental Crystal).
+* A **15%** of being worth **250 gp** (Sentient Weapon).
+
+\* _Average loot assumes one Backpack of Loot and a single roll on the minor loot table for a given player._
 
 #### Optimizing Profits
 
-Clever players may begin to optimize on the basic calculation. They may bring extra backpacks for treasure, become more ambitious in acquiring loot, incorporate crafting to reduce costs, or follow other routes to maximize profits. **This is expected and intentional.**
+Clever players may begin to optimize on the basic calculation. They may become more ambitious in acquiring loot, incorporate crafting to reduce costs, or follow other routes to maximize profits. **This is expected and intentional.**
 
 One of the goals of this setting is to get players thinking about their inventory. Present high-risk, high-rewards [rooms](../oneshot/rooms) and watch the gears turn in their heads. Let them debate whether or not to use a valuable healing potion in a hard fight. Present a 100 lb. object worth 100 gp at the bottom of a cliff and let them brainstorm how to get it out of the dungeon.
 

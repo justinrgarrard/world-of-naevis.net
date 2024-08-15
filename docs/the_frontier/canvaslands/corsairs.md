@@ -9,7 +9,7 @@ grand_parent: The Frontier
 
 #### Bounty Hunters and Bodyguards
 
-The Corsairs are mercenaries that function somewhat like a law enforcement presence throughout the Canvaslands. Merchants hire them to catch thieves, defend their stalls, or sabotage their competitors. 
+The Corsairs are mercenaries that function as a law enforcement presence throughout the Canvaslands. Merchants hire them to catch thieves, defend their stalls, or sabotage their competitors. 
 
 #### Thieves' Guild
 

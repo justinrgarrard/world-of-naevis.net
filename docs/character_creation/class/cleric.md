@@ -15,7 +15,7 @@ nav_order: 1
 
 #### Mystery Cults
 
-Religion in Naevis is organized across countless mystery cults, similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece. Members are sworn to secrecy regarding their religion's greater mysteries.
+Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece, mystery cult initiates are sworn to secrecy regarding their religion's deeper truths.
 
 #### Divine Magic
 

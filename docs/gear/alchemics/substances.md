@@ -10,11 +10,19 @@ grand_parent: Gear
 #### Substances
 
 {: .mundane-item}
+> **Alchemical Glue**
+> 
+> *Substance, common, 50 gp, 1 lb.*
+> 
+> This flask contains enough glue to cover a 1-foot square surface. The substance quickly hardens when exposed to air, forming a concrete-like material. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the glue as an improvised weapon. On a hit, the target gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break away. A door or container sealed with glue requires a DC 20 Strength check to open.
+
+
+{: .mundane-item}
 > **Agua Regia**
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This acid is identical to a _vial of acid_, but possesses additional properties. When applied to non-magical metals, up to one cubic foot of metal can be dissolved with a quiet hissing noise over the course of one minute. The acid is similarly corrosive to stone and wood, making it a favorite of burglars and engravers.
+> This acid is identical to a _vial of acid_, but possesses additional properties. When applied to non-magical metals, up to one cubic foot of metal can be dissolved with a quiet hissing noise over the course of one minute. The acid is corrosive to stone and wood to a lesser extent. It can be used to remove *Alchemical Glue* once hardened.
 
 
 {: .mundane-item}
@@ -35,7 +43,7 @@ grand_parent: Gear
 > When the oil is burned, a 20 foot cloud of smoke forms. The smoke spreads around corners, and its area is heavily obscured. It lasts for ten minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 
-{: .mundane-item}
+<!-- {: .mundane-item}
 > **Pale Soap**
 > 
 > *Substance, common, 50 gp, 1 lb.*
@@ -48,5 +56,5 @@ grand_parent: Gear
 > 
 > *Substance, common, 50 gp, 1 lb.*
 > 
-> This fluid is identical to a _flask of alchemist fire_, but causes rapid freezing rather than combustion. When thrown into water it freezes up to 20 gallons into solid ice. When thrown on to a wet creature or object, the target is frozen and gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break the ice.
+> This fluid is identical to a _flask of alchemist fire_, but deals cold damage instead of fire damage. When thrown into water it freezes up to 20 gallons into solid ice. When thrown on to a wet creature or object, the target is frozen and gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break the ice. -->
 
