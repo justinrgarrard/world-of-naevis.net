@@ -10,8 +10,9 @@ nav_order: 0
 
 **Mooks** are generic enemies with a single hit point and a gimmick. They typically appear in groups of 3 to 6, and are vulnerable to crowd control effects like _Sleep_. Game Masters can use Mooks as filler enemies meant to be taken out with one attack.
 
->
-> #### Mook
+{: .monster}
+> **Mook**
+> 
 > *Medium any, chaotic neutral*
 > 
 > **Armor Class** 10
@@ -41,11 +42,11 @@ nav_order: 0
 
 #### Running Mooks
 
-* **Shared Initiative**: Mooks form groups of three and share initiative. There should never be more groups of mooks than players.
+* **Shared Initiative**: Mooks form groups of three and share initiatives. You might consider assigning (rather rolling) initiatives such that no more than one group of mooks acts between player turns.
 
 * **Attacking**: All Mooks in a group target the same creature when attacking. Roll for each Mook (d20 + 0), then multiply the number of successes by 4 to get the damage. (Don't roll individual damage for Mooks).
 
-* **Defending**: A successful hit incapacitates a Mook. A critical hit incapacitates two Mooks. 
+* **Defending**: A successful hit incapacitates a Mook. A critical hit incapacitates two Mooks. Damaged groups will attempt to reform full groups by merging with other damaged groups.
 
 * **Morale**: If they appear to be losing the fight, most Mooks will retreat.
 
@@ -59,3 +60,5 @@ nav_order: 0
 * **Poisonous**: Successful attacks cause a DC 10 Constitution save, inflicting one hour of Poisoned on fail.
 
 * **Sleepproof**: Cannot be affected by the _Sleep_ spell.
+
+* **Fireproof**: Cannot be affected by fire damage, rendering them immune to the _Burning Hands_ spell.

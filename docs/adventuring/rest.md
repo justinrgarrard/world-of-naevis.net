@@ -26,7 +26,7 @@ Long rests are taken **between** sessions, rather than during sessions. [Wizards
 {: .note}
 > **Review: Hit Dice**
 >
-> Adventurers have a number of hit dice equal to their level. These hit dice can be rolled on a short rest to restore hit points. Hit dice recover on a long rest.
+> Adventurers have a number of Hit Dice equal to their level. These Hit Dice can be rolled on a short rest to restore hit points. Hit Dice recover on a long rest.
 
 <!-- #### Potions
 

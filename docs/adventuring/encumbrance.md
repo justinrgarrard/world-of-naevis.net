@@ -8,7 +8,7 @@ parent: Adventuring
 
 #### Managing Weight
 
-An adventurer's Strength score determines how many pounds they can shoulder without penalty. 
+An adventurer's Strength score determines how many pounds they can shoulder without penalty. Every point of strength changes the thresholds by 5 (per the _Basic Rules_ variant encumbrance system).
 
 | Strength | Slowed | Disadvantage | Immobile |
 | :------- | -----: | -----------: | -------: |

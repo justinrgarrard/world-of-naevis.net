@@ -10,7 +10,7 @@ has_toc: false
 
 #### What is Naevis?
 
-Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. It's designed for **survival adventure** games that favor cunning, preparation, and creative problem solving. 
+Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. It's designed for survival adventure games that favor cunning, preparation, and creative problem solving. 
 
 #### Highlights
 
@@ -18,7 +18,7 @@ Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https:/
 
 * **Dungeon Crawling**: Streamlined gameplay mechanics for [resting](docs/adventuring/rest) and [downtime](docs/adventuring/downtime/index). Variant rules for [encumbrance](docs/adventuring/encumbrance) and [attunement](docs/gear/charms/index).
 
-* **A Brave New World**: Enter an Age of Discovery. Shape the first contact between the Old World of the [Kindred](docs/character_creation/race/index) and the underground civilizations native to the [City Below](docs/the_frontier/index).
+* **A Brave New World**: Enter an Age of Discovery. Shape first contact between the Old World of the [Kindred](docs/character_creation/race/index) and the underground civilizations native to the [City Below](docs/the_frontier/index).
 
 #### Similar Media
 

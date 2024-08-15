@@ -17,7 +17,7 @@ The most common type of room is the hazard, an environmental obstacle of some so
 
 #### Threat
 
-The second category are threats. In contrast to hazards, threats can be resolved by beating someone (or something) up. A pack of wolves, an ambush of goblins, and an undead necromancer are all threats. However, most threats can also be negotiated through diplomacy, bribery, or trickery should the players demonstrate the necessary cunning.
+The second category are threats. In contrast to hazards, threats can be resolved by beating someone (or something) up. A pack of wolves, an ambush of goblins, and an undead necromancer are all threats. However, most threats can also be negotiated through diplomacy, bribery, or trickery should players demonstrate the necessary cunning.
 
 #### Oddity
 

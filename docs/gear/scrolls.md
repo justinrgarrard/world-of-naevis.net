@@ -8,7 +8,7 @@ has_toc: false
 
 # Scrolls (50 gp)
 
-#### Portable Magic
+#### Stored Spells
 
 Scroll scribing is a significant industry comparable to blacksmithing. Many fields, from warcraft to medicine, benefit from holding a reserve of scrolls to expend in times of crisis. [Mages](../character_creation/class/wizard) (and to a lesser extent [Cultists](../character_creation/class/cleric)) are valued as much for their ability to use scrolls as for their actual spellcasting talents. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
 

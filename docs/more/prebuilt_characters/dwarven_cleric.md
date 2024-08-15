@@ -18,9 +18,9 @@ nav_order: 2
 | **Equipment**       | battleaxe, shield, ring mail, holy symbol, backpacks (2), rations (3), 32 gp           |
 | **Encumbrance**     | 80 / 160 / 240                                                                         |
 | **Weight**          | 67 lb. (No Penalty)                                                                    |
-| **Abilities**       | transmute ration, read the room                                                        |
+| **Abilities**       | transmute ration, read the room, giant (runes)                                         |
 | **Statistics**      | ac: 16, hp: 10, movement: 25, passive perception: 19, darkvision, proficiency bonus: 2 |
-| **Knowledge**       | language: dwarven, tools: mason, armor: all, weapons: simple, dwarven                  |
+| **Knowledge**       | language: dwarven, giant, tools: mason, armor: all, weapons: simple, dwarven           |
 |                     |                                                                                        |
 | **Spellcasting**    | casting dc: 12, spell slots: 2                                                         |
 | **Cantrips**        | light, sacred flame, guidance                                                          |

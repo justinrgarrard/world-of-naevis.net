@@ -7,16 +7,11 @@ grand_parent: More
 
 # Multiclassing Feats
 
-{: .note}
-> **Multiclassing**
->
-> An alternative feat-based multiclassing ruleset is presented here for player use. 
-
 #### How It Works
 
-Characters must take the necessary multiclassing feat before they can take their first level in a new class. A feat's benefits will become redundant after the first level of the new class is taken. A character does not have to multiclass after taking a feat; they can treat the feat as they would any other feat.
+**Characters must take the necessary multiclassing feat before they can take their first level in a new class.**
 
-#### Spellcasting
+A feat's benefits will become redundant after the first level of the new class is taken. A character does not have to multiclass after taking a feat; they can treat the feat as they would any other feat. An example character can be seen [here](../prebuilt_characters/human_rogue_wizard).
 
 If a class provides spellcasting, it **does not** stack with any other class' spellcasting progression. The two progress separately and have different pools of spell slots.
 

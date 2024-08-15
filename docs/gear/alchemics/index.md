@@ -41,11 +41,10 @@ Adventurers proficient with the right type of artisan tools can [craft alchemics
 | ... Potion: Cleansing                          | 1 lb.  | 1    |
 | ... Potion: Healing                            | 1 lb.  | 1    |
 | **[Substances](substances)**                   |        |      |
+| ... Substance: Alchemical Glue                 | 1 lb.  | 1    |
 | ... Substance: Agua Regia                      | 1 lb.  | 1    |
 | ... Substance: Luminessence                    | 1 lb.  | -    |
 | ... Substance: Midnight Oil                    | 1 lb.  | 1    |
-| ... Substance: Pale Soap                       | 1 lb.  | -    |
-| ... Substance: Winterbloom Extract             | 1 lb.  | 1    |
 
 
 {: .note}

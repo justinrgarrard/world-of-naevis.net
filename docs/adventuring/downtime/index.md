@@ -10,12 +10,12 @@ has_toc: false
 
 #### Between Sessions
 
-Between each gameplay session, adventurers can choose **one** downtime activity to perform.
+Between each gameplay session, adventurers can choose one downtime activity to perform.
 
 {: .downtime}
 > **Cleric: Read Omens**
 > 
-> Once during the next session, you can reroll an attack roll, an ability check, or a saving throw. Alternatively, you can force an attack roll against you to be rerolled. For any reroll, the new value is used.
+> During the next session, you gain the ability to alter fate a number of times equal to your proficiency bonus. You can reroll an attack roll, an ability check, or a saving throw. Alternatively, you can force an attack roll against you to be rerolled. For any reroll, the new value is used.
 
 {: .downtime}
 > **Fighter: Conditioning Drills**
@@ -25,12 +25,12 @@ Between each gameplay session, adventurers can choose **one** downtime activity 
 {: .downtime}
 > **Rogue: Thievery**
 > 
-> Waive the downtime fee. You may change the skills you have Expertise in. You must be proficient in a skill to use Expertise with it.
+> Waive the downtime fee. You may change the skills you have Expertise in to any other skill you are proficient with.
 
 {: .downtime}
 > **Wizard: Research**
 > 
-> Learn a scroll's spell or create a first-level spell scroll from your list of known spells. You do not need to pay a gold cost for either activity.
+> Either add a scroll's spell to your spellbook, or create a first-level spell scroll from a spell in your spellbook. You do not need to pay a gold cost for either activity.
 
 ---
 
