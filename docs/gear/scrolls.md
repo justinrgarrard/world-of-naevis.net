@@ -10,7 +10,9 @@ has_toc: false
 
 #### Stored Spells
 
-Scroll scribing is a significant industry comparable to blacksmithing. Many fields, from warcraft to medicine, benefit from holding a reserve of scrolls to expend in times of crisis. [Mages](../character_creation/class/wizard) (and to a lesser extent [Cultists](../character_creation/class/cleric)) are valued as much for their ability to use scrolls as for their actual spellcasting talents. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
+<!-- Many fields, from warcraft to medicine, benefit from holding a reserve of scrolls for times of crisis. Ateliers that mass-produce scrolls are considered a national resource equal to that of a master blacksmith's workshop. -->
+
+[Mages](../character_creation/class/wizard) (and to a lesser extent [Cultists](../character_creation/class/cleric)) are prized as scroll-users. Even the meekest of mages can become portable artillery when girded with half a dozen *Thunderwave* scrolls. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
 
 {: .language}
 > Adventurers proficient in **Elven** can purchase scrolls at the discounted price of **40 gp**.

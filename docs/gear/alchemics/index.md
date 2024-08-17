@@ -16,7 +16,7 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 > Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **40 gp**.
 
 {: .note}
-> Items with the _Illicit_ tag (such as poisons and grenades) require proficiency in [Cant](../../more/languages/index) to purchase.
+> Items with the _Illicit_ tag (such as poisons and grenades) require proficiency in [Cant](../../more/languages/cant) to purchase.
 
 
 <!-- #### Crafting

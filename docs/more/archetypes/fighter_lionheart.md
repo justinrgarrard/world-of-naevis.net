@@ -23,7 +23,7 @@ At 3rd level, when you take the Dodge action, creatures provoke an opportunity a
 
 
 #### Impassable
-At 7th level, the number of reactions you can take between turns increases to two. Additionally, your proficiency bonus is doubled when making Charisma (Intimidation) checks.
+At 7th level, the number of reactions you can take between turns increases to two. Additionally, your proficiency bonus is doubled when making intimidation checks.
 
 
 #### Devastating Critical

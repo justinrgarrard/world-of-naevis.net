@@ -23,4 +23,4 @@ Successful usurpations of the throne have seen Wood Elves elevated to High Elves
 
 #### Humanity
 
-Humans form the backbone of the Empire's civil infrastructure. Wood Elves dictate what crops must be grown and where canals must be dug, but it is humans who perform the labor. Those with favorable appearances and skills may be kept as the household staff of influential Elven families.
+Humans form the backbone of the Empire's civil infrastructure. Elves dictate what crops must be grown and where canals must be dug, but it is humans who perform the labor. Those with favorable appearances and skills may be kept as the household staff of influential Elven families.

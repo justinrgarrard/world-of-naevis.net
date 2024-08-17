@@ -1,19 +1,14 @@
 ---
 layout: default
 title: Panacea
-parent: Magic Items
+parent: City Items
 grand_parent: More
-nav_order: 3
 ---
 
 
 # Panacea
 
-A prized wonder medicine whose recipe is known only by the [City Dwellers](../../the_frontier/city_dwellers/index). Panacea is superior to the alchemical potions Kindred are capable of making. 
-
-| Name    | Value  |
-| :------ | :----- |
-| Panacea | 125 gp |
+A prized wonder medicine whose recipe is known only by the [City Dwellers](../../the_frontier/city_dwellers/index). Panacea is superior to the alchemical potions Kindred are capable of making. It can be used multiple times and treats illness while restoring health.
 
 {: .mundane-item}
 > **Panacea**

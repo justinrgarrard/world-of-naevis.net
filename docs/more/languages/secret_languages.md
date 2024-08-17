@@ -11,6 +11,8 @@ grand_parent: More
 
 Secret languages have magical properties that many adventurers find useful. Though supernatural, they are distinct from spells, and do not require spellcasting to use. Many are closely kept secrets by [Mystery Cults](../../character_creation/class/cleric).
 
+Note that adventurers cannot typically learn these languages by normal means. [Certain humans](../../character_creation/race/human) are born with knowledge of one, and [Truthseekers](../../character_creation/background/truthseeker) acquire one through years of study, but they are not widely known.
+
 {: .exotic-language}
 > **Abyssal (Undead)**, the secret language of the dead. All who pass from this world to the next lose knowledge of mortal tongues. Those who return speak and understand only Abyssal. Proficiency allows one to speak with undead, even catching the attention of barely aware ilk like zombies and skeletons. 
 
@@ -18,7 +20,7 @@ Secret languages have magical properties that many adventurers find useful. Thou
 > **Celestial (Truth)**, the secret language of the long departed gods. An unseen force prevents any from knowingly speaking lies in this tongue. Proficiency allows one to swear binding oaths which curse the speaker when broken, as well as write contracts that do the same for signatories.
 
 {: .exotic-language}
-> **Deep Speech (Telepathy)**, the secret language of silent monks. A strange art that allows one to communicate wordlessly to the mind. Proficiency allows one to send flashes of emotions or images to a creature within arm's reach. If the receiver is also proficient, they can communicate entire conversations instantaneously.
+> **Deep Speech (Telepathy)**, the secret language of silent monks. A strange art that allows one to communicate wordlessly to the mind. Proficiency allows one to send flashes of emotions or images to a creature within five feet. If the receiver is also proficient, they can communicate entire conversations instantaneously.
 
 {: .exotic-language}
 > **Giant (Runes)**, the secret language of a long extinct race. The few runes known to Kindred are used to reinforce objects. Carving "steadfast" into a door or weapon makes it harder to break. Tying a knot in the shape of "holdfast" makes it less likely to fray, while etching it into a lock makes it harder to pick. And last, stitching "frostfast" on to a container keeps its contents cool to the touch. Its verbal counterpart is *Draconic*.
@@ -31,4 +33,4 @@ Secret languages have magical properties that many adventurers find useful. Thou
 
 #### Draconic
 
-The language of [wizardry](../../character_creation/class/wizard) is Draconic. Arcane spells with a verbal component use this language. Mages develop proficiency as they gain class levels and learn new spells. Its written counterpart is *Giant*.
+The language of [wizardry](../../character_creation/class/wizard) is Draconic. Arcane spells with a verbal component use this language. Mages develop proficiency as they gain class levels and learn new spells. Its written counterpart is *Giant*. Phonetic translations (used primarily in scrolls) are written in *Elven*.

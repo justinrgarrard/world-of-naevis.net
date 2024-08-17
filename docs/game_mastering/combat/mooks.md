@@ -44,7 +44,7 @@ nav_order: 0
 
 * **Shared Initiative**: Mooks form groups of three and share initiatives. You might consider assigning (rather rolling) initiatives such that no more than one group of mooks acts between player turns.
 
-* **Attacking**: All Mooks in a group target the same creature when attacking. Roll for each Mook (d20 + 0), then multiply the number of successes by 4 to get the damage. (Don't roll individual damage for Mooks).
+* **Attacking**: All Mooks in a group target the same creature when attacking. Roll for each Mook (d20 + 0), then multiply the number of successes by 4 to get the damage. Don't roll individual damage for Mooks.
 
 * **Defending**: A successful hit incapacitates a Mook. A critical hit incapacitates two Mooks. Damaged groups will attempt to reform full groups by merging with other damaged groups.
 

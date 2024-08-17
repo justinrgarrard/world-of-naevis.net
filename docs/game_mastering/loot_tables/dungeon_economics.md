@@ -15,14 +15,14 @@ nav_order: 3
 >
 > Avg. Loot* = 125 gp
 >
-> Downtime Tax = 20 gp
+> Downtime Tax = 25 gp
 >
 > Consumed Items = 50 gp
 >
-> Profit = 125 gp - (20 + 50) = 55 gp
+> Profit = 125 gp - (25 + 50) = 50 gp
 >
 
-Typically, a successful expedition should increase a low-level adventurer's net worth by about 55 gp. Realistically, this value will fluctuate quite a bit depending on luck and player ingenuity. A roll on the [minor loot table](loot_tables/minor) has an expected value of ~75 gp.
+Typically, a successful expedition should increase a low-level adventurer's net worth by about 50 gp. Realistically, this value will fluctuate quite a bit depending on luck and player ingenuity. A roll on the [minor loot table](loot_tables/minor) has an expected value of ~75 gp.
 
 * A **70%** chance of being worth **25 gp** (potion or scroll).
 * A **15%** chance of being worth **125 gp** (Elemental Crystal).

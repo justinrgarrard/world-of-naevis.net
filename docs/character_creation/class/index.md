@@ -23,7 +23,7 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 
 * **[Clerics](cleric)** are members of Navean cults, each with their own set of teachings and beliefs.
 * **[Fighters](fighter)** are peerless warriors and martial arts practitioners.
-* **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../more/languages/index).
+* **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../more/languages/cant).
 * **[Wizards](wizard)** are trained arcanists with mastery over scrolls and rituals.
 
 #### Archetypes
