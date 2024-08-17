@@ -9,7 +9,7 @@ grand_parent: The Frontier
 
 #### Overview
 
-Comparatively much smaller than the Elven Empire, Dwarven City-States like Argos and Moorlock are mountain fortress that resist any attempt at invasion. Each is ruled by a council of Dwarven patricians from well-established clans. Hilly regions adjacent to the mountain cities are mined and worked by human serfs.
+Comparatively much smaller than the Elven Empire, Dwarven City-States like Argos and Moorlock are mountain fortresses that resist any attempt at invasion. Each is ruled by a council of Dwarven patricians from well-established clans. Hilly regions adjacent to the mountain cities are mined and worked by human serfs.
 
 #### Mos Maiorum
 

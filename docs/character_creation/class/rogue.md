@@ -11,7 +11,7 @@ nav_order: 3
 **Rogues** are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. 
 
 #### Roguecraft
-Even a modest rogue can boast six different skills and two areas of expertise. They are universally proficient in the [Cant](../../more/language) sign language as well as a small collection of hand tools for picking locks.
+Even a modest rogue can boast six different skills and two areas of expertise. They are universally proficient in the [Cant](../../more/languages/cant) sign language as well as a small collection of hand tools for picking locks.
 
 #### Diverse Occupations
 While rogues are commonly associated with thieves, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".

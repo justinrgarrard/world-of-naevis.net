@@ -18,7 +18,7 @@ When you choose this archetype at 3rd level, you gain proficiency in acrobatics.
 Starting at 3rd level, your high jump distance increases to 10 feet and your long jump distance increases to 20 feet.
 
 
-#### Aura Stance
+#### Stance
 At 3rd level, you have masted a set of techniques that enhance your use of weapons. Using a bonus action, you can gain the benefits of a stance until the start of your next turn.
 
 * **Sky Piercing Stance**: Melee weapons you wield gain the _Reach_ tag. Ranged weapons you wield are not penalized for attacks made at long range.
@@ -29,7 +29,7 @@ At 3rd level, you have masted a set of techniques that enhance your use of weapo
 
 
 #### Counter
-Starting at 7th level, after an enemy makes a melee attack against you, you can expend your reaction to make a melee weapon attack against them. Additionally, your proficiency bonus for Dexterity (Acrobatics) checks is doubled.
+Starting at 7th level, after an enemy makes a melee attack against you, you can expend your reaction to make a melee weapon attack against them. Additionally, your proficiency bonus for acrobatics checks is doubled.
 
 
 #### Wind Cutter

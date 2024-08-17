@@ -1,19 +1,13 @@
 ---
 layout: default
 title: Elemental Crystals
-parent: Magic Items
+parent: City Items
 grand_parent: More
-nav_order: 0
 ---
 
 # Elemental Crystals
 
 Navean [elementals](../../more/elementals) are magical constructs crafted by [City Dwellers](../the_frontier/city_dwellers/index). Their [cores](magic_items/index) consist of a cut gemstone etched with countless geometric sigils by a master craftsman. An elemental forms around the core when it is submerged in the appropriate element. They are considered major weapons of war among City Dwellers and see use when defending settlements from raids.
-
-| Name                      | Value  |
-| :------------------------ | :----- |
-| Elemental Crystal         | 125 gp |
-| Greater Elemental Crystal | -      |
 
 {: .mundane-item}
 > **Elemental Crystal**

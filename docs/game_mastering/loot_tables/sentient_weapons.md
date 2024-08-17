@@ -10,7 +10,7 @@ nav_order: 4
 
 #### Characteristics
 
-Sentient weapons are a low-probability result on the loot tables. 
+Sentient weapons are a low-probability result on the loot tables. They're best suited for fighters, but other adventurers may qualify to use them via racial or archetype proficiencies.
 
 * **Martial**: All sentient weapons are [martial weapons](../../character_creation/class/fighter).
 

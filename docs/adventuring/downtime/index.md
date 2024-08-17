@@ -15,7 +15,7 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 {: .downtime}
 > **Cleric: Read Omens**
 > 
-> During the next session, you gain the ability to alter fate a number of times equal to your proficiency bonus. You can reroll an attack roll, an ability check, or a saving throw. Alternatively, you can force an attack roll against you to be rerolled. For any reroll, the new value is used.
+> During the next session, you gain the ability to alter fate one time. You can reroll an attack roll, an ability check, or a saving throw. Alternatively, you can force an attack roll against you to be rerolled. For any reroll, the new value is used.
 
 {: .downtime}
 > **Fighter: Conditioning Drills**

@@ -39,7 +39,7 @@ If a class provides spellcasting, it **does not** stack with any other class' sp
 >
 > *Requirements: Dexterity 13, Not a Rogue*
 > 
-> You gain proficiency with two skills and either thieves' tools or [cant](../../more/languages/index). 
+> You gain proficiency with two skills and either thieves' tools or [cant](../../more/languages/cant). 
 >
 > When you next level up, you can choose to gain a level in Rogue. Doing so provides all the benefits that a first level Rogue would receive, except skills.
 

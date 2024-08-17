@@ -8,7 +8,7 @@ parent: Adventuring
 
 #### Acquiring Valuable Things
 
-Loot can take many different forms. A pile of [City Dweller](../the_frontier/city_dwellers/index) books could be loot, as could quills from a basilisk. The key question to ask is **whether or not someone would find this valuable**. Often times the answer is determined by a skill check. In the previous scenario, an Intelligence (History) and Intelligence (Nature) check might be required to pick out worthy items from trash.
+Loot can take many different forms. A pile of [City Dweller](../the_frontier/city_dwellers/index) books could be loot, as could quills from a basilisk. The key question to ask is whether or not someone would find this item valuable. Often times the answer is determined by a skill check. In the previous scenario, an Intelligence (History) and Intelligence (Nature) check might be required to pick out worthy items from trash.
 
 #### Weight
 
@@ -34,3 +34,8 @@ The value of loot is determined by its weight. [Backpacks](../gear/adventuring_g
 > *Treasure, **35 lb.***
 >
 > ... The contents can be sold for 150 gp, after which this item reverts to an empty backpack.
+
+{: .note}
+> **Mixing Goods**
+>
+> While adventurers can stash their loot in the same backpack as their supplies, doing so may have unpredictable effects. It is generally unwise to place magical objects, poisonous glands, or other strange substances near one's rations and spell scrolls.

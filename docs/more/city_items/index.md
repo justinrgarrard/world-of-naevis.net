@@ -1,15 +1,24 @@
 ---
 layout: default
-title: Magic Items
+title: City Items
 parent: More
 has_children: true
 has_toc: true
 ---
 
-# Magic Items
+# City Items
 
-Magic items are valuable treasures found within the City Below. Unlike [Charms](../../gear/index), they cannot be purchased. Those with a rarity of _Rare_ or higher are also difficult to sell due to their high value. 
+#### Otherworldly Treasures
 
+City items are valuable treasures found within the City Below. Unlike [Charms](../../gear/index), they cannot be purchased. Those with a rarity of _Rare_ or higher are also difficult to sell due to their high value. 
+
+| Name                        | Value  |
+| :-------------------------- | :----- |
+| Elemental Crystal           | 125 gp |
+| Greater Elemental Crystal   | -      |
+| Panacea                     | 125 gp |
+| Sentient Weapon (Uncommon)  | 250 gp |
+| Sentient Weapon (Very Rare) | -      |
 
 <!-- {: .mundane-item}
 > **Ring of Evasion**
