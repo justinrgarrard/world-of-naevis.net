@@ -8,7 +8,7 @@ nav_order: 6
 
 # Treasure Hunter
 
-You came to the Forgotten City in search of fortune and glory. You have an eye for spotting valuables and threats.
+You came to the Forgotten City in search of fortune and glory. You may be a sellsword, a tomb raider, or belong to another profession oriented around wealth. You are a specialist in noticing danger before it blossoms into a problem.
 
 **[Skill](../../more/skills) Proficiency**: Perception, Insight
 

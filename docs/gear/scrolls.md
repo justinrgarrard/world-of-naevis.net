@@ -10,23 +10,14 @@ has_toc: false
 
 #### Stored Spells
 
-<!-- Many fields, from warcraft to medicine, benefit from holding a reserve of scrolls for times of crisis. Ateliers that mass-produce scrolls are considered a national resource equal to that of a master blacksmith's workshop. -->
-
 [Mages](../character_creation/class/wizard) (and to a lesser extent [Cultists](../character_creation/class/cleric)) are prized as scroll-users. Even the meekest of mages can become portable artillery when girded with half a dozen *Thunderwave* scrolls. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
 
 {: .language}
 > Adventurers proficient in **Elven** can purchase scrolls at the discounted price of **40 gp**.
 
-<!-- 
-{: .note}
-> **Review: Scroll Usage**
->
-> * Scrolls can only be used by spellcasters. The spell must be on the spellcaster's spell list.
->
-> * The modifiers for spells cast from a scroll are based on the scroll's level. A first-level spell scroll has a save DC of **13** and an attack bonus of **+5**.
-> 
-> * If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s level. On a failed check, the spell disappears from the scroll with no other effect. -->
+#### Languages of Magic
 
+Most spell scrolls are written in [Draconic](../more/languages/secret_languages#draconic), the language of wizardry. Cleric spells are often scribed in the secret language of a specific cult, but their divine magic makes them accessible to any cleric.
 
 {: .mundane-item}
 > **Spell Scroll (1st Level)**

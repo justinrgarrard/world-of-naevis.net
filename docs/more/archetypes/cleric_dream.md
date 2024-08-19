@@ -7,7 +7,7 @@ grand_parent: More
 
 # Cleric: Dreamweaver
 
-_The Dreamweavers are a religious sect that walk between the conscious and unconscious realms. They have the ability to see deep within the hearts of others, often finding insights hidden beneath an individual's own notice. They regularly find employment as healers and counselors._
+_The Dreamweavers are a religious sect that walk between the conscious and unconscious realms. They have the ability to see deep within the hearts of others, often finding truths hidden beneath an individual's own notice. They regularly find employment as healers and counselors._
 
 
 #### Dream Domain Spells
@@ -23,7 +23,11 @@ _The Dreamweavers are a religious sect that walk between the conscious and uncon
 
 #### Look Within 
 
-At 1st level, you gain proficiency in insight, perception, and the [Deep Speech](../languages/secret_languages) language. Your proficiency bonus is doubled when you use either skill.
+At 1st level, you gain proficiency in insight and the [Deep Speech](../languages/secret_languages) language. Your proficiency bonus is doubled when you use Insight.
+
+#### Psychic Casting
+
+Beginning at 1st level, any cleric spells you cast do not require a verbal component.
 
 
 #### Channel Divinity: Oneiros

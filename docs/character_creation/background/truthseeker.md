@@ -8,16 +8,16 @@ nav_order: 7
 
 # Truthseeker
 
-You came to the Forgotten City to understand its mysteries. You may be an archaeologist hunting the truth of the past, a wizard seeking new magic to make your own, or a priest following the urgings of your cult. No matter your origin, you are compelled by a quest for knowledge.
+You came to the Forgotten City to understand its mysteries. You may be an archaeologist hunting knowledge, a wizard seeking new magic to make your own, or a priest following the urgings of your cult. You are a specialist in [City Dweller](../../the_frontier/city_dwellers/index) languages.
 
 **[Skill](../../more/skills) Proficiency**: Arcana, History
 
-**[Language](../../more/language) Proficiency**: Infernal or Undercommon, Any One [Secret Language](../../more/languages/secret_languages)
+**[Language](../../more/language) Proficiency**: Undercommon and Infernal
 
 {: .background-feature}
 > **Illuminate**
 > 
-> You can replicate the effects of the _Light_ cantrip. If you are a spellcaster, you learn the cantrip.
+> You can replicate the effects of the _Light_ cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 ### (Optional) Trait Tables
 

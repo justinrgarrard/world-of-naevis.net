@@ -12,7 +12,8 @@ grand_parent: More
 >
 > *Requirements: None*
 >
-> Your maximum hit points increase by two. For each level beyond the first, you gain an additional one hit point.
+> Your maximum hit points increase by two. For each level beyond the first, you gain an additional one hit point. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times.
+
 
 {: .feat}
 > **Polymath**
@@ -20,6 +21,7 @@ grand_parent: More
 > *Requirements: None*
 >
 > You gain proficiency in one skill, language, and tool of your choice. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times.
+
 
 {: .feat}
 > **Secret Knowledge**
@@ -34,4 +36,6 @@ grand_parent: More
 >
 > *Requirements: None*
 >
-> Choose two skills that you are proficient in. You can add twice your proficiency bonus when you use them. You can take this feat multiple times, but each time must be for a different skill.
+> Choose one skill that you are proficient in. You can add twice your proficiency bonus when you use that skill. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times. 
+> 
+> You can take this feat multiple times, but each time must be for a different skill.

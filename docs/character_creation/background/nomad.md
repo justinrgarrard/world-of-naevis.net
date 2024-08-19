@@ -8,13 +8,11 @@ nav_order: 4
 
 # Nomad
 
-You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland. Somehow you found your way to the Canvaslands and became caught up in its gravity. 
+You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. You are a naturalist with some skill in potioncraft.
 
 **[Skill](../../more/skills) Proficiency**: Athletics, Survival
 
-**[Tool](../../more/tools) Proficiency**: Herbalist
-
-**[Language](../../more/languages/index) Proficiency**: [Sylvan](../../more/languages/secret_languages)
+**[Tool](../../more/tools) Proficiency**: Choose Two from Herbalist, Woodworking, and Instrument (Flute)
 
 {: .background-feature}
 > **Wary**

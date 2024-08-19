@@ -8,7 +8,7 @@ nav_order: 5
 
 # Piper
 
-You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. You came to the Canvaslands to ply your trade.
+You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. You are here to collect information and ply your trade as a performer.
 
 **[Skill](../../more/skills) Proficiency**: Sleight of Hand, Performance
 
@@ -17,7 +17,7 @@ You are a member of the Piper's Guild, a loose collective of traveling illusioni
 {: .background-feature}
 > **Stage Magic**
 > 
-> You can replicate the effects of the _Minor Illusion_ cantrip. Your spellcasting ability for this cantrip is Intelligence. If you are a spellcaster, you learn the cantrip.
+> You can replicate the effects of the _Minor Illusion_ cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 ### (Optional) Trait Tables
 

@@ -10,7 +10,7 @@ grand_parent: More
 _Court Mages are sociable arcanists who typically hold civic positions. They may be advisors to kings, tribal shamans, notable professors, or others whose knowledge is held in high esteem._
 
 
-#### Well-Rounded
+#### Fundamentals
 
 When you take this archetype at 2nd level, you learn two cantrips chosen from any spell list.
 

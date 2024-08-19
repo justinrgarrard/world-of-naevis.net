@@ -24,7 +24,7 @@ As individuals, humans struggle to compete with older, wealthier, and more world
 | Speed              | 30 ft. walking speed                                                  |
 | **Languages**      | Common, any one [secret language](../../more/languages/secret_languages) |
 
-Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Some have an innate affinity for a specific secret language and are capable of using it without training.
+Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Most have an innate affinity for a secret language.
 
 
 #### Variant

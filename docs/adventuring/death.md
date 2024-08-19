@@ -29,3 +29,8 @@ Adventurers may die or retire during play. When this happens, players can roll u
 > **Experimentation**
 >
 > Players do not need to kill off their characters if they'd like to try something different. "Retired" characters can be put on the bench while new ones are rotated in. However, **characters do not share gold.**
+
+
+#### Curses
+
+For many adventurers, a curse is little different than a forced retirement. Very few [cultists](../character_creation/class/cleric) are capable of casting the _Remove Curse_ spell and none are willing to do so for free. Expect to spend **250 gp** for such a service.

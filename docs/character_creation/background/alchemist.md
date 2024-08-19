@@ -9,7 +9,7 @@ nav_order: 1
 
 # Alchemist
 
-You came to the Forgotten City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as discipline of magic.
+You came to the Forgotten City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. You are specialist in [crafting alchemics](../../adventuring/downtime/alchemy).
 
 **[Skill](../../more/skills) Proficiency**: Nature, Investigation
 
@@ -19,7 +19,7 @@ You came to the Forgotten City to be at the forefront of your art. You may appro
 {: .background-feature}
 > **Caustic Defense**
 >
-> You can replicate the effects of the _Poison Spray_ cantrip. Your spellcasting ability for this cantrip is Intelligence. If you are a spellcaster, you learn the cantrip.
+> You can replicate the effects of the _Poison Spray_ cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 ### (Optional) Trait Tables
 

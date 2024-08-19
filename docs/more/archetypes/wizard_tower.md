@@ -12,12 +12,12 @@ _Tower Mages are recluses that practice their arts away from civilization, devel
 
 #### Read Magic
 
-When you take this archetype at 2nd level, you learn to use scrolls outside your spell list. You can cast their spells using your Wizard spellcasting modifier where applicable, but cannot add them to your spellbook.
+When you take this archetype at 2nd level, you learn to use scrolls from outside your spell list. You can cast their spells using your Wizard spellcasting modifier where applicable, but cannot add them to your spellbook.
 
 
 #### Transmute Scroll
 
-At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The duplicate must be placed within a blank piece of paper and functions identically to a spell scroll. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery, and is cast at the lowest possible level. If the scroll is not used within 24 hours, it crumbles to dust.
+At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery and is stored in a glowing spell scroll. If the scroll is not used within 24 hours, it crumbles to dust.
 
 
 #### Scroll Arts
@@ -31,9 +31,9 @@ At 6th level, when you cast a spell from a scroll, you can enhance it in one of 
 
 #### Salvage Scroll
 
-Beginning at 10th level, roll a d20 after casting a spell from a scroll. If the result is less than or equal to your Intelligence modifier, the scroll does not crumble to dust after use. 
+Beginning at 10th level, roll a d20 after casting a spell from a scroll. If the result is less than or equal to your Intelligence modifier, the scroll does not crumble to dust after use, but cannot be used again for 24 hours.
 
 
-#### Doublecast
+#### Deep Reserves
 
-At 14th level, if you use your action to cast a spell, you can use your bonus action to cast a second spell from a scroll, provided that the second spell has a casting time of one action and a spell level of three or lower. You must take a short or long rest before using this feature again.
+At 14th level, you gain a second use of Arcane Recovery.
