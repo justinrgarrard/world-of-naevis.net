@@ -19,7 +19,7 @@ Navean elves belong to the [Elven Empire](../../the_frontier/greenlands/elves), 
 | :----------------- | :---------------------------------------------------------------------------------------------------------------- |
 | **Ability Scores** | +2 to Dexterity and +1 to Intelligence                                                                            |
 | Speed              | 30 ft. walking speed                                                                                              |
-| **Languages**      | Common, Elven, any one [non-exotic](../../more/languages/index) language                                                                            |
+| **Languages**      | Common, Elven, one other [language](../../more/languages/index)                                                                                 |
 | Skills             | Perception                                                                                                        |
 | Darkvision         | 60 ft.                                                                                                            |
 | Weapons            | longswords, shortswords, longbows, and shortbows                                                                  |

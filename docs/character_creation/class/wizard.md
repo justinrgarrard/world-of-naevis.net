@@ -14,7 +14,7 @@ nav_order: 4
 A trained mage is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Stockpiles of scrolls are treated in much the same way as ingots of metal or caches of medicine. Those with the training to produce scrolls often find work as professional scribes.
 
 #### Arcane Magic
-Arcane magic, unlike divine magic, is akin to technology. Practitioners draw ambient magic from any available source using a wand or similar implement. Once gathered, they perform a carefully choreographed set of motions and chants to shape the energy into a spell. 
+Arcane magic, unlike divine magic, is akin to technology. Practitioners draw ambient magic from any available source using a wand or similar implement. The verbal components of their spells use the [Draconic language](../../more/languages/secret_languages#draconic) to channel gathered energy into a useful shape.
 
 
 ### Starting Gear

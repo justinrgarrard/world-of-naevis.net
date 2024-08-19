@@ -22,3 +22,7 @@ The standard array consists of six values: 15, 14, 13, 12, 10, 8. These are assi
 | Wisdom       | 08    | +0             | 08    |
 | Charisma     | 13    | +0             | 13    |
 
+{: .note}
+> **Other Methods**
+>
+> With Game Master permission, players can use the Point-Buy or Randomized Roll methods for determining ability scores.

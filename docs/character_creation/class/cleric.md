@@ -15,11 +15,11 @@ nav_order: 1
 
 #### Mystery Cults
 
-Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece, mystery cult initiates are sworn to secrecy regarding their religion's deeper truths.
+Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries) in ancient Greece, mystery cult initiates are sworn to secrecy regarding their religion's deeper truths. 
 
 #### Divine Magic
 
-Navean clerics draw their power from a source specific to their cult rather than a deity. A nature-oriented cleric might pull power from the land, while a mental-oriented cleric might use psychic energy. Once gathered, a cleric casts a spell through intuition rather than rote practice.
+Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull power from the land, while a mental-oriented cleric might use psychic energy. The verbal components of their spells utilize a [secret languages](../../more/languages/secret_languages) to shape energy into a useful form.
 
 
 

@@ -10,7 +10,7 @@ has_toc: false
 
 #### A Fertile Continent
 
-Maps of Naevis reach from the Eastern shore of the Elven empire to the Western crags of the Dwarven City-States. Between them lie the endless grasslands of the Human Kingdom. To their South, the [Nameless Desert](../nameless_desert) stretches across fully half the landmass until butting against ocean.
+Maps of Naevis reach from the Eastern shore of the Elven empire to the Western crags of the Dwarven City-States. Between them lie the endless grasslands of the Human Kingdoms. To their South, the [Nameless Desert](../nameless_desert) stretches across fully half the landmass until butting against ocean.
 
 #### Circumnavigation
 

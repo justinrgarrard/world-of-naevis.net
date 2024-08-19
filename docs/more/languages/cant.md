@@ -7,17 +7,19 @@ grand_parent: More
 
 # Cant
 
-#### Hand Signs and Signals
-
 {: .language}
-> **Cant** is a sign and signal language. Being proficient in this language allows you to purchase dangerous items like poison and grenades. [Rogues](../../character_creation/class/rogue) gain this language for free at first level.
+> **Cant** is a sign and signal language. Being proficient in this language allows you to communicate with your hands or certain visual tools (like torches and flags). You can purchase dangerous items like poison and grenades by showing the proper signals to black market merchants.
+> 
+> [Rogues](../../character_creation/class/rogue) gain this language for free at first level.
 
-Cant shares much in common with real-world [visual signal](https://www.moore.army.mil/infantry/DoctrineSupplement/ATP3-21.8/PDFs/fm21_60.pdf) languages. It encompasses hand signs, semaphore, and a variation of morse code. It can be used to communicate silently and to send messages over longer distances.
+#### Example Applications
+
+* **Morse Code**: Users can flash signals to one another using light sources or smoke signals.
+
+* **Silent Raids**: Users can coordinate signals like "move out", "attack", or "retreat" without giving away their location.
+
+* **Trail Signs and Flags**: Users can read and write encoded visual messages for others.
 
 #### Dialects
 
-Variations of Cant exist between different professions. The hand sign for "law enforcement" in *Thieves' Cant* might translate to "enemy force" in *Soldiers' Cant*, or "dangerous beast" in *Hunters' Cant*. Communication is generally not hampered despite these differences.
-
-#### Black Markets
-
-Cant allows users to silently signal a request for illicit goods to shopkeepers. If the merchant is in the know and receptive, they will return an innocuous gesture confirming the request.
+Variations of Cant exist between different professions. The hand sign for "law enforcement" in *Thieves' Cant* might translate to "enemy force" in *Soldiers' Cant*, or "dangerous beast" in *Hunters' Cant*. 

@@ -5,9 +5,9 @@ parent: Archetypes
 grand_parent: More
 ---
 
-# Cleric: Winter Priest
+# Cleric: Winter Witch
 
-_To some, winter is a time of hunger and desperation. To others, it is a period of rest and reflection. Clerics of this domain embody both aspects as intermediaries of the divine. Their cult is known to found monasteries in isolated places where initiates can focus on meditation._
+_To some, winter is a time of hunger and desperation, while to others it is a period of rest and reflection. Clerics of this domain embody both aspects as arbiters of the natural world. Their cult is known to found monasteries in isolated lands where initiates can focus on meditation._
 
 
 #### Winter Domain Spells
@@ -23,7 +23,7 @@ _To some, winter is a time of hunger and desperation. To others, it is a period 
 
 #### Winter's Touch 
 
-At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Primordial](../languages/secret_languages) language.
+At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../languages/secret_languages) language.
 
 
 #### Diamond Dust

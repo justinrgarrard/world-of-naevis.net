@@ -8,11 +8,11 @@ nav_order: 2
 
 # Emissary
 
-You came to the Forgotten City at the behest of a greater power. Maybe a nation, a temple, or a powerful mage. While there, you are expected to act in their interests.
+You came to the Forgotten City at the behest of a greater power. Maybe a nation, a temple, or a powerful mage. While there, you are expected to act in their interests. You are specialist in the arts of diplomacy and have training in multiple languages.
 
 **[Skill](../../more/skills) Proficiency**: Persuasion, Deception
 
-**[Language](../../more/language) Proficiency**: Two from Dwarven, Elven, Halfling
+**[Language](../../more/language) Proficiency**: Two [Languages](../../more/languages/index)
 
 {: .background-feature}
 > **Herald**

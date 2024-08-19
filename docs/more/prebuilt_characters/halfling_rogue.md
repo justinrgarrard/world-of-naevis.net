@@ -19,6 +19,6 @@ nav_order: 3
 | **Equipment**      | daggers (5), studded leather, backpacks (2), rations (3), hooded lantern, oil (3), tinderbox, potion of healing, thieves' tools, 19 gp |
 | **Encumbrance**    | 50 / 100 / 150                                                                                                                         |
 | **Weight**         | 47 lb. (No Penalty)                                                                                                                    |
-| **Abilities**      | sneak attack, wary, sylvan (beast speech)                                                                                              |
+| **Abilities**      | sneak attack, wary                                                                                                                     |
 | **Statistics**     | ac: 15, hp: 9, movement: 25, passive perception: 16,  proficiency bonus: 2                                                             |
-| **Knowledge**      | language: halfling, sylvan, cant, tools: thieves' tools, herbalism, armor: light, weapons: simple, rogue                               |
+| **Knowledge**      | language: halfling, cant, tools: thieves' tools, herbalism, woodworking armor: light, weapons: simple, rogue                           |

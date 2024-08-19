@@ -8,16 +8,23 @@ nav_order: 8
 
 # Warlord
 
-You came to the Forgotten City to conquer and pillage. Warcraft is your birthright. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. The Forgotten City is an opportunity to prove your prowess and enrich your homeland.
+You came to the City to conquer and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid, [hand signs](../../more/languages/cant), and [munitions crafting](../../adventuring/downtime/alchemy).
 
 **[Skill](../../more/skills) Proficiency**: Intimidation, Medicine
 
-**[Tool](../../more/tools) Proficiency**:  Smith, Woodworker
+**[Language](../../more/tools) Proficiency**: Cant
+
+**[Tool](../../more/tools) Proficiency**: Smith or Woodworker
 
 {: .background-feature}
 > **First Blood**
 > 
-> You have advantage on initiative rolls.
+> You have advantage on initiative rolls and add your proficiency bonus to the result.
+
+{: .background-feature}
+> **Redundant Proficiencies**
+> 
+> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead.
 
 ### (Optional) Trait Tables
 
