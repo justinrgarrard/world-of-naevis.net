@@ -9,10 +9,10 @@ grand_parent: Gear
 
 #### Flintlocks (50 gp)
 
-| Name   | Damage        | Weight | Properties                                                           |
-| :----- | :------------ | :----- | :------------------------------------------------------------------- |
-| Pistol | 1d12 piercing | 2 lb.  | Ammunition, range (10/30), light, firearm, **martial**               |
-| Musket | 1d12 piercing | 10 lb. | Ammunition, range (100/400), heavy, two-handed, firearm, **martial** |
+| Name   | Damage          | Weight | Properties                                                           |
+| :----- | :-------------- | :----- | :------------------------------------------------------------------- |
+| Pistol | 1d12+1 piercing | 2 lb.  | Ammunition, range (10/30), light, firearm, **martial**               |
+| Musket | 1d12+1 piercing | 10 lb. | Ammunition, range (100/400), heavy, two-handed, firearm, **martial** |
 
 {: .note}
 > **Firearm Tag**

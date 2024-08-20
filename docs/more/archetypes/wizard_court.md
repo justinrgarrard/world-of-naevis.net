@@ -3,6 +3,7 @@ layout: default
 title: Court Mage
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Wizard: Court Mage

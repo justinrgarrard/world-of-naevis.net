@@ -15,7 +15,9 @@ grand_parent: Gear
 | [Scroll](../scrolls), cure wounds | 50 gp | 1 lb.  |
 
 {: .language}
-> Adventurers proficient in **Halfling** can purchase potions at a 20% discount.
+> Adventurers proficient in **Halfling** can purchase potions at a 20% discount for **40 gp**.
+>
+> Adventurers proficient in **Elven** can purchase scrolls at a 20% discount for **40 gp**.
 
 
 #### Descriptions
@@ -42,4 +44,4 @@ grand_parent: Gear
 >
 > A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 >
-> Like all scrolls, the user must be a spellcaster with the _Cure Wounds_ spell on their spell list.
+> As with all scrolls, the user must be a spellcaster with the _Cure Wounds_ spell on their spell list.

@@ -3,6 +3,7 @@ layout: default
 title: Warprince
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Fighter: Warprince

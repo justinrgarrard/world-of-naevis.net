@@ -3,6 +3,7 @@ layout: default
 title: Hell Knight
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Cleric: Hell Knight

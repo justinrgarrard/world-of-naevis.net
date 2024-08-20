@@ -14,7 +14,7 @@ Sentient weapons are a low-probability result on the loot tables. They're best s
 
 * **Martial**: All sentient weapons are [martial weapons](../../character_creation/class/fighter).
 
-* **Attunement**: All sentient weapons require [attunement](../../gear/charms/index).
+* **Attunement**: All sentient weapons require [attunement](../../adventuring/loot/attunement).
 
 * **Magical**: All sentient weapons bypass damage resistance.
 

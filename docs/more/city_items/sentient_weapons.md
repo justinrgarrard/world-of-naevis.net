@@ -7,7 +7,7 @@ grand_parent: More
 
 # Sentient Weapons
 
-Sentient weapons, as the name suggests, are magical weapons possessed of some awareness. Like [charms](../../gear/charms/index), the wielder must form a mental bond to effectively use a sentient weapon.
+Sentient weapons, as the name suggests, are magical weapons possessed of some awareness. Like [charms](../../gear/charms/index), the wielder must form a [mental bond](../../adventuring/loot/attunement) to effectively use a sentient weapon.
 
 Unlike charms, sentient weapons have personalities. They are generally primitive and emotional entities with a narrow set of interests. Should their wielder act against their interests, they may rebel by deactivating magic properties or even attempting to possess the user.
 

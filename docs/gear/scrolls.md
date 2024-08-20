@@ -8,16 +8,10 @@ has_toc: false
 
 # Scrolls (50 gp)
 
-#### Stored Spells
-
-[Mages](../character_creation/class/wizard) (and to a lesser extent [Cultists](../character_creation/class/cleric)) are prized as scroll-users. Even the meekest of mages can become portable artillery when girded with half a dozen *Thunderwave* scrolls. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
+[Mages](../character_creation/class/wizard) (and to a lesser extent [Priests](../character_creation/class/cleric)) are prized as scroll-users. Even the meekest of mages can become portable artillery when girded with half a dozen *Thunderwave* scrolls. A first-level scroll can be **purchased for 50 gp** or sold for half that amount.
 
 {: .language}
 > Adventurers proficient in **Elven** can purchase scrolls at the discounted price of **40 gp**.
-
-#### Languages of Magic
-
-Most spell scrolls are written in [Draconic](../more/languages/secret_languages#draconic), the language of wizardry. Cleric spells are often scribed in the secret language of a specific cult, but their divine magic makes them accessible to any cleric.
 
 {: .mundane-item}
 > **Spell Scroll (1st Level)**

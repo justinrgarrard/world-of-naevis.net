@@ -25,7 +25,7 @@ has_toc: false
 >
 > A short blade that blurs strangely when swung.
 > 
-> When attuned, this dagger reappears in the wielder's hand immediately after it is used to make a throwing attack. If lost or discarded, it will reappear in the pack of whomever it is attuned to within 24 hours. It counts as a magical weapon for the purposes of bypassing damage resistance when attuned.
+> When attuned, this dagger reappears in the wielder's hand immediately after it is used to make a throwing attack. If lost or discarded, it will reappear in the pack of whomever it is attuned to within 24 hours. 
 
 {: .mundane-item}
 > **Phantom Dagger**
@@ -34,5 +34,5 @@ has_toc: false
 >
 > A short blade that feels as though it's filled with sloshing liquid.
 > 
-> When attuned, the wielder can use a bonus action while swinging it to extend an invisible blade past the dagger's edge, up to 10 feet away. The dagger has the _Reach_ property when used in this way. It counts as a magical weapon for the purposes of bypassing damage resistance when attuned.
+> When attuned, the wielder can use a bonus action while swinging it to extend an invisible blade past the dagger's edge, up to 10 feet away. The dagger has the _Reach_ property when used in this way. 
 

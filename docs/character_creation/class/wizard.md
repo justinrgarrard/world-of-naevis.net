@@ -10,11 +10,11 @@ nav_order: 4
 
 **Wizards** are those adventurers trained in the academic practice of arcane spellcasting. They are, by necessity, highly educated individuals. 
 
-#### Scrolls as Industry
-A trained mage is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Stockpiles of scrolls are treated in much the same way as ingots of metal or caches of medicine. Those with the training to produce scrolls often find work as professional scribes.
+#### Scrolls
+A practitioner is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Fortifications regularly stockpiles caches of scrolls to arm war mages, allowing them to wreak havoc on invaders. 
 
 #### Arcane Magic
-Arcane magic, unlike divine magic, is akin to technology. Practitioners draw ambient magic from any available source using a wand or similar implement. The verbal components of their spells use the [Draconic language](../../more/languages/secret_languages#draconic) to channel gathered energy into a useful shape.
+Arcane magic, unlike divine magic, is akin to technology. Users draw ambient magic from any available source using a wand or similar implement. The verbal components of their spells apply the [Draconic](../../more/languages/secret_languages#draconic) language to channel gathered energy into a useful shape.
 
 
 ### Starting Gear

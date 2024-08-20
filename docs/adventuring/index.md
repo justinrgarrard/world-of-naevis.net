@@ -14,7 +14,7 @@ Adventurers have come from far and wide to explore the newly discovered [**Forgo
 
 #### Expeditions
 
-The main goal of a session is to fill a bag with treasure. One [***Backpack of Loot***](loot) is enough to pay an individual's room and board (25 gp) while still generating a profit. 
+The main goal of a session is to fill a bag with treasure. One [***Backpack of Loot***](loot) is more than enough to pay for room and board, with most adventurers seeking out opportunities for more.
 
 {: .mundane-item}
 > **Backpack of Loot (50 gp)**
@@ -25,14 +25,13 @@ The main goal of a session is to fill a bag with treasure. One [***Backpack of L
 >
 > The contents can be sold for 50 gp, after which this item reverts to an empty backpack.
 
-#### Downtime
 
-Between each session, two things take place:
-
-1. **Downtime Fee**: Adventurers must pay 25 gp for room and board, as well as for "protection" from the local gangs.
-2. **Downtime Activity**: Adventurers can perform one [downtime activity](downtime/index).
-
-Failure to pay the Downtime Fee puts an adventurer into a temporary [retirement](death#backfill) for one session, as they work to pay off debts to dangerous individuals.
+{: .note}
+> **Downtime**
+>
+> Between each session, adventurers must pay the downtime fee (25 gp) and choose a [downtime activity](downtime/index). The fee represents gold spent on food and shelter, as well as protection money paid to [local gangs](../the_frontier/canvaslands/corsairs).
+>
+> Failure to pay the Downtime Fee puts an adventurer into a temporary [retirement](death#backfill) for one session, as they work to pay off debts to dangerous individuals.
 
 <!-- #### Diving Deeper
 

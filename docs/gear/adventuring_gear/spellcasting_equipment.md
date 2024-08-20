@@ -24,7 +24,7 @@ grand_parent: Gear
 {: .note}
 > **Review: Spellcasting Requirements**
 >
-> * All spellcasters need a focus (wand, amulet) to cast spells.
+> * Wizards and Clerics need a focus (wand, amulet) to cast spells.
 >
 > * Wizards need a spellbook to prepare spells.
 

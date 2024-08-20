@@ -8,26 +8,13 @@ has_toc: false
 
 # Charms (50 gp)
 
-#### Wonders of Artifice
-
-Charms are magical tools crafted from materials found within the City. The process of their creation results in a small measure of consciousness, usually manifest in an eagerness to perform their function. Charms can be **purchased for 50** and sold for half that amount.
-
-{: .note}
-> **Attunement**
->
-> Charms are unable to be used without attunement. The would-be wielder must form a mental bond with their item over the course of a short or long rest. 
-> 
-> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**. An adventurer with a negative modifier is unable to attune to magic items. This limitation reflects the difficulty of bonding and managing multiple semi-sentient items at one time.
+Charms are magical tools crafted from materials found within the City. The process of their creation results in a small measure of consciousness, usually manifest in an eagerness to perform their function, and requires users to [attune](../../adventuring/loot/attunement). Charms can be **purchased for 50** and sold for half that amount.
 
 
 #### Listings
 
 | Name                           | Weight |
 | :----------------------------- | :----- |
-| **[Orichalcum](Orichalcum)**   |        |
-| ... Mage Dagger                | 1 lb.  |
-| ... Mist Dagger                | 1 lb.  |
-| ... Phantom Dagger             | 1 lb.  |
 | **[Dreamweave](dreamweave)**   |        |
 | ... Boots of Leaping           | 1 lb.  |
 | ... Compliant Rope             | 1 lb.  |
@@ -36,4 +23,8 @@ Charms are magical tools crafted from materials found within the City. The proce
 | ... Glass Flute of Illusions   | 1 lb.  |
 | ... Glass Gems of Lightbending | -      |
 | ... Glass Ring of Force        | -      |
+| **[Orichalcum](Orichalcum)**   |        |
+| ... Mage Dagger                | 1 lb.  |
+| ... Mist Dagger                | 1 lb.  |
+| ... Phantom Dagger             | 1 lb.  |
 

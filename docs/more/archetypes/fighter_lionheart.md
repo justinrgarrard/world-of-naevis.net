@@ -3,6 +3,7 @@ layout: default
 title: Lionheart
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Fighter: Lionheart

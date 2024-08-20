@@ -3,6 +3,7 @@ layout: default
 title: Tower Mage
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Wizard: Tower Mage
