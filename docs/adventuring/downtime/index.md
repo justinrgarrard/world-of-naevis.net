@@ -30,7 +30,7 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 {: .downtime}
 > **Wizard: Research**
 > 
-> Either add a scroll's spell to your spellbook, or create a first-level spell scroll from a spell in your spellbook. You do not need to pay a gold cost for either activity.
+> Either add a scroll's spell to your spellbook, or create a first-level spell scroll from an existing spell in your spellbook. You do not need to pay a gold cost for either activity.
 
 ---
 

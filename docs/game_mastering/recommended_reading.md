@@ -8,12 +8,13 @@ parent: Game Mastering
 
 # Recommended Reading
 
-| Resource                                                                                           | Favorite Takeaways                          |
-| :------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| [FATE Core](https://fate-srd.com/fate-core/running-game)                                           | How to run a game that's interesting.       |
-| [AngryGM](https://theangrygm.com/the-angry-guide-to-akicking-combats-part-1-picking-your-enemies/) | How to run 5E combats that are interesting. |
-| [Dungeon World](https://www.dungeonworldsrd.com/gamemastering/)                                    | How soft and hard moves work.               |
-| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)           | What's good to keep in a dungeon.           |
+| Resource                                                                                              | Favorite Takeaways                          |
+| :---------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [FATE Core](https://fate-srd.com/fate-core/running-game)                                              | How to run a game that's interesting.       |
+| [AngryGM](https://theangrygm.com/the-angry-guide-to-akicking-combats-part-1-picking-your-enemies/)    | How to run 5E combats that are interesting. |
+| [Dungeon World](https://www.dungeonworldsrd.com/gamemastering/)                                       | How soft and hard moves work.               |
+| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)              | What's good to keep in a dungeon.           |
+| [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html) | -                                           |
 
 {: .note}
 > **Conflicting Advice**

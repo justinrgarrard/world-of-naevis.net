@@ -18,11 +18,11 @@ grand_parent: Gear
 {: .note}
 > **Review: Darkness**
 >
-> * Adventurers receive a -5 penalty to [Passive Perception](../../adventuring/awareness) in _Dim Light_.
+> * Adventurers receive a -5 penalty to [Passive Perception](../../adventuring/loot/awareness) in _Dim Light_.
 >
 > * Adventurers are blinded in _Darkness_.
 >
-> * Elf and Dwarf adventurers have the Darkvision trait, which allows them to treat _Darkness_ as _Dim Light_ for 30 feet.
+> * Elf and Dwarf adventurers have the Darkvision trait, which allows them to treat _Darkness_ as _Dim Light_ for 60 feet. They also treat _Dim Light_ as _Bright Light_ within the same range.
 
 
 #### Descriptions

@@ -3,6 +3,7 @@ layout: default
 title: Dreamweaver
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Cleric: Dreamweaver

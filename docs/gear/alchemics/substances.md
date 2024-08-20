@@ -12,15 +12,17 @@ grand_parent: Gear
 {: .mundane-item}
 > **Alchemical Glue**
 > 
-> *Substance, common, 50 gp, 1 lb.*
+> *Substance, common*
 > 
 > This flask contains enough glue to cover a 1-foot square surface. The substance quickly hardens when exposed to air, forming a concrete-like material. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the glue as an improvised weapon. On a hit, the target gains the Restrained condition. A creature can end this condition by using its action to make a DC 10 Strength check to break away. A door or container sealed with glue requires a DC 20 Strength check to open.
+>
+> If the user has proficiency in _Alchemist Supplies_, the DC increases by their proficiency bonus.
 
 
 {: .mundane-item}
 > **Agua Regia**
 > 
-> *Substance, common, 50 gp, 1 lb.*
+> *Substance, common*
 > 
 > This acid is identical to a _vial of acid_, but possesses additional properties. When applied to non-magical metals, up to one cubic foot of metal can be dissolved with a quiet hissing noise over the course of one minute. The acid is corrosive to stone and wood to a lesser extent. It can be used to remove *Alchemical Glue* once hardened.
 
@@ -28,7 +30,7 @@ grand_parent: Gear
 {: .mundane-item}
 > **Luminessence**
 > 
-> *Substance, common, 50 gp, 1 lb.*
+> *Substance, common*
 > 
 > This liquid is identical to a _flask of holy water_, but possesses additional properties. When shaken, it emits bright green light for 40 feet and dim light for 40 feet further for ten minutes. The water retains its potency and can be reactivated by shaking again. If applied to an object or creature, they remain lit for ten minutes and cannot become invisible. Any message written with the substance will be invisible to the naked eye, but glow when exposed to a _Light_ spell.
 
@@ -36,7 +38,7 @@ grand_parent: Gear
 {: .mundane-item}
 > **Midnight Oil**
 > 
-> *Substance, common, 50 gp, 1 lb.*
+> *Substance, common*
 > 
 > This oil is identical to a _flask of oil_, but possesses additional properties. When you coat an object or creature with this oil, any sounds the target makes become muffled for ten minutes, providing advantage on relevant Dexterity (Stealth) rolls and preventing spells with a verbal component. The oil can be wiped off with an action.
 >

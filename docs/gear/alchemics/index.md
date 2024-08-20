@@ -8,8 +8,6 @@ has_toc: false
 
 # Alchemics (50 gp)
 
-#### Wonders of Natural Philosophy
-
 The discipline of alchemy is founded upon the transmutation of ingredients into useful items by mundane means. Tools, rather than spellcasting, are its basis. Alchemic items can be **purchased for 50 gp** or sold for half that amount.
 
 {: .language}

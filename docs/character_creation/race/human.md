@@ -8,7 +8,7 @@ nav_order: 4
 
 # Human
 
-Humans live as the vassals of either dwarves or elves in small buffer kingdoms between the two global powers. Their lot in life is one of servitude. The kings of men are pawns of longer lived races, and their armies are little more than game pieces.
+Humans live as the vassals of Dwarves and Elves in small kingdoms between the two great powers. The kings of men are pawns of longer lived races, and their armies are little more than game pieces in a larger continental struggle for supremacy.
 
 As individuals, humans struggle to compete with older, wealthier, and more worldly races. Their singular advantage is a peerless capacity for learning. Where it might take an elf or a dwarf fifty years to become a proficient mage, a human can manage in a mere twenty.
 
@@ -18,23 +18,23 @@ As individuals, humans struggle to compete with older, wealthier, and more world
 
 #### Standard
 
-| Feature            | Description                                                           |
-| :----------------- | :-------------------------------------------------------------------- |
-| **Ability Scores** | +1 to all ability scores                                              |
-| Speed              | 30 ft. walking speed                                                  |
+| Feature            | Description                                                              |
+| :----------------- | :----------------------------------------------------------------------- |
+| **Ability Scores** | +1 to all ability scores                                                 |
+| Speed              | 30 ft. walking speed                                                     |
 | **Languages**      | Common, any one [secret language](../../more/languages/secret_languages) |
 
-Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Most have an innate affinity for a secret language.
+Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Most have an innate affinity for a language of magic.
 
 
 #### Variant
 
-| Feature            | Description                         |
-| :----------------- | :---------------------------------- |
-| **Ability Scores** | +1 to two ability scores            |
-| Speed              | 30 ft. walking speed                |
-| Languages          | Common                              |
-| **Skills**         | any one skill                       |
+| Feature            | Description                      |
+| :----------------- | :------------------------------- |
+| **Ability Scores** | +1 to two ability scores         |
+| Speed              | 30 ft. walking speed             |
+| Languages          | Common                           |
+| **Skills**         | any one skill                    |
 | **Feats**          | any one [feat](../../more/feats) |
 
 {: .note}

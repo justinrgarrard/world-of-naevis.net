@@ -3,6 +3,7 @@ layout: default
 title: Delver
 parent: Archetypes
 grand_parent: More
+nav_exclude: true
 ---
 
 # Rogue: Delver

@@ -28,11 +28,7 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 
 #### Archetypes
 
-Specializations for each class are unlocked at different levels. Players have three options:
-
-* **Basic Rules**: Use the archetype from the _Basic Rules_ for the class (*Life*, *Champion*, *Thief*, *Evocation*).
-* **Setting-Specific**: Use one of the [archetypes](../../more/archetypes/index#naevis-archetypes) written for Naevis.
-* **Propose**: [Request](../../more/archetypes/index#reflavoring-archetypes) a different archetype, such as one published in the _Player's Handbook_ or other source.
+[Archetypes](../../more/archetypes/index) are restricted to the four available from the _Basic Rules_ by default. A small number of [external archetypes](../../more/archetypes/adapting#drop-in) are approved for drop-in use, as are a handful of [setting-specific](../../more/archetypes/adapting) archetypes. Players can work with their Game Master to adapt and reflavor other archetypes as needed.
 
 #### Multiclassing
 

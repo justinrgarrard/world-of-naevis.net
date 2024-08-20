@@ -2,6 +2,8 @@
 layout: default
 title: Loot
 parent: Adventuring
+has_children: true
+has_toc: false
 ---
 
 # Loot
