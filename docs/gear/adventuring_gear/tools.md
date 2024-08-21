@@ -10,10 +10,11 @@ grand_parent: Gear
 | Item                 | Cost  | Weight |
 | :------------------- | :---- | :----- |
 | Backpack             | 2 gp  | 5 lb.  |
-| Flute                | 5 gp  | 1 lb.  |
+| Pouch                | 1 gp  | 1 lb.  |
 | Professional tools   | 10 gp | 5 lb.  |
 | Rope, silk (50 feet) | 10 gp | 5 lb.  |
 | Thieves' tools       | 10 gp | 1 lb.  |
+| Woodwind             | 5 gp  | 1 lb.  |
 
 {: .mundane-item}
 > **Backpack**
@@ -21,9 +22,9 @@ grand_parent: Gear
 > A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
 {: .mundane-item}
-> **Flute**
+> **Pouch**
 > 
-> If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. 
+> A pouch can hold up to ⅕ cubic foot or 6 pounds of gear.
 
 {: .mundane-item}
 > **Professional Tools**
@@ -39,3 +40,8 @@ grand_parent: Gear
 > **Thieves' Tools**
 > 
 > This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+
+{: .mundane-item}
+> **Woodwind**
+> 
+> A pan flute, ocarina, or other portable woodwind. Can be used to play music or signal others with shrill notes.

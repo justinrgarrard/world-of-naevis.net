@@ -17,12 +17,6 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 > Items with the _Illicit_ tag (such as poisons and grenades) require proficiency in [Cant](../../more/languages/cant) to purchase.
 
 
-<!-- #### Crafting
-
-Adventurers proficient with the right type of artisan tools can [craft alchemics](../../adventuring/downtime/alchemy) during [downtime](../../adventuring/downtime/index). The basis consists of combining mundane ingredients with energy from magical materials. For example, a _Potion of Healing_ might combine a selection of herbal leaves with distilled holy water. -->
-
-
-
 #### Listings
 
 | Name                                           | Weight | Uses |
@@ -48,8 +42,4 @@ Adventurers proficient with the right type of artisan tools can [craft alchemics
 {: .note}
 > **Proficiency Bonus**
 > 
-> Some items allow the user to add their proficiency bonus to the save DC of the item. The user must be proficient in the corresponding tool to do so. 
-> 
-> * If you have proficiency in _Alchemist Supplies_, the DC for substances increases by your proficiency bonus.
-> * If you have proficiency in the _Poisoner's Kit_, the DC for poisons increases by your proficiency bonus. 
-> * If you have proficiency in _Tinker's Tools_, the DC for grenades increases by your proficiency bonus.
+> Some items allow the user to add their proficiency bonus to the save DC of the item. The user must be proficient in the corresponding tool to do so (i.e. _Poisoner's Kit_ for poisons).

@@ -23,12 +23,12 @@ grand_parent: More
 > You gain proficiency in one skill, language, and tool of your choice. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times.
 
 
-{: .feat}
+<!-- {: .feat}
 > **Secret Knowledge**
 >
 > *Requirements: None*
 >
-> You gain proficiency in one [secret language](../languages/secret_languages) of your choice. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times.
+> You gain proficiency in one [secret language](../languages/secret_languages) of your choice. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times. -->
 
 
 {: .feat}
@@ -36,6 +36,4 @@ grand_parent: More
 >
 > *Requirements: None*
 >
-> Choose one skill that you are proficient in. You can add twice your proficiency bonus when you use that skill. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times. 
-> 
-> You can take this feat multiple times, but each time must be for a different skill.
+> Choose one skill that you are proficient in. You can add twice your proficiency bonus when you use that skill. Choose an ability score. You gain +1 to that ability score. You can take this feat multiple times, but each time must be for a different skill.

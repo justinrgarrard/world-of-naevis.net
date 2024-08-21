@@ -23,7 +23,7 @@ _Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggress
 
 #### Knight of Hell
 
-At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../languages/secret_languages) language.
+At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../languages/secret) language.
 
 #### Reap
 
@@ -37,7 +37,9 @@ Starting at 2nd level, you can use your Channel Divinity as a reaction when you 
 
 #### Channel Divinity: Lesser Wall of Flame
 
-Beginning at 6th level, you can use your Channel Divinity to create a small wall of flame. As an action, you present your holy symbol, and the wall forms within five feet of you. It can be up to 10 feet wide, 10 feet high, and one foot thick. Any creature standing in the wall when it forms or attempting to move through the wall after it forms takes 1d8 fire damage per level of proficiency bonus you have. The wall exists for one minute before fading to non-magical embers.
+Beginning at 6th level, you can use your Channel Divinity to create a small wall of flame.
+
+As an action, you present your holy symbol, and the wall forms within five feet of you. It can be up to 10 feet wide, 10 feet high, and one foot thick. Any creature standing in the wall when it forms or attempting to move through the wall after it forms takes 1d8 fire damage per level of proficiency bonus you have. The wall exists for one minute before fading to non-magical embers.
 
 
 #### Divine Strike

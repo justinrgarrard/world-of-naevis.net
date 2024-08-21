@@ -95,7 +95,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > *Halberd, very rare*
 >
-> Lantern is a sentient, lawful neutral halberd with an Intelligence of 20, a Wisdom of 20, and a Charisma of 20. It can see and hear out to a range of 60 feet. The halberd can communicate telepathically through images and emotions. It is proficient in Undercommon and Infernal. It enjoys reading books and does not tolerate fools. It will not attune to a user with less than 13 Intelligence.
+> Lantern is a sentient, lawful neutral halberd with an Intelligence of 20, a Wisdom of 20, and a Charisma of 20. It can see and hear out to a range of 60 feet. The halberd can communicate telepathically through images and emotions. It is proficient in Undercommon and Infernal. It enjoys reading books and does not tolerate fools. 
 > 
 > Lantern has a passive perception of 15 and will warn the wielder of danger, jolting them awake if necessary. It emits bright light out 40 feet and dim light for another 40 feet. Any invisible creatures within its light are revealed. It will translate Undercommon or Infernal for its wielder. 
 
@@ -104,7 +104,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > *Shortsword, very rare*
 >
-> Somn is a sentient, true neutral shortsword with an Intelligence of 14, a Wisdom of 18, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It has a quiet, meditative personality. It dislikes superficial and materialistic behavior. It will not attune to a user with less than 13 Wisdom.
+> Somn is a sentient, true neutral shortsword with an Intelligence of 14, a Wisdom of 20, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It has a quiet, meditative personality. It dislikes superficial and materialistic behavior. 
 > 
 > Successful attacks with this weapon cause any creature with fewer than 25 hit points to fall asleep, as though under the effects of the _Sleep_ spell. The wielder is immune to magical sleep, and gains the maximum possible value when rolling hit dice for a short rest. 
 
@@ -124,7 +124,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > *Scimitar, very rare*
 >
-> Snaketongue is a sentient, chaotic neutral scimitar with an Intelligence of 10, a Wisdom of 10, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It adores drama and is bored by frankness. It will not attune to a user with less than 13 Charisma.
+> Snaketongue is a sentient, chaotic neutral scimitar with an Intelligence of 10, a Wisdom of 10, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It adores drama and is bored by frankness. 
 > 
 > Snaketongue deals an additional 1d6 poison damage on a successful attack. Its wielder is immune to poisons. The sword (not the wielder) can cast the _Disguise Self_ spell at-will upon the wielder. 
 
@@ -133,7 +133,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > *Rapier, very rare*
 >
-> Swallowtail is a sentient, true neutral rapier with an Intelligence of 10, a Wisdom of 10, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It expresses satisfaction when the wielder demonstrates cunning and skill. It is frustrated by vulgarity and brutality. It will not attune to a user with less than 13 Dexterity.
+> Swallowtail is a sentient, true neutral rapier with an Intelligence of 10, a Wisdom of 10, and a Charisma of 20. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It expresses satisfaction when the wielder demonstrates cunning and skill. It is frustrated by vulgarity and brutality. 
 > 
 > Attacks made with Swallowtail have a +2 to hit. The sword (not the wielder) can cast *Invisibility* once per day and *Silence* once per day. 
 
@@ -142,6 +142,6 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > *Greataxe, very rare*
 >
-> The Warden is a sentient, lawful neutral greataxe with an Intelligence of 10, a Wisdom of 10, and a Charisma of 20. It can see and hear out to a range of 60 feet. The greataxe can communicate telepathically through images and emotions. It expresses satisfaction when the wielder behaves honorably. It is frustrated by oathbreaking. It will not attune to a user with less than 13 Constitution.
+> The Warden is a sentient, lawful neutral greataxe with an Intelligence of 6, a Wisdom of 20, and a Charisma of 20. It can see and hear out to a range of 60 feet. The greataxe can communicate telepathically through images and emotions. It expresses satisfaction when the wielder behaves honorably. It is frustrated by oathbreaking. 
 > 
 > The Warden deals an additional 2d6 damage to undead, fey, fiends, and aberrations. Attacks against creatures of those types have advantage, and the weapon glows when it is within 60 feet of such a creature. The sword (not the wielder) can cast *Speak with Dead* at-will. 

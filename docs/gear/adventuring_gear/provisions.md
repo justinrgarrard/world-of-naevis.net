@@ -9,11 +9,16 @@ grand_parent: Gear
 
 | Item             | Cost  | Weight |
 | :--------------- | :---- | :----- |
+| Acid vial        | 25 gp | 1 lb.  |
 | Ammunition       | 1 gp  | 1 lb.  |
 | Holy water       | 25 gp | 1 lb.  |
-| Alchemist's Fire | 50 gp | 1 lb.  |
+| Alchemist's fire | 50 gp | 1 lb.  |
 | Rations (1 day)  | 1 gp  | 2 lb.  |
 
+{: .mundane-item}
+> **Acid vial**
+>
+> As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 
 {: .mundane-item}
 > **Ammunition**

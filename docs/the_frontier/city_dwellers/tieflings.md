@@ -18,4 +18,4 @@ Tieflings live in underground cities carved directly into stone walls. They are 
 
 #### Disposition
 
-Tieflings are, on the whole, are cruel and arrogant. Their culture extolls the virtues of repaying favors and grudges several-fold. Most are lacking in any form of genuine empathy, believing it to be a mark of weak moral fiber.
+Tieflings are, on the whole, cruel and arrogant. Their culture extolls the virtues of repaying favors and grudges several-fold. Most are lacking in any form of genuine empathy, believing it to be a mark of weak moral fiber.

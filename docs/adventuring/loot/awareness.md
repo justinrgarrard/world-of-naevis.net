@@ -35,3 +35,8 @@ Active attempts to find treasure or sleuth out clues use an **Intelligence (Inve
 > * Adventurers are blinded in _Darkness_.
 >
 > * Elf and Dwarf adventurers have the Darkvision trait, which allows them to treat _Darkness_ as _Dim Light_ for 60 feet. They also treat _Dim Light_ as _Bright Light_ within the same range.
+
+
+#### Stealth
+
+When a player wishes to move quietly or hide, the Game Master (not the player) rolls in secret and adds the appropriate modifier. The player is unaware of the result, and thus believes themselves hidden.

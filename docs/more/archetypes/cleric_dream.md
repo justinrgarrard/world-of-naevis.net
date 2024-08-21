@@ -10,7 +10,6 @@ nav_exclude: true
 
 _The Dreamweavers are a religious sect that walk between the conscious and unconscious realms. They have the ability to see deep within the hearts of others, often finding truths hidden beneath an individual's own notice. They regularly find employment as healers and counselors._
 
-
 #### Dream Domain Spells
 
 | Cleric Level |                           Spells |
@@ -24,7 +23,7 @@ _The Dreamweavers are a religious sect that walk between the conscious and uncon
 
 #### Look Within 
 
-At 1st level, you gain proficiency in insight and the [Deep Speech](../languages/secret_languages) language. Your proficiency bonus is doubled when you use Insight.
+At 1st level, you gain proficiency in insight and the [Deep Speech](../languages/secret) language. Your proficiency bonus is doubled when you use Insight.
 
 #### Psychic Casting
 

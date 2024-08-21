@@ -9,10 +9,10 @@ grand_parent: Gear
 
 | Item                              | Cost  | Weight |
 | :-------------------------------- | :---- | :----- |
-| Medical kit                       | 10 gp | 5 lb.  |
 | Potion, healing                   | 50 gp | 1 lb.  |
 | Potion, cleansing                 | 50 gp | 1 lb.  |
 | [Scroll](../scrolls), cure wounds | 50 gp | 1 lb.  |
+| Triage pack                       | 10 gp | 5 lb.  |
 
 {: .language}
 > Adventurers proficient in **Halfling** can purchase potions at a 20% discount for **40 gp**.
@@ -21,13 +21,6 @@ grand_parent: Gear
 
 
 #### Descriptions
-
-{: .mundane-item}
-> **Medical Kit**
->
-> A collection of medical tools. A kit can be used during a short rest by someone proficient in the medicine skill. The kit restores a number of hit points equal to the user's medicine skill (proficiency bonus + wisdom modifier) and neutralizes non-magical poisons.
-> 
-> An individual can only benefit from a medical kit once every 24 hours. The item is consumed after use.
 
 {: .mundane-item}
 > **Potion of Healing**
@@ -45,3 +38,8 @@ grand_parent: Gear
 > A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 >
 > As with all scrolls, the user must be a spellcaster with the _Cure Wounds_ spell on their spell list.
+
+{: .mundane-item}
+> **Triage Pack**
+>
+> A collection of splints, salves, and antivenoms. A pack can be used during a short rest by someone proficient in the medicine skill. The pack restores a number of hit points equal to the user's wisdom modifier + proficiency bonus and neutralizes non-magical poisons.

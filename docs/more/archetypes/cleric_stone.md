@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Stone Legionnaire
 
-_Warrior priests who subject themselves to arduous trials to better grow as individuals. Stone Legionnaires practice a ascetic philosophy of restraint, seeking to master their emotions and fortify their inner selves. Many are employed as knights._
+_Warrior priests who subject themselves to arduous trials to better develop their potential. Stone Legionnaires practice a ascetic philosophy of restraint, seeking to master their emotions and fortify their inner selves. Many are employed as knights._
 
 #### Stone Domain Spells
 
@@ -23,12 +23,12 @@ _Warrior priests who subject themselves to arduous trials to better grow as indi
 
 #### Bonus Proficiencies
 
-At 1st level, you gain proficiency with heavy armor, mason's tools, and the [Giant](../languages/secret_languages) language.
+At 1st level, you gain proficiency with heavy armor and the [Giant](../languages/secret) language.
 
 
-#### Transmute Provision
+#### Amor Fati
 
-Starting at 1st level, you can use an action to transmute a handful of rock or dirt into an edible bread. The bread provides enough nourishment to sustain a creature for one day, and can feed a number of creatures equal to your proficiency bonus. If not consumed, it turns to dust after one hour. You must take a short or long rest before using this feature again.
+Starting at 1st level, you learn the _Resistance_ cantrip. You can cast it using a bonus action.
 
 
 #### Channel Divinity: Endurance

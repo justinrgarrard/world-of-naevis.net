@@ -11,8 +11,8 @@ nav_order: 0
 | d100  | Result                                                                         |
 | :---- | :----------------------------------------------------------------------------- |
 |       | Potion (Common)                                                                |
-| 1-40  | ... Potion of Healing                                                          |
-| 41-50 | ... Potion of Cleansing                                                        |
+| 1-40  | ... [Potion of Healing](../../gear/alchemics/potions_and_poisons)              |
+| 41-50 | ... [Potion of Cleansing](../../gear/alchemics/potions_and_poisons)            |
 |       | Spell Scroll (Common)                                                          |
 | 51    | ... Bless                                                                      |
 | 52    | ... Command                                                                    |

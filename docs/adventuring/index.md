@@ -14,16 +14,14 @@ Adventurers have come from far and wide to explore the newly discovered [**Forgo
 
 #### Expeditions
 
-The main goal of a session is to fill a bag with treasure. One [***Backpack of Loot***](loot) is more than enough to pay for room and board, with most adventurers seeking out opportunities for more.
+The main goal of a session is to fill a bag with treasure. Ten pounds of [***Loot***](loot) is more than enough to pay for room and board, with most adventurers seeking out opportunities to fill as much as their [packs can hold](../gear/index#pack-limitations).
 
 {: .mundane-item}
-> **Backpack of Loot (50 gp)**
+> **Loot (25 gp)**
 >
-> *Treasure, 15 lb.*
+> *Treasure, 5 lb.*
 >
 > Carefully preserved monster viscera, rocks that glow when exposed to moonlight, damaged armor made of quality materials; this is anything that might be of interest to a curious merchant.
->
-> The contents can be sold for 50 gp, after which this item reverts to an empty backpack.
 
 
 {: .note}

@@ -8,7 +8,7 @@ has_toc: false
 
 # Charms (50 gp)
 
-Charms are magical tools crafted from materials found within the City. The process of their creation results in a small measure of consciousness, usually manifest in an eagerness to perform their function, and requires users to [attune](../../adventuring/loot/attunement). Charms can be **purchased for 50** and sold for half that amount.
+Charms are magical tools crafted from materials found within the City. The process of their creation results in a small measure of consciousness, usually manifest in an eagerness to perform their function, and requires users to [attune](../../adventuring/loot/attunement). Charms can be **purchased for 50 gp** and sold for half that amount.
 
 
 #### Listings

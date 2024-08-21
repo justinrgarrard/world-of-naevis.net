@@ -15,6 +15,7 @@ parent: Game Mastering
 | [Dungeon World](https://www.dungeonworldsrd.com/gamemastering/)                                       | How soft and hard moves work.               |
 | [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)              | What's good to keep in a dungeon.           |
 | [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html) | -                                           |
+| [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view) | Tips for Dungeon Crawling Games |
 
 {: .note}
 > **Conflicting Advice**

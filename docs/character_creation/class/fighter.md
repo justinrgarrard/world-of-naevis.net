@@ -20,20 +20,21 @@ One's reputation and history of service take on a force of their own, though it 
 
 ### Starting Gear
 
-_Fighter's Pack (50 lb.)_ or 100 gp.
+_Fighter's Pack (46 lb.)_ or 100 gp.
 
-| Item                                                 | Weight | gp    |
-| :--------------------------------------------------- | :----- | :---- |
-| Longsword                                            | 3 lb.  | 10 gp |
-| Shield                                               | 6 lb.  | 5 gp  |
-| Studded Leather                                      | 13 lb. | 10 gp |
-| Darts (20)                                           | 5 lb.  | 1 gp  |
-| Backpack (x2)                                        | 10 lb. | 4 gp  |
-| ...Rations (x3)                                      | 6 lb.  | 3 gp  |
-| ...Torches (x5)                                      | 5 lb.  | 1 gp  |
-| ...Tinderbox                                         | 1 lb.  | 1 gp  |
-| ...[Potion of Healing](../../gear/alchemics/potions) | 1 lb.  | 50 gp |
-| ...Spare Gold                                        | -      | 15 gp |
+| Item                                                 | Weight              | gp    |
+| :--------------------------------------------------- | :------------------ | :---- |
+| Longsword                                            | 3 lb.               | 10 gp |
+| Shield                                               | 6 lb.               | 5 gp  |
+| Studded Leather                                      | 13 lb.              | 10 gp |
+| Pouch                                                | 1 lb. (5 / 6 lb.)   | 1 gp  |
+| ... Darts (20)                                       | 5 lb.               | 1 gp  |
+| Backpack                                             | 5 lb. (13 / 30 lb.) | 2 gp  |
+| ...Rations (x3)                                      | 6 lb.               | 3 gp  |
+| ...Tinderbox                                         | 1 lb.               | 1 gp  |
+| ...Torches (x5)                                      | 5 lb.               | 1 gp  |
+| ...[Potion of Healing](../../gear/alchemics/potions) | 1 lb.               | 50 gp |
+| ...Spare Gold                                        | -                   | 16 gp |
 
 <!-- {: .archetypes}
 > [Lionheart](../../more/archetypes/fighter_lionheart), [Warprince](../../more/archetypes/fighter_warprince)

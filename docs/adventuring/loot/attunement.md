@@ -15,7 +15,7 @@ Most magic items, including [charms](../../gear/charms/index) and [sentient weap
 {: .note}
 > **Charisma Limiter**
 > 
-> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**. An adventurer with a negative modifier is unable to attune to magic items. This limitation reflects the difficulty of bonding and managing multiple semi-sentient items at one time.
+> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**. An adventurer with a negative modifier is unable to attune to magic items. This limitation reflects the difficulty of mentally coordinating multiple semi-sentient items at one time.
 
 #### Identification and Bonding
 

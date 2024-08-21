@@ -13,7 +13,7 @@ Like their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_myst
 
 #### Local Cults
 
-There are thousands of cults in Naevis, each with their own beliefs and agendas. Three currently have a presence in the Canvaslands.
+There are thousands of cults in Naevis, each with their own beliefs and agendas. Four currently have a presence in the Canvaslands.
 
 * **[Stone Legionnaires](../../more/archetypes/cleric_stone)** are a fraternity of warrior priests who believe in testing themselves against ever-greater trials.
 * **[Dreamweavers](../../more/archetypes/cleric_dream)** are occultist mystics who pursue esoteric truths about the world.
@@ -26,3 +26,8 @@ According to ancient myth, the gods came to this realm countless millennia ago. 
 
 Scholars have long questioned the historical value of the myth. The existence of [City Dwellers](../city_dwellers/index) further cast doubt on the matter, much to the displeasure of many cults. A large subset of the Navean population considers City Dwellers' to be an imaginative [Piper's](../../character_creation/background/piper) tale.
 
+#### Politics and Pragmatics
+
+Initiation into a cult changes a cleric into something altogether different. They take on monstrous aspects, such as glowing eyes or elongated canines. Their minds are influenced by the aspect of their faith. And, universally, they are rendered sterile.
+
+Because of these changes, priests cannot hold political office or noble titles in any land. They are disqualified from lines of succession. If they have heirs, those heirs inherit, and the priest in question is forced to step down. Thus is a separation between the political world and the spiritual world enforced.
