@@ -15,7 +15,7 @@ nav_order: 1
 
 #### Mystery Cults
 
-Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. 
+Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. Many are also physically changed by the rites of initiation, acquiring unusual physical characteristics such as faintly glowing eyes or elongated canines.
 
 #### Divine Magic
 
@@ -25,19 +25,20 @@ Navean clerics draw their power from a source specific to their cult. A nature-o
 
 ### Starting Gear
 
-_Cleric's Pack (47 lb.)_ or 100 gp.
+_Cleric's Pack (43 lb.)_ or 100 gp.
 
-| Item                                                        | Weight | gp    |
-| :---------------------------------------------------------- | :----- | :---- |
-| Mace                                                        | 4 lb.  | 5 gp  |
-| Shield                                                      | 6 lb.  | 5 gp  |
-| Studded Leather                                             | 13 lb. | 10 gp |
-| Holy Amulet                                                 | 1 lb.  | 10 gp |
-| Backpack (x2)                                               | 10 lb. | 4 gp  |
-| ...Rations (x3)                                             | 6 lb.  | 3 gp  |
-| ...[Medical Kit](../../gear/adventuring_gear/general_items) | 5 lb.  | 10 gp |
-| ...Holy Water (x2)                                          | 2 lb.  | 50 gp |
-| ...Spare Gold                                               | -      | 3 gp  |
+| Item                                                        | Weight              | gp    |
+| :---------------------------------------------------------- | :------------------ | :---- |
+| Mace                                                        | 4 lb.               | 5 gp  |
+| Shield                                                      | 6 lb.               | 5 gp  |
+| Studded Leather                                             | 13 lb.              | 10 gp |
+| Holy Amulet                                                 | 1 lb.               | 10 gp |
+| Pouch                                                       | 1 lb. (2 / 6 lb.)   | 1 gp  |
+| ...Holy Water (x2)                                          | 2 lb.               | 50 gp |
+| Backpack                                                    | 5 lb. (11 / 30 lb.) | 2 gp  |
+| ...Rations (x3)                                             | 6 lb.               | 3 gp  |
+| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 5 lb.               | 10 gp |
+| ...Spare Gold                                               | -                   | 4 gp  |
 
 
 <!-- {: .archetypes}

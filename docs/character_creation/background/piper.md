@@ -12,7 +12,7 @@ You are a member of the Piper's Guild, a loose collective of traveling illusioni
 
 **[Skill](../../more/skills) Proficiency**: Sleight of Hand, Performance
 
-**[Tool](../../more/tools) Proficiency**: Instrument (Flute), Tinker
+**[Tool](../../more/tools) Proficiency**: Instrument (Woodwind), Tinker
 
 {: .background-feature}
 > **Stage Magic**

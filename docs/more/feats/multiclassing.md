@@ -9,44 +9,40 @@ grand_parent: More
 
 #### How It Works
 
-* **Prerequisite**: Characters must take the necessary multiclassing feat ***before*** they can take their first level in a new class.
+1. **Prerequisite**: Characters must take a multiclassing feat before they can take their first level in a new class.
 
-* **Standalone**: A character does not have to multiclass if they take a multiclass feat. 
+2. **Redundancy**: A feat's benefits are replaced when the character gains their first level in a new class.
 
-* **Redundancy**: A feat's benefits are replaced by the class' benefits once the first level of the new class is taken.
-
-* **Benefits**: Characters gain all the proficiencies that a new class would provide at level 1. These include proficiencies for skills, equipment, and ability saves.
-
-* **Spellcasting**: If a class provides spellcasting, it does not stack with any other class' spellcasting progression. The two are treated as having separate pools of spell slots.
-
-* [Example Character](../prebuilt_characters/human_rogue_wizard)
-
-#### Listing
+3. **Benefits**: Characters gain all the proficiencies that a new class would provide at level 1. These include proficiencies for skills, equipment, and ability saves. If a class provides spellcasting, it does not stack with other class spellcasting progressions. The two provide separate spell slots.
 
 {: .feat}
 > **Multiclass: Cleric**
 >
 > *Requirements: Wisdom 13, Not a Cleric*
 > 
-> You learn three Cleric cantrips.
->
-> When you next level up, you can choose to gain a level in Cleric. 
+> You learn three Cleric cantrips. When you next level up, you can choose to gain a level in Cleric. 
 
 {: .feat}
 > **Multiclass: Fighter**
 >
 > *Requirements: Strength 13, Not a Fighter*
 > 
-> You gain proficiency in two options from the following list: shields, armor, three martial weapons, one fighting style. The armor proficiency you gain, if chosen, is the lightest armor you are not currently proficient in.
->
-> When you next level up, you can choose to gain a level in Fighter.
+> Choose one of the following:
+> 
+> * Proficiency in shields, one weapon, and one type of armor
+> * Proficiency in a _Fighting Style_ 
+> 
+> The armor proficiency you gain is the lightest armor you are not currently proficient in. When you next level up, you can choose to gain a level in Fighter.
 
 {: .feat}
 > **Multiclass: Rogue**
 >
 > *Requirements: Dexterity 13, Not a Rogue*
 > 
-> You gain proficiency with two skills and either thieves' tools or [cant](../../more/languages/cant). 
+> You gain proficiency with two skills and one of the following:
+> 
+> * Thieves' Tools
+> * [Cant](../../more/languages/cant) 
 >
 > When you next level up, you can choose to gain a level in Rogue. 
 
@@ -55,6 +51,4 @@ grand_parent: More
 >
 > *Requirements: Intelligence 13, Not a Wizard*
 > 
-> You learn three Wizard cantrips. 
->
-> When you next level up, you can choose to gain a level in Wizard. 
+> You learn three Wizard cantrips. When you next level up, you can choose to gain a level in Wizard. 

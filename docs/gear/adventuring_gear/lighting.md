@@ -9,6 +9,7 @@ grand_parent: Gear
 
 | Item                                    | Cost  | Weight |
 | :-------------------------------------- | :---- | :----- |
+| Candles (20)                            | 1 gp  | 1 lb.  |
 | Lantern, bullseye                       | 5 gp  | 2 lb.  |
 | [Luminessence](../alchemics/substances) | 50 gp | 1 lb.  |
 | Oil (flask)                             | 1 gp  | 1 lb.  |
@@ -26,6 +27,11 @@ grand_parent: Gear
 
 
 #### Descriptions
+
+{: .mundane-item}
+> **Candles (20)**
+>
+> For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 
 {: .mundane-item}
 > **Lantern, Bullseye**

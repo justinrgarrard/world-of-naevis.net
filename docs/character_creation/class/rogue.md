@@ -18,20 +18,23 @@ While rogues are commonly associated with thieves, the class represents a wide v
 
 
 ### Starting Gear
-_Rogue's Pack (47 lb.)_ or 100 gp.
+_Rogue's Pack (45 lb.)_ or 100 gp.
 
-| Item                                         | Weight | gp    |
-| :------------------------------------------- | :----- | :---- |
-| Daggers (x5)                                 | 5 lb.  | 5 gp  |
-| Studded Leather                              | 13 lb. | 10 gp |
-| Backpack (x2)                                | 10 lb. | 4 gp  |
-| ...Rations (x3)                              | 6 lb.  | 3 gp  |
-| ...Lantern, Bullseye                         | 2 lb.  | 5 gp  |
-| ...Flasks of Oil (x3)                        | 3 lb.  | 3 gp  |
-| ...Tinderbox                                 | 1 lb.  | 1 gp  |
-| ...Thieves' Tools                            | 1 lb.  | 10 gp |
-| ...[Firebomb](../../gear/alchemics/grenades) | 5 lb.  | 50 gp |
-| ...Spare Gold                                | -      | 9 gp  |
+| Item                                              | Weight              | gp    |
+| :------------------------------------------------ | :------------------ | :---- |
+| Daggers (x5)                                      | 5 lb.               | 5 gp  |
+| Studded Leather                                   | 13 lb.              | 10 gp |
+| Pouch                                             | 1 lb. (6 / 6 lb.)   | 1 gp  |
+| ...[Hazard Kit](../../gear/adventuring_gear/kits) | 1 lb.               | 1 gp  |
+| ...[Firebomb](../../gear/alchemics/grenades)      | 5 lb.               | 50 gp |
+| Backpack                                          | 5 lb. (14 / 30 lb.) | 2 gp  |
+| ...Rations (x3)                                   | 6 lb.               | 3 gp  |
+| ...Lantern, Bullseye                              | 2 lb.               | 5 gp  |
+| ...Flasks of Oil (x3)                             | 3 lb.               | 3 gp  |
+| ...Tinderbox                                      | 1 lb.               | 1 gp  |
+| ...Thieves' Tools                                 | 1 lb.               | 10 gp |
+| ...[Signal Kit](../../gear/adventuring_gear/kits) | 1 lb.               | 5 gp  |
+| ...Spare Gold                                     | -                   | 4 gp  |
 
 
 
