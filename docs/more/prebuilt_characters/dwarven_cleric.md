@@ -19,10 +19,11 @@ nav_order: 2
 | **Statistics**      | ac: 16, hp: 10, movement: 25, passive perception: 19, darkvision, proficiency bonus: 2 |
 | **Knowledge**       | language: dwarven, giant, tools: mason, armor: all, weapons: simple, dwarven           |
 |                     |                                                                                        |
-| **Equipment**       | battleaxe, shield, ring mail, holy symbol,                                             |
-| **Backpack**        | rations (3), 34 gp                                                                     |
+| **Equipment**       | [51 lb.] battleaxe, shield, ring mail, holy symbol,                                    |
+| **Pouch** 1 lb.     | [01 / 06 lb.] holy water, 33 gp                                                        |
+| **Backpack** 2 lb.  | [09 / 30 lb.] rations (3)                                                              |
 | **Encumbrance**     | 80 / 160 / 240                                                                         |
-| **Weight**          | 62 lb. (No Penalty)                                                                    |
+| **Weight**          | 64 lb. (No Penalty)                                                                    |
 |                     |                                                                                        |
 | **Spellcasting**    | casting dc: 12, spell slots: 2                                                         |
 | **Cantrips**        | light, sacred flame, guidance                                                          |

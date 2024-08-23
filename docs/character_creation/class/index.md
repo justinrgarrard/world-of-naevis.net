@@ -32,4 +32,4 @@ An adventurer's class is, as the name suggests, a classification. It broadly rep
 
 #### Multiclassing
 
-Multiclassing is done through the use of [feats](../../more/feats/multiclassing). Humans are the only race that can multiclass before level 5.
+Multiclassing is done through the use of [feats](../../more/feats/multiclassing). Humans are the only race that can multiclass before level 5. Examples can be found [here](../../more/prebuilt_characters/index).

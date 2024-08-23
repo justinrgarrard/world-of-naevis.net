@@ -24,3 +24,21 @@ Halfling tribes are traditionally governed by a chieftain, a shaman, and an elde
 #### Humanity
 
 Halflings prefer dealing with Humans over the other Kindred. The two share a camaraderie as weaker powers under the shadow of Elves and Dwarves. In rare instances, Halflings may settle in Human cities and vice versa.
+
+---
+
+**Halfling Raider**
+
+> _An expert halfling hunter armed with daggers and a shortbow._
+>
+> * ***Stealthy***: Requires a DC 15 check to detect.
+> * ***Sneak Attack***: Deals an additional 1d6 damage when attacking with advantage.
+> * ***Pack Tactics***: Gains advantage on attacks against enemies if at least one ally is within 5 feet of them.
+
+**Halfling Alchemist**
+
+> _A halfling trained in combat alchemy._
+>
+> * ***Acid Splash***: Uses the acid splash cantrip.
+> * ***Potion of Healing***: Once per fight, heal 2d4+2 hit points.
+> * ***Firebomb***: Once per fight, throw a firebomb at an enemy, mimicking the burning hands spell.

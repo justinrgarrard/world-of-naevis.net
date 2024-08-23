@@ -19,3 +19,19 @@ Coldbloods live in or near sources of water. Underground rivers and lakes are ne
 #### Disposition
 
 Coldbloods are ruthlessly pragmatic. They will attempt negotiation if they see benefit in it, and will break agreements without remorse the moment they profit.  
+
+---
+
+**Kobold Assassin**
+
+> _A sneaky rogue with a poisoned stone dagger. Will flee after making an attack, silently pursuing its prey._
+>
+> * ***Stealthy***: Requires a DC 15 check to detect.
+> * ***Poison***: Attacks deal an additional 1d4 poison damage.
+
+**Lizardfolk Spearman**
+
+> _An imposing lizardfolk warrior. Carries an enormous spear._
+>
+> * ***Reach***: Attacks have a 10 foot range.
+> * ***Poison***: Attacks deal an additional 1d4 poison damage.

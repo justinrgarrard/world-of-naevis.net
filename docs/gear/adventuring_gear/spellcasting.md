@@ -10,7 +10,7 @@ grand_parent: Gear
 | Item                            | Cost   | Weight |
 | :------------------------------ | :----- | :----- |
 | Arcane focus, wand              | 10 gp. | 1 lb.  |
-| Glass Pearl                     | 25 gp  | -      |
+| Glass pearl                     | 25 gp  | -      |
 | Holy symbol, amulet             | 10 gp  | 1 lb.  |
 | Holy symbol, shield             | 15 gp  | 6 lb.  |
 | Robes                           | 1 gp   | 4 lb.  |

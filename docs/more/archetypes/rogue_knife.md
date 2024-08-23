@@ -12,15 +12,15 @@ _The practice of throwing knives is common to many martial and performance arts.
 
 
 #### Practiced Hands
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action or make a ranged throwing attack, drawing the weapon as part of the attack. Additionally, you gain proficiency with improvised thrown weapons, and can accurately throw them up to 60 feet.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action or make an improvised throwing weapon attack. The range of these attacks is 60 feet instead of 20 feet, and you are considered proficient in their use.
 
 
 #### Throwing Expertise
-At 3rd level, you become exceedingly accurate with throwing weapons. When you make a throwing weapon attack within 20 feet of the target, your proficiency bonus is doubled, provided that you are proficient in the weapon. Additionally, you no longer receive a penalty for making long range attacks with thrown weapons.
+At 3rd level, you become exceedingly accurate with throwing weapons. When you make a throwing weapon attack within 20 feet of the target, your proficiency bonus is doubled. Additionally, you no longer receive a penalty for making long range attacks with thrown weapons.
 
 
 #### Extra Attack
-Starting at 9th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Starting at 9th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. If you throw a weapon as part of these attacks, you can draw an additional weapon in the same motion.
 
 
 #### Fan of Knives

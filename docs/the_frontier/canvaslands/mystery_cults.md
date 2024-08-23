@@ -31,3 +31,13 @@ Scholars have long questioned the historical value of the myth. The existence of
 Initiation into a cult changes a cleric into something altogether different. They take on monstrous aspects, such as glowing eyes or elongated canines. Their minds are influenced by the aspect of their faith. And, universally, they are rendered sterile.
 
 Because of these changes, priests cannot hold political office or noble titles in any land. They are disqualified from lines of succession. If they have heirs, those heirs inherit, and the priest in question is forced to step down. Thus is a separation between the political world and the spiritual world enforced.
+
+---
+
+**Cultist**
+
+> _Armed, armored, and with monstrous physical features, most give these spellcasters a wide berth._
+>
+> * ***Sacred Flame***: Can use the sacred flame cantrip.
+> * ***Cure Wounds***: Can cast cure wounds twice per fight.
+> * ***Inflict Wounds***: Can cast inflict wounds twice per fight.

@@ -14,7 +14,7 @@ Character death is almost always permanent in _Naevis_. _Raise Dead_ and similar
 {: .note}
 > **Review: Death Saving Throws**
 >
-> Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. 
+> Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable. On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. 
 >
 > **Review: Instant Death**
 >

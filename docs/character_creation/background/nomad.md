@@ -12,7 +12,7 @@ You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a k
 
 **[Skill](../../more/skills) Proficiency**: Athletics, Survival
 
-**[Tool](../../more/tools) Proficiency**: Choose Two from Herbalist, Woodworking, and Instrument (Woodwind)
+**[Tool](../../more/tools) Proficiency**: Herbalist, Instrument (Woodwind)
 
 {: .background-feature}
 > **Wary**

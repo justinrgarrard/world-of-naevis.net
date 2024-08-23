@@ -25,13 +25,20 @@ An adventurer's Strength score determines how many pounds they can shoulder with
 
 **Immobile**: You are unable to move.
 
+{: .note}
+> **Containers**
+>
+> An adventurer's carrying capacity is also limited by the containers they use. A [Backpack](../gear/index) can hold 30 lb. and a [Pouch](../gear/index) can hold 6 lb. A given individual can only wear one backpack at a time, but may have an arbitrary number of pouches.
+>
+> Items that are worn or carried (armor, weapons, etc.) do not need to be stored in a container.
 
+<!-- 
 {: .note}
 > **Review: Jumping**
 >
 > * ***Long Jump***. When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
 >
-> * ***High Jump***. When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. 
+> * ***High Jump***. When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement.  -->
 
 <!-- > * ***Push, Drag, or Lift***. You can push, drag, or lift a weight in pounds up to 30 times your Strength score. While pushing or dragging weight in excess of 15 times your Strength score, your speed drops to 5 feet. 
 > -->

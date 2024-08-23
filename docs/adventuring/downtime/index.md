@@ -20,17 +20,22 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 {: .downtime}
 > **Fighter: Conditioning Drills**
 > 
-> Start the next session with temporary hit points equal to twice your character level. You may change your Fighting Style to any other Fighting Style.
+> Start the next session with temporary hit points equal to twice your character level. You can change your *Fighting Style* to any other *Fighting Style*.
 
 {: .downtime}
 > **Rogue: Thievery**
 > 
-> Waive the downtime fee. You may change the skills you have Expertise in to any other skill you are proficient with.
+> Waive the downtime fee. You can replace the skills you have *Expertise* in with any other skills you are proficient with.
 
 {: .downtime}
 > **Wizard: Research**
 > 
-> Either add a scroll's spell to your spellbook, or create a first-level spell scroll from an existing spell in your spellbook. You do not need to pay a gold cost for either activity.
+> You can choose to perform one or more of the following:
+> 
+> * (25 gp) Add a spell from a scroll to your spellbook
+> * (25 gp) Create a first-level [scroll](../../gear/scrolls) from a spell in your spellbook
+>
+> The cost of both options is halved when using a relevant feature (i.e. _Evocation Savant_).
 
 ---
 

@@ -14,7 +14,7 @@ Adventurers have come from far and wide to explore the newly discovered [**Forgo
 
 #### Expeditions
 
-The main goal of a session is to fill a bag with treasure. Ten pounds of [***Loot***](loot) is more than enough to pay for room and board, with most adventurers seeking out opportunities to fill as much as their [packs can hold](../gear/index#pack-limitations).
+The main goal of a session is to fill a bag with treasure. Five pounds of [***Loot***](loot) is enough to pay for room and board, with most adventurers seeking out opportunities to fill as much as their [packs can hold](../gear/index#pack-limitations).
 
 {: .mundane-item}
 > **Loot (25 gp)**
@@ -25,11 +25,11 @@ The main goal of a session is to fill a bag with treasure. Ten pounds of [***Loo
 
 
 {: .note}
-> **Downtime**
+> **Room and Board**
 >
-> Between each session, adventurers must pay the downtime fee (25 gp) and choose a [downtime activity](downtime/index). The fee represents gold spent on food and shelter, as well as protection money paid to [local gangs](../the_frontier/canvaslands/corsairs).
+> Between each session, adventurers must pay a fee (25 gp) and choose a [downtime activity](downtime/index). The fee represents gold spent on food and shelter, as well as protection money paid to [local gangs](../the_frontier/canvaslands/corsairs).
 >
-> Failure to pay the Downtime Fee puts an adventurer into a temporary [retirement](death#backfill) for one session, as they work to pay off debts to dangerous individuals.
+> Failure to pay room and board puts an adventurer into a temporary [retirement](death#backfill) for one session, as they work to pay off debts to dangerous individuals.
 
 <!-- #### Diving Deeper
 

@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Winter Witch
 
-_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be pragmatic to a fault, placing cold logic above fickle emotions. Their church is among the most well-established with monasteries scattered all across the known world._
+_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be pragmatic to a fault, placing cold logic above fickle emotions._
 
 
 #### Winter Domain Spells
@@ -16,7 +16,7 @@ _Winter is an ancient and august order, one that predates Navean wizardry. Their
 | Cleric Level |                        Spells |
 | :----------- | ----------------------------: |
 | 1st          |   Comprehend Languages, Sleep |
-| 3rd          |               Darkness, Knock |
+| 3rd          |        Darkness, Invisibility |
 | 5th          |             Counterspell, Fly |
 | 7th          |          Ice Storm, Deathward |
 | 9th          | Cone of Cold, Dominate Person |

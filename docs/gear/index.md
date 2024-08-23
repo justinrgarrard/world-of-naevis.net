@@ -19,7 +19,7 @@ Adventurers can use their class' starting pack to begin play, or purchase their 
 
 #### Pack Limitations
 
-Adventurers store their [loot](../adventuring/loot/index) and other items in containers on their person. An adventurer can have at most **one backpack and two pouches**. The contents of containers are limited by weight and volume.
+Adventurers store their [loot](../adventuring/loot/index) and other items in containers on their person. The contents of containers are limited by weight and volume.
 
 {: .mundane-item}
 > **Backpack**

@@ -19,7 +19,7 @@ Religion in Naevis is organized across [countless organizations](../../the_front
 
 #### Divine Magic
 
-Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull power from the land, while a mental-oriented cleric might use psychic energy. The verbal components of their spells utilize a [secret language](../../more/languages/secret_languages) to shape energy into a useful form.
+Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull power from the land, while a mental-oriented cleric might use psychic energy. 
 
 
 

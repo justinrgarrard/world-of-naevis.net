@@ -20,7 +20,8 @@ nav_order: 3
 | **Statistics**     | ac: 15, hp: 9, movement: 25, passive perception: 16,  proficiency bonus: 2                                   |
 | **Knowledge**      | language: halfling, cant, tools: thieves' tools, herbalism, woodworking armor: light, weapons: simple, rogue |
 |                    |                                                                                                              |
-| **Equipment**      | daggers (5), studded leather                                                                                 |
-| **Backpack**       | rations (3), bullseye lantern, oil (3), tinderbox, potion of healing, thieves' tools, 21 gp                  |
+| **Equipment**      | [18 lb.] daggers (5), studded leather                                                                        |
+| **Pouch** 1 lb.    | [05 / 06 lb.] firebomb, 20 gp                                                                                |
+| **Backpack** 2 lb. | [16 / 30 lb.] rations (3), bullseye lantern, oil (3), tinderbox, thieves' tools                              |
 | **Encumbrance**    | 50 / 100 / 150                                                                                               |
 | **Weight**         | 42 lb. (No Penalty)                                                                                          |
