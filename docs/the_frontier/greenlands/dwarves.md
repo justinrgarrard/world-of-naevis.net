@@ -22,3 +22,21 @@ Military service is a stepping stone in many a Dwarf's political career. The Leg
 #### Humanity
 
 Human inhabitants can be divided into two categories: freedmen and slaves. The former are workers and craftsmen of modest means. The latter are treated as little better than cattle, worked mercilessly in mines and other dangerous fields. Neither can hold citizenship.
+
+---
+
+**Dwarven Legionnaire**
+
+> _A trained Dwarven warrior equipped with heavy armor and several javelins._
+>
+> * ***Unyielding***: When this creature would otherwise be killed, it drops to one hit point instead, once per fight.
+> * ***Preemptive Strike***: Can expend a reaction to make a melee attack against any creature that enters its range.
+> * ***Power Throw***: Can make throwing weapon attacks up to 60 feet away without penalty.
+
+**Dwarven Warpriest**
+
+> _A healer and soldier, all in one. Uses a battleaxe in two hands._
+>
+> * ***Sacred Flame***: Can cast sacred flame.
+> * ***Healing Word***: Can cast healing word twice per fight.
+

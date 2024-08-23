@@ -30,3 +30,21 @@ Since that era, Elves have taken great care to ensure that humans are kept under
 Humans have a better quality of life in the Dwarven City-States than near anywhere else. Though citizenship is denied to them, human craftsman and soldiers are guaranteed rights proportionate to their station. Dwarven politicians with populist leanings have formed strong power bases with humans at their core. Humans even have (Dwarven) representatives called Tribunes who defend their legal statuses.
 
 Even still, many humans are eager for more political power. Those that are not content with merely supporting agreeable Dwarven representatives pursue influence by other means. Human merchants and guilds are steadily becoming a force all of their own, a fact that makes many Dwarves nervous.
+
+---
+
+**Human Holy Knight**
+
+> _A heavily armored knight with basic divine magic. Uses a greatsword._
+>
+> * ***Cleave***: Melee weapon attacks target two creatures instead of one, if they are within 5 feet.
+> * ***Sacred Flame***: Uses the sacred flame cantrip.
+> * ***Grace***: Uses the resistance cantrip with a bonus action. 
+
+**Human Illusionist**
+
+> _A combination thief and mage, talented in bewildering enemies. Wears leather armor and daggers._
+>
+> * ***Stealthy***: Requires a DC 15 check to detect.
+> * ***Two Weapon Fighting***: Throws daggers with a bonus action.
+> * ***Silent Image***: Can cast the silent image spell twice per fight, creating swirling clouds of fog.

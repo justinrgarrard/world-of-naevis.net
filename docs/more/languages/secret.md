@@ -51,7 +51,7 @@ Unless specifically provided by a feature (such as a background, race, feat, or 
 {: .exotic-language}
 > **Sylvan (Beast Speech)**
 > 
-> The secret language of nature spirits. Legend holds that they once served the gods as divine messengers, but fell silent when the gods departed. Proficiency allows the user to speak to and understand beasts. Whether or not the beasts choose to listen is a different matter. [Shepherds](../archetypes/cleric_shepherd) use this language when casting spells.
+> The secret language of nature spirits. Legend holds that they once served the gods as divine messengers, but fell silent when the gods departed. Proficiency allows the user to speak to and understand beasts. Whether or not the beasts choose to listen is a different matter. [Winter Witches](../archetypes/cleric_winter) use this language when casting spells.
 
 #### Draconic
 

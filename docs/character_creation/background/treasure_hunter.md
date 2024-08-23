@@ -12,7 +12,7 @@ You came to the Forgotten City in search of fortune and glory. You may be a sell
 
 **[Skill](../../more/skills) Proficiency**: Perception, Insight
 
-**[Tool](../../more/tools) Proficiency**: Thieves' Tools, Jeweler
+**[Tool](../../more/tools) Proficiency**: Thieves' Tools, One [Alchemy Tool](../../more/tools)
 
 {: .background-feature}
 > **Read the Room**

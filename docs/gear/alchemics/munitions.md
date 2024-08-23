@@ -14,7 +14,7 @@ grand_parent: Gear
 > 
 > *Ammunition (Any), common*
 > 
-> Any creature struck by this ammunition takes one additional point of fire damage. A flammable object hit by this ammunition ignites if it isn't being worn or carried. Attacks with this ammunition count as magical for the purposes of bypassing weapon resistances.
+> Any creature struck by this ammunition takes one additional point of fire damage. A flammable object hit by this ammunition ignites if it isn't being worn or carried. Ammunition radiates bright light for 5 feet and dim light for 5 feet further for one minute after being fired. Attacks with this ammunition count as magical for the purposes of bypassing weapon resistances.
 
 
 {: .mundane-item}
@@ -22,7 +22,7 @@ grand_parent: Gear
 > 
 > *Ammunition (Any), common*
 > 
-> Any creature struck by this ammunition takes one additional point of thunder damage. Attacks made with this ammunition do not suffer a penalty for being at long range. They emit a loud ringing sound upon making contact with an object or creature. 
+> Any creature struck by this ammunition takes one additional point of thunder damage. Attacks made with this ammunition do not suffer a penalty for being at long range. Ammunition emits a loud ringing sound upon making contact with an object or creature. Attacks with this ammunition count as magical for the purposes of bypassing weapon resistances.
 
 ---
 

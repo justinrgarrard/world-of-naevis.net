@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Human Rogue/Wizard
+title: Human Illusionist
 parent: Prebuilt Characters
 grand_parent: More
 nav_order: 5
 ---
 
-# Human Rogue/Wizard
+# Human Illusionist
 
 |                    |                                                                                               |
 | :----------------- | :-------------------------------------------------------------------------------------------- |
@@ -21,10 +21,11 @@ nav_order: 5
 | **Statistics**     | ac: 15, hp: 8, movement: 30, passive perception: 11, proficiency bonus: 2                     |
 | **Knowledge**      | language: cant, tools: thieves' tools, tinker, woodwind, armor: light, weapons: simple, rogue |
 |                    |                                                                                               |
-| **Equipment**      | studded leather, dagger, wand                                                                 |
-| **Backpack**       | rations (3), thieves' tools, woodwind, 44 gp                                                  |
+| **Equipment**      | [15 lb.] dagger, studded leather, wand                                                         |
+| **Pouch** 1 lb.    | [01 / 06 lb.] woodwind, 43 gp                                                                 |
+| **Backpack** 2 lb. | [10 / 30 lb.] rations (3), thieves' tools                                                     |
 | **Encumbrance**    | 40 / 80 / 120                                                                                 |
-| **Weight**         | 28 lb. (No Penalty)                                                                           |
+| **Weight**         | 29 lb. (No Penalty)                                                                           |
 |                    |                                                                                               |
 | **Spellcasting**   | casting dc: 12                                                                                |
 | **Cantrips**       | minor illusion, shocking grasp, light, ray of frost                                           |

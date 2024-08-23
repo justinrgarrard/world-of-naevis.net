@@ -14,7 +14,7 @@ You came to the City to conquer and pillage. You may be a tribal chieftain, a so
 
 **[Language](../../more/tools) Proficiency**: Cant
 
-**[Tool](../../more/tools) Proficiency**: Smith or Woodworker
+**[Tool](../../more/tools) Proficiency**: One [Alchemy Tool](../../more/tools)
 
 {: .background-feature}
 > **First Blood**

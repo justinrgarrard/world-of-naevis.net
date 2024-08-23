@@ -21,4 +21,4 @@ Spellcasting is based off of [secret languages](secret). All wizards utilize [Dr
 
 #### Signals
 
-Soldiers, hunters, burglars, and black market dealers are known to communicate through [Cant](cant), a combination sign and signal language. 
+Soldiers, hunters, burglars, and black market dealers are known to communicate through [Cant](cant), a combination sign and signal language. Fellow adventurers may leave coded warnings or other messages in Cant through the City Below.

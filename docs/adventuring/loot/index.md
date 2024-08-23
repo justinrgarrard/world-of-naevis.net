@@ -26,12 +26,7 @@ The value of loot is determined by its weight. [Backpacks](../gear/adventuring_g
 {: .note}
 > **Backpacks**
 >
-> Adventurers typically have items already present in their pack, like rations and tools. These items count against the weight and space limit of a backpack. An adventurer can have one backpack.
-
-{: .note}
-> **Pouches**
->
-> Pouches are smaller containers that can hold up to six lb. of items. An adventurer can have one pouch.
+> Adventurers typically have items already present in their pack, like rations and tools. These items count against the weight and space limit of a backpack. 
 
 
 <!-- {: .note}

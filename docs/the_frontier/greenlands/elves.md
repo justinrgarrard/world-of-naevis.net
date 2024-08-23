@@ -24,3 +24,20 @@ Successful usurpations of the throne have seen Wood Elves elevated to High Elves
 #### Humanity
 
 Humans form the backbone of the Empire's civil infrastructure. Elves dictate what crops must be grown and where canals must be dug, but it is humans who perform the labor. Those with favorable appearances and skills may be kept as the household staff of influential Elven families.
+
+---
+
+**Elven Skirmisher**
+
+> _A fleet-footed blademaster, equally adept with bows._
+>
+> * ***Double-Tap***: Can expend a bonus action to make a second melee weapon attack.
+> * ***Far Shot***: Can make bow attacks up to 600 feet away without penalty.
+
+**Elven Arcanist**
+
+> _The standard Elven mage. Relies upon a racial immunity to sleep magic to avoid friendly fire._
+>
+> * ***Firebolt***: Can cast fire bolt.
+> * ***Sleep***: Can cast the sleep spell twice per fight.
+

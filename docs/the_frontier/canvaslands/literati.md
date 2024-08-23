@@ -18,3 +18,19 @@ Correspondingly, most Literati are of ill-repute in civilized lands. There are a
 #### Anonymity
 
 Literati communicate near exclusively through postage. Members do not know one another's faces, races, or other characteristics. One is known solely by their ideas and their pseudonyms. 
+
+---
+
+**Aspiring Necromancer**
+
+> _One of the more common heresies, "fell necromancy" has been outlawed by both Elves and Dwarves for generations._
+>
+> * ***Ray of Frost***: Can use ray of frost.
+> * ***Inflict Wounds***: Can cast inflict wounds twice per fight.
+> * ***Fell Revival***: Animates a nearby corpse as one of the Restless Dead. Can be used twice per fight.
+
+**Restless Dead**
+
+> _A necromantic construct occupying a dead body. More golem than creature, it follows orders with a literal mind._
+>
+> * ***Already Dead***: Cannot be killed with non-magical weapons.

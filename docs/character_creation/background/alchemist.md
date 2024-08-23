@@ -13,7 +13,7 @@ You came to the Forgotten City to be at the forefront of your art. You may appro
 
 **[Skill](../../more/skills) Proficiency**: Nature, Investigation
 
-**[Tool](../../more/tools) Proficiency**: Alchemist and one other from Tinker, Poisoner, or Herbalist
+**[Tool](../../more/tools) Proficiency**: Two [Alchemy Tools](../../more/tools)
 
 
 {: .background-feature}

@@ -19,8 +19,9 @@ nav_order: 4
 | **Statistics**      | ac: 12, hp: 8, movement: 30, passive perception: 13, darkvision, spell slots I: 2   |
 | **Knowledge**       | languages: elvish, cant, infernal, undercommon, armor: none, weapons: wizard, elven |
 |                     |                                                                                     |
-| **Equipment**       | dagger, robes, wand                                                                 |
-| **Backpack**        | rations (3), spellbook, glass pearl, 37 gp                                          |
+| **Equipment**       | [6 lb.] dagger, robes, wand                                                         |
+| **Pouch** 1 lb.     | [00 / 06 lb.] glass pearl, 36 gp                                                    |
+| **Backpack** 2 lb.  | [11 / 30 lb.] rations (3), spellbook                                                |
 | **Encumbrance**     | 50 / 100 / 150                                                                      |
 | **Weight**          | 20 lb. (No Penalty)                                                                 |
 |                     |                                                                                     |

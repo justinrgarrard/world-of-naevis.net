@@ -13,12 +13,12 @@ _Tower Mages are recluses that practice their arts away from civilization, devel
 
 #### Read Magic
 
-When you take this archetype at 2nd level, you learn to use scrolls from outside your spell list. You can cast their spells using your Wizard spellcasting modifier where applicable, but cannot add them to your spellbook.
+When you take this archetype at 2nd level, you learn to use scrolls from outside your spell list. You can cast these spells using your Wizard spellcasting modifier, but cannot add them to your spellbook.
 
 
 #### Transmute Scroll
 
-At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery and is stored within your spellbook on a blank page. If the scroll is not used within 24 hours, the page its written upon crumbles to dust.
+At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery and is stored within your spellbook on a blank page. If the scroll is not used within 24 hours, the page it's written upon crumbles to dust.
 
 
 #### Scroll Arts

@@ -17,8 +17,6 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 > 
 > * **Replace Spells** that do not exist in the _Basic Rules_ with those that do, particularly for Cleric domains.
 > 
-> * **Replace Unnecessary Features** (such as Wizard "School Savant" features) with an additional cantrip or similar benefit. 
-> 
 > * **Reflavor Magical Effects** as martial techniques or feats of skill.
 > 
 > * **Provide Context** for where your abilities come from in this setting.
@@ -30,12 +28,18 @@ These archetypes require no customization for use in Naevis.
 
 | Class       | Archetype        |
 | :---------- | :--------------- |
-| **Cleric**  | -                |
+| **Cleric**  | Life             |
 | **Fighter** | Banneret         |
+|             | Champion         |
 |             | Eldritch Knight  |
 |             | Battle Master    |
 |             | Samurai          |
 | **Rogue**   | Arcane Trickster |
 |             | Scout            |
 |             | Swashbuckler     |
-| **Wizard**  | War Magic        |
+|             | Thief            |
+| **Wizard**  | Abjuration       |
+|             | Enchantment      |
+|             | Evocation        |
+|             | Illusion         |
+|             | War Magic        |

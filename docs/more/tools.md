@@ -10,13 +10,13 @@ parent: More
 
 Proficiency in a tool allows adventurers to craft items during [downtime](../adventuring/downtime/alchemy).
 
-| Artisan Tool      | Alchemic                                         |
-| :---------------- | :----------------------------------------------- |
-| Alchemist         | [Substances](../gear/alchemics/substances) |
-| Herbalist         | [Potions](../gear/alchemics/potions)       |
-| Poisoner          | [Poisons](../gear/alchemics/poisons)       |
-| Tinker            | [Grenades](../gear/alchemics/grenades)     |
-| Woodcarver, Smith | [Ammunition](../gear/alchemics/ammunition) |
+| Artisan Tool        | Alchemic                                   |
+| :------------------ | :----------------------------------------- |
+| Alchemist           | [Substances](../gear/alchemics/substances) |
+| Herbalist or Brewer | [Potions](../gear/alchemics/potions)       |
+| Poisoner            | [Poisons](../gear/alchemics/poisons)       |
+| Tinker or Mason     | [Grenades](../gear/alchemics/grenades)     |
+| Woodcarver or Smith | [Ammunition](../gear/alchemics/ammunition) |
 
 
 {: .note}

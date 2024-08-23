@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Fighter: Lionheart
 
-_The Iron Spiral martial art is a favorite of knights and bodyguards. Descended from Dwarven tunnel fighting, its ordering principles center around control of the surrounding area._
+_The Iron Spiral martial art is a favorite of knights and bodyguards. Descended from Dwarven tunnel fighting, its foundational principles center around control of the surrounding area._
 
 
 #### Bonus Proficiencies
@@ -34,7 +34,7 @@ Starting at 10th level, you can roll an additional damage die on a critical hit.
 
 
 #### Glancing Blow
-At 15th level, your melee attacks deal half damage (rounded down) on a miss.
+At 15th level, your melee attacks deal half damage (rounded down) on a miss. The number of reactions you can take between turns increases to three.
 
 
 #### Limitless

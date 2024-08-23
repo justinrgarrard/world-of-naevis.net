@@ -19,3 +19,9 @@ Reports of the Princes' mentalities vary greatly. Some legends have them behavin
 #### Existence
 
 Surface dwellers to-date have not encountered any of the Devil Princes. The prevailing view among scholars is that they are simply a fiction invented by primitive City creatures. 
+
+---
+
+***Berith***
+
+> _One of the nine mythical Devil Princes. Berith is described as a towering giant, a cloud of flies, and a floating torso the size of a building. Its followers revere it with equal parts fanatical devotion and fear. Of the Princes, Berith has a reputation for being the most strict about adherence to laws and rules. It is capable of casting any spell of fifth level or lower without restrictions, and may use higher level spells sparingly._
