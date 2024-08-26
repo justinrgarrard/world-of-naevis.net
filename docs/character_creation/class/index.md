@@ -14,11 +14,6 @@ nav_order: 1
 > 
 > Classes outside the four provided in the _[Basic Rules](docs/more/DnD_BasicRules_2018.pdf)_ are not supported by this setting, but can be used with the Game Master's permission.
 
-
-<!-- #### Classifications
-
-An adventurer's class is, as the name suggests, a classification. It broadly represents what capacities they bring to a party. A traveling illusionist, an armored spellsword, and a village witch all fall under the classification of "wizard".  -->
-
 #### The Four Classes
 
 * **[Clerics](cleric)** are members of Navean cults, each with their own set of teachings and beliefs.

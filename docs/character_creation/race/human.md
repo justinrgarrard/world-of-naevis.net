@@ -22,7 +22,7 @@ As individuals, humans struggle to compete with older, wealthier, and more world
 | :----------------- | :----------------------------------------------------------------------- |
 | **Ability Scores** | +1 to all ability scores                                                 |
 | Speed              | 30 ft. walking speed                                                     |
-| **Languages**      | Common, any one [secret language](../../more/languages/secret_languages) |
+| **Languages**      | Common, any one [secret language](../../more/languages/secret) |
 
 Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Most have an innate affinity for a language of magic.
 

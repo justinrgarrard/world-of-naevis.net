@@ -1,15 +1,20 @@
 ---
 layout: default
 title: Undead
-parent: Greenlands
+parent: Monstrosities
 grand_parent: The Frontier
 ---
 
 # Undead
 
+{: .language}
+> **Abyssal**
+>
+> Undead can only speak, understand, read, and write [Abyssal](../../more/languages/secret).
+
 #### Natural Undead
 
-When a practitioner of magic dies, an undead creature will occasionally arise in their place. Ghosts are the most common, followed by revenants and vampires. These creatures bear a resemblance to their creator but possess no relation to their creator. They are bestial, barely cognizant things driven by hunger or emotion.
+When a practitioner of magic dies, an undead creature will occasionally arise in their place. Ghosts are the most common, followed by revenants and vampires. These creatures bear a resemblance to their creator but possess no actual relation. They are bestial, barely cognizant things driven by hunger or emotion, with no inherited memories or powers.
 
 #### Necromantic Constructs
 
@@ -17,7 +22,7 @@ A few unsavory wizards and cultists have been known to dabble in "True Necromanc
 
 #### The Wizard Kings
 
-Ancient human tribes proficient in [Abyssal](../../more/languages/secret) once sought to rule the world through armies of the dead and nearly succeeded. The second emperor of the [Elven Empire](../greenlands/elves) narrowly avoided catastrophe by exterminating every individual possessed of that talent. To date, humans who inherit an aptitude for Abyssal are put to death in Elven lands (and generally shunned elsewhere).
+Ancient human tribes proficient in [Abyssal](../../more/languages/secret) once sought to rule the world through armies of the dead. The second emperor of the [Elven Empire](../greenlands/elves) narrowly avoided catastrophe by exterminating every member of that tribe. To date, humans who miraculously inherit an aptitude for Abyssal are put to death in Elven lands (and generally shunned elsewhere).
 
 ---
 
