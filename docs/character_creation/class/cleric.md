@@ -25,7 +25,7 @@ Navean clerics draw their power from a source specific to their cult. A nature-o
 
 ### Starting Gear
 
-_Cleric's Pack (43 lb.)_ or 100 gp.
+_Cleric's Pack (39 lb.)_ or 100 gp.
 
 | Item                                                        | Weight              | gp    |
 | :---------------------------------------------------------- | :------------------ | :---- |
@@ -33,23 +33,11 @@ _Cleric's Pack (43 lb.)_ or 100 gp.
 | Shield                                                      | 6 lb.               | 5 gp  |
 | Studded Leather                                             | 13 lb.              | 10 gp |
 | Holy Amulet                                                 | 1 lb.               | 10 gp |
-| Pouch                                                       | 1 lb. (2 / 6 lb.)   | 1 gp  |
-| ...Holy Water (x2)                                          | 2 lb.               | 50 gp |
-| Backpack                                                    | 5 lb. (11 / 30 lb.) | 2 gp  |
+| Pouch                                                       | 1 lb. (1 / 6 lb.)   | 1 gp  |
+| ...Holy Water                                               | 1 lb.               | 25 gp |
+| Backpack                                                    | 5 lb. (08 / 30 lb.) | 2 gp  |
 | ...Rations (x3)                                             | 6 lb.               | 3 gp  |
-| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 5 lb.               | 10 gp |
-| ...Spare Gold                                               | -                   | 4 gp  |
+| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 2 lb.               | 10 gp |
+| ...Spare Gold                                               | -                   | 29 gp |
 
 
-<!-- {: .archetypes}
-> [Dream Cult](../../more/archetypes/cleric_dream), [Hell Cult](../../more/archetypes/cleric_hell), [Stone Cult](../../more/archetypes/cleric_stone), [Winter Cult](../../more/archetypes/cleric_winter) -->
-
-<!-- #### Occupations
-
-Clerics have highly variable relationships with their communities. Some live in monasteries as reclusive spiritualists. Others serve as priests who officiate over weddings, harvest festivals, and funerals. Hermits are common, as are warrior priests employed by mercenary outfits. -->
-
-<!-- #### The Rites of Induction
-
-Navean clerics are no longer fully mortal after their initiation. The spark of divine magic is kindled within them and their physical appearance is marked in a manner that indicates their cult affiliation. Many [Hell Knights](../../more/archetypes/cleric_hell), for example, have eyes that glow with firelight.
-
-A universal side-effect of initiation is the inability to have children. As a consequence of this, clerics are largely disbarred from the lines of succession of noble families. -->

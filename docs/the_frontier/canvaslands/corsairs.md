@@ -13,7 +13,7 @@ The Corsairs are mercenaries that function as a law enforcement presence through
 
 #### Thieves' Guild
 
-Despite their role, Corsairs are little better than bandits themselves. They behave as a grouping of gangs who demand "protection money" for their services. A considerable portion of the [Downtime Tax](../../adventuring/downtime/index) is used for this purpose. Skirmishes between gangs over disputes and lucrative clients are not unheard of.
+Despite their role, Corsairs are little better than bandits themselves. They behave as a grouping of gangs who demand "protection money" for their services. A considerable portion of the [Downtime Tax](../../adventuring/index) is used for this purpose. Skirmishes between gangs over disputes and lucrative clients are not unheard of.
 
 ---
 

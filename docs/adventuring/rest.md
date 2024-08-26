@@ -28,10 +28,9 @@ Long rests are taken **between** sessions, rather than during sessions. [Wizards
 >
 > Adventurers have a number of Hit Dice equal to their level. These Hit Dice can be rolled on a short rest to restore hit points. Hit Dice recover on a long rest.
 
-<!-- #### Potions
-
-[Healing Potions](../../gear/alchemics/potions) are a useful, if expensive, way to recover hit points. They generally see use during tense combat situations. _Potions of Cleansing_ are also invaluable for treating mundane poisons.
-
-#### Healing Magic
-
-[Clerics](../../character_creation/class/cleric) are the sole spellcasters capable of using healing spells like *Cure Wounds*. They may expend a spell slot to do so, or make use of [spell scrolls](../../gear/scrolls) with the appropriate magic. -->
+{: .mundane-item}
+> **Triage Pack**
+>
+> A collection of splints, salves, and antivenoms. A pack can be used during a short rest by someone proficient in the medicine skill.
+> 
+> The pack neutralizes non-magical poisons and restores a number of hit dice equal to the user's proficiency bonus, after which it is consumed.

@@ -36,11 +36,3 @@ _Fighter's Pack (46 lb.)_ or 100 gp.
 | ...[Potion of Healing](../../gear/alchemics/potions) | 1 lb.               | 50 gp |
 | ...Spare Gold                                        | -                   | 16 gp |
 
-<!-- {: .archetypes}
-> [Lionheart](../../more/archetypes/fighter_lionheart), [Warprince](../../more/archetypes/fighter_warprince)
-
-#### Occupations
-Fighters come from the martial professions. Soldiers, knights, hunters, thugs, archers, templars... any vocation based principally on violence has overlap with this class.
-
-#### Martial Arts
-Skill at arms is the bare minimum requirement for one to be a fighter. Typically, a warrior will adopt or adapt a system of fighting from one of the many martial arts traditions in Naevis. Two of the most common are the [Wind Blade Style](../../more/archetypes/fighter_warprince) and the [Iron Spiral Style](../../more/archetypes/fighter_lionheart). -->
