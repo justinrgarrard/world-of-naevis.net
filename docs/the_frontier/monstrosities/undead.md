@@ -10,7 +10,7 @@ grand_parent: The Frontier
 {: .language}
 > **Abyssal**
 >
-> Undead can only speak, understand, read, and write [Abyssal](../../more/languages/secret).
+> Undead can only speak, understand, read, and write [Abyssal](../../more/languages/secret#abyssal).
 
 #### Natural Undead
 

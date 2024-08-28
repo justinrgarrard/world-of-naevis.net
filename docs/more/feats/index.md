@@ -8,8 +8,6 @@ has_toc: false
 
 # Feats
 
-#### Specialized Training
-
 Feats are the result of training in disciplines outside of one's own class. Adventurers can choose between taking a feat or an ability score increase at level 4, 8, 12, 16, and 20. Fighters gain bonus feats at levels 6 and 14.
 
 #### Multiclassing

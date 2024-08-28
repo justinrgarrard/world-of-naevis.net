@@ -37,5 +37,5 @@ Starting at 10th level, you can roll an additional damage die on a critical hit.
 At 15th level, your melee attacks deal half damage (rounded down) on a miss. The number of reactions you can take between turns increases to three.
 
 
-#### Limitless
-At 18th level, when you take the Attack action, you can use one of your attacks to gain the benefits of Dodge instead.
+#### Dauntless
+At 18th level, if you have no uses of Action Surge when rolling initiative, you regain one expended use.

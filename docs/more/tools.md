@@ -6,8 +6,6 @@ parent: More
 
 # Tools
 
-#### Alchemy Tools
-
 Proficiency in a tool allows adventurers to craft items during [downtime](../adventuring/downtime/alchemy).
 
 | Artisan Tool        | Alchemic                                   |

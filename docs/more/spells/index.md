@@ -8,7 +8,9 @@ has_toc: true
 
 # Spells
 
-#### Shaping Energies
+Transcription of spell lists from the _Basic Rules_.
+
+<!-- #### Shaping Energies
 
 Spells are magical effects that certain trained adventurers can use. 
 
@@ -21,4 +23,4 @@ Spells are magical effects that certain trained adventurers can use.
 >
 > A spell can have up to three components: verbal, somatic, and material.
 >
-> Spells with a verbal component require the ability to speak. Spells with a somatic component require a gesture and free hands. Spells with a material component require a [wand or holy symbol](../../gear/adventuring_gear/spellcasting_equipment), or in some instances a specific item (i.e. a pearl for _Identify_).
+> Spells with a verbal component require the ability to speak. Spells with a somatic component require a gesture and free hands. Spells with a material component require a [wand or holy symbol](../../gear/adventuring_gear/spellcasting_equipment), or in some instances a specific item (i.e. a pearl for _Identify_). -->

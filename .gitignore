@@ -16,3 +16,6 @@ vendor/
 
 # Ignore local material
 depreciated/
+
+# Custom
+.vscode

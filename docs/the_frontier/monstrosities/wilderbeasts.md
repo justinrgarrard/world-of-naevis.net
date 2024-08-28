@@ -10,7 +10,7 @@ grand_parent: The Frontier
 {: .language}
 > **Sylvan**
 >
-> Animals can only communicate in [Sylvan](../../more/languages/secret).
+> Animals can only communicate in [Sylvan](../../more/languages/secret#sylvan).
 
 
 #### Surface Creatures
