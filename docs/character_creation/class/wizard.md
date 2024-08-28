@@ -8,7 +8,7 @@ nav_order: 4
 
 # Wizard
 
-**Wizards** are those adventurers trained in the academic practice of arcane spellcasting. They are, by necessity, highly educated individuals. 
+[Wizards](../../more/classes/wizard) are adventurers trained in the academic practice of arcane spellcasting. They are, by necessity, highly educated individuals. 
 
 #### Scrolls
 A practitioner is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Fortifications regularly stockpiles caches of scrolls to arm warmages, allowing them to wreak havoc on invaders. 

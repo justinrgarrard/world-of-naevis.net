@@ -23,7 +23,7 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 > Start the next session with temporary hit points equal to twice your character level. You can change your *Fighting Style* to any other *Fighting Style*.
 
 {: .downtime}
-> **Rogue: Thievery**
+> **Rogue: Specialty Work**
 > 
 > Waive the downtime fee. You can replace the skills you have *Expertise* in with any other skills you are proficient with.
 
@@ -35,7 +35,7 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 > * (25 gp) Add a spell from a scroll to your spellbook
 > * (25 gp) Create a first-level [scroll](../../gear/scrolls) from a spell in your spellbook
 >
-> The cost of both options is halved when using a relevant feature (i.e. _Evocation Savant_).
+> If you have a feature like [Evocation Savant](../../more/archetypes/wizard_evocation) you can perform each task twice, without altering the cost. The scrolls in question must have a matching spell school.
 
 ---
 

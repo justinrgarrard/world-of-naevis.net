@@ -8,7 +8,7 @@ nav_order: 3
 
 # Rogue
 
-**Rogues** are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. 
+[Rogues](../../more/classes/rogue) are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. 
 
 #### Roguecraft
 Even a modest rogue can boast six different skills and two areas of expertise. They are universally proficient in the [Cant](../../more/languages/cant) sign language as well as a small collection of hand tools for picking locks.

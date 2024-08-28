@@ -8,7 +8,7 @@ nav_order: 1
 
 # Cleric
 
-**Clerics** are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles their magic. 
+[Clerics](../../more/classes/cleric) are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles their magic. 
 
 {: .note}
 > Clerics are the only one of the four base classes that much choose an [**archetype**](../../more/archetypes/index) at first level.

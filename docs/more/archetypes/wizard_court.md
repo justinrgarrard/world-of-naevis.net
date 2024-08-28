@@ -31,6 +31,6 @@ At 6th level, you can add your Intelligence modifier to Charisma (Persuasion) or
 Beginning at 10th level, you can add your Intelligence modifier to the damage of any Wizard spell or cantrip you cast.
 
 
-#### Sage
+#### Deep Reserves
 
-At 14th level, whenever you make an Intelligence check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+At 14th level, you gain a second use of Arcane Recovery.

@@ -8,14 +8,14 @@ nav_exclude: true
 
 # Rogue: Delver
 
-_The ideal adventurer, delvers are rogues that have mastered a broad array of talents for exploring deadly dungeons. They are experts in the use of scrolls, tools, and other artifice._
+_The archetypical adventurer, delvers are rogues that have mastered a broad array of talents for exploring deadly dungeons. They are experts in the use of scrolls, tools, and languages._
 
 #### Clever Hands
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to drink a potion, shove a creature, or take the **Use an Object** action. 
 
 
 #### Savvy
-At 3rd level, you gain proficiency with one tool, language, and skill of your choice. Additionally, you can use any spell scroll of a level equal to or less than your proficiency bonus, as though it were of a spell you could cast. Your spellcasting modifier is Charisma where applicable.
+At 3rd level, you gain proficiency with one tool, language, and skill of your choice. Additionally, you can use any spell scroll of a level equal to or less than your proficiency bonus. Your spellcasting modifier is Charisma where applicable.
 
 
 #### Uncanny Luck

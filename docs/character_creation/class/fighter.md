@@ -8,7 +8,7 @@ nav_order: 2
 
 # Fighters
 
-**Fighters** are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess.
+[Fighters](../../more/classes/fighter) are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess.
 
 #### Martial Arts
 

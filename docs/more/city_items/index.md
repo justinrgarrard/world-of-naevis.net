@@ -8,8 +8,6 @@ has_toc: true
 
 # City Items
 
-#### Otherworldly Treasures
-
 City items are valuable treasures found within the City Below. Unlike [Charms](../../gear/index), they cannot be purchased. Those with a rarity of _Rare_ or higher are also difficult to sell due to their high value. 
 
 | Name                        | Value  |
