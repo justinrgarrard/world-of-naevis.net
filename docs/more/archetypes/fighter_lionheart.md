@@ -16,11 +16,11 @@ When you choose this archetype at 3rd level, you gain proficiency in intimidatio
 
 
 #### Deathblow
-At 3rd level, you learn to turn normal strikes into lethal blows. When you roll initiative you gain a Stamina Point. On a successful weapon attack, you can expend the Stamina Point to convert the attack into a critical hit. You can regain your Stamina Point by taking the Dodge action. All Stamina Points are removed when combat ends.
+At 3rd level, you learn to turn normal strikes into lethal blows. On a successful weapon attack, you can expend a use of this feature to convert an attack into a critical hit. You gain a use of this feature when you roll initiative or take the **Dodge** action while in combat. You lose any remaining uses when combat ends.
 
 
 #### Lethal Boundary
-At 3rd level, when you take the Dodge action, creatures provoke an opportunity attack when they enter your reach. A creature struck by your opportunity attack has their movement set to zero until the start of their next turn.
+At 3rd level, when you take the **Dodge** action, creatures provoke an opportunity attack when they enter your reach. A creature struck by your opportunity attack has their movement set to zero until the start of their next turn.
 
 
 #### Impassable

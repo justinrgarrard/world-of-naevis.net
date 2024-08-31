@@ -26,4 +26,8 @@ has_toc: false
 >
 > A spell cast from this scroll has a save DC of **13** and an attack bonus of **+5**.
 
- 
+#### What is a Scroll?
+
+A scroll is a spell that has been cast and bound into paper (or a similar medium). Wizards are the most adept at crafting scrolls; [Draconic](../more/languages/secret#draconic) is a language that lends itself to [scribing](../adventuring/downtime/index), with other secret languages requiring more involved rituals to accomplish the same. Once formed, a scroll acts as a portable reservoir of predetermined energy. Any spellcaster with knowledge of the spell in question can "unlock" the energies within, loosing the spell.
+
+Scroll scribing is one of the few traditions that Kindred and City Dwellers both practice. Notably, scrolls are also one of the few items the City Dwellers are willing to [trade](../the_frontier/city_dwellers/index) for.

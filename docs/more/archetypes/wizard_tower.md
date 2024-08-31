@@ -18,7 +18,7 @@ When you take this archetype at 2nd level, you learn to use scrolls from outside
 
 #### Transmute Scroll
 
-At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery and is stored within your spellbook on a blank page. If the scroll is not used within 24 hours, the page it's written upon crumbles to dust.
+At 2nd level, you gain the ability to improvise spell scrolls. As an action, you expend your Arcane Recovery to magically duplicate one of the spells in your spellbook. The chosen spell must be of a level that you would otherwise recover using Arcane Recovery, and is stored within your spellbook on a blank page. If the scroll is not used within 24 hours, the page it's written upon crumbles to dust.
 
 
 #### Scroll Arts
@@ -30,7 +30,7 @@ At 6th level, when you cast a spell from a scroll, you can enhance it in one of 
 * **Empower**: If the spell deals damage, you can reroll a number of damage dice equal to the scroll's spell level and take the new result.
 
 
-#### Salvage Scroll
+#### Preserve Scroll
 
 Beginning at 10th level, roll a d20 after casting a spell from a scroll. If the result is less than or equal to your Intelligence modifier, the scroll does not crumble to dust after use, but cannot be used again for 24 hours.
 

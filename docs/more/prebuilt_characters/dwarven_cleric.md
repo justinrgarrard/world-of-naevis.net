@@ -19,7 +19,7 @@ nav_order: 2
 | **Statistics**      | ac: 16, hp: 10, movement: 25, passive perception: 19, darkvision, proficiency bonus: 2 |
 | **Knowledge**       | language: dwarven, giant, tools: mason, armor: all, weapons: simple, dwarven           |
 |                     |                                                                                        |
-| **Equipment**       | [51 lb.] battleaxe, shield, ring mail, holy symbol,                                    |
+| **Equipment**       | [51 lb.] battleaxe, shield, ring mail, holy symbol                                     |
 | **Pouch** 1 lb.     | [01 / 06 lb.] holy water, 33 gp                                                        |
 | **Backpack** 2 lb.  | [09 / 30 lb.] rations (3)                                                              |
 | **Encumbrance**     | 80 / 160 / 240                                                                         |

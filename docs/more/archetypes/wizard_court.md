@@ -26,9 +26,9 @@ At 2nd level, you gain proficiency with two skills from the following list: Arca
 At 6th level, you can add your Intelligence modifier to Charisma (Persuasion) or Charisma (Deception) checks. Additionally, you learn two languages of your choice.
 
 
-#### Sharpened Spells
+#### Practiced Ritualist
 
-Beginning at 10th level, you can add your Intelligence modifier to the damage of any Wizard spell or cantrip you cast.
+Beginning at 10th level, ritual spells you cast take their normal casting time to cast.
 
 
 #### Deep Reserves

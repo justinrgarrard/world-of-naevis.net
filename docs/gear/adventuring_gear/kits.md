@@ -7,14 +7,14 @@ grand_parent: Gear
 
 # Kits
 
-| Item               | Cost  | Weight |
-| :----------------- | :---- | :----- |
-| Alarm kit          | 1 gp  | 1 lb.  |
-| Hazard kit         | 1 gp  | 1 lb.  |
-| Mapping kit        | 5 gp  | 1 lb.  |
-| Mining kit         | 5 gp  | 10 lb. |
-| Mountaineering kit | 10 gp | 10 lb. |
-| Signal kit         | 1 gp  | 1 lb.  |
+| Item               | Cost | Weight |
+| :----------------- | :--- | :----- |
+| Alarm kit          | 1 gp | 1 lb.  |
+| Hazard kit         | 1 gp | 1 lb.  |
+| Mapping kit        | 5 gp | 1 lb.  |
+| Mining kit         | 5 gp | 5 lb.  |
+| Mountaineering kit | 5 gp | 5 lb.  |
+| Signal kit         | 1 gp | 1 lb.  |
 
 
 {: .mundane-item}

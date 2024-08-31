@@ -30,7 +30,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > Ampere is a sentient, chaotic neutral rapier with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It expresses satisfaction when it is the object of attention, and is frustrated by subtlety.
 > 
-> Attacks with this weapon deal +1 lightning damage. The sword (not the wielder) can become magnetized at-will, requiring up to 200 lbs of force to move. Placing the sword in water causes the water to become electrified, dealing 1d4 lighting damage to those exposed. 
+> Attacks with this weapon deal +1 lightning damage. The sword (not the wielder) can become magnetized at-will, requiring up to 600 lbs of force to move when touching metal. Placing the sword in water causes the water to become electrified, dealing 1d4 lighting damage to those exposed. 
 
 {: .mundane-item}
 > **Fall**
@@ -39,7 +39,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > Fall is a sentient, chaotic evil halberd with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The halberd can communicate telepathically through images and emotions. It has a bloodthirsty and sadistic personality, and is disgusted by acts of kindness or restraint.
 > 
-> Attacks with this weapon deal +1 necrotic damage. The wielder has advantage to make intimidation checks. Vegetation wilts and non-magical metals rust when the weapon touches them. 
+> Attacks with this weapon deal +1 necrotic damage. The wielder has advantage when making intimidation checks. Vegetation wilts and non-magical metals rust when the weapon touches them. 
 
 {: .mundane-item}
 > **Firebrand**
@@ -48,16 +48,16 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > The Firebrand is a sentient, chaotic neutral longsword with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It expresses satisfaction when things burn and is frustrated when flames are quenched.
 > 
-> Attacks with this weapon deal +1 fire damage. The blade emits bright light out twenty feet and dim light twenty feet further while unsheathed. Flammable objects that touch the sword ignite, provided that they aren't being worn or carried. 
+> Attacks with this weapon deal +1 fire damage. The blade emits bright light out 20 feet and dim light 20 feet further while unsheathed. Flammable objects that touch the sword ignite, provided that they aren't being worn or carried. 
 
 {: .mundane-item}
 > **Ice Splitter**
 >
 > *Battleaxe, uncommon*
 >
-> The Ice Splitter is a sentient, chaotic neutral battleaxe with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The axe can communicate telepathically through images and emotions. It takes satisfaction in splitting things apart and is frustrated by pacifism.
+> The Ice Splitter is a sentient, chaotic neutral battleaxe with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The axe can communicate telepathically through images and emotions. It takes satisfaction in destruction and is frustrated by pacifism.
 > 
-> Attacks with this weapon deal +1 cold damage. The wielder of this axe is under the effects of the _Water Walk_ spell, with a small sheet of ice forming under their feet. When the axehead comes into contact with water, it begins generating ice at a rate of 1 cubic foot per minute, to a maximum of five cubic feet.  
+> Attacks with this weapon deal +1 cold damage. The wielder of this axe can walk on water, with a small sheet of ice forming under their feet. When the axehead comes into contact with water, it begins generating ice at a rate of 1 cubic foot per minute, to a maximum of five cubic feet.  
 
 {: .mundane-item}
 > **Hallow**
@@ -66,7 +66,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > Hallow is a sentient, lawful good greatsword with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The sword can communicate telepathically through images and emotions. It is a kind and honorable weapon, and is disgusted by acts of wanton cruelty.
 > 
-> Attacks with this weapon deal +1 radiant damage. The sword (not the wielder) can cast _Bless_ once a day and regains its charge at dawn. The sword can tell if a person touching it is lying. 
+> Attacks with this weapon deal +1 radiant damage. The sword (not the wielder) can cast _Bless_ once a day and regains its charge at dawn. The sword can tell if a person within 5 feet of it is lying. 
 
 {: .mundane-item}
 > **Wrath**
@@ -75,7 +75,7 @@ Unlike charms, sentient weapons have personalities. They are generally primitive
 >
 > Wrath is a sentient, chaotic neutral warhammer with an Intelligence of 6, a Wisdom of 10, and a Charisma of 14. It can see and hear out to a range of 60 feet. The hammer can communicate telepathically through images and emotions. It expresses satisfaction when facing worthy foes and is frustrated when used upon weak creatures.
 > 
-> Attacks with this weapon deal +1 thunder damage. Creatures and objects struck by this weapon are pushed five feet away, provided that they are of size large or smaller. If Wrath is struck against metal, all creatures within 100 feet (including the wielder) must make a Constitution save or become deafened until the end of their next turn. 
+> Attacks with this weapon deal +1 thunder damage. Creatures and objects struck by this weapon are pushed 10 feet away, provided that they are of size large or smaller. If Wrath is struck against metal, all creatures within 300 feet (including the wielder) must make a DC 11 Constitution save or become deafened until the end of their next turn. 
 
 
 #### Very Rare

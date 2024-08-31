@@ -25,7 +25,7 @@ Navean clerics draw their power from a source specific to their cult. A nature-o
 
 ### Starting Gear
 
-_Cleric's Pack (39 lb.)_ or 100 gp.
+_Cleric's Pack (38 lb.)_ or 100 gp.
 
 | Item                                                        | Weight              | gp    |
 | :---------------------------------------------------------- | :------------------ | :---- |
@@ -35,9 +35,9 @@ _Cleric's Pack (39 lb.)_ or 100 gp.
 | Holy Amulet                                                 | 1 lb.               | 10 gp |
 | Pouch                                                       | 1 lb. (1 / 6 lb.)   | 1 gp  |
 | ...Holy Water                                               | 1 lb.               | 25 gp |
-| Backpack                                                    | 5 lb. (08 / 30 lb.) | 2 gp  |
+| Backpack                                                    | 5 lb. (07 / 30 lb.) | 2 gp  |
 | ...Rations (x3)                                             | 6 lb.               | 3 gp  |
-| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 2 lb.               | 10 gp |
+| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 1 lb.               | 10 gp |
 | ...Spare Gold                                               | -                   | 29 gp |
 
 

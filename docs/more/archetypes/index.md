@@ -22,24 +22,17 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 
 Other archetypes may be used with GM permission, provided that they can be adapted for use in the Naevis setting. The archetypes below can be used as-is without changes. Others may need [modifications](adapting) to fit the setting.
 
-| Class       | Archetype                     |
-| :---------- | :---------------------------- |
-| **Cleric**  | [Life](cleric_life)           |
-| **Fighter** | Banneret                      |
-|             | Battle Master                 |
-|             | [Champion](fighter_champion)  |
-|             | Eldritch Knight               |
-|             | Samurai                       |
-| **Rogue**   | Arcane Trickster              |
-|             | Scout                         |
-|             | Swashbuckler                  |
-|             | [Thief](rogue_thief)          |
-| **Wizard**  | Abjuration                    |
-|             | Bladesinging                  |
-|             | Enchantment                   |
-|             | [Evocation](wizard_evocation) |
-|             | Illusion                      |
-|             | War Magic                     |
+| Class       | Archetypes                   |                               |
+| :---------- | :--------------------------- | :---------------------------- |
+| **Cleric**  | [Life](cleric_life)          |                               |
+| **Fighter** | Banneret                     | Battle Master                 |
+|             | [Champion](fighter_champion) | Eldritch Knight               |
+|             | Samurai                      |                               |
+| **Rogue**   | Arcane Trickster             | Scout                         |
+|             | Swashbuckler                 | [Thief](rogue_thief)          |
+| **Wizard**  | Abjuration                   | Bladesinging                  |
+|             | Enchantment                  | [Evocation](wizard_evocation) |
+|             | Illusion                     | War Magic                     |
 
 #### Setting Archetypes
 

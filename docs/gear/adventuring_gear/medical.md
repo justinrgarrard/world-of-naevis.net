@@ -12,7 +12,7 @@ grand_parent: Gear
 | Potion, healing                   | 50 gp | 1 lb.  |
 | Potion, cleansing                 | 50 gp | 1 lb.  |
 | [Scroll](../scrolls), cure wounds | 50 gp | 1 lb.  |
-| Triage pack                       | 10 gp | 2 lb.  |
+| Triage pack                       | 10 gp | 1 lb.  |
 
 {: .language}
 > Adventurers proficient in **Halfling** can purchase potions at a 20% discount for **40 gp**.
@@ -44,4 +44,4 @@ grand_parent: Gear
 >
 > A collection of splints, salves, and antivenoms. A pack can be used during a short rest by someone proficient in the medicine skill.
 > 
-> The pack neutralizes non-magical poisons and restores a number of hit dice equal to the user's proficiency bonus, after which it is consumed.
+> The pack neutralizes non-magical poisons and restores an expended hit die for up to six people. After use, it is consumed.

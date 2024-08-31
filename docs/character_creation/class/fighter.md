@@ -12,7 +12,7 @@ nav_order: 2
 
 #### Martial Arts
 
-Skill at arms is the bare minimum requirement for one to be a fighter. Typically, a warrior will adopt or adapt a system of fighting from one of the many martial arts traditions in Naevis. This is reflected in their choice of _Fighting Style_ and eventual [archetype](../../more/archetypes/index).
+Skill at arms is the bare minimum requirement for one to be a fighter. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also adopt or adapt a martial arts tradition, reflected in their _Fighting Style_ and eventual [archetype](../../more/archetypes/index).
 
 #### Honor
 One's reputation and history of service take on a force of their own, though it need not be positive. Heroes and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 

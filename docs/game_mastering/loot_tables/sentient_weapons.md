@@ -18,6 +18,8 @@ Sentient weapons are a low-probability result on the loot tables. They're best s
 
 * **Magical**: All sentient weapons bypass damage resistance.
 
+* **Multi-Purpose**: All sentient weapons have non-combat applications.
+
 
 #### Rapport
 

@@ -17,7 +17,7 @@ You are a member of the Piper's Guild, a loose collective of traveling illusioni
 {: .background-feature}
 > **Stage Magic**
 > 
-> You can replicate the effects of the _Minor Illusion_ cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
+> You can replicate the effects of the [*Minor Illusion*](../../../srd_spells/minor_illusion) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 ### (Optional) Trait Tables
 

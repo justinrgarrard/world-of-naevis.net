@@ -47,6 +47,6 @@ At 6th level, when you target a creature that is immune to magical sleep with th
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 
-#### Between Two Worlds
+#### Inner Strength
 
-At 17th level, you become difficult to influence with magic. You have advantage on saving throws against spells. Furthermore, you have resistance against the damage of spells.
+At 17th level, you gain an additional use of _Channel Divinity_.
