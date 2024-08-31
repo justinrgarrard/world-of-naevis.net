@@ -17,7 +17,7 @@ You came to the Forgotten City to understand its mysteries. You may be an archae
 {: .background-feature}
 > **Illuminate**
 > 
-> You can replicate the effects of the _Light_ cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
+> You can replicate the effects of the [*Light*](../../../srd_spells/light) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 ### (Optional) Trait Tables
 

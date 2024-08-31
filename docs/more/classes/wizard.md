@@ -91,7 +91,7 @@ You have learned to regain some of your magical energy by studying your spellboo
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 
-#### Arcane Tradition
+#### [Arcane Tradition](../archetypes/index)
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 

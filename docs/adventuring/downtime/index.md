@@ -10,7 +10,7 @@ has_toc: false
 
 #### Between Sessions
 
-Between each gameplay session, adventurers can choose one downtime activity to perform.
+Between each gameplay session, adventurers can choose one downtime activity to perform. They are also subject to a **25 gp lifestyle expense fee**, which entails room, board, and protection money to pay off local gangs.
 
 {: .downtime}
 > **Cleric: Read Omens**
@@ -20,28 +20,20 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 {: .downtime}
 > **Fighter: Conditioning Drills**
 > 
-> Start the next session with temporary hit points equal to twice your character level. You can change your *Fighting Style* to any other *Fighting Style*.
+> Start the next session with temporary hit points equal to twice your character level. You can change out your [Fighting Style](../../more/classes/fighter#fighting-style) for a different option.
 
 {: .downtime}
 > **Rogue: Specialty Work**
 > 
-> Waive the downtime fee. You can replace the skills you have *Expertise* in with any other skills you are proficient with.
+> Waive the lifestyle expenses for this downtime. You can replace the skills you have [Expertise](../../more/classes/rogue#expertise) in with any other skills you are proficient with.
 
 {: .downtime}
 > **Wizard: Research**
 > 
-> You can choose to perform one or more of the following:
+> You can expend gold to perform one or both of the following tasks.
 > 
-> * (25 gp) Add a spell from a scroll to your spellbook
-> * (25 gp) Create a first-level [scroll](../../gear/scrolls) from a spell in your spellbook
+> * (25 gp) Add a spell from a [scroll](../../gear/scrolls) to your spellbook
+> * (25 gp) Create a first-level scroll from a spell in your spellbook
 >
-> If you have a feature like [Evocation Savant](../../more/archetypes/wizard_evocation) you can perform each task twice, without altering the cost. The scrolls in question must have a matching spell school.
+> If you have a feature like [Evocation Savant](../../more/archetypes/wizard_evocation) you gain twice the benefit for performing a task with the appropriate spells. For example, you can create two *Magic Missile* scrolls during downtime at a total cost of 25 gp.
 
----
-
-{: .downtime}
-> **Entertain**
->
-> (_Requires Instrument Proficiency_) Waive the downtime fee. Gain an amount of gp equal to:
->
-> (1d4 + Charisma Modifier) * Proficiency Bonus

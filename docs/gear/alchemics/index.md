@@ -13,33 +13,28 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 {: .language}
 > Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **40 gp**.
 
-{: .note}
-> Items with the _Illicit_ tag (such as poisons and grenades) require proficiency in [Cant](../../more/languages/cant) to purchase.
-
-
 #### Listings
 
-| Name                                           | Weight | Uses |
-| :--------------------------------------------- | :----- | :--- |
-| **[Munitions](munitions)**                     |        |      |
-| ... Ammo: Sonic                                | 1 lb.  | 20   |
-| ... Ammo: Sparking                             | 1 lb.  | 20   |
-| ... Grenade: Firebomb                          | 5 lb.  | 1    |
-| ... Grenade: Thunderbomb                       | 5 lb.  | 1    |
-| **[Potions and Poisons](potions_and_poisons)** |        |      |
-| ... Poison: Mellow Dust                        | 1 lb.  | 3    |
-| ... Poison: Scorpion Venom                     | 1 lb.  | 3    |
-| ... Poison: Sleeping Powder                    | 1 lb.  | 3    |
-| ... Potion: Cleansing                          | 1 lb.  | 1    |
-| ... Potion: Healing                            | 1 lb.  | 1    |
-| **[Substances](substances)**                   |        |      |
-| ... Substance: Alchemical Glue                 | 1 lb.  | 1    |
-| ... Substance: Agua Regia                      | 1 lb.  | 1    |
-| ... Substance: Luminessence                    | 1 lb.  | -    |
-| ... Substance: Midnight Oil                    | 1 lb.  | 1    |
-
-
-{: .note}
-> **Proficiency Bonus**
-> 
-> Some items allow the user to add their proficiency bonus to the save DC of the item. The user must be proficient in the corresponding tool to do so (i.e. _Poisoner's Kit_ for poisons).
+| Name                           | Weight | Uses |
+| :----------------------------- | :----- | :--- |
+| **[Ammunition](ammunition)**   |        |      |
+| ... Ammo: Shocking             | 1 lb.  | 20   |
+| ... Ammo: Sonic                | 1 lb.  | 20   |
+| ... Ammo: Sparking             | 1 lb.  | 20   |
+| **[Potions](potions)**         |        |      |
+| ... Potion: Cleansing          | 1 lb.  | 1    |
+| ... Potion: Darkvision         | 1 lb.  | 1    |
+| ... Potion: Energy             | 1 lb.  | 1    |
+| ... Potion: Healing            | 1 lb.  | 1    |
+| **[Illicit Goods](illicit)**   |        |      |
+| ... Grenade: Firebomb          | 5 lb.  | 1    |
+| ... Grenade: Flashbomb         | 5 lb.  | 1    |
+| ... Grenade: Thunderbomb       | 5 lb.  | 1    |
+| ... Poison: Mellow Dust        | 1 lb.  | 3    |
+| ... Poison: Scorpion Venom     | 1 lb.  | 3    |
+| ... Poison: Sleeping Powder    | 1 lb.  | 3    |
+| **[Substances](substances)**   |        |      |
+| ... Substance: Alchemical Glue | 1 lb.  | 1    |
+| ... Substance: Agua Regia      | 1 lb.  | 1    |
+| ... Substance: Luminessence    | 1 lb.  | -    |
+| ... Substance: Midnight Oil    | 1 lb.  | 1    |

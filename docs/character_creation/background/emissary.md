@@ -17,7 +17,7 @@ You came to the Forgotten City at the behest of a greater power. Maybe a nation,
 {: .background-feature}
 > **Herald**
 > 
-> You can replicate the effects of the _Thaumaturgy_ cantrip. If you are a spellcaster, you learn the cantrip.
+> You can replicate the effects of the [*Thaumaturgy*](../../../srd_spells/thaumaturgy) cantrip. If you are a spellcaster, you learn the cantrip.
 
 ### (Optional) Trait Tables
 

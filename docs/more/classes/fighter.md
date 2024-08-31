@@ -54,7 +54,7 @@ Starting at 2nd level, you can push yourself beyond your normal limits for a mom
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-#### Martial Archetype
+#### [Martial Archetype](../archetypes/index)
 
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 

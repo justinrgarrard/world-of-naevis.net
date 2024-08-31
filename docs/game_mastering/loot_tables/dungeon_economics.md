@@ -28,7 +28,7 @@ Typically, a successful expedition should increase a low-level adventurer's net 
 * A **15%** chance of being worth **125 gp** (Elemental Crystal).
 * A **15%** of being worth **250 gp** (Sentient Weapon).
 
-\* _Average loot assumes one Backpack of Loot and a single roll on the minor loot table for a given player._
+\* _Average loot assumes ten pounds of loot (50 gp) and a single roll on the minor loot table for a given player (75 gp)._
 
 #### Optimizing Profits
 

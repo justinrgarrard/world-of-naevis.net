@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lore
-parent: Spells
-grand_parent: More
+title: Magic
+parent: Greenlands
+grand_parent: The Frontier
 nav_order: 99
 ---
 
-# Lore
+# Magic
 
 #### A Framework for Magic
 

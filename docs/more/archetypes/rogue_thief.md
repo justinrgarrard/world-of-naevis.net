@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Rogue: Scoundrel (Thief)
 
-_Scoundrels match the mental imagery most have when they think of rogues. They have remarkable agility and plenty of hidden tricks up their sleeves._
+_Scoundrels match the mental imagery most have when they think of rogues. They possess remarkable agility and carry plenty of hidden tricks up their sleeves._
 
 
 #### Fast Hands

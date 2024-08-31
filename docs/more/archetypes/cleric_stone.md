@@ -46,6 +46,6 @@ At 6th level, you can use your Channel Divinity to create fortifications. As an 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 bludgeoning damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 
-#### One with Stone
+#### Inner Strength
 
-At 17th level, you become difficult to harm by physical means. You have resistance to slashing, piercing, and bludgeoning damage from non-magical weapons. You no longer age.
+At 17th level, you gain an additional use of _Channel Divinity_.

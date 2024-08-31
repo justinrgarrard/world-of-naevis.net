@@ -55,6 +55,6 @@ At 6th level, your *Ray of Frost* cantrip is accompanied by physical force. Targ
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 
-#### Winter's Emissary
+#### Inner Strength
 
-At 17th level, you gain immunity to cold damage and resistance to fire damage.
+At 17th level, you gain an additional use of _Channel Divinity_.
