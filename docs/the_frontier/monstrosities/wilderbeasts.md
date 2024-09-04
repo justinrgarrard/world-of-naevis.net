@@ -15,11 +15,11 @@ grand_parent: The Frontier
 
 #### Surface Creatures
 
-The native fauna in Naevis can be exceedingly dangerous. Even outside the City Below, giant scorpions and errant wyverns threaten settlements in large enough numbers.
+> The native fauna in Naevis can be exceedingly dangerous. Even outside the City Below, giant scorpions and errant wyverns threaten settlements in large enough numbers.
 
 #### City Creatures
 
-The beasts below the earth are even more dangerous than their aboveground cousins. The higher ambient magic that comes from living closer to ley lines has led to distinctly magical adaptations. Gargoyles, for instance, have stony skin that mundane weaponry cannot pierce.
+> The beasts below the earth are even more dangerous than their aboveground cousins. The higher ambient magic that comes from living closer to ley lines has led to distinctly magical adaptations. Gargoyles, for instance, have stony skin that mundane weaponry cannot pierce.
 
 ---
 

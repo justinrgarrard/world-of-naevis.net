@@ -2,7 +2,7 @@
 layout: default
 title: Minor Loot
 parent: Loot Tables
-grand_parent: Game Mastering
+grand_parent: More
 nav_order: 0
 ---
 
@@ -11,8 +11,8 @@ nav_order: 0
 | d100  | Result                                                                         |
 | :---- | :----------------------------------------------------------------------------- |
 |       | Potion (Common)                                                                |
-| 1-40  | ... [Potion of Healing](../../gear/alchemics/potions_and_poisons)              |
-| 41-50 | ... [Potion of Cleansing](../../gear/alchemics/potions_and_poisons)            |
+| 1-40  | ... [Potion of Healing](../../gear/alchemics/potions)              |
+| 41-50 | ... [Potion of Cleansing](../../gear/alchemics/potions)            |
 |       | Spell Scroll (Common)                                                          |
 | 51    | ... Bless                                                                      |
 | 52    | ... Command                                                                    |
@@ -34,5 +34,5 @@ nav_order: 0
 | 68    | ... Silent Image                                                               |
 | 69    | ... Sleep                                                                      |
 | 70    | ... Thunderwave                                                                |
-| 71-85 | [Elemental Crystal](../../more/magic_items/elemental_crystals)                 |
-| 86-00 | [Sentient Weapon](../../more/magic_items/minor_sentient_weapons.md) (Uncommon) |
+| 71-85 | [Elemental Crystal](../../more/city_items/elemental_crystals)                 |
+| 86-00 | [Sentient Weapon](../../more/city_items/minor_sentient_weapons.md) (Uncommon) |

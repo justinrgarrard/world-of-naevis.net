@@ -19,14 +19,14 @@ has_toc: false
 
 Some classes from outside the _Basic Rules_ can be approximated through multiclassing. [Variant Humans](../../character_creation/race/human) can take the requisite [feat](../feats/multiclassing) at level one. A few level one concepts are shown below.
 
-| Approximation | Implementation                       | Description                                    |
-| :------------ | :----------------------------------- | :--------------------------------------------- |
-| Paladin       | Fighter / Cleric                     | Fighter with Cleric Cantrips                   |
-|               | Cleric / Fighter                     | Cleric with Defense _Fighting Style_           |
-| Ranger        | Fighter / Rogue                      | Fighter with Extra Skills                      |
-|               | Rogue / Fighter                      | Rogue with Medium Armor, Shields, and Longbows |
-| Sorcerer      | Cleric / Wizard                      | Cleric with Double Cantrips                     |
-|               | Wizard / Cleric                      | Wizard with Double Cantrips                     |
-| Illusionist   | [Rogue / Wizard](human_rogue_wizard) | Rogue with Wizard Cantrips                     |
-|               | Wizard / Rogue                       | Wizard with Extra Skills                       |
+| Approximation | Implementation                       | Description                                      |
+| :------------ | :----------------------------------- | :----------------------------------------------- |
+| Paladin       | Fighter / Cleric                     | Fighter with Cleric Cantrips                     |
+|               | Cleric / Fighter                     | Cleric with Defense Fighting Style               |
+| Ranger        | Fighter / Rogue                      | Fighter with Survival Expertise and Cant         |
+|               | Rogue / Fighter                      | Rogue with Medium Armor, Shields, and Longbows   |
+| Sorcerer      | Cleric / Wizard                      | Cleric with Double Cantrips                      |
+|               | Wizard / Cleric                      | Wizard with Double Cantrips                      |
+| Illusionist   | [Rogue / Wizard](human_rogue_wizard) | Rogue with Wizard Cantrips                       |
+|               | Wizard / Rogue                       | Wizard with Deception, Sleight of Hand, and Cant |
 

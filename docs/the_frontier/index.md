@@ -8,6 +8,11 @@ has_toc: false
 
 # The Frontier
 
+{: .note}
+> **Lore**
+>
+> This section contains information on the game world and its inhabitants. Players are not required to be familiar with it before play.
+
 #### The City Below
 
 > The City Below, also called the **[Forgotten City](city_below)** or the **City Itself**, is a subterranean otherworld. It was discovered several years prior in the Nameless Desert. The great powers of Naevis covet its treasures.

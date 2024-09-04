@@ -30,7 +30,7 @@ grand_parent: More
 > Choose one of the following:
 > 
 > * Proficiency in shields, one weapon, and one type of armor
-> * Proficiency in a _Fighting Style_ 
+> * Proficiency in a [Fighting Style](../classes/fighter#fighting-style)
 > 
 > The armor proficiency you gain is the lightest armor you are not currently proficient in. When you next level up, you can choose to gain a level in Fighter.
 
@@ -39,10 +39,11 @@ grand_parent: More
 >
 > *Requirements: Dexterity 13, Not a Rogue*
 > 
-> You gain proficiency with two skills and one of the following:
+> You gain proficiency with [Cant](../../more/languages/cant), one skill, and one of the following:
 > 
 > * Thieves' Tools
-> * [Cant](../../more/languages/cant) 
+> * One additional skill
+> * [Expertise](../classes/rogue#expertise) in one skill
 >
 > When you next level up, you can choose to gain a level in Rogue. 
 

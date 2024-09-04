@@ -41,7 +41,7 @@ Equally important, you (the GM), need to have an understanding of the games that
 >
 > *Soft Moves* are a warning. "The goblins nock their arrows and look ready to attack."
 > 
-> *Hard Moves* are a consequence. "Having failed to intimidate the goblins, they attack." 
+> *Hard Moves* are a consequence. "Having failed to intimidate the goblins, they loose their arrows." 
 
 
 **Yes, And...**

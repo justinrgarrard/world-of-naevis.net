@@ -8,7 +8,7 @@ nav_order: 3
 
 # Exile
 
-You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. Your time as an outcast led to a familiarity with unsavory practices, including poisoncraft.
+You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. Your time as an outcast led to a familiarity with unsavory practices.
 
 **[Skill](../../more/skills) Proficiency**: Stealth, Survival
 

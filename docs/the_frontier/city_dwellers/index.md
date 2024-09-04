@@ -8,14 +8,6 @@ has_toc: false
 
 # City Dwellers
 
-<!-- #### The City Above
-
-The entrance to the City Below is a ruin, the broken remnants of some unknown nation. Shattered sandstone walls and collapsed adobe brick buildings are scattered throughout the region. Sinkholes in basements and former courtyards open up into underground tunnels, which in turn connect to the Forgotten City proper. -->
-
-<!-- #### Denizens of the City
-
-Among the monsters and dangers of the City are thinking creatures, capable of speech and reason. Their very existence is something of a controversy among the Kindred (who have long thought themselves the sole stewards of Naevis). -->
-
 **Language**
 
 > Unlike the Kindred, City Dwellers share the same spoken [language](../../more/language) (Undercommon) and written language (Infernal) regardless of race. They are notably not proficient in Common. 

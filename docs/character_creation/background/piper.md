@@ -8,7 +8,7 @@ nav_order: 5
 
 # Piper
 
-You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. You are here to collect information and ply your trade as a performer.
+You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. Your guild is regularly contracted by interested parties to broker information, and your presence in the Canvaslands is unlikely to be accidental.
 
 **[Skill](../../more/skills) Proficiency**: Sleight of Hand, Performance
 

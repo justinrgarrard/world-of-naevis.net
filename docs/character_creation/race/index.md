@@ -25,24 +25,7 @@ nav_order: 2
 
 A number of [intelligent races](../../the_frontier/city_dwellers/index) have been discovered in the City Below. These creatures are capable of speech, magic, and trade. However, they do not share a [language](../../more/languages/index) with the Kindred and are typically hostile to outsiders.
 
-<!-- #### Subrace as Culture
-
-A character's "race" reflects their species, while "subrace" describes their social caste.
-
-For example, High Elves are born to noble bloodlines among their people. They receive comprehensive educations that include spellcraft and language arts, and this upbringing is reflected in their subrace traits.
-
-Wood Elves are physically indistinguishable from High Elves but are born to insignificant lineages. Their upbringing entails a compulsory military service which is manifest in their subraces' higher movement speed, stealth, and perceptiveness. -->
-
-<!-- #### Heritage
-
-Naevis is a land where circumstances of birth strongly influence the trajectory of an individual's life. For many, adventuring is the only way to escape their destined lives as workers, nobles, or slaves.
-
-| Nation                  | Description                                                                                                                                          |
-| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Elven Empire**        | Elves are the longest lived race, and most influential. The Elven Empire rules much of the known world.                                              |
-| **Dwarven City States** | Dwarves are the second longest lived race. Their City States provide the sole opposition to the Elven Empire.                                        |
-| **Halfling Caravans**   | Halflings are a nomadic people that live in winding caravans. They have no homeland, surviving through trade and mercenary work.                     |
-| **Human Kingdoms**      | Humans are the misfortunate vassals of elves and dwarves. They live in kingdoms puppeted by the longer lived races, pawns in their ancient wargames. | -->
-
-
-
+{: .note}
+> **Optional Rule: Playing a City Dweller**
+>
+> Should the Game Master allow other races, players might roleplay their characters as being native to the City Below. The existing [backgrounds](../background/index) can be adapted appropriately; ambassadors from underground nations, clan exiles, and curious scholars might find their way up to the Canvaslands. 

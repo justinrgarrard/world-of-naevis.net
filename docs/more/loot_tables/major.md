@@ -2,7 +2,7 @@
 layout: default
 title: Major Loot
 parent: Loot Tables
-grand_parent: Game Mastering
+grand_parent: More
 nav_order: 1
 ---
 
@@ -11,7 +11,7 @@ nav_order: 1
 | d100  | Result                                                                     |
 | :---- | :------------------------------------------------------------------------- |
 |       | Potions (Uncommon)                                                         |
-| 1-50  | ... [Panacea](../../more/magic_items/panacea)                              |
+| 1-50  | ... [Panacea](../city_items/panacea)                              |
 |       | Spell Scroll (Uncommon)                                                    |
 | 51    | ... Hold Person                                                            |
 | 52    | ... Lesser Restoration                                                     |
@@ -33,17 +33,6 @@ nav_order: 1
 | 68    | ... Fly                                                                    |
 | 69    | ... Haste                                                                  |
 | 70    | ... Lightning Bolt                                                         |
-| 71-85 | [Greater Elemental Crystal](../../more/magic_items/elemental_crystals)     |
-| 86-00 | [Sentient Weapon](../../more/magic_items/major_sentient_weapons.md) (Rare) |
+| 71-85 | [Greater Elemental Crystal](../../more/city_items/elemental_crystals)     |
+| 86-00 | [Sentient Weapon](../../more/city_items/major_sentient_weapons.md) (Rare) |
 
-<!-- |       | Potions (Rare/Very Rare)      |
-| 81-85 | ... Potion of Supreme Healing |
-| 86-87 | ... Potion of Flying          |
-| 88-89 | ... Potion of Invisibility    |
-| 90-91 | ... Potion of Vitality        |
-|       | Scrolls (Rare/Very Rare)      |
-| 92-93 | ... Flame Strike              |
-| 94-95 | ... Greater Restoration       |
-| 96-97 | ... Mass Cure Wounds          |
-| 98-99 | ... Chain Lightning           |
-| 100   | ... Raise Dead                | -->

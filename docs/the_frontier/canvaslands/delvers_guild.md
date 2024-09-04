@@ -9,11 +9,11 @@ grand_parent: The Frontier
 
 #### A Mercenary By Any Other Name
 
-The Delvers are a collective of unaffiliated fortune-seekers and sellswords. Unlike the [Corsairs](corsairs), whose interest remains firmly surface-side, Delvers specialize in expeditions to the City Below. 
+> The Delvers are a collective of unaffiliated fortune-seekers and sellswords. Unlike the [Corsairs](corsairs), whose interest remains firmly surface-side, Delvers specialize in expeditions to the City Below. 
 
 #### Connective Tissue
 
-The Guild serves as an intermediary between many interested parties. It connect adventurers to interested merchants, sponsors, housing, and other adventurers. It facilitates the flow of information between organizations. It acts as a neutral party when mediating contracts, and outsources enforcement of said contracts to the Corsairs. In return, the Guild benefits from kickbacks and greater influence.
+> The Guild serves as an intermediary between many interested parties. It connect adventurers to interested merchants, sponsors, housing, and other adventurers. It facilitates the flow of information between organizations. It acts as a neutral party when mediating contracts, and outsources enforcement of said contracts to the Corsairs. In return, the Guild benefits from kickbacks and greater influence.
 
 ---
 
