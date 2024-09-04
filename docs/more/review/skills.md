@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Skills
-parent: More
+parent: Review
+grand_parent: More
 ---
 
 # Skills
@@ -23,9 +24,12 @@ Skills are niche specialties that are commonly called upon while adventuring. Ha
 |                  | Insight         |
 |                  | Animal Handling |
 |                  | Survival        |
-| **Charisma**     | Persuasion*     |
+| **Charisma**     | Persuasion      |
 |                  | Deception       |
-|                  | Intimidation*   |
+|                  | Intimidation    |
 |                  | Performance     |
 
-\* _Fighters can use these skills with Strength instead of Charisma, provided that they leverage their reputation as a warrior._
+{: .note}
+> **Fighter's Honor**
+>
+> Fighters can use _Persuasion_ and _Intimidation_ with their Strength modifier, instead of their Charisma modifier.

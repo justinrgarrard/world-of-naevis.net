@@ -26,23 +26,16 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 
 The Cleric War domain can be repurposed with minor changes to its spell list. Note that the replacement spells have a theme close to their originals. Should the player wish, they might add the [Giant](../languages/secret#secret-languages) secret language to starting proficiencies for roleplaying effect.
 
-| Cleric Level |                                 Spells |
-| :----------- | -------------------------------------: |
-| 1st          |     ***Cure Wounds***, Shield of Faith |
-| 3rd          |         Magic Weapon, Spiritual Weapon |
-| 5th          | ***Beacon of Hope***, Spirit Guardians |
-| 7th          |         Freedom of Movement, Stoneskin |
-| 9th          |             Flame Strike, Hold Monster |
-
+| Cleric Level |                                                                 Spells |
+| :----------- | ---------------------------------------------------------------------: |
+| 1st          |        [Cure Wounds](../../../srd_spells/cure_wounds), Shield of Faith |
+| 3rd          |                                         Magic Weapon, Spiritual Weapon |
+| 5th          | [Beacon of Hope](../../../srd_spells/beacon_of_hope), Spirit Guardians |
+| 7th          |                                         Freedom of Movement, Stoneskin |
+| 9th          |   Flame Strike, [Dominate Person](../../../srd_spells/dominate_person) |
 
 #### Example: Rune Knight
 
-The Fighter Rune Knight subclass has more magic than the setting typically allows for. Removing the size increase from *Giant's Might* may be sufficient, though some abilities (such as the fire shackles conjured by *Fire Rune*) could also be reflavored. 
+The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the (largely lost to time) [Giant](../languages/secret#secret-languages) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
 
-#### Example: Divination Wizard
-
-The Wizard Divination subclass has an expectation of more spells than the _Basic Rules_ possesses. Because of this, the sixth level class feature is not usable, and will need to be replaced. A suggested alternative is shown below.
-
-**Divination Mastery**
-
-> When you cast a first level divination spell as a ritual, the casting time is instant.
+In terms of mechanics, the Rune Knight archetype is largely compatible as-is, but a Game Master might remove the size increase ability to avoid veering into high fantasy.

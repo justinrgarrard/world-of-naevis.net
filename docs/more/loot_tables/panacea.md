@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Panacea
-parent: City Items
+parent: Loot Tables
 grand_parent: More
+nav_order: 2
 ---
 
 

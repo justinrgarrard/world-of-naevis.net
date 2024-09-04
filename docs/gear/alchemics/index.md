@@ -13,6 +13,11 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 {: .language}
 > Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **40 gp**.
 
+{: .note}
+> **Crafting**
+>
+> Proficient adventurers can [craft alchemic](../../adventuring/downtime/alchemy) items for a reduced price during downtime.
+
 #### Listings
 
 | Name                           | Weight | Uses |

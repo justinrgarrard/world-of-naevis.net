@@ -20,12 +20,12 @@ Between each gameplay session, adventurers can choose one downtime activity to p
 {: .downtime}
 > **Fighter: Conditioning Drills**
 > 
-> Start the next session with temporary hit points equal to twice your character level. You can change out your [Fighting Style](../../more/classes/fighter#fighting-style) for a different option.
+> Start the next session with temporary hit points equal to twice your character level. You can replace your [Fighting Style](../../more/classes/fighter#fighting-style) with a different option.
 
 {: .downtime}
 > **Rogue: Specialty Work**
 > 
-> Waive the lifestyle expenses for this downtime. You can replace the skills you have [Expertise](../../more/classes/rogue#expertise) in with any other skills you are proficient with.
+> Waive the lifestyle expenses for this downtime. You can replace the skills you have [Expertise](../../more/classes/rogue#expertise) in with other skills you are proficient with.
 
 {: .downtime}
 > **Wizard: Research**

@@ -8,7 +8,7 @@ nav_order: 4
 
 # Nomad
 
-You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. You are a naturalist with some skill in potioncraft.
+You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. You are a naturalist skilled in the use of herbs.
 
 **[Skill](../../more/skills) Proficiency**: Athletics, Survival
 

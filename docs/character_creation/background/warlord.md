@@ -8,7 +8,7 @@ nav_order: 8
 
 # Warlord
 
-You came to the City to conquer and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid, [hand signs](../../more/languages/cant), and [munitions crafting](../../adventuring/downtime/alchemy).
+You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like [first aid](../../gear/adventuring_gear/medical), [hand signs](../../more/languages/cant), and [munitions crafting](../../adventuring/downtime/alchemy).
 
 **[Skill](../../more/skills) Proficiency**: Intimidation, Medicine
 
@@ -19,7 +19,7 @@ You came to the City to conquer and pillage. You may be a tribal chieftain, a so
 {: .background-feature}
 > **First Blood**
 > 
-> You have advantage on initiative rolls and add your proficiency bonus to the result.
+> You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls.
 
 {: .background-feature}
 > **Redundant Proficiencies**

@@ -11,7 +11,7 @@ nav_order: 1
 [Clerics](../../more/classes/cleric) are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles their magic. 
 
 {: .note}
-> Clerics are the only one of the four base classes that much choose an [**archetype**](../../more/archetypes/index) at first level.
+> Clerics are the only one of the four base classes that must choose an [**archetype**](../../more/archetypes/index) at first level.
 
 #### Mystery Cults
 
@@ -19,7 +19,7 @@ Religion in Naevis is organized across [countless organizations](../../the_front
 
 #### Divine Magic
 
-Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull power from the land, while a mental-oriented cleric might use psychic energy. 
+Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull their power from the land itself, while a mental-oriented cleric might use psychic energy. 
 
 
 
