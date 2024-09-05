@@ -16,9 +16,9 @@ Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https:/
 
 * **Basic Rules Gameplay**: Classes, races, and spells are restricted to [Basic Rules](docs/more/DnD_BasicRules_2018.pdf) options. Make each decision count.
 
-* **Dungeon Crawling**: Streamlined gameplay mechanics for [resting](docs/adventuring/rest) and [downtime](docs/adventuring/downtime/index). Variant rules for [encumbrance](docs/adventuring/encumbrance), [attunement](docs/adventuring/loot/attunement), and [multiclassing](docs/more/feats/multiclassing). 
+* **Dungeon Crawling**: Streamlined [gameplay mechanics](docs/adventuring/index) that reward preparation and creative problem solving. Use your head.
 
-* **A Brave New World**: Enter an Age of Discovery. Shape first contact between the [Kindred](docs/character_creation/race/index) races and the underground civilizations native to the [City Below](docs/the_frontier/index).
+* **A Brave New World**: Low fantasy swords and sorcery. Establish first contact with the subterranean [City Dwellers](docs/the_frontier/city_dwellers/index) and their [strange gods](docs/the_frontier/city_dwellers/devil_princes).
 
 #### Similar Media
 
@@ -26,9 +26,3 @@ Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https:/
 * _The Farseer Trilogy_  
 * _The Wheel of Time_
 * _The Queen's Thief_
-
-<!-- #### Less is More
-
-Naevis is based on D&D's _[Basic Rules](docs/more/DnD_BasicRules_2018.pdf)_. There are fewer classes, races, and spells than found in the _Player's Handbook_. A player's skill is tested against their ability to make use of their options effectively and creatively.  -->
-
-<!-- It is comparable to other D&D settings such as the _Forgotten Realms_, _Eberron_, or _Dark Sun_. -->

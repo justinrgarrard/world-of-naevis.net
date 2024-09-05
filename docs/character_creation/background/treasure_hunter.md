@@ -19,12 +19,19 @@ You came to the Forgotten City in search of fortune and glory. You may be a sell
 > 
 > Add +5 to your passive perception.
 
-{: .note}
+<!-- {: .note}
 > **Redundant Proficiencies**
 >
-> If you already have proficiency in Thieves' Tools, you gain Expertise with them instead.
+> If you already have proficiency in Thieves' Tools, you gain Expertise with them instead. -->
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Treasure Hunter's Spellbook**
+> 
+> Burning Hands, Comprehend Languages, Detect Magic, Identify, Shield, Sleep
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 

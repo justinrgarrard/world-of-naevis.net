@@ -3,8 +3,6 @@
 // Override fonts.
 body {
     font-family: "Lisu Bosa";
-    // font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
-    // roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -26,6 +24,10 @@ a {
 
 .nav-list-link {
     font-weight: normal;
+}
+
+b {
+    font-weight: 900
 }
 
 // Override header 4 settings.
@@ -63,3 +65,8 @@ td {
 .site-title {
     @include fs-10
 }
+
+.character-header {
+    @include fs-6;
+}
+

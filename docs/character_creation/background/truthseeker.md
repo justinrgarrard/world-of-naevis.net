@@ -19,7 +19,14 @@ You came to the Forgotten City to understand its mysteries. You may be an archae
 > 
 > You can replicate the effects of the [*Light*](../../../srd_spells/light) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Truthseeker's Spellbook**
+> 
+> Comprehend Languages, Detect Magic, Identify, Mage Armor, Silent Image, Sleep
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 

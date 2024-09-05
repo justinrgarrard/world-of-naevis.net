@@ -21,12 +21,19 @@ You did not come to the City of your own free will. You were driven here, perhap
 > 
 > You gain proficiency in Constitution saves. If you already have proficiency, you gain proficiency in Dexterity or Wisdom saves instead.
 
-{: .background-feature}
+<!-- {: .background-feature}
 > **Redundant Proficiencies**
 > 
-> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead.
+> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead. -->
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Exile's Spellbook**
+> 
+> Detect Magic, Disguise Self, Mage Armor, Magic Missile, Sleep, Thunderwave
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 
