@@ -15,7 +15,7 @@ A **Background** describes an adventurer's motivation for coming to the Canvasla
 
 | Background                             | Suggested Motivation                                                                                                                           |
 | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Alchemist](alchemist)**             | To learn the recipe for [panacea](../../more/city_items/panacea).                                                                              |
+| **[Alchemist](alchemist)**             | To learn the recipe for [panacea](../../more/loot_tables/panacea).                                                                              |
 | **[Emissary](emissary)**               | To represent the interests of a [national power](../../the_frontier/greenlands/index) or [cult](../../the_frontier/canvaslands/mystery_cults). |
 | **[Exile](exile)**                     | To revenge yourself on your enemies.                                                                                                           |
 | **[Nomad](nomad)**                     | To explore a new frontier, seeing sights unknown to surface-dwellers.                                                                          |

@@ -19,7 +19,14 @@ You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a k
 > 
 > You gain proficiency in Dexterity saves. If you already have proficiency, you gain proficiency in Strength or Wisdom saves instead.
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Nomad's Spellbook**
+> 
+> Burning Hands, Comprehend Languages, Detect Magic, Silent Image, Shield, Sleep
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 

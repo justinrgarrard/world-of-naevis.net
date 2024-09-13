@@ -36,12 +36,15 @@ callouts:
   downtime:
     title: Downtime Activity
     color: purple
-  mundane-item:
-    title: Item
-    color: blue
   language:
     title: Language
     color: purple
+  background-spells:
+    title: Background Spells
+    color: blue
+  mundane-item:
+    title: Item
+    color: blue
   exotic-language:
     title: Exotic Language
     color: red

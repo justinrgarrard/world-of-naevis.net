@@ -19,7 +19,14 @@ You came to the Forgotten City at the behest of a greater power. Maybe a nation,
 > 
 > You can replicate the effects of the [*Thaumaturgy*](../../../srd_spells/thaumaturgy) cantrip. If you are a spellcaster, you learn the cantrip.
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Emissary's Spellbook**
+> 
+> Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Mage Armor, Silent Image
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 

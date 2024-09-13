@@ -14,19 +14,26 @@ You came to the City to raid and pillage. You may be a tribal chieftain, a sorce
 
 **[Language](../../more/tools) Proficiency**: Cant
 
-**[Tool](../../more/tools) Proficiency**: One [Alchemy Tool](../../more/tools)
+**[Tool](../../more/tools) Proficiency**: Smith or Woodworker
 
 {: .background-feature}
 > **First Blood**
 > 
-> You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls.
+> You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls. You cannot be surprised while awake.
 
-{: .background-feature}
+<!-- {: .background-feature}
 > **Redundant Proficiencies**
 > 
-> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead.
+> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead. -->
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Warlord's Spellbook**
+> 
+> Burning Hands, Detect Magic, Magic Missile, Mage Armor, Shield, Thunderwave
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 

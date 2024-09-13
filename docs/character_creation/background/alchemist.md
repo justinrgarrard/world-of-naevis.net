@@ -21,7 +21,14 @@ You came to the Forgotten City to be at the forefront of your art. You may appro
 >
 > You can replicate the effects of the [*Poison Spray*](../../../srd_spells/poison_spray) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
-### (Optional) Trait Tables
+#### (Optional) Starting Wizard Spells
+
+{: .background-spells}
+> **Alchemist's Spellbook**
+> 
+> Burning Hands, Charm Person, Comprehend Languages, Detect Magic, Identify, Sleep
+
+#### (Optional) Trait Tables
 
 ##### Personality Traits
 
