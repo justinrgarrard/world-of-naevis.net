@@ -12,11 +12,15 @@ nav_order: 2
 
 #### Martial Arts
 
-Skill at arms is the bare minimum requirement for one to be a fighter. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also adopt or adapt a martial arts tradition, reflected in their _Fighting Style_ and eventual [archetype](../../more/archetypes/index).
+Skill at arms is the bare minimum requirement for one to be a fighter. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also adopt or adapt a martial arts tradition, reflected in their [Fighting Style](../../more/classes/fighter#fighting-style) and other abilities.
 
 #### Honor
 One's reputation and history of service take on a force of their own, though it need not be positive. Heroes and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 
 
+{: .note}
+> **Second Wind**
+>
+> Fighters begin play with the [Second Wind](../../more/classes/fighter#fighter-class) ability, which functions similarly to a rechargeable [potion of healing](../../gear/alchemics/potions). This makes them the sturdiest of the four base classes.
 
 ### Starting Gear
 

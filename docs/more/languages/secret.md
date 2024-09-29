@@ -9,7 +9,7 @@ grand_parent: More
 
 #### Words of Power
 
-Secret languages are languages of [magic](../../the_frontier/greenlands/magic), capable of producing supernatural effects without the use of spells. [Priests](../../character_creation/class/cleric) are typically proficient in one related to their cult.
+Secret languages are languages of [magic](../../the_frontier/greenlands/magic), capable of producing supernatural effects without the use of spells. 
 
 ##### **Abyssal**
 

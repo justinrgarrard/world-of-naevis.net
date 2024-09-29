@@ -6,6 +6,7 @@ ITEMS = {
   ammunition: { weight: 1, value: 1, title: "ammunition (20)" },
   backpack: { weight: 5, value: 2, title: "backpack" },
   battleaxe: { weight: 1, value: 10, title: "battleaxe" },
+  boots_of_leaping: { weight: 1, value: 50, title: "<i>boots of leaping</i>" },
   breastplate: { weight: 20, value: 50, title: "breastplate" },
   bullseye_lantern: { weight: 2, value: 5, title: "bullseye lantern" },
   chainmail: { weight: 55, value: 50, title: "chain mail" },
@@ -14,12 +15,17 @@ ITEMS = {
   dagger2: { weight: 2, value: 2, title: "dagger (2)" },
   dagger5: { weight: 5, value: 5, title: "dagger (5)" },
   darts: { weight: 5, value: 1, title: "darts (20)" },
+  flintlock_pistol: { weight: 2, value: 50, title: "flintlock pistol" },
+  halberd: { weight: 6, value: 10, title: "halberd" },
   holy_symbol: { weight: 1, value: 10, title: "holy symbol" },
   longbow: { weight: 2, value: 10, title: "longbow" },
   longsword: { weight: 3, value: 10, title: "longsword" },
-  warhammer: { weight: 2, value: 10, title: "warhammer" },
   mace: { weight: 4, value: 5, title: "mace" },
+  mage_dagger: { weight: 1, value: 50, title: "<i>mage dagger</i>" },
+  mist_dagger: { weight: 1, value: 50, title: "<i>mist dagger</i>" },
+  mythril_longsword: { weight: 3, value: 60, title: "mythril longsword" },
   oil3: { weight: 3, value: 3, title: "flask of oil (3)" },
+  potion_of_healing: { weight: 1, value: 50, title: "potion of healing" },
   pouch: { weight: 1, value: 1, title: "pouch" },
   rapier: { weight: 2, value: 10, title: "rapier" },
   rations: { weight: 1, value: 1, title: "rations (3)" },
@@ -27,21 +33,19 @@ ITEMS = {
   robes: { weight: 4, value: 1, title: "robes" },
   scroll_sleep: { weight: 1, value: 50, title: "scroll of sleep" },
   shield: { weight: 6, value: 5, title: "shield" },
+  shortbow: { weight: 2, value: 5, title: "shortbow" },
   shortsword: { weight: 2, value: 5, title: "shortsword" },
+  sleeping_powder: { weight: 1, value: 50, title: "sleeping powder (3)" },
+  sparking_ammo: { weight: 1, value: 50, title: "sparking ammunition (20)" },
   spear: { weight: 3, value: 5, title: "spear" },
   spellbook: { weight: 1, value: 25, title: "spellbook" },
   studded_leather: { weight: 13, value: 10, title: "studded leather" },
   thieves_tools: { weight: 1, value: 10, title: "thieves' tools" },
+  thunderbomb: { weight: 5, value: 50, title: "thunderbomb" },
   tinderbox: { weight: 1, value: 1, title: "tinderbox" },
   torches: { weight: 5, value: 1, title: "torches (5)" },
   wand: { weight: 1, value: 10, title: "wand" },
-  thunderbomb: { weight: 5, value: 50, title: "thunderbomb" },
-  mist_dagger: { weight: 1, value: 50, title: "<i>mist dagger</i>" },
-  boots_of_leaping: { weight: 1, value: 50, title: "<i>boots of leaping</i>" },
-  sleeping_powder: { weight: 1, value: 50, title: "sleeping powder (3)" },
-  sparking_ammo: { weight: 1, value: 50, title: "sparking ammunition (20)" },
-  potion_of_healing: { weight: 1, value: 50, title: "potion of healing" },
-  flintlock_pistol: { weight: 2, value: 50, title: "flintlock pistol" },
+  warhammer: { weight: 2, value: 10, title: "warhammer" },
 };
 
 CONTAINERS = {
@@ -51,8 +55,8 @@ CONTAINERS = {
 };
 
 // Classes.
-// Human or Mountain Dwarf
-const HOPLITE = {
+// Human, Mountain Dwarf
+const LANCER = {
   ability_scores: { STR: 15, DEX: 14, CON: 13, WIS: 12, INT: 8, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -64,58 +68,27 @@ const HOPLITE = {
   resistances: [],
   skills: ["athletics", "intimidation"],
   spells: [],
-  title: "hoplite",
+  title: "lancer",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Hoplite, a master of the spear and shield.",
+  writeup:
+    "You are a Lancer, a warrior trained in the Dwarven tradition of spearmanship.",
   races: ["human", "mountain dwarf"],
   inv_worn: [
     ITEMS.spear,
     ITEMS.shield,
-    ITEMS.chainshirt,
+    ITEMS.breastplate,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.darts, ITEMS.potion_of_healing],
+  inv_pouch: [ITEMS.darts],
   inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
   ability_proficiencies: ["STR", "CON"],
 };
 
-// Human, Wood Elf, Hill Dwarf
-const JAEGER = {
-  ability_scores: { STR: 12, DEX: 14, CON: 13, WIS: 15, INT: 10, CHA: 8 },
-  armor: ["light", "medium", "heavy", "shields"],
-  cantrips: [],
-  class: "fighter",
-  hp: 10,
-  expertise: [],
-  features: ["fighting style: archery", "second wind"],
-  languages: [],
-  resistances: [],
-  skills: ["survival", "perception"],
-  spells: [],
-  title: "jaeger",
-  tools: [],
-  weapons: ["simple", "martial"],
-  writeup: "You are a Jaeger, a sharpshooter with survivalist training.",
-  races: ["human", "wood elf"],
-  inv_worn: [
-    ITEMS.longbow,
-    ITEMS.dagger2,
-    ITEMS.studded_leather,
-    ITEMS.ammunition,
-    ITEMS.backpack,
-    ITEMS.pouch,
-    ITEMS.sparking_ammo,
-  ],
-  inv_pouch: [],
-  inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
-  ability_proficiencies: ["STR", "CON"],
-};
-
-// Human, High Elf, or Stout Halfling
+// Human, High Elf
 const FENCER = {
-  ability_scores: { STR: 10, DEX: 14, CON: 15, WIS: 8, INT: 13, CHA: 12 },
+  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 8, INT: 13, CHA: 12 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "fighter",
@@ -129,16 +102,16 @@ const FENCER = {
   title: "fencer",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup:
-    "You are a Fencer, a professional duelist that favors lightweight weaponry.",
+  writeup: "You are a Fencer, a warrior trained in Elven swordplay.",
   races: ["human", "high elf"],
   inv_worn: [
     ITEMS.rapier,
     ITEMS.dagger2,
     ITEMS.studded_leather,
     ITEMS.shield,
-    ITEMS.flintlock_pistol,
+    ITEMS.longbow,
     ITEMS.ammunition,
+    ITEMS.sparking_ammo,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
@@ -147,9 +120,9 @@ const FENCER = {
   ability_proficiencies: ["STR", "CON"],
 };
 
-// Human
-const LIFE = {
-  ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 10, CHA: 12 },
+// Hill Dwarf
+const EXORCIST = {
+  ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "cleric",
@@ -158,44 +131,12 @@ const LIFE = {
   features: ["disciple of life"],
   languages: [],
   resistances: [],
-  skills: ["medicine", "insight"],
+  skills: ["medicine", "history"],
   spells: ["bless", "cure wounds"],
-  title: "templar",
+  title: "exorcist",
   tools: [],
   weapons: ["simple"],
-  writeup: "You are a Templar, a holy knight with an affinity for healing.",
-  races: ["human"],
-  inv_worn: [
-    ITEMS.chainmail,
-    ITEMS.mace,
-    ITEMS.shield,
-    ITEMS.holy_symbol,
-    ITEMS.backpack,
-    ITEMS.pouch,
-  ],
-  inv_pouch: [],
-  inv_backpack: [ITEMS.rations],
-  ability_proficiencies: ["CHA", "WIS"],
-};
-
-// Hill Dwarf
-const STONE = {
-  ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 10, CHA: 12 },
-  armor: ["light", "medium", "heavy", "shields"],
-  cantrips: ["resistance"],
-  class: "cleric",
-  hp: 8,
-  expertise: [],
-  features: ["amor fati"],
-  languages: ["giant"],
-  resistances: [],
-  skills: ["medicine", "insight"],
-  spells: ["command", "shield"],
-  title: "stone legionnaire",
-  tools: [],
-  weapons: ["simple"],
-  writeup:
-    "You are a Stone Legionnaire, a warrior priest specialized in combat.",
+  writeup: "You are an Exorcist, a holy warrior that purifies evil spirits.",
   races: ["hill dwarf"],
   inv_worn: [
     ITEMS.chainmail,
@@ -210,89 +151,32 @@ const STONE = {
   ability_proficiencies: ["CHA", "WIS"],
 };
 
-// Human
-const HELL = {
-  ability_scores: { STR: 15, DEX: 13, CON: 12, WIS: 14, INT: 10, CHA: 8 },
-  armor: ["light", "medium", "shields"],
-  cantrips: ["fire bolt"],
-  class: "cleric",
-  hp: 8,
-  expertise: [],
-  features: ["reap"],
-  languages: [, "abyssal"],
-  resistances: [],
-  skills: ["medicine", "insight"],
-  spells: ["burning hands", "inflict wounds"],
-  title: "hell knight",
-  tools: [],
-  weapons: ["simple", "martial"],
-  writeup: "You are a Hell Knight, an agent of chaos that can call flames.",
-  races: ["human"],
-  inv_worn: [
-    ITEMS.longsword,
-    ITEMS.shield,
-    ITEMS.breastplate,
-    ITEMS.holy_symbol,
-    ITEMS.backpack,
-    ITEMS.pouch,
-  ],
-  inv_pouch: [],
-  inv_backpack: [ITEMS.rations],
-  ability_proficiencies: ["CHA", "WIS"],
-};
-
-// Human, Stout Halfling
-const DREAM = {
-  ability_scores: { STR: 10, DEX: 14, CON: 13, WIS: 15, INT: 8, CHA: 12 },
-  armor: ["light", "medium", "shields"],
+// Variant
+const KNIGHT = {
+  ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 14, INT: 10, CHA: 12 },
+  armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "cleric",
   hp: 8,
-  expertise: ["insight"],
-  features: ["psychic casting"],
-  languages: [, "deep speech"],
-  resistances: [],
-  skills: ["persuasion", "insight", "perception"],
-  spells: ["sleep", "silent image"],
-  title: "dreamweaver",
-  tools: [],
-  weapons: ["simple"],
-  writeup: "You are a Dreamweaver, an occultist with power over the mind.",
-  races: ["human", "stout halfling"],
-  inv_worn: [
-    ITEMS.dagger,
-    ITEMS.chainshirt,
-    ITEMS.holy_symbol,
-    ITEMS.backpack,
-    ITEMS.pouch,
-  ],
-  inv_pouch: [],
-  inv_backpack: [ITEMS.rations],
-  ability_proficiencies: ["CHA", "WIS"],
-};
-
-// Human or Wood Elf
-const WINTER = {
-  ability_scores: { STR: 10, DEX: 14, CON: 12, WIS: 15, INT: 13, CHA: 8 },
-  armor: ["light", "medium", "shields"],
-  cantrips: ["ray of frost"],
-  class: "cleric",
-  hp: 8,
   expertise: [],
-  features: ["frost sorcery"],
-  languages: [, "sylvan"],
+  features: [
+    "disciple of life",
+    "fighting style: defense",
+    "feat: fighter multiclass",
+  ],
+  languages: [],
   resistances: [],
-  skills: ["religion", "insight"],
-  spells: ["comprehend languages", "sleep"],
-  title: "winter witch",
+  skills: ["athletics", "medicine", "persuasion"],
+  spells: ["bless", "cure wounds"],
+  title: "knight",
   tools: [],
   weapons: ["simple"],
-  writeup:
-    "You are a Winter Witch, a magician that uses primal sorceries and speaks the language of beasts.",
-  races: ["human", "wood elf"],
+  writeup: "You are a Knight, a holy warrior with a divine gift.",
+  races: ["variant"],
   inv_worn: [
-    ITEMS.dagger,
-    ITEMS.chainshirt,
+    ITEMS.chainmail,
+    ITEMS.mace,
+    ITEMS.shield,
     ITEMS.holy_symbol,
     ITEMS.backpack,
     ITEMS.pouch,
@@ -303,7 +187,7 @@ const WINTER = {
 };
 
 // Human, Hill Dwarf, Wood Elf
-const TOMBRAIDER = {
+const RAIDER = {
   ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 13, INT: 8, CHA: 12 },
   armor: ["light"],
   cantrips: [],
@@ -315,11 +199,11 @@ const TOMBRAIDER = {
   resistances: [],
   skills: ["acrobatics", "perception", "persuasion", "stealth"],
   spells: [],
-  title: "tomb raider",
+  title: "raider",
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
   writeup:
-    "You are a Tomb Raider, a specialist in looting ruins and robbing graves.",
+    "You are a Raider, a specialist in looting ruins and robbing graves.",
   races: ["human", "hill dwarf", "wood elf"],
   inv_worn: [
     ITEMS.dagger5,
@@ -338,37 +222,8 @@ const TOMBRAIDER = {
   ability_proficiencies: ["DEX", "INT"],
 };
 
-// Human and Lightfoot Halfling
-const COURTIER = {
-  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 8, INT: 12, CHA: 13 },
-  armor: ["light"],
-  cantrips: [],
-  class: "rogue",
-  hp: 8,
-  expertise: ["stealth", "deception"],
-  features: ["sneak attack"],
-  languages: [, "cant"],
-  resistances: [],
-  skills: ["deception", "persuasion", "sleight of hand", "stealth"],
-  spells: [],
-  title: "courtier",
-  tools: ["thieves'"],
-  weapons: ["simple", "rogue"],
-  writeup: "You are a Courtier, trained in etiquette and the subtler arts.",
-  races: ["human", "lightfoot halfling"],
-  inv_worn: [ITEMS.shortsword, ITEMS.dagger, ITEMS.backpack, ITEMS.pouch],
-  inv_pouch: [ITEMS.sleeping_powder],
-  inv_backpack: [
-    ITEMS.rations,
-    ITEMS.thieves_tools,
-    ITEMS.bullseye_lantern,
-    ITEMS.oil3,
-  ],
-  ability_proficiencies: ["DEX", "INT"],
-};
-
-// Human and Lightfoot Halfling
-const SKIRMISHER = {
+// Human, Stout Halfling
+const BANDIT = {
   ability_scores: { STR: 14, DEX: 15, CON: 13, WIS: 12, INT: 8, CHA: 10 },
   armor: ["light"],
   cantrips: [],
@@ -380,20 +235,21 @@ const SKIRMISHER = {
   resistances: [],
   skills: ["athletics", "acrobatics", "perception", "stealth"],
   spells: [],
-  title: "skirmisher",
+  title: "bandit",
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
-  writeup:
-    "You are a Skirmisher, a highly mobile combatant specialized in ambushes.",
+  writeup: "You are a Bandit, a fleet-footed warrior specialized in ambushes.",
   races: ["human", "stout halfling"],
   inv_worn: [
     ITEMS.shortsword,
-    ITEMS.dagger,
+    ITEMS.shortsword,
+    ITEMS.shortbow,
+    ITEMS.ammunition,
     ITEMS.studded_leather,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.thunderbomb],
+  inv_pouch: [],
   inv_backpack: [
     ITEMS.rations,
     ITEMS.thieves_tools,
@@ -403,32 +259,44 @@ const SKIRMISHER = {
   ability_proficiencies: ["DEX", "INT"],
 };
 
-// Human
-const ARCANIST = {
-  ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 13, INT: 15, CHA: 10 },
-  armor: [],
+// Human or Lightfoot Halfling
+const DESPERADO = {
+  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 8, INT: 12, CHA: 13 },
+  armor: ["light"],
   cantrips: [],
-  class: "wizard",
-  hp: 6,
-  expertise: [],
-  features: ["arcane recovery"],
-  languages: [],
+  class: "rogue",
+  hp: 8,
+  expertise: ["stealth", "deception"],
+  features: ["sneak attack"],
+  languages: [, "cant"],
   resistances: [],
-  skills: ["arcana", "history"],
+  skills: ["deception", "persuasion", "sleight of hand", "stealth"],
   spells: [],
-  title: "arcanist",
-  tools: [],
-  weapons: ["wizard"],
-  writeup: "You are an Arcanist, a learned scholar of wizardry.",
-  races: ["human"],
-  inv_worn: [ITEMS.dagger, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
-  inv_pouch: [ITEMS.scroll_sleep],
-  inv_backpack: [ITEMS.rations, ITEMS.spellbook],
-  ability_proficiencies: ["INT", "WIS"],
+  title: "desperado",
+  tools: ["thieves'"],
+  weapons: ["simple", "rogue"],
+  writeup: "You are a Desperado, a charming gunslinger with clever tricks.",
+  races: ["human", "lightfoot halfling"],
+  inv_worn: [
+    ITEMS.dagger2,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.flintlock_pistol,
+    ITEMS.ammunition,
+    ITEMS.studded_leather,
+  ],
+  inv_pouch: [],
+  inv_backpack: [
+    ITEMS.rations,
+    ITEMS.thieves_tools,
+    ITEMS.bullseye_lantern,
+    ITEMS.oil3,
+  ],
+  ability_proficiencies: ["DEX", "INT"],
 };
 
-// Lightfoot Halfling
-const CHARMCASTER = {
+// Human or Lightfoot Halfling
+const WITCH = {
   ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 10, INT: 15, CHA: 13 },
   armor: [],
   cantrips: [],
@@ -440,11 +308,10 @@ const CHARMCASTER = {
   resistances: [],
   skills: ["arcana", "investigation"],
   spells: [],
-  title: "charmcaster",
+  title: "witch",
   tools: [],
   weapons: ["wizard"],
-  writeup:
-    "You are a Charmcaster, a fleet-footed enchanter skilled with magic items.",
+  writeup: "You are a Witch, an enchanter skilled with magic items.",
   races: ["human", "lightfoot halfling"],
   inv_worn: [ITEMS.mist_dagger, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
@@ -484,7 +351,7 @@ const WARDER = {
 };
 
 // High Elf or Wood Elf
-const MYRMIDON = {
+const SPELLSWORD = {
   ability_scores: { STR: 13, DEX: 14, CON: 12, WIS: 8, INT: 15, CHA: 10 },
   armor: [],
   cantrips: [],
@@ -496,40 +363,70 @@ const MYRMIDON = {
   resistances: [],
   skills: ["investigation", "nature"],
   spells: [],
-  title: "myrmidon",
+  title: "spellsword",
   tools: [],
   weapons: ["wizard"],
-  writeup: "You are a Myrmidon, a war mage armed with blade and bow.",
+  writeup: "You are a Spellsword, a war mage armed with blade and bow.",
   races: ["high elf"],
   inv_worn: [
     ITEMS.shortsword,
-    ITEMS.longbow,
+    ITEMS.shortbow,
     ITEMS.wand,
     ITEMS.ammunition,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [],
+  inv_pouch: [ITEMS.scroll_sleep],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
   ability_proficiencies: ["INT", "WIS"],
 };
 
+// Variant Human
+const MAGE_KNIGHT = {
+  ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 12, INT: 14, CHA: 10 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: ["light", "fire bolt", "minor illusion"],
+  class: "fighter",
+  hp: 10,
+  expertise: [],
+  features: [
+    "fighting style: defense",
+    "second wind",
+    "feat: wizard multiclass",
+  ],
+  languages: [],
+  resistances: [],
+  skills: ["athletics", "history", "arcana"],
+  spells: [],
+  title: "mage knight",
+  tools: [],
+  weapons: ["simple", "martial"],
+  writeup: "You are a Mage Knight, an expert warrior trained in arcane magic.",
+  races: ["variant"],
+  inv_worn: [
+    ITEMS.halberd,
+    ITEMS.chainmail,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.wand,
+  ],
+  inv_pouch: [],
+  inv_backpack: [ITEMS.rations],
+  ability_proficiencies: ["STR", "CON"],
+};
+
 const CLASSES = {
-  "tomb raider": TOMBRAIDER,
-  arcanist: ARCANIST,
-  charmcaster: CHARMCASTER,
-  courtier: COURTIER,
-  dream: DREAM,
+  bandit: BANDIT,
+  desperado: DESPERADO,
+  exorcist: EXORCIST,
   fencer: FENCER,
-  hell: HELL,
-  hoplite: HOPLITE,
-  jaeger: JAEGER,
-  life: LIFE,
-  myrmidon: MYRMIDON,
-  skirmisher: SKIRMISHER,
-  stone: STONE,
+  knight: KNIGHT,
+  lancer: LANCER,
+  raider: RAIDER,
+  spellsword: SPELLSWORD,
   warder: WARDER,
-  winter: WINTER,
+  witch: WITCH,
+  "mage knight": MAGE_KNIGHT,
 };
 
 // Races.
@@ -655,7 +552,26 @@ const HUMAN = {
   subrace: "standard",
   tools: [],
   weapons: [],
-  writeup: "You are a human from one of the surrounding kingdoms.",
+  writeup: "You are a human from the surrounding kingdoms.",
+  mv: 30,
+};
+
+const VARIANT_HUMAN = {
+  ability_scores: { STR: 0, DEX: 0, CON: 0, WIS: 0, INT: 0, CHA: 0 },
+  armor: [],
+  cantrips: [],
+  expertise: [],
+  features: [],
+  languages: [],
+  resistances: [],
+  skills: [],
+  title: "variant",
+  race: "human",
+  subrace: "variant",
+  tools: [],
+  weapons: [],
+  writeup:
+    "You are a human of some distinction, such as a noble heir or rare prodigy.",
   mv: 30,
 };
 
@@ -667,6 +583,7 @@ const RACES = {
   "stout halfling": STOUT_HALFLING,
   "lightfoot halfling": LIGHTFOOT_HALFLING,
   human: HUMAN,
+  variant: VARIANT_HUMAN,
 };
 
 // Backgrounds.
@@ -1112,7 +1029,8 @@ function calculatePp(c, race, background, ability_scores) {
 function calculateEquipment(equip, container, gold) {
   const preface = container.title === "worn" ? "<b>Equipment</b>" : "&nbsp;";
   let equipWeight = equip.map((x) => x.weight).reduce((a, b) => a + b, 0);
-  equipWeight = `${equipWeight}`.length < 2 ? `0${equipWeight}` : `${equipWeight}`
+  equipWeight =
+    `${equipWeight}`.length < 2 ? `0${equipWeight}` : `${equipWeight}`;
   let equipItems = equip.map((x) => x.title);
   if (container.title === "pouch") {
     equipItems.push(`${gold} gp`);

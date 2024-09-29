@@ -18,13 +18,13 @@ As individuals, humans struggle to compete with older, wealthier, and more world
 
 #### Standard
 
-| Feature            | Description                                                              |
-| :----------------- | :----------------------------------------------------------------------- |
-| **Ability Scores** | +1 to all ability scores                                                 |
-| Speed              | 30 ft. walking speed                                                     |
+| Feature            | Description                                                    |
+| :----------------- | :------------------------------------------------------------- |
+| **Ability Scores** | +1 to all ability scores                                       |
+| Speed              | 30 ft. walking speed                                           |
 | **Languages**      | Common, any one [secret language](../../more/languages/secret) |
 
-Standard humans represent the typical example of their race. Hardy and adaptable, they can excel in any field as jacks-of-all-trades. Most have an innate affinity for a language of magic.
+Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trades, and form the backbone of all settled lands as laborers and soldiers. Most have an innate affinity for a language of magic.
 
 
 #### Variant
@@ -37,9 +37,4 @@ Standard humans represent the typical example of their race. Hardy and adaptable
 | **Skills**         | any one skill                    |
 | **Feats**          | any one [feat](../../more/feats) |
 
-{: .note}
-> **Multiclassing**
-> 
-> Variant humans are the only adventurers that can [multiclass](../../more/feats/multiclassing) at level one.
-
-Variant humans trade a balanced approach for a highly specialized path. Spellswords, holy knights, and other cross-disciplinary vocations are drawn almost solely from this population.
+Variant Humans are those who benefit from an unusual upbringing. Many come from servant clans, lineages of humans favored by a particular elf or dwarf family and raised to excel in a niche field. Though less versatile than other humans, they are the only adventurers that can [multiclass](../../more/feats/multiclassing) at level one.
