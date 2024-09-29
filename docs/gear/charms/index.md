@@ -13,7 +13,7 @@ Charms are magical tools crafted from materials found within the City. Charms ca
 {: .note}
 > **Attunement**
 >
-> Most charms require [attunement](../../adventuring/loot/attunement) to use. In Naevis, adventurers with a negative Charisma modifier cannot attune to items.
+> Most charms require [attunement](../../adventuring/loot/attunement) to use. 
 
 #### Listings
 

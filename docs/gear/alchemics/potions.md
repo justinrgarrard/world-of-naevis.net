@@ -10,25 +10,25 @@ grand_parent: Gear
 #### Potions
 
 {: .mundane-item}
+> **Potion of Clarity**
+> 
+> *Potion, common*
+> 
+> If you are affected by charm or fear magic, the effects are removed. You have resistance against charm and fear effects, as well as immunity to sleep magic, for the next eight hours.
+
+{: .mundane-item}
 > **Potion of Cleansing**
 > 
 > *Potion, common*
 > 
-> If you are affected by non-magical poisons or diseases, they are removed from your system. You are immune to similar toxins for the next ten minutes. If you consume another potion while this one is in effect, you gain a level of exhaustion.
+> If you are affected by non-magical poisons or diseases, they are removed from your system. You have resistance against poison damage and advantage to save against poisons for the next eight hours.
 
 {: .mundane-item}
 > **Potion of Darkvision**
 > 
 > *Potion, common*
 > 
-> You gain the benefits of darkvision out to 30 feet for eight hours. If you already have darkvision, the range increases by 30 feet instead.
-
-{: .mundane-item}
-> **Potion of Energy**
-> 
-> *Potion, common*
-> 
-> For the next ten minutes, roll a d4 and add the result whenever you make an ability check, savings throw, or attack roll. If you consume another potion while this one is in effect, you gain a level of exhaustion.
+> You gain the benefits of darkvision out to 30 feet for the next eight hours. If you already have darkvision, the range increases by 30 feet instead.
 
 {: .mundane-item}
 > **Potion of Healing**

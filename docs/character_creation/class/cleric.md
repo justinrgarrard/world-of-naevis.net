@@ -8,19 +8,20 @@ nav_order: 1
 
 # Cleric
 
-[Clerics](../../more/classes/cleric) are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles their magic. 
-
-{: .note}
-> Clerics are the only one of the four base classes that must choose an [**archetype**](../../more/archetypes/index) at first level.
+[Clerics](../../more/classes/cleric) are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. 
 
 #### Mystery Cults
 
-Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. Many are also physically changed by the rites of initiation, acquiring unusual physical characteristics such as faintly glowing eyes or elongated canines.
+Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. 
 
 #### Divine Magic
 
-Navean clerics draw their power from a source specific to their cult. A nature-oriented cleric might pull their power from the land itself, while a mental-oriented cleric might use psychic energy. 
+Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within, and grows steadily stronger as they advance in skill.
 
+{: .note}
+> **Domains**
+>
+> Most clerics are tied to the [Life Domain](../../../archetypes/cleric_life), drawing on qi, aura, or divine grace to fuel their abilities. However, more [exotic](../../more/archetypes/index) domains may be used with permission from the Game Master.
 
 
 ### Starting Gear

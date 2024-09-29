@@ -9,17 +9,17 @@ nav_order: 2
 
 # Race
 
-{: .note }
-> **Non-Basic Races**
-> 
-> Races outside the four provided in the _[Basic Rules](docs/more/DnD_BasicRules_2018.pdf)_ are not supported by this setting, but can be used with the Game Master's permission.
-
 #### Kindred
 
 * **[Elves](elf)** are the longest lived race, and the most influential. The Elven Empire is the dominant force in Naevis.
 * **[Dwarves](dwarf)** are second in the global order. They contest Elven hegemony from their mountainous city-states.
 * **[Halflings](halfling)** are tribal nomads that live in caravans. They are skilled merchants, hunters, and warriors.
 * **[Humans](human)** make up the lower classes of Elven and Dwarven nations. Their kingdom exist solely at the mercy of the two great powers.
+
+{: .note }
+> **Non-Basic Races**
+> 
+> Races outside the four provided in the _[Basic Rules](docs/more/DnD_BasicRules_2018.pdf)_ are not supported by this setting, but can be used with the Game Master's permission.
 
 #### City Dwellers
 

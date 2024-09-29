@@ -10,12 +10,16 @@ nav_order: 3
 
 [Rogues](../../more/classes/rogue) are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. 
 
-#### Roguecraft
-Even a modest rogue can boast six different skills and two areas of expertise. They are universally proficient in the [Cant](../../more/languages/cant) sign language as well as a small collection of hand tools for picking locks.
-
 #### Diverse Occupations
 While rogues are commonly associated with thieves, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".
 
+#### Roguecraft
+Even a modest rogue can boast six different skills and two areas of [Expertise](../../more/classes/rogue#expertise). They are universally proficient in the [Cant](../../more/languages/cant) sign language as well as a small collection of hand tools for picking locks.
+
+{: .note}
+> **Expertise**
+>
+> A rogue with expertise in Arcana can outclass a wizard with their mystic knowledge, while a rogue with expertise in Athletics can outrun a trained warrior. Consider making the most of these benefits by pairing Expertise with a high ability score in the corresponding skill.
 
 ### Starting Gear
 _Rogue's Pack (43 lb.)_ or 100 gp.

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Templar
+title: Life
 parent: Archetypes
 grand_parent: More
 nav_exclude: true
 ---
 
-# Cleric: Templar (Life Domain)
+# Cleric: Life Domain
 
-_The Templar are without question the largest cult in Naevis. Their temples can be found in every major city and their order exerts a force that crosses national boundaries. Unlike other clerical orders, they do not cast their magic using a [secret language](../languages/secret)._
+_The Life domain is the most common and varied in Naevis. Practitioners may refer to the energy that fuels their powers as qi, aura, or divine grace, and often have diverse beliefs regarding its true nature._
 
 #### Life Domain Spells
 

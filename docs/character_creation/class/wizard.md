@@ -14,12 +14,12 @@ nav_order: 4
 A practitioner is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Fortifications regularly stockpiles caches of scrolls to arm warmages, allowing them to wreak havoc at a level well-beyond their natural capacity. 
 
 #### Arcane Magic
-Arcane magic, unlike divine magic, is akin to technology. Users draw ambient magic from ley lines under the earth using a wand or similar implement. 
+Navean wizards treat magic akin to technology. Users draw ambient energy from ley lines under the earth using a wand or similar implement, then shape the energy into spells. A wizard can handle greater quantities of energy as they grow more proficient in their art.
 
 {: .note}
 > **Spellbooks**
 >
-> A Navean wizard's selection of spells may be determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards illusions, while a [Warlord's](../background/warlord) will focus on combat magic.
+> A Navean wizard's selection of spells is typically determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards charms and illusions, while a [Warlord's](../background/warlord) will focus on combat magic.
 
 ### Starting Gear
 

@@ -11,7 +11,7 @@ grand_parent: Adventuring
 {: .note}
 > **Charisma Limiter**
 > 
-> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**. An adventurer with a negative modifier is unable to attune to magic items.
+> The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**, minimum 1.
 
 #### Bonding
 
