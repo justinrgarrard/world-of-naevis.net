@@ -20,7 +20,7 @@ The options available to a character depend on their class and proficiencies.
 | --------------------------------------------------------------- | ---------------------------- |
 | [Alchemy](../../data/downtime_activities/alchemy)               | Proficiency in a Tool        |
 | [Conditioning](../../data/downtime_activities/conditioning)     | Fighter                      |
-| [Contracting](../../data/downtime_activities/contracting)       | Rogue                        |
+| [Roguecraft](../../data/downtime_activities/roguecraft)         | Rogue                        |
 | [Performing](../../data/downtime_activities/performing)         | Proficiency in an Instrument |
 | [Read Omens](../../data/downtime_activities/read_omens)         | Cleric                       |
 | [Scribe Scrolls](../../data/downtime_activities/scribe_scrolls) | Wizard                       |

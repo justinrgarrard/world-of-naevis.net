@@ -11,10 +11,10 @@ nav_order: 2
 
 #### The Four Kindred Peoples
 
-* **[Elves](elf)** are the longest lived race, and the most influential. The Elven Empire is a dominant force in Naevis.
-* **[Dwarves](dwarf)** contest Elven hegemony from their mountainous city-states. Their culture is militant and honor-based.
-* **[Halflings](halfling)** are tribal nomads that live in caravans. They are skilled merchants, hunters, and warriors.
-* **[Humans](human)** make up the lower classes of Elven and Dwarven nations. Their lot in life is typically one of servitude.
+* **[Elves](elf)** are graceful and long-lived.
+* **[Dwarves](dwarf)** are industrious and prideful.
+* **[Halflings](halfling)** are nomadic and blessed with good fortune.
+* **[Humans](human)** are versatile and numerous.
 
 {: .note}
 > **Optional Rule: Playing a City Dweller**

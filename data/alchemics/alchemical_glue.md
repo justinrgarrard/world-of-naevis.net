@@ -4,7 +4,7 @@ title: Alchemical Glue
 nav_exclude: true
 ---
 
-Alchemical Glue
+# Alchemical Glue
 
 *Substance, common*
 

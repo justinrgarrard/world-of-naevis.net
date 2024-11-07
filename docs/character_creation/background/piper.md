@@ -10,9 +10,9 @@ nav_order: 5
 
 You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. Your guild is regularly contracted by interested parties to broker information, and your presence in the Canvaslands is unlikely to be accidental.
 
-**[Skill](../../more/review/skills) Proficiency**: Sleight of Hand, Performance
+**[Skill Proficiency](../../more/review/skills)**: Sleight of Hand, Performance
 
-**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: Instrument, Tinker
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Instrument, Tinker
 
 {: .background-feature}
 > **Stage Magic**

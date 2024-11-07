@@ -8,6 +8,8 @@ nav_exclude: true
 
 # Conditioning Drills
 
-*Requires a level in Fighter or the Fighting Style class feature.*
+*Requires a level in Fighter.*
 
-Start the next session with temporary hit points equal to twice your character level. You can replace your [Fighting Style](../../docs/more/classes/fighter#fighting-style) with a different option.
+During the next session, you have a number of additional Hit Dice equal to half your proficiency bonus, rounded up.
+
+You can replace your [Fighting Style](../../docs/more/classes/fighter#fighting-style) with a different option.

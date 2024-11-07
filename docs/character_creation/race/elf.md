@@ -27,7 +27,7 @@ Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawl
 | Trance             | you require 4 hours of rest instead of 8, and remain conscious throughout                                         |
 | **Cantrip**        | you know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. |
 
-High elves are born to the ruling caste. They spend 100 years undergoing strict training to embody the elven ideal before being allowed to participate in the world.
+High elves are born to the ruling caste. They spend 100 years undergoing strict training to embody the elven ideal before being allowed to participate in the outside world.
 
 #### Wood Elf
 
