@@ -10,14 +10,14 @@ nav_order: 5
 
 You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities. Your guild is regularly contracted by interested parties to broker information, and your presence in the Canvaslands is unlikely to be accidental.
 
-**[Skill](../../more/skills) Proficiency**: Sleight of Hand, Performance
+**[Skill](../../more/review/skills) Proficiency**: Sleight of Hand, Performance
 
-**[Tool](../../more/tools) Proficiency**: Tinker, Instrument (Woodwind) 
+**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: Instrument, Tinker
 
 {: .background-feature}
 > **Stage Magic**
 > 
-> You can replicate the effects of the [*Minor Illusion*](../../../srd_spells/minor_illusion) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
+> You can replicate the effects of the [*Minor Illusion*](../../../data/srd_spells/minor_illusion) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
 #### (Optional) Starting Wizard Spells
 

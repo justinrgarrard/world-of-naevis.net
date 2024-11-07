@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Charms
+nav_order: 1
 parent: Gear
 has_children: false
 has_toc: false
 ---
 
-# Charms (50 gp)
+# Charms
 
 Charms are magical tools crafted from materials found within the City. Charms can be **purchased for 50 gp** and sold for half that amount.
 
 {: .note}
-> **Attunement**
+> **Charisma-Based**
 >
-> Most charms require [attunement](../adventuring/loot/attunement) to use. 
+> Most charms require [attunement](../adventuring/attunement) to use and benefit from a high Charisma score. 
 
 #### Listings
 

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: alchemist's fire

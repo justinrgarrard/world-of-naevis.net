@@ -8,23 +8,19 @@ nav_order: 8
 
 # Warlord
 
-You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like [first aid](../../gear/adventuring_gear/medical), [hand signs](../../more/languages/cant), and [munitions crafting](../../adventuring/downtime/alchemy).
+You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../more/cant).
 
-**[Skill](../../more/skills) Proficiency**: Intimidation, Medicine
+**[Skill](../../more/review/skills) Proficiency**: Intimidation, Medicine
 
-**[Language](../../more/tools) Proficiency**: Cant
+**[Language](../../adventuring/languages) Proficiency**: Cant
 
-**[Tool](../../more/tools) Proficiency**: Smith or Woodworker
+**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: One Alchemy Tool
 
 {: .background-feature}
 > **First Blood**
 > 
 > You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls. You cannot be surprised while awake.
 
-<!-- {: .background-feature}
-> **Redundant Proficiencies**
-> 
-> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead. -->
 
 #### (Optional) Starting Wizard Spells
 

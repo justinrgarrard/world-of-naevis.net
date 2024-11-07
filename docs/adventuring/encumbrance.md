@@ -25,12 +25,13 @@ An adventurer's Strength score determines how many pounds they can shoulder with
 
 **Immobile**: You are unable to move.
 
-{: .note}
-> **Containers**
->
-> An adventurer's carrying capacity is also limited by the containers they use. A [Backpack](../gear/index) can hold 30 lb. and a [Pouch](../gear/index) can hold 6 lb. A given individual can only wear one backpack at a time, but may have an arbitrary number of pouches.
->
-> Items that are worn or carried (armor, weapons, etc.) do not need to be stored in a container.
+#### Containers
+
+An adventurer's carrying capacity is also limited by the containers they use. 
+
+* A [Backpack](../gear/index) can hold 30 lb. but is hard to access during a fight.
+* A [Pouch](../gear/index) can hold 6 lb. and is easy to access during a fight.
+* Items that are worn or carried (armor, weapons, etc.) do not need to be stored in a container.
 
 <!-- 
 {: .note}

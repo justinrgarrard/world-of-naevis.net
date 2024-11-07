@@ -79,7 +79,7 @@ nav_order: 1
 [*Disintegrate*](../../../data/srd_spells/disintegrate),
 [*Globe of Invulnerability*](../../../data/srd_spells/globe_of_invulnerability),
 [*Mass Suggestion*](../../../data/srd_spells/mass_suggestion),
-[*Irresistible Dance*](../../../data/srd_spells/irresistable_dance),
+[*Irresistible Dance*](../../../data/srd_spells/irresistible_dance),
 [*True Seeing*](../../../data/srd_spells/true_seeing)
 
 ###### 7th Level

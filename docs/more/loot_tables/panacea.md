@@ -9,7 +9,7 @@ nav_order: 2
 
 # Panacea
 
-A prized wonder medicine whose recipe is known only by the [City Dwellers](../../the_frontier/city_dwellers/index). Panacea is superior to the alchemical potions Kindred are capable of making. It can be used multiple times and treats illness while restoring health.
+A prized wonder medicine whose recipe is known only by the [City Dwellers](../../lore/city_dwellers/index). Panacea is superior to the alchemical potions Kindred are capable of making. It can be used multiple times and treats illness while restoring health.
 
 {: .mundane-item}
 > **Panacea**

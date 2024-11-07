@@ -2,7 +2,7 @@
 layout: default
 title: Welcome
 nav_order: 0
-has_children: false
+has_children: true
 has_toc: false
 ---
 
@@ -10,19 +10,21 @@ has_toc: false
 
 #### What is Naevis?
 
-Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. It's designed for survival adventure games that favor cunning, preparation, and creative problem solving. 
+Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. It's designed for survival adventure games that emphasize cunning, preparation, and creative problem solving. 
 
 #### Highlights
 
-* **Basic Rules Gameplay**: Classes, races, and spells are restricted to [Basic Rules](docs/more/DnD_BasicRules_2018.pdf) options. Make each decision count.
+* **Focused Character Creation**: Classes and races are restricted to [*Basic Rules*](docs/more/DnD_BasicRules_2018.pdf) options, favoring a Swords and Sorcery genre.
 
-* **Dungeon Crawling**: Streamlined [gameplay mechanics](docs/adventuring/index) that reward preparation and creative problem solving. Use your head.
+* **Dungeon Crawling**: Short, brutal combat that rewards careful planning and alternative solutions. Make good use of bribes, diplomacy, and tactics to avoid costly confrontations.
 
-* **A Brave New World**: Low fantasy swords and sorcery. Establish first contact with the subterranean [City Dwellers](docs/the_frontier/city_dwellers/index) and their [strange gods](docs/the_frontier/city_dwellers/devil_princes).
+* **A Brave New World**: [Words of Power](docs/more/secret_languages). [Motivation-based Backgrounds](docs/character_creation/background/index). [A Revised Economy](docs/gear/index). Changes that breathe new life into 5E without altering the base game.
 
-#### Similar Media
+
+#### Made For Fans Of...
 
 * _The First Law_
 * _The Farseer Trilogy_  
 * _The Wheel of Time_
 * _The Queen's Thief_
+* _The Vlad Taltos Novels_

@@ -26,7 +26,7 @@ Items with a rarity above *Common* cannot be purchased, only found while explori
 | :-------------------------------------------------------- | :--------- |
 | Potion (Common)                                           | 25 gp      |
 | Scroll (Common)                                           | 25 gp      |
-| [Charm](../../gear/charms/index) (Common)                 | 25 gp      |
+| [Charm](../../gear/charms) (Common)                       | 25 gp      |
 | Scroll (Uncommon)                                         | 100 gp     |
 | [Elemental Crystal](elemental_crystals) (Uncommon)        | 125 gp     |
 | [Panacea](panacea) (Uncommon)                             | 125 gp     |

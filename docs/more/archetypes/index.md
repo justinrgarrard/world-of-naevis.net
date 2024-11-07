@@ -12,10 +12,22 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 
 | Class   | Archetype                                         |
 | :------ | :------------------------------------------------ |
-| Cleric  | [Life](../../../archetypes/cleric_life)           |
-| Fighter | [Champion](../../../archetypes/fighter_champion)  |
-| Rogue   | [Thief](../../../archetypes/rogue_thief)          |
-| Wizard  | [Evocation](../../../archetypes/wizard_evocation) |
+| Cleric  | [Life](../../../data/archetypes/cleric_life)           |
+| Fighter | [Champion](../../../data/archetypes/fighter_champion)  |
+| Rogue   | [Thief](../../../data/archetypes/rogue_thief)          |
+| Wizard  | [Evocation](../../../data/archetypes/wizard_evocation) |
+
+#### Setting Archetypes
+
+These optional archetypes were designed for use with Naevis and can be used as-is.
+
+| Class       | Archetypes                                         |                                                    |
+| :---------- | :------------------------------------------------- | :------------------------------------------------- |
+| **Cleric**  | [Dream Cult](../../../data/archetypes/cleric_dream)     | [Hell Cult](../../../data/archetypes/cleric_hell)       |
+|             | [Stone Cult](../../../data/archetypes/cleric_stone)     | [Winter Cult](../../../data/archetypes/cleric_winter)   |
+| **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince) |
+| **Rogue**   | [Delver](../../../data/archetypes/rogue_delver)         | [Knife Dancer](../../../data/archetypes/rogue_knife)    |
+| **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Tower Mage](../../../data/archetypes/wizard_tower)     |
 
 
 #### External Archetypes
@@ -37,18 +49,4 @@ Other archetypes may be used with GM permission, provided that they can be adapt
 > **Cleric Domains**
 >
 > Cleric subclasses typically require a minimal change to their list of spells for use in Naevis. See the [War Domain](adapting#example-war-domain) example for reference.
-
-#### Setting Archetypes
-
-These optional archetypes were designed for use with Naevis and can be used as-is.
-
-| Class       | Archetypes                                         |                                                    |
-| :---------- | :------------------------------------------------- | :------------------------------------------------- |
-| **Cleric**  | [Dream Cult](../../../archetypes/cleric_dream)     | [Hell Cult](../../../archetypes/cleric_hell)       |
-|             | [Stone Cult](../../../archetypes/cleric_stone)     | [Winter Cult](../../../archetypes/cleric_winter)   |
-| **Fighter** | [Lionheart](../../../archetypes/fighter_lionheart) | [Warprince](../../../archetypes/fighter_warprince) |
-| **Rogue**   | [Delver](../../../archetypes/rogue_delver)         | [Knife Dancer](../../../archetypes/rogue_knife)    |
-| **Wizard**  | [Court Mage](../../../archetypes/wizard_court)     | [Tower Mage](../../../archetypes/wizard_tower)     |
-
-
 

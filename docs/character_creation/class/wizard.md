@@ -8,13 +8,18 @@ nav_order: 4
 
 # Wizard
 
-[Wizards](../../more/classes/wizard) are adventurers trained in the academic practice of arcane spellcasting. Their formal education often extends to other scholarly disciplines as well.
+[Wizards](../../more/classes/wizard) are adventurers trained in the academic practice of arcane spellcasting. 
 
-#### Scrolls
-A practitioner is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Fortifications regularly stockpiles caches of scrolls to arm warmages, allowing them to wreak havoc at a level well-beyond their natural capacity. 
+#### Well-Rounded Education
+Arcane magic is taught alongside rhetoric, grammar, and mathematics in academies for the well-to-do. Though few ever develop to the point of casting full-fledged spells, most graduates are aware of what magic is capable of, and many can work simple cantrips.
+
+In less "civilized" parts of the world, wizardry may be instructed through apprenticeship. This is prevalent among tribal shamans, village witches, and other rural traditions where schooling is uncommon.
+
+<!-- #### Scrolls
+A practitioner is valued as much for their ability to use [scrolls](../../gear/scrolls) as for their individual talents. Fortifications regularly stockpiles caches of scrolls to arm warmages, allowing them to wreak havoc at a level well-beyond their natural capacity.  -->
 
 #### Arcane Magic
-Navean wizards treat magic akin to technology. Users draw ambient energy from ley lines under the earth using a wand or similar implement, then shape the energy into spells. A wizard can handle greater quantities of energy as they grow more proficient in their art.
+Navean wizards treat magic akin to technology. Users draw ambient energy from ley lines under the earth using a wand or similar implement, then shape the energy into spells. A wizard can handle energy more skillfully as they advance in level.
 
 {: .note}
 > **Spellbooks**
