@@ -8,15 +8,15 @@ nav_order: 1
 
 # Cleric
 
-[Clerics](../../more/classes/cleric) are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. 
+Clerics are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. Their class description can be found [here](../../more/classes/cleric).
 
 #### Mystery Cults
 
-Religion in Naevis is organized across [countless organizations](../../lore/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. 
+Religion in Naevis is organized across countless organizations, each with their own particular beliefs and rituals. While some venerate deities, many are non-theistic, focusing instead on a school of philosophy or way of life.
 
 #### Divine Magic
 
-Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within, and grows steadily stronger as they advance in skill.
+Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within and grows steadily stronger as they advance in skill.
 
 {: .note}
 > **Domains**

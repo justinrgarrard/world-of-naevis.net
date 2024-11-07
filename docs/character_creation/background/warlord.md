@@ -10,11 +10,11 @@ nav_order: 8
 
 You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../more/cant).
 
-**[Skill](../../more/review/skills) Proficiency**: Intimidation, Medicine
+**[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
 
-**[Language](../../adventuring/languages) Proficiency**: Cant
+**[Language Proficiency](../../adventuring/languages)**: Cant
 
-**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: One Alchemy Tool
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **First Blood**

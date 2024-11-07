@@ -11,9 +11,9 @@ nav_order: 1
 
 You came to the Forgotten City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. 
 
-**[Skill](../../more/review/skills) Proficiency**: Nature, Investigation
+**[Skill Proficiency](../../more/review/skills)**: Nature, Investigation
 
-**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: Two Alchemy Tools
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Two Alchemy Tools
 
 
 {: .background-feature}

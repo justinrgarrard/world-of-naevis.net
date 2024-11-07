@@ -10,4 +10,4 @@ nav_exclude: true
 
 *Requires proficiency in an instrument.*
 
-Gain an amount of gp equal to your Charisma modifier multiplied by your proficiency bonus.
+Gain an amount of gp equal to your Charisma ability score multiplied by your proficiency bonus.

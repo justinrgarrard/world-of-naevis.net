@@ -10,9 +10,9 @@ nav_order: 6
 
 You came to the Forgotten City in search of fortune and glory. You may be a sellsword, a tomb raider, or an aspiring merchant hoping to find inventory. You are capable of noticing danger before it blossoms into a problem.
 
-**[Skill](../../more/review/skills) Proficiency**: Perception, Insight
+**[Skill Proficiency](../../more/review/skills)**: Perception, Insight
 
-**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: Thieves' Tools, One Alchemy Tool
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Thieves' Tools, One Alchemy Tool
 
 {: .background-feature}
 > **Read the Room**

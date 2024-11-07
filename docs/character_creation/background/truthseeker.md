@@ -10,9 +10,9 @@ nav_order: 7
 
 You came to the Forgotten City to understand its mysteries. You may be an archaeologist hunting knowledge, a wizard seeking new magic to make your own, or a priest following the urgings of your cult. You are a specialist in [City Dweller](../../lore/city_dwellers/index) languages.
 
-**[Skill](../../more/review/skills) Proficiency**: Arcana, History
+**[Skill Proficiency](../../more/review/skills)**: Arcana, History
 
-**[Language](../../adventuring/languages) Proficiency**: Undercommon and Infernal
+**[Language Proficiency](../../adventuring/languages)**: Undercommon and Infernal
 
 {: .background-feature}
 > **Illuminate**

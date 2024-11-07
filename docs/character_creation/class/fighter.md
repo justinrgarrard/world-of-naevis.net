@@ -8,7 +8,7 @@ nav_order: 2
 
 # Fighters
 
-[Fighters](../../more/classes/fighter) are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess.
+Fighters are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess. Their class description can be found [here](../../more/classes/fighter).
 
 #### Martial Arts
 
@@ -37,6 +37,6 @@ _Fighter's Pack (46 lb.)_ or 100 gp.
 | ...Rations (x3)                              | 6 lb.               | 3 gp  |
 | ...Tinderbox                                 | 1 lb.               | 1 gp  |
 | ...Torches (x5)                              | 5 lb.               | 1 gp  |
-| ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 50 gp |
-| ...Spare Gold                                | -                   | 16 gp |
+| ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+| ...Spare Gold                                | -                   | 41 gp |
 

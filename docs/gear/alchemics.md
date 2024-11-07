@@ -9,10 +9,10 @@ has_toc: false
 
 # Alchemics
 
-The discipline of alchemy is founded upon the transmutation of ingredients into useful items by mundane means. [Tools](../../data/downtime_activities/alchemy), rather than spellcasting, are its basis. Alchemic items can be **purchased for 50 gp** or sold for half that amount.
+The discipline of alchemy is founded upon the transmutation of ingredients into useful items by mundane means. [Tools](../../data/downtime_activities/alchemy), rather than spellcasting, are its basis. Alchemic items can be **purchased for 25 gp** or sold for half that amount.
 
 {: .language}
-> Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **40 gp**.
+> Adventurers proficient in **Halfling** can purchase alchemics at the discounted price of **20 gp**.
 
 #### Listings
 

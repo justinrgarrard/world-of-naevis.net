@@ -10,11 +10,11 @@ nav_order: 3
 
 You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. 
 
-**[Skill](../../more/review/skills) Proficiency**: Stealth, Survival
+**[Skill Proficiency](../../more/review/skills)**: Stealth, Survival
 
-**[Language](../../adventuring/languages) Proficiency**: Cant
+**[Language Proficiency](../../adventuring/languages)**: Cant
 
-**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: One Alchemy Tool
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **Survivor**
