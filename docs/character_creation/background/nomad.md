@@ -10,9 +10,9 @@ nav_order: 4
 
 You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. You are a naturalist skilled in the use of herbs.
 
-**[Skill](../../more/skills) Proficiency**: Athletics, Survival
+**[Skill](../../more/review/skills) Proficiency**: Athletics, Survival
 
-**[Tool](../../more/tools) Proficiency**: Herbalist, Instrument (Woodwind)
+**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: Instrument, Herbalist
 
 {: .background-feature}
 > **Wary**

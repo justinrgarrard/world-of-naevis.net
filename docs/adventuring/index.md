@@ -3,34 +3,15 @@ layout: default
 title: Adventuring
 nav_order: 3
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Adventuring
 
-#### The Premise
+#### Dungeon Diving
 
-Adventurers have come from far and wide to explore the newly discovered [**Forgotten City**](../the_frontier/city_below), a ruin overflowing with exotic treasures and terrible dangers. They have settled in a desert outpost called the [**Canvaslands**](../the_frontier/canvaslands/index) just outside the City's entrance.
+Adventures in Naevis typically take the form of structured exploration. The party enters into an unexplored section of the [Forgotten City](../lore/city_below) and carefully works their way through hostile territory. Some expeditions may wind through stonehewn tunnels and the lairs of strange beasts. Others may intersect with [City Dweller](../lore/city_dwellers/index) civilizations, ranging from the vast underground libraries of the Tieflings to Orcish raiding party camps.
 
-#### Expeditions
+#### Basic Mechanics
 
-The main goal of a session is to fill a bag with treasure. Five pounds of [***Loot***](loot) is enough to pay for lifestyle expenses, with most adventurers seeking out opportunities to fill as much as their [packs can hold](../gear/index#pack-limitations).
-
-{: .mundane-item}
-> **Loot (25 gp)**
->
-> *Treasure, 5 lb.*
->
-> Carefully preserved monster viscera, rocks that glow when exposed to moonlight, damaged armor made of quality materials; this is anything that might be of interest to a curious merchant.
-
-
-{: .note}
-> **Lifestyle Expenses**
->
-> Between each session, adventurers must pay a fee (25 gp) and choose a [downtime activity](downtime/index). The fee represents gold spent on food and shelter, as well as protection money paid to [local gangs](../the_frontier/canvaslands/corsairs).
->
-> Failure to pay lifestyle expenses puts an adventurer into a temporary [retirement](death#backfill) for one session, as they work to pay off debts to dangerous individuals.
-
-<!-- #### Diving Deeper
-
-As parties become better established and [better equipped](../gear/index) they'll be able to dig deeper into the City's mysteries. They may stumble across [swords that speak](../more/magic_items/minor_sentient_weapons), [gods that walk the land](../the_frontier/city_dwellers/devil_princes), and other oddities with the power to throw Naevis into chaos. [Powerful nations](../the_frontier/greenlands/elves) are likely to take an interest in such things.  -->
+Naevis uses the _[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)_ along with custom modifications to a handful of systems. Players and Game Masters familiar with 5E should have little trouble adapting their playstyles to the setting.

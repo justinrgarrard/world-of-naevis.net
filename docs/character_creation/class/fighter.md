@@ -20,23 +20,23 @@ One's reputation and history of service take on a force of their own, though it 
 {: .note}
 > **Second Wind**
 >
-> Fighters begin play with the [Second Wind](../../more/classes/fighter#fighter-class) ability, which functions similarly to a rechargeable [potion of healing](../../gear/alchemics/potions). This makes them the sturdiest of the four base classes.
+> Fighters begin play with the [Second Wind](../../more/classes/fighter#fighter-class) ability, which functions similarly to a rechargeable [potion of healing](../../gear/alchemics). This makes them the sturdiest of the four base classes.
 
 ### Starting Gear
 
 _Fighter's Pack (46 lb.)_ or 100 gp.
 
-| Item                                                 | Weight              | gp    |
-| :--------------------------------------------------- | :------------------ | :---- |
-| Longsword                                            | 3 lb.               | 10 gp |
-| Shield                                               | 6 lb.               | 5 gp  |
-| Studded Leather                                      | 13 lb.              | 10 gp |
-| Pouch                                                | 1 lb. (5 / 6 lb.)   | 1 gp  |
-| ... Darts (20)                                       | 5 lb.               | 1 gp  |
-| Backpack                                             | 5 lb. (13 / 30 lb.) | 2 gp  |
-| ...Rations (x3)                                      | 6 lb.               | 3 gp  |
-| ...Tinderbox                                         | 1 lb.               | 1 gp  |
-| ...Torches (x5)                                      | 5 lb.               | 1 gp  |
-| ...[Potion of Healing](../../gear/alchemics/potions) | 1 lb.               | 50 gp |
-| ...Spare Gold                                        | -                   | 16 gp |
+| Item                                         | Weight              | gp    |
+| :------------------------------------------- | :------------------ | :---- |
+| Longsword                                    | 3 lb.               | 10 gp |
+| Shield                                       | 6 lb.               | 5 gp  |
+| Studded Leather                              | 13 lb.              | 10 gp |
+| Pouch                                        | 1 lb. (5 / 6 lb.)   | 1 gp  |
+| ... Darts (20)                               | 5 lb.               | 1 gp  |
+| Backpack                                     | 5 lb. (13 / 30 lb.) | 2 gp  |
+| ...Rations (x3)                              | 6 lb.               | 3 gp  |
+| ...Tinderbox                                 | 1 lb.               | 1 gp  |
+| ...Torches (x5)                              | 5 lb.               | 1 gp  |
+| ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 50 gp |
+| ...Spare Gold                                | -                   | 16 gp |
 

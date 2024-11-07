@@ -12,7 +12,7 @@ nav_order: 1
 
 #### Mystery Cults
 
-Religion in Naevis is organized across [countless organizations](../../the_frontier/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. 
+Religion in Naevis is organized across [countless organizations](../../lore/canvaslands/mystery_cults), each with their own particular beliefs and rituals. Similar to their [real world analogues](https://en.wikipedia.org/wiki/Greco-Roman_mysteries), initiates are sworn to secrecy regarding their faith's deeper truths. 
 
 #### Divine Magic
 
@@ -21,12 +21,12 @@ Navean clerics wield their power by intuition rather than careful study. The ene
 {: .note}
 > **Domains**
 >
-> Most clerics are tied to the [Life Domain](../../../archetypes/cleric_life), drawing on qi, aura, or divine grace to fuel their abilities. However, more [exotic](../../more/archetypes/index) domains may be used with permission from the Game Master.
+> Most clerics are tied to the [Life Domain](../../../data/archetypes/cleric_life), drawing on qi, aura, or divine grace to fuel their abilities. However, more [exotic](../../more/archetypes/index) domains may be used with permission from the Game Master.
 
 
 ### Starting Gear
 
-_Cleric's Pack (38 lb.)_ or 100 gp.
+_Cleric's Pack (37 lb.)_ or 100 gp.
 
 | Item                                                        | Weight              | gp    |
 | :---------------------------------------------------------- | :------------------ | :---- |
@@ -38,7 +38,6 @@ _Cleric's Pack (38 lb.)_ or 100 gp.
 | ...Holy Water                                               | 1 lb.               | 25 gp |
 | Backpack                                                    | 5 lb. (07 / 30 lb.) | 2 gp  |
 | ...Rations (x3)                                             | 6 lb.               | 3 gp  |
-| ...[Triage Pack](../../gear/adventuring_gear/general_items) | 1 lb.               | 10 gp |
-| ...Spare Gold                                               | -                   | 29 gp |
+| ...Spare Gold                                               | -                   | 39 gp |
 
 

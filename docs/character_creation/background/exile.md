@@ -8,13 +8,13 @@ nav_order: 3
 
 # Exile
 
-You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. Your time as an outcast led to a familiarity with unsavory practices.
+You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. 
 
-**[Skill](../../more/skills) Proficiency**: Stealth, Survival
+**[Skill](../../more/review/skills) Proficiency**: Stealth, Survival
 
-**[Language](../../more/language) Proficiency**: Cant
+**[Language](../../adventuring/languages) Proficiency**: Cant
 
-**[Tool](../../more/tools) Proficiency**: Poisoner
+**[Tool](../../../data/downtime_activities/alchemy) Proficiency**: One Alchemy Tool
 
 {: .background-feature}
 > **Survivor**
@@ -24,7 +24,7 @@ You did not come to the City of your own free will. You were driven here, perhap
 <!-- {: .background-feature}
 > **Redundant Proficiencies**
 > 
-> If you are already proficient in Cant, you gain proficiency in a different [language](../../more/languages/index) instead. -->
+> If you are already proficient in Cant, you gain proficiency in a different [language](../../adventuring/languages/index) instead. -->
 
 #### (Optional) Starting Wizard Spells
 

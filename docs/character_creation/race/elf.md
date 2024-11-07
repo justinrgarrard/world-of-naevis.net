@@ -8,7 +8,7 @@ nav_order: 1
 
 # Elf
 
-Navean elves belong to the [Elven Empire](../../the_frontier/greenlands/elves), the single most powerful nation state in the known world. Their ancient history is both a blessing and a curse. Elven society is rigidly stratified along bloodlines and codified traditions going back thousands of years.
+Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawling nation that covers nearly all of the continent. Their society is rigidly stratified along bloodlines and codified traditions going back thousands of years.
 
 {: .language}
 > **Elven** is the language of enchanting. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls.
@@ -19,7 +19,7 @@ Navean elves belong to the [Elven Empire](../../the_frontier/greenlands/elves), 
 | :----------------- | :---------------------------------------------------------------------------------------------------------------- |
 | **Ability Scores** | +2 to Dexterity and +1 to Intelligence                                                                            |
 | Speed              | 30 ft. walking speed                                                                                              |
-| **Languages**      | Common, Elven, one other [language](../../more/languages/index)                                                                                 |
+| **Languages**      | Common, Elven, one other [language](../../adventuring/languages)                                                  |
 | Skills             | Perception                                                                                                        |
 | Darkvision         | 60 ft.                                                                                                            |
 | Weapons            | longswords, shortswords, longbows, and shortbows                                                                  |

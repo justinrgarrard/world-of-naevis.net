@@ -39,7 +39,7 @@ grand_parent: More
 >
 > *Requirements: Dexterity 13, Not a Rogue*
 > 
-> You gain proficiency with [Cant](../../more/languages/cant), one skill, and one of the following:
+> You gain proficiency with [Cant](../../more/cant), one skill, and one of the following:
 > 
 > * Thieves' Tools
 > * One additional skill

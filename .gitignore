@@ -19,3 +19,4 @@ depreciated/
 
 # Custom
 .vscode
+*.log

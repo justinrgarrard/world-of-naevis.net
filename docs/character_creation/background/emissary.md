@@ -10,14 +10,14 @@ nav_order: 2
 
 You came to the Forgotten City at the behest of a greater power. Maybe a nation, a temple, or a powerful mage. While there, you are expected to act in their interests. You are specialist in the arts of diplomacy and have training in multiple languages.
 
-**[Skill](../../more/skills) Proficiency**: Persuasion, Deception
+**[Skill](../../more/review/skills) Proficiency**: Persuasion, Deception
 
-**[Language](../../more/language) Proficiency**: Two [Languages](../../more/languages/index)
+**[Language](../../adventuring/languages) Proficiency**: Two Languages
 
 {: .background-feature}
 > **Herald**
 > 
-> You can replicate the effects of the [*Thaumaturgy*](../../../srd_spells/thaumaturgy) cantrip. If you are a spellcaster, you learn the cantrip.
+> You can replicate the effects of the [*Thaumaturgy*](../../../data/srd_spells/thaumaturgy) cantrip. If you are a spellcaster, you learn the cantrip.
 
 #### (Optional) Starting Wizard Spells
 
