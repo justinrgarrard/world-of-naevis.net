@@ -35,4 +35,4 @@ Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trad
 | **Skills**         | any one skill                    |
 | **Feats**          | any one [feat](../../more/feats) |
 
-Variant Humans are those who benefit from an unusual upbringing. Many come from servile clans, lineages of humans raised to excel in a niche field, such as wizardry or warcraft. Though less versatile than other humans, they are the only adventurers that can [multiclass](../../more/feats/multiclassing) at level one.
+Variant Humans are those who benefit from an unusual upbringing. Many come from servile clans, lineages of humans raised to excel in a niche field, such as wizardry or warcraft. Though less versatile than other humans, they are the only adventurers that can [multiclass](../../more/feats/index) at level one.

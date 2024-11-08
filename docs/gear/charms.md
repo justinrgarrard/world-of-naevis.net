@@ -26,6 +26,6 @@ Charms are magical tools crafted from materials found within the City. Charms ca
 | [Glass Gems of Lightbending](../../data/magic_items/glass_gems_of_lightbending) |
 | [Marble Ring of Force](../../data/magic_items/marble_ring_of_force)             |
 | [Mist Dagger](../../data/magic_items/mist_dagger)                               |
-| [Phantom Shortsword](../../data/magic_items/phantom_dagger)                         |
+| [Phantom Shortsword](../../data/magic_items/phantom_shortsword)                         |
 | [Volt Staff](../../data/magic_items/volt_staff)                                 |
 

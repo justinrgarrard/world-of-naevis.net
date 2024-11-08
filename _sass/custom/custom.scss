@@ -1,6 +1,4 @@
-// custom SCSS (or CSS) goes here
-
-// Override fonts.
+// Override fonts. ////////////////////////////////////////////////////////////
 body {
     font-family: "Lisu Bosa";
 }
@@ -30,7 +28,7 @@ b {
     font-weight: 900
 }
 
-// Override header 4 settings.
+// Override header settings. //////////////////////////////////////////////////
 h1 {
     font-weight: bold;
 }
@@ -43,7 +41,11 @@ h4,
   letter-spacing: normal;
 }
 
-// Override text sizes.
+h5 {
+    font-weight: bold;
+}
+
+// Override text sizes. ///////////////////////////////////////////////////////
 blockquote {
     p,li {
         @include fs-4
@@ -70,3 +72,10 @@ td {
     @include fs-6;
 }
 
+// Override font colors. //////////////////////////////////////////////////////
+p {
+    strong {
+        color: #49464d;
+        // color: #525058;
+    }
+}

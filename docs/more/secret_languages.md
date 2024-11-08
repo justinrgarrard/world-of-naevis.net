@@ -8,21 +8,21 @@ parent: More
 
 #### Words of Power
 
-Secret languages are languages with magic imbued into their very words. They are capable of producing supernatural effects without the use of spells. 
+Secret languages are languages with magic imbued into their very words. They are capable of producing supernatural effects without the use of spells. Note that **secret languages cannot be acquired by normal means.** Features that provide proficiency in a language do not provide proficiency in a secret language.
 
 ##### **Abyssal**
 
 {: .exotic-language}
 > **Abyssal (Grave Speech)**
 > 
-> The secret language of the dead. All who pass from this world to the next lose knowledge of mortal tongues. Proficiency allows the user to communicate with undead, even commanding the attention of barely aware creatures like zombies or skeletons. [Hell Knights](../../data/archetypes/cleric_hell) use this language when casting spells.
+> The secret language of the dead. Proficiency allows the user to communicate with undead, even commanding the attention of barely aware creatures like zombies or skeletons. [Hell Knights](../../data/archetypes/cleric_hell) use this language when casting spells.
 
 ##### **Deep Speech**
 
 {: .exotic-language}
 > **Deep Speech (Telepathy)**
 > 
-> The secret language of psychics. An esoteric art that allows one to touch the minds of others. Proficiency allows the user to telepathically send words, emotions, or images to a creature up to 60 feet away. [Dreamweavers](../../data/archetypes/cleric_dream) use this language when casting spells.
+> The secret language of psychics. Proficiency allows the user to telepathically send words, emotions, or images to a creature up to 60 feet away. [Dreamweavers](../../data/archetypes/cleric_dream) use this language when casting spells.
 
 ##### **Giant**
 

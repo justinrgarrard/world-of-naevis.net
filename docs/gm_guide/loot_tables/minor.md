@@ -2,7 +2,7 @@
 layout: default
 title: Minor Loot
 parent: Loot Tables
-grand_parent: More
+grand_parent: GM Guide
 nav_order: 0
 ---
 
@@ -34,5 +34,13 @@ nav_order: 0
 | 68    | ... Silent Image                                     |
 | 69    | ... Sleep                                            |
 | 70    | ... Thunderwave                                      |
-| 71-85 | [Elemental Crystal](elemental_crystals)              |
-| 86-00 | [Sentient Weapon](sentient_weapons) (Uncommon) |
+| 71-85 | [Elemental Crystal](../../more/items/elemental_crystals)              |
+| 86-00 | [Sentient Weapon](../../more/items/sentient_weapons) (Uncommon) |
+
+Probabilities:
+
+* **40%** Potion of Healing
+* **10%** Potion of Cleansing
+* **20%** Spell Scroll
+* **15%** Elemental Crystal
+* **15%** Sentient Weapon

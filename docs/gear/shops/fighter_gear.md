@@ -42,7 +42,7 @@ grand_parent: Gear
 | :-------------- | :-------------- | :----- | :---- | :------------------------------------------------------------------- |
 | Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                           |
 | Battleaxe       | 1d8 slashing    | 4 lb.  | 10 gp | Versatile (1d10), **martial**, **dwarf**                             |
-| Crossbow, heavy | 1d10 piercing   | 18 lb. | 10 gp | Ammunition, range (100/400), heavy, loading, two-handed, **martial** |
+| Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard**        |
 | Dagger          | 1d4 piercing    | 1 lb.  | 1 gp  | Finesse, light, thrown (20/60), **wizard**                           |
 | Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                                  |
 | Greataxe        | 1d12 slashing   | 7 lb.  | 10 gp | Heavy, two-handed, **martial**                                       |

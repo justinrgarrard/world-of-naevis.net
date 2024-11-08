@@ -22,15 +22,15 @@ Starting at 3rd level, you can use an action to improve your jump strength. Your
 #### Techniques
 At 3rd level, you have mastered a set of combat techniques. Using a bonus action, you can empower one weapon attack each turn.
 
-* **Lunge**: The range of your melee weapon attack increases by 5 feet. 
-
 * **Knockdown**: If your weapon attack deals damage, you may take the Shove action against the target.
+
+* **Lunge**: The range of your melee weapon attack increases by 5 feet. 
 
 * **Pin**: If your melee weapon attack deals damage, you may take the Grapple action against the target.
 
 * **Twin Strike**: You activate two-weapon fighting as part of this technique, making an attack against a creature. You can use this technique even when the melee weapons you are using aren't light. 
 
-* **Versatile Shot**: Your ranged weapon attack does not suffer disadvantage for being at long range or melee range.
+* **Versatile Shot**: Your ranged weapon attack does not suffer disadvantage for being at long range or in melee range.
 
 
 #### Counter

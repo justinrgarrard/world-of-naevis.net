@@ -12,4 +12,4 @@ nav_exclude: true
 
 During the next session, you have a number of additional Hit Dice equal to half your proficiency bonus, rounded up.
 
-You can replace your [Fighting Style](../../docs/more/classes/fighter#fighting-style) with a different option.
+You can replace your Fighting Style with a different option.

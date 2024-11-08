@@ -17,11 +17,11 @@ grand_parent: Lore
 
 #### Powder Keg
 
-> Though elitists may think otherwise, humanity is a very dangerous force in the world. Humans represent the largest population of any Kindred race. They are highly adaptable, highly specialized, and often [innately talented](../../more/secret_languages) in Words of Power. A Human revolt could lead to the destruction of the current world order if not handled properly. On this matter Elves and Dwarves agree. 
+> Though elitists may think otherwise, humanity is a very dangerous force in the world. Humans represent the largest population of any Kindred race. They are highly adaptable, highly specialized, and often [innately talented](../../more/secret_languages) in Words of Power. A human revolt could lead to the destruction of the current world order if not handled properly. 
 
 #### Age of Legends
 
-> The earliest Elven records speak of dangerous human factions that existed before their race was brought to heel. Human Wizard Kings who marshalled vast armies of the dead. Human tamers that bonded with wyverns and fought from the skies. Human knights whose oaths granted them power from the gods themselves. A thousand years were spent on their subjugation culminating in the erasure of all such records from human histories. Now only the most trusted of High Elven scholars are permitted to know how close the Empire once came to destruction at human hands.
+> The earliest Elven records speak of dangerous human factions that existed before their race was brought to heel. Human Wizard Kings who marshalled vast armies of the dead. Human tamers that bonded with wyverns and fought from the skies. Human knights whose oaths granted them great power. A thousand years were spent on their subjugation culminating in the erasure of all such records from human histories. Now only the most trusted of High Elven scholars are permitted to know how close the Empire once came to destruction at human hands.
 > 
 > Since that era, Elves have taken great care to ensure that humans are kept under a close watch. The most promising young talents are recruited into servant clans where they can be indoctrinated and put to use. 
 

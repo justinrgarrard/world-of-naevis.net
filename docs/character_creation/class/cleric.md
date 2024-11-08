@@ -8,7 +8,7 @@ nav_order: 1
 
 # Cleric
 
-Clerics are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. Their class description can be found [here](../../more/classes/cleric).
+Clerics are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. Their class description can be found [here](../../../data/classes/cleric).
 
 #### Mystery Cults
 

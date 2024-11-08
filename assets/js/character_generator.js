@@ -10,7 +10,7 @@ ITEMS = {
   boots_of_leaping: { weight: 1, value: 50, title: "<i>boots of leaping</i>" },
   breastplate: { weight: 20, value: 50, title: "breastplate" },
   bullseye_lantern: { weight: 2, value: 5, title: "bullseye lantern" },
-  chainmail: { weight: 55, value: 50, title: "chain mail" },
+  chainmail: { weight: 55, value: 50, title: "chainmail" },
   chainshirt: { weight: 20, value: 25, title: "chain shirt" },
   dagger: { weight: 1, value: 1, title: "dagger" },
   dagger2: { weight: 2, value: 2, title: "dagger (2)" },
@@ -58,6 +58,18 @@ CONTAINERS = {
   pouch: { capacity: "06", title: "pouch" },
   worn: { capacity: "--", title: "worn" },
 };
+
+CLERIC_SPELLS = [
+  "bless",
+  "command",
+  "cure wounds",
+  "detect magic",
+  "guiding bolt",
+  "healing word",
+  "inflict wounds",
+  "sanctuary",
+  "shield of faith",
+];
 
 // Classes.
 // Human, Mountain Dwarf
@@ -107,7 +119,7 @@ const FENCER = {
   title: "fencer",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Fencer, a warrior trained to fight in high-stakes duels.",
+  writeup: "You are a Fencer, a martial artists trained for high-stakes duels.",
   races: ["human", "high elf"],
   inv_worn: [
     ITEMS.rapier,
@@ -156,7 +168,7 @@ const EXORCIST = {
 
 // Wood Elf
 const CULTIVATOR = {
-  ability_scores: { STR: 12, DEX: 14, CON: 15, WIS: 13, INT: 10, CHA: 8 },
+  ability_scores: { STR: 12, DEX: 14, CON: 13, WIS: 15, INT: 10, CHA: 8 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "cleric",
@@ -170,7 +182,8 @@ const CULTIVATOR = {
   title: "cultivator",
   tools: [],
   weapons: ["simple"],
-  writeup: "You are a Cultivator, a martial artist that produces miracles using qi.",
+  writeup:
+    "You are a Cultivator, a martial artist that produces miracles using qi.",
   races: ["wood elf"],
   inv_worn: [
     ITEMS.studded_leather,
@@ -188,30 +201,26 @@ const CULTIVATOR = {
 };
 
 // Variant
-const KNIGHT = {
+const TEMPLAR = {
   ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 14, INT: 10, CHA: 12 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "cleric",
   hp: 8,
   expertise: [],
-  features: [
-    "disciple of life",
-    "fighting style: defense",
-    "feat: fighter multiclass",
-  ],
+  features: ["disciple of life", "feat: fighter multiclass"],
   languages: [],
   resistances: [],
   skills: ["athletics", "medicine", "persuasion"],
   spells: ["bless", "cure wounds"],
-  title: "knight",
+  title: "templar",
   tools: [],
-  weapons: ["simple"],
-  writeup: "You are a Knight, a holy warrior with a divine gift.",
+  weapons: ["simple", "martial"],
+  writeup: "You are a Templar, an ordained knight trained to slay monsters.",
   races: ["variant"],
   inv_worn: [
     ITEMS.chainmail,
-    ITEMS.mace,
+    ITEMS.longsword,
     ITEMS.shield,
     ITEMS.holy_symbol,
     ITEMS.backpack,
@@ -451,18 +460,18 @@ const MAGE_KNIGHT = {
 };
 
 const CLASSES = {
+  "mage knight": MAGE_KNIGHT,
   bandit: BANDIT,
   cultivator: CULTIVATOR,
   desperado: DESPERADO,
   exorcist: EXORCIST,
   fencer: FENCER,
-  knight: KNIGHT,
-  vanguard: VANGUARD,
   raider: RAIDER,
   spellsword: SPELLSWORD,
+  templar: TEMPLAR,
+  vanguard: VANGUARD,
   warder: WARDER,
   witch: WITCH,
-  "mage knight": MAGE_KNIGHT,
 };
 
 // Races.
@@ -992,6 +1001,14 @@ function calculateSpellAttack(c, ability_scores) {
   }
 }
 
+function calculateNumberPreparedSpells(c, ability_scores) {
+  if (c === "cleric") {
+    return Math.max(Math.floor((ability_scores["WIS"] - 10) / 2) + 1, 1);
+  } else {
+    return Math.max(Math.floor((ability_scores["INT"] - 10) / 2) + 1, 1);
+  }
+}
+
 function calculateCantrips(c, race, background) {
   // Determine cantrips from race, background, and cleric domain.
   const base_cantrips = c.cantrips.concat(race.cantrips, background.cantrips);
@@ -1013,6 +1030,46 @@ function calculateCantrips(c, race, background) {
   // Otherwise, return the base cantrips.
   else {
     return s.join(", ");
+  }
+}
+
+function calculatePreparedSpells(c, ability_scores, spellbook, domain_spells) {
+  // Determine the number of prepared spells.
+  const numPreparedSpells = calculateNumberPreparedSpells(c, ability_scores);
+
+  // If the character is a wizard...
+  if (c.class === "wizard") {
+    // Randomly select spells from the spellbook.
+    const wizard_prepared_spells = [];
+    while (wizard_prepared_spells.length < numPreparedSpells) {
+      const spell_to_add = randomEntry(spellbook);
+      if (!wizard_prepared_spells.includes(spell_to_add)) {
+        wizard_prepared_spells.push(spell_to_add);
+      }
+    }
+    return wizard_prepared_spells.join(", ");
+  }
+
+  // If the character is a cleric...
+  else if (c.class === "cleric") {
+    // Get the domain spells by default.
+    const cleric_prepared_spells = [];
+    for (spell of domain_spells) {
+      cleric_prepared_spells.push(spell);
+    }
+
+    // Randomly select additional spells from the cleric list until full.
+    while (cleric_prepared_spells.length < numPreparedSpells + 2) {
+      const spell_to_add = randomEntry(CLERIC_SPELLS);
+      if (!cleric_prepared_spells.includes(spell_to_add))
+        cleric_prepared_spells.push(spell_to_add);
+    }
+    return cleric_prepared_spells.join(", ");
+  }
+
+  // Otherwise, return an empty string.
+  else {
+    return "";
   }
 }
 
@@ -1308,7 +1365,7 @@ function generateSpellcasting(
   );
   const spells =
     character_class.class === "wizard" || character_class.class === "cleric"
-      ? ", daily prepared spells: 2"
+      ? ", spell slots: 2"
       : "";
   const wizard_spellbook = character_background["wizard spellbook"].join(", ");
   let spellbook = `
@@ -1322,10 +1379,24 @@ function generateSpellcasting(
   let domain_spells = `
         <tr>
             <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">${character_class.title}: ${cleric_spells}</td>
+            <td style="text-align: left">domain: ${cleric_spells}</td>
         </tr>
     `;
   domain_spells = character_class.class === "cleric" ? domain_spells : "";
+  const prepared_spells_base = calculatePreparedSpells(
+    character_class,
+    character_ability_scores,
+    character_background["wizard spellbook"],
+    character_class["spells"]
+  );
+  const prepared_spells = prepared_spells_base
+    ? `
+        <tr>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">prepared spells: ${prepared_spells_base}</td>
+        </tr>
+  `
+    : "";
   let spellcasting = `
         <tr>
             <td>&nbsp</td>
@@ -1341,6 +1412,7 @@ function generateSpellcasting(
         </tr>
         ${spellbook}
         ${domain_spells}
+        ${prepared_spells}
     `;
   spellcasting = cantrips ? spellcasting : "";
   return spellcasting;
