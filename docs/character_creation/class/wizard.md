@@ -8,7 +8,7 @@ nav_order: 4
 
 # Wizard
 
-Wizards are adventurers trained in the practice of arcane spellcasting. Their class description can be found [here](../../more/classes/wizard).
+Wizards are adventurers trained in the practice of arcane spellcasting. Their class description can be found [here](../../../data/classes/wizard).
 
 #### Well-Rounded Education
 Arcane magic is taught alongside rhetoric, grammar, and mathematics in academies for the well-to-do. Though few ever develop to the point of casting full-fledged spells, most graduates are aware of what magic is capable of, and many can work simple cantrips.

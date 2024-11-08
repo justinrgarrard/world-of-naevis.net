@@ -10,15 +10,16 @@ has_toc: false
 
 #### What is Naevis?
 
-Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. It's designed for survival adventure games that emphasize cunning, preparation, and creative problem solving. 
+Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. Players take on the role of adventurers exploring an otherworldly ruin, one filled with underground civilizations, dark gods, and sentient swords. 
+
 
 #### Highlights
 
-* **Focused Character Creation**: Classes and races are restricted to [*Basic Rules*](docs/more/DnD_BasicRules_2018.pdf) options, favoring a Swords and Sorcery genre.
+* **Swords and Sorcery**: Naevis is a world governed by mortal machinations, not magic. Trade, politics, and military force are prime motivators in a land where magecraft is one tool among many.
 
-* **Dungeon Crawling**: Short, brutal combat that rewards careful planning and alternative solutions. Make good use of bribes, diplomacy, and tactics to avoid costly confrontations.
+* **A Grounded World**: Class and race options are restricted to the [5E Basic Rules](docs/more/DnD_BasicRules_2018.pdf), favoring a deep roleplaying experience over a broad one. Adventures emphasize wits over power.
 
-* **A Brave New World**: [Words of Power](docs/more/secret_languages). [Motivation-based Backgrounds](docs/character_creation/background/index). [A Revised Economy](docs/gear/index). Changes that breathe new life into 5E without altering the base game.
+* **Tuned for Dungeon Crawls**: [Resting Restrictions](docs/adventuring/resting). [Encumbrance Systems](docs/adventuring/encumbrance). [A Revised Economy](docs/gear/index). Naevis incorporates several tweaks to existing systems for the purposes of breathing new life into 5E without altering the base game.
 
 
 #### Made For Fans Of...

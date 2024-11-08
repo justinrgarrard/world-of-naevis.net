@@ -24,7 +24,7 @@ grand_parent: More
 >
 > **Equipment**
 >
-> * [Cleric's Pack](../../character_creation/class/cleric#starting-gear) or 100 gp
+> * [Cleric's Pack](../../docs/character_creation/class/cleric#starting-gear) or 100 gp
 
 #### Spellcasting
 
@@ -66,7 +66,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 > You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 
-#### [Divine Domain](../archetypes/index)
+#### [Divine Domain](../../docs/more/archetypes/index)
 
 At 1st level, you choose a domain that corresponds to your cult. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 

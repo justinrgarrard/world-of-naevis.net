@@ -24,7 +24,7 @@ grand_parent: More
 >
 > **Equipment**
 >
-> * [Wizard's Pack](../../character_creation/class/wizard#starting-gear) or 100 gp
+> * [Wizard's Pack](../../docs/character_creation/class/wizard#starting-gear) or 100 gp
 
 #### Spellcasting
 
@@ -41,7 +41,11 @@ At 1st level, you have a spellbook containing six 1st-level wizard spells of you
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 
 {: .note}
-> **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. See the [Downtime](../../adventuring/downtime) section for details.
+> **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. 
+> 
+> Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+>
+> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 >
 > **Replacing the Book.** You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 >
@@ -91,7 +95,7 @@ You have learned to regain some of your magical energy by studying your spellboo
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 
-#### [Arcane Tradition](../archetypes/index)
+#### [Arcane Tradition](../../docs/more/archetypes/index)
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 

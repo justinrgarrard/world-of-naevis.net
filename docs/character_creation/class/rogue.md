@@ -8,18 +8,22 @@ nav_order: 3
 
 # Rogue
 
-Rogues are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. Their class description can be found [here](../../more/classes/rogue).
+Rogues are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. Their class description can be found [here](../../../data/classes/rogue).
 
 #### Diverse Occupations
 While rogues are commonly associated with thieves, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".
 
 #### Roguecraft
-Even a modest rogue can boast six different skills and two areas of [Expertise](../../more/classes/rogue#expertise). They are universally proficient in the [Cant](../../more/cant) sign language as well as a small [collection of hand tools](../../../data/items/thief_tools).
+Even a modest rogue can boast six different skills and two areas of [Expertise](../../../data/classes/rogue#expertise). They are universally proficient in the Cant sign language as well as a small [collection of hand tools](../../../data/items/thief_tools).
 
 {: .note}
 > **Expertise**
 >
 > A rogue with expertise in Arcana can outclass a wizard with their mystic knowledge, while a rogue with expertise in Athletics can outrun a trained warrior. Consider making the most of these benefits by pairing Expertise with a high ability score in the corresponding skill.
+
+#### Cant
+{: .language}
+> **Cant** is a sign and signal language. Being proficient in this language allows you to communicate with your hands or certain visual tools (like torches and flags). You can purchase dangerous items like poison and grenades by showing the proper signals to black market merchants.
 
 ### Starting Gear
 _Rogue's Pack (39 lb.)_ or 100 gp.

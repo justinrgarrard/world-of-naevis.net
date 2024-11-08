@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Elemental Crystals
-parent: Loot Tables
+parent: Items
 grand_parent: More
-nav_order: 2
 ---
 
 # Elemental Crystals

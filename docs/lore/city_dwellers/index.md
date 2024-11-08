@@ -30,4 +30,4 @@ has_toc: false
 
 **Economy**
 
-> City Dwellers operate on a barter economy. Scrolls are the nearest approximation of currency, being both lightweight and useful for daily life. More valuable transactions may be conducted with [Elemental Crystals](../../more/loot_tables/elemental_crystals).
+> City Dwellers operate on a barter economy. Scrolls are the nearest approximation of currency, being both lightweight and useful for daily life. More valuable transactions may be conducted with [Elemental Crystals](../../more/items/elemental_crystals).

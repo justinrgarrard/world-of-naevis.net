@@ -24,7 +24,7 @@ grand_parent: More
 >
 > **Equipment**
 >
-> * [Rogue's Pack](../../character_creation/class/rogue#starting-gear) or 100 gp
+> * [Rogue's Pack](../../docs/character_creation/class/rogue#starting-gear) or 100 gp
 
 #### Expertise
 
@@ -42,13 +42,13 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 #### Cant
 
-During your rogue training you learned [cant](../../more/cant), a combination sign and signal language that allows you to communicate without words.
+During your rogue training you learned [cant](../../docs//character_creation/class/rogue#cant), a combination sign and signal language that allows you to communicate without words.
 
 #### Cunning Action
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-#### [Roguish Archetype](../archetypes/index)
+#### [Roguish Archetype](../../docs/more/archetypes/index)
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
