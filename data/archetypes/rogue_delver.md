@@ -15,11 +15,13 @@ Starting at 3rd level, you can use the bonus action granted by your Cunning Acti
 
 
 #### Savvy
-At 3rd level, you learn to unlock the magic in scrolls through unorthodox means. You can use any spell scroll of a level equal to or less than your proficiency bonus. Your spellcasting modifier is Charisma where applicable. Additionally, you gain proficiency with one tool, language, and skill of your choice.
+At 3rd level, you learn to unlock the magic in scrolls through unorthodox means. You can use any spell scroll of a level equal to or less than your proficiency bonus. Your spellcasting modifier is Charisma. 
 
 
 #### Uncanny Luck
-Starting at 9th level, you have resistance to damage from traps, falling, and poison. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+Starting at 9th level, you have resistance to damage from traps, falling, and poison. 
+
+Additionally, when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
 
 
 #### Use Mystic Device

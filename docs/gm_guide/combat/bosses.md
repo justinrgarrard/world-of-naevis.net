@@ -8,7 +8,17 @@ nav_order: 1
 
 # Bosses
 
-Boss fights are more challenging encounters intended to threaten parties. They should be very difficult to win without some form of tactics. 
+#### The Big Bads
+
+Boss fights are challenging encounters intended to threaten parties. They should be very difficult to win against without some form of tactics. 
+
+> To make strong bosses, do one of the following:
+>
+> * Increase all of their modifiers from +4 to +6.
+> * Increase their physical modifiers, but drop their mental modifiers by the same amount.
+> * Make them resistant to non-magical weaponry.
+> * Give them single use spells.
+> * Give them a swarm of minions.
 
 {: .monster}
 > **Lamia Sorceress (+4)**
@@ -18,6 +28,8 @@ Boss fights are more challenging encounters intended to threaten parties. They s
 > **Armor Class**  14
 > 
 > **Hit Points**  25 + 10 per player character
+>
+> **Initiative** 15, 5
 > 
 > **Speed**       30ft.
 > 
@@ -45,7 +57,7 @@ Boss fights are more challenging encounters intended to threaten parties. They s
 > 
 > *The lamia is hostile and will refuse diplomacy until reaching half HP. At 1/4 HP, she will attempt to surrender, or failing that, flee.*
 
-
+<!-- 
 #### Running Bosses
 
 * **Multiple Initiatives**: Bosses attack multiple times each round, spread out between player actions.
@@ -69,4 +81,4 @@ Boss fights are more challenging encounters intended to threaten parties. They s
 >
 > For example, someone with a +4 to hit is about 20% more likely to land a hit than someone with a +0. A +4 to dexterity translates to about a 20% increase in chance of success for making a dexterity save. A boss creature, then, is about 20% better at everything than a creature with no remarkable stats.
 >
-> **GM's can scale boss monsters on the fly by changing their modifier from +4.** A tougher boss might have a +6 stat base, while a weaker boss could go as low as +2.
+> **GM's can scale boss monsters on the fly by changing their modifier from +4.** A tougher boss might have a +6 stat base, while a weaker boss could go as low as +2. -->

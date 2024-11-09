@@ -4,6 +4,7 @@ title: Loot Tables
 parent: GM Guide
 has_children: true
 has_toc: false
+nav_order: 1
 ---
 
 # Loot Tables

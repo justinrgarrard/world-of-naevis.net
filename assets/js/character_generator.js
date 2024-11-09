@@ -21,6 +21,7 @@ ITEMS = {
   holy_symbol: { weight: 1, value: 10, title: "holy symbol" },
   longbow: { weight: 2, value: 10, title: "longbow" },
   longsword: { weight: 3, value: 10, title: "longsword" },
+  greatsword: { weight: 6, value: 10, title: "longsword" },
   hand_crossbow: { weight: 3, value: 10, title: "hand crossbow" },
   mace: { weight: 4, value: 5, title: "mace" },
   javelin: { weight: 2, value: 1, title: "javelin" },
@@ -42,6 +43,7 @@ ITEMS = {
   shortsword: { weight: 2, value: 5, title: "shortsword" },
   sleeping_powder: { weight: 1, value: 25, title: "sleeping powder (3)" },
   sparking_ammo: { weight: 1, value: 25, title: "sparking ammunition (20)" },
+  sonic_ammo: { weight: 1, value: 25, title: "sonic ammunition (20)" },
   spear: { weight: 3, value: 5, title: "spear" },
   spellbook: { weight: 1, value: 25, title: "spellbook" },
   studded_leather: { weight: 13, value: 10, title: "studded leather" },
@@ -51,6 +53,7 @@ ITEMS = {
   torches: { weight: 5, value: 1, title: "torches (5)" },
   wand: { weight: 1, value: 10, title: "wand" },
   warhammer: { weight: 2, value: 10, title: "warhammer" },
+  volt_staff: { weight: 1, value: 50, title: "<i>volt staff</i>" },
 };
 
 CONTAINERS = {
@@ -215,13 +218,12 @@ const TEMPLAR = {
   spells: ["bless", "cure wounds"],
   title: "templar",
   tools: [],
-  weapons: ["simple", "martial"],
+  weapons: ["simple", "greatsword", "longsword"],
   writeup: "You are a Templar, an ordained knight trained to slay monsters.",
   races: ["variant"],
   inv_worn: [
     ITEMS.chainmail,
-    ITEMS.longsword,
-    ITEMS.shield,
+    ITEMS.greatsword,
     ITEMS.holy_symbol,
     ITEMS.backpack,
     ITEMS.pouch,
@@ -268,7 +270,7 @@ const RAIDER = {
 };
 
 // Human, Stout Halfling
-const BANDIT = {
+const SKIRMISHER = {
   ability_scores: { STR: 14, DEX: 15, CON: 13, WIS: 12, INT: 8, CHA: 10 },
   armor: ["light"],
   cantrips: [],
@@ -280,10 +282,10 @@ const BANDIT = {
   resistances: [],
   skills: ["athletics", "acrobatics", "perception", "stealth"],
   spells: [],
-  title: "bandit",
+  title: "skirmisher",
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
-  writeup: "You are a Bandit, a fleet-footed warrior specialized in ambushes.",
+  writeup: "You are a Skirmisher, a fleet-footed warrior specialized in ambushes.",
   races: ["human", "stout halfling"],
   inv_worn: [
     ITEMS.shortsword,
@@ -340,6 +342,43 @@ const DESPERADO = {
   ability_proficiencies: ["DEX", "INT"],
 };
 
+// Variant human.
+const SNIPER = {
+  ability_scores: { STR: 10, DEX: 16, CON: 14, WIS: 14, INT: 12, CHA: 8 },
+  armor: ["light"],
+  cantrips: [],
+  class: "rogue",
+  hp: 8,
+  expertise: ["perception", "stealth"],
+  features: ["sneak attack", "feat: fighter multiclass", "fighting style: archery"],
+  languages: ["cant"],
+  resistances: [],
+  skills: ["perception", "acrobatics", "stealth", "sleight of hand"],
+  spells: [],
+  title: "sniper",
+  tools: ["thieves'"],
+  weapons: ["simple", "rogue"],
+  writeup:
+    "You are a Sniper, a stealth-oriented marksman with exceptional accuracy.",
+  races: ["variant"],
+  inv_worn: [
+    ITEMS.dagger2,
+    ITEMS.shortbow,
+    ITEMS.shortsword,
+    ITEMS.studded_leather,
+    ITEMS.backpack,
+    ITEMS.pouch,
+  ],
+  inv_pouch: [ITEMS.ammunition, ITEMS.sonic_ammo],
+  inv_backpack: [
+    ITEMS.rations,
+    ITEMS.thieves_tools,
+    ITEMS.bullseye_lantern,
+    ITEMS.oil3,
+  ],
+  ability_proficiencies: ["DEX", "INT"],
+};
+
 // Human or Lightfoot Halfling
 const WITCH = {
   ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 10, INT: 15, CHA: 13 },
@@ -358,7 +397,7 @@ const WITCH = {
   weapons: ["wizard"],
   writeup: "You are a Witch, an enchanter skilled with magic items.",
   races: ["human", "lightfoot halfling"],
-  inv_worn: [ITEMS.mist_dagger, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
+  inv_worn: [ITEMS.volt_staff, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
   ability_proficiencies: ["INT", "WIS"],
@@ -461,12 +500,13 @@ const MAGE_KNIGHT = {
 
 const CLASSES = {
   "mage knight": MAGE_KNIGHT,
-  bandit: BANDIT,
   cultivator: CULTIVATOR,
   desperado: DESPERADO,
   exorcist: EXORCIST,
   fencer: FENCER,
   raider: RAIDER,
+  skirmisher: SKIRMISHER,
+  sniper: SNIPER,
   spellsword: SPELLSWORD,
   templar: TEMPLAR,
   vanguard: VANGUARD,

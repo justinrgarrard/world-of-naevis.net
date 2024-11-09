@@ -9,9 +9,9 @@ grand_parent: More
 
 | Item                | Cost  | Weight |
 | :------------------ | :---- | :----- |
-| Potion, healing     | 50 gp | 1 lb.  |
-| Potion, cleansing   | 50 gp | 1 lb.  |
-| Scroll, cure wounds | 50 gp | 1 lb.  |
+| Potion, healing     | 25 gp | 1 lb.  |
+| Potion, cleansing   | 25 gp | 1 lb.  |
+| Scroll, cure wounds | 25 gp | 1 lb.  |
 | Triage pack         | 10 gp | 1 lb.  |
 
 {: .language}

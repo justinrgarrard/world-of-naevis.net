@@ -34,7 +34,7 @@ Starting at 10th level, you can roll an additional damage die on a critical hit.
 
 
 #### Glancing Blow
-At 15th level, your melee attacks deal half damage (rounded down) on a miss. The number of reactions you can take between turns increases to three.
+At 15th level, your melee attacks deal half damage (rounded down) on a miss. 
 
 
 #### Dauntless

@@ -19,14 +19,9 @@ nav_order: 1
 {: .note }
 > **Non-Basic Classes**
 > 
-> Classes outside the four provided in the _[Basic Rules](../../more/DnD_BasicRules_2018.pdf)_ are not supported by this setting, but can be used with the Game Master's permission.
+> Classes outside the four provided in the _[Basic Rules](../../more/DnD_BasicRules_2018.pdf)_ are not supported by this setting. Players interested in playing a Ranger, Paladin, or other class should consider making use of [multiclassing feats](../../more/feats/index) and playing a [variant human](../race/human#variant).
 
 {: .note }
 > **Archetypes**
 >
 > Archetypes are restricted to the four [options](../../more/archetypes/index) available from the _Basic Rules_ by default. A small number of setting-specific and external archetypes may be used instead with Game Master approval.
-
-{: .note }
-> **Multiclassing**
->
-> Multiclassing is done through the use of [feats](../../more/feats/index). Humans are the only race that can multiclass before level 5.
