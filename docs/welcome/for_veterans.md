@@ -7,13 +7,27 @@ parent: Welcome
 
 # For Veterans
 
-#### Dungeon Crawling for Great Good
+#### Signs That Naevis Might Be For You
 
-The 5th edition of Dungeons & Dragons came out in 2014. Since then dozens of supplement books have been released, each expanding the already considerable *Player's Handbook* with hundreds of new character customization options. 
+> * Your players showed up to a *Lord of the Rings* style campaign with a Warforged, a Kenku, and a Tabaxi.
+>
+> * The new player stopped coming to games after their Human Fighter was hopelessly outclassed by the min-maxer's Hexadin.
+>
+> * Your party's last combat took two sessions to run.
 
-These changes have allowed for all manner of exciting and interesting games. However, they have also created a degree of friction, as Game Masters find themselves fielding questions on which variations are legal at their table. Without special care, a Game Master can find their *Lord of the Rings* campaign evolving into a superhero comedy, complete with talking robots, bird people, and humanoid slimes. 
+---
 
-Naevis was created to work around that particular issue by standardizing on a specific genre: **Swords and Sorcery Adventures**. To that end, it employs restrictions on character options to create a smaller, more coherent world.
+#### Doing More With Less
+
+> The 5th edition of Dungeons & Dragons came out in 2014. Since then dozens of supplement books have been released, each expanding the already considerable *Player's Handbook* with hundreds of new customization options. 
+> 
+> While these changes have allowed for new styles of play, they have also introduced new challenges. Differences in character power levels, in mechanical complexity, and in sheer volume of information can hamper a table, as players and game masters alike struggle to gracefully incorporate the expanded ruleset into their campaigns.
+> 
+> **Where modern 5E focuses on breadth of options, Naevis focuses on depth**. 
+>
+> Naevis aims to provide a "Swords and Sorcery" experience rather than a "Fantasy Kitchen Sink". It deliberately limits itself to four classes, four races, and a few dozen spells (all from the [5E Basic Rules](docs/more/DnD_BasicRules_2018.pdf)). 
+
+---
 
 #### The Big Changes
 
@@ -21,7 +35,7 @@ Naevis was created to work around that particular issue by standardizing on a sp
 
 > * Fighter, Cleric, Rogue, and Wizard are the only available class options. 
 > * Human, Dwarf, Elf, and Halfling are the only available races. 
-> * Spell lists have been reduced to those included in the Basic Rules.
+> * [Spell Lists](../more/spells/index) have been reduced to those included in the Basic Rules.
 > * Non-basic [archetypes](../more/archetypes/index) are disallowed, with new optional archetypes made available.
 > * Multiclassing now requires a special [feat](../more/feats/index) for each class.
 

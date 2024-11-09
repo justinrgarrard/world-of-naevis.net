@@ -15,11 +15,11 @@ Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https:/
 
 #### Highlights
 
-* **Swords and Sorcery**: Naevis is a world governed by mortal machinations, not magic. Trade, politics, and military force are prime motivators in a land where magecraft is one tool among many.
+* **Swords and Sorcery**: Naevis is a world governed by mortal machinations. Trade and politics hold sway, rather than gods and magic. 
 
-* **A Grounded World**: Class and race options are restricted to the [5E Basic Rules](docs/more/DnD_BasicRules_2018.pdf), favoring a deep roleplaying experience over a broad one. Adventures emphasize wits over power.
+* **A Grounded World**: Class and race options are restricted to the [5E Basic Rules](docs/more/DnD_BasicRules_2018.pdf), favoring a deep roleplaying experience over a broad one. 
 
-* **Tuned for Dungeon Crawls**: [Resting Restrictions](docs/adventuring/resting). [Encumbrance Systems](docs/adventuring/encumbrance). [A Revised Economy](docs/gear/index). Naevis incorporates several tweaks to existing systems for the purposes of breathing new life into 5E without altering the base game.
+* **Tuned for Dungeon Crawls**: [Resting Restrictions](docs/adventuring/resting). [Encumbrance Systems](docs/adventuring/encumbrance). [A Revised Economy](docs/gear/index). Naevis incorporates several tweaks to existing systems to breathe new life into 5E without altering its core systems.
 
 
 #### Made For Fans Of...
