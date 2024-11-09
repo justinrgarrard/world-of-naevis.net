@@ -22,7 +22,7 @@ grand_parent: Gear
 | Holy symbol, amulet             | 10 gp | 1 lb.  |
 | Holy symbol, shield             | 15 gp | 6 lb.  |
 | Holy water                      | 25 gp | 1 lb.  |
-| [Scroll](../scrolls), 1st-level | 50 gp | 3 lb.  |
+| [Scroll](../scrolls), 1st-level | 25 gp | 3 lb.  |
 
 #### Armor
 

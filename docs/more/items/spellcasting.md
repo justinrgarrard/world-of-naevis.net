@@ -15,7 +15,7 @@ grand_parent: More
 | Holy symbol, shield          | 15 gp  | 6 lb.  |
 | Robes                        | 1 gp   | 4 lb.  |
 | Spellbook (blank, 100 pages) | 25 gp  | 3 lb.  |
-| Scroll, 1st-level            | 50 gp  | 3 lb.  |
+| Scroll, 1st-level            | 25 gp  | 3 lb.  |
 
 {: .language}
 > Adventurers proficient in **Elven** can purchase focuses, scrolls, and spellbooks at a 20% discount.

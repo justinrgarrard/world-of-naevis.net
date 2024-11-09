@@ -34,7 +34,7 @@ In Naevis, feats allow characters to gain abilities outside of their class. In a
 > 
 > Choose one of the following:
 > 
-> * Proficiency in shields, one weapon, and one type of armor
+> * Proficiency in shields, two weapons, and one type of armor
 > * Proficiency in a Fighting Style
 > 
 > The armor proficiency you gain is the lightest armor you are not currently proficient in. When you next level up, you can choose to gain a level in Fighter.

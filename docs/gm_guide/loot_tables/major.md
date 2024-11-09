@@ -2,7 +2,7 @@
 layout: default
 title: Major Loot
 parent: Loot Tables
-grand_parent: More
+grand_parent: GM Guide
 nav_order: 1
 ---
 

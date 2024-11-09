@@ -20,7 +20,9 @@ When you take this archetype at 2nd level, you gain the ability to improvise spe
 At 2nd level, when you cast a spell from a scroll, you can enhance it in one of the following ways:
 
 * **Distant**: If the spell has a range of 5 feet or more, the range doubles. It the spell has a range of touch, it increases to 30 feet.
+
 * **Extend**: If the spell has a duration of one round or longer, the duration of the spell doubles, to a maximum of 24 hours.
+
 * **Empower**: If the spell deals damage, you can reroll a number of damage dice equal to the scroll's level and take the new result.
 
 

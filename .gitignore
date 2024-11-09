@@ -16,6 +16,7 @@ vendor/
 
 # Ignore local material
 depreciated/
+experimental_archetypes/
 
 # Custom
 .vscode

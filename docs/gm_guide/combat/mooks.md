@@ -8,7 +8,17 @@ nav_order: 0
 
 # Mooks
 
-**Mooks** are generic enemies with a single hit point and a gimmick. They typically appear in groups of 3 to 6, and are vulnerable to crowd control effects like _Sleep_. Game Masters can use Mooks as filler enemies meant to be taken out with one attack.
+#### The Generic Bad Guy
+
+Mooks are generic enemies with a single hit point. They are typically used in groups of 3 and have no modifiers to their ability scores or attacks.
+
+> To make stronger mooks, do one of the following:
+>
+> * Give them a ranged attack.
+> * Give them a special ability.
+> * Increase their AC to 15.
+> * Increase their attack bonus to +4 and damage to 6 (1d10).
+> * Make them immune to non-magical weapons.
 
 {: .monster}
 > **Mook**
@@ -18,12 +28,14 @@ nav_order: 0
 > **Armor Class** 10
 > 
 > **Hit Points**  1 
+>
+> **Initiative** 10
 > 
 > **Speed**       30ft.
 >
 > |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 > | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-> | 10 (+0) | 10 (+0) | 10 (+0) | 08 (-1) | 08 (-1) | 08 (-1) |
+> | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 >
 > **Condition Immunities** None
 > 
@@ -36,10 +48,8 @@ nav_order: 0
 > ***Strike.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 4 (1d6) slashing damage.
 >
 > *A generic creature, ranging from goblins to spiders to bandits. Cannon fodder that can be reflavored to fit the theme of a specific dive.*
->
-> *Customize this template with small abilities as necessary. A spider might have Web once per day. A thug might have Trip Attack. Archers will have ranged attacks.*
 
-
+<!-- 
 #### Running Mooks
 
 * **Shared Initiative**: Mooks form groups of three and share initiatives. You might consider assigning (rather rolling) initiatives such that no more than one group of mooks acts between player turns.
@@ -61,4 +71,4 @@ nav_order: 0
 
 * **Sleepproof**: Cannot be affected by the _Sleep_ spell.
 
-* **Fireproof**: Cannot be affected by fire damage, rendering them immune to the _Burning Hands_ spell.
+* **Fireproof**: Cannot be affected by fire damage, rendering them immune to the _Burning Hands_ spell. -->

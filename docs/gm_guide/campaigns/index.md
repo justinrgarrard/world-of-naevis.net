@@ -4,6 +4,7 @@ title: Campaigns
 parent: GM Guide
 has_children: true
 has_toc: false
+nav_order: 1
 ---
 
 # Campaigns
@@ -18,7 +19,7 @@ Campaigns in Naevis are designed to be run as a series of standalone adventures,
 
 * **Flexible Scheduling**: Players can drop-in or drop-out throughout a campaign.
 * **Character Rosters**: Players have the freedom to try out new characters each session if they so decide.
-* **Character Growth**: Players that stick with a specific character are rewarded with gradually increasing wealth and equipment.
+* **Character Growth**: Players that stick with a specific character are rewarded with gradually increasing wealth, equipment, and roleplaying opportunities.
 
 {: .note}
 > **Alternative: Multi-Session Dungeons**

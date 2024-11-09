@@ -22,7 +22,7 @@ grand_parent: Gear
 | Arcane focus, wand              | 10 gp. | 1 lb.  |
 | Glass pearl                     | 25 gp  | -      |
 | Spellbook (blank, 100 pages)    | 25 gp  | 3 lb.  |
-| [Scroll](../scrolls), 1st-level | 50 gp  | 3 lb.  |
+| [Scroll](../scrolls), 1st-level | 25 gp  | 3 lb.  |
 
 #### Armor
 
