@@ -6,7 +6,7 @@ grand_parent: More
 nav_exclude: true
 ---
 
-# Wizard: Battle Mage (Evocation)
+# Wizard: Evocation (Battle Mage)
 
 _Battle Mages are specialists in destructive magic. They operate as portable artillery in military outfits, able to minimize friendly fire through extensive training._
 

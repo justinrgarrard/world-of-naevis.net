@@ -23,7 +23,7 @@ _Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggress
 
 #### Knight of Hell
 
-At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../../docs/more/secret_languages) language.
+At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../../docs/adventuring/languages#abyssal) language.
 
 #### Reap
 

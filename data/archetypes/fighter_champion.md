@@ -6,7 +6,7 @@ grand_parent: More
 nav_exclude: true
 ---
 
-# Fighter: Wanderer (Champion)
+# Fighter: Champion (Wanderer)
 
 _Wanderers are fighters with no martial arts tradition. Instead of specialized techniques, they focus on general fitness and fundamentals._
 

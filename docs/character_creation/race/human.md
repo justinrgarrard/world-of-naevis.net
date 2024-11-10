@@ -16,13 +16,13 @@ Humans live as the vassals of Dwarves and Elves in small kingdoms between the tw
 
 #### Standard
 
-| Feature            | Description                                                    |
-| :----------------- | :------------------------------------------------------------- |
-| **Ability Scores** | +1 to all ability scores                                       |
-| Speed              | 30 ft. walking speed                                           |
-| **Languages**      | Common, any one [secret language](../../more/secret_languages) |
+| Feature            | Description                                                                   |
+| :----------------- | :---------------------------------------------------------------------------- |
+| **Ability Scores** | +1 to all ability scores                                                      |
+| Speed              | 30 ft. walking speed                                                          |
+| **Languages**      | Common, any one [secret language](../../adventuring/languages#words-of-power) |
 
-Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trades, and form the backbone of all settled lands as laborers and soldiers. Most have an innate affinity for a language of magic.
+Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trades, and form the backbone of all settled lands as laborers and soldiers. Most have an innate affinity for Words of Power.
 
 
 #### Variant

@@ -17,7 +17,7 @@ grand_parent: Lore
 
 #### Powder Keg
 
-> Though elitists may think otherwise, humanity is a very dangerous force in the world. Humans represent the largest population of any Kindred race. They are highly adaptable, highly specialized, and often [innately talented](../../more/secret_languages) in Words of Power. A human revolt could lead to the destruction of the current world order if not handled properly. 
+> Though elitists may think otherwise, humanity is a very dangerous force in the world. Humans represent the largest population of any Kindred race. They are highly adaptable, highly specialized, and often [innately talented](../../adventuring/languages#words-of-power) in Words of Power. A human revolt could lead to the destruction of the current world order if not handled properly. 
 
 #### Age of Legends
 

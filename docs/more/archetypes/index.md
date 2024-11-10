@@ -10,8 +10,8 @@ has_toc: false
 
 By default, the four _Basic Rules_ archetypes are permitted for use in this setting.
 
-| Class   | Archetype                                         |
-| :------ | :------------------------------------------------ |
+| Class   | Archetype                                              |
+| :------ | :----------------------------------------------------- |
 | Cleric  | [Life](../../../data/archetypes/cleric_life)           |
 | Fighter | [Champion](../../../data/archetypes/fighter_champion)  |
 | Rogue   | [Thief](../../../data/archetypes/rogue_thief)          |
@@ -21,8 +21,8 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 
 These optional archetypes were designed for use with Naevis and can be used as-is.
 
-| Class       | Archetypes                                         |                                                    |
-| :---------- | :------------------------------------------------- | :------------------------------------------------- |
+| Class       | Archetypes                                              |                                                         |
+| :---------- | :------------------------------------------------------ | :------------------------------------------------------ |
 | **Cleric**  | [Dream Cult](../../../data/archetypes/cleric_dream)     | [Hell Cult](../../../data/archetypes/cleric_hell)       |
 |             | [Stone Cult](../../../data/archetypes/cleric_stone)     | [Winter Cult](../../../data/archetypes/cleric_winter)   |
 | **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince) |
@@ -71,16 +71,16 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 
 The Cleric War domain can be repurposed with minor changes to its spell list. Note that the replacement spells have a theme close to their originals. 
 
-| Cleric Level |                                                                 Spells |
-| :----------- | ---------------------------------------------------------------------: |
+| Cleric Level |                                                                      Spells |
+| :----------- | --------------------------------------------------------------------------: |
 | 1st          |        [Cure Wounds](../../../data/srd_spells/cure_wounds), Shield of Faith |
-| 3rd          |                                         Magic Weapon, Spiritual Weapon |
+| 3rd          |                                              Magic Weapon, Spiritual Weapon |
 | 5th          | [Beacon of Hope](../../../data/srd_spells/beacon_of_hope), Spirit Guardians |
-| 7th          |                                         Freedom of Movement, Stoneskin |
+| 7th          |                                              Freedom of Movement, Stoneskin |
 | 9th          |   Flame Strike, [Dominate Person](../../../data/srd_spells/dominate_person) |
 
 #### Example: Rune Knight
 
-The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the [Giant](../secret_languages) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../data/archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
+The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the [Giant](../../adventuring/languages#giant) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../data/archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
 
 In terms of mechanics, the Rune Knight archetype is largely compatible as-is, but a Game Master might remove the size increase ability to avoid veering into high fantasy.

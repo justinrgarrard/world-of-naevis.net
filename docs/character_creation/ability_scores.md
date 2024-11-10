@@ -25,4 +25,4 @@ The standard array consists of six values: 15, 14, 13, 12, 10, 8. These are assi
 {: .note}
 > **Other Methods**
 >
-> Point-buy and randomized roll are **not recommended** for use.
+> Point-buy and randomized roll are not supported for this setting.

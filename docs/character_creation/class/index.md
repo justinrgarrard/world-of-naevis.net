@@ -13,7 +13,7 @@ nav_order: 1
 
 * **[Clerics](cleric)** are members of Navean cults and users of divine magic.
 * **[Fighters](fighter)** are peerless warriors and martial arts practitioners.
-* **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../character_creation/class/rogue#cant).
+* **[Rogues](rogue)** are specialists with many talents, including knowledge of [cant](../../adventuring/languages#cant).
 * **[Wizards](wizard)** are trained arcanists with mastery over scrolls and rituals.
 
 {: .note }
@@ -24,4 +24,4 @@ nav_order: 1
 {: .note }
 > **Archetypes**
 >
-> Archetypes are restricted to the four [options](../../more/archetypes/index) available from the _Basic Rules_ by default. A small number of setting-specific and external archetypes may be used instead with Game Master approval.
+> Archetypes are restricted to the [Basic Rules options](../../more/archetypes/index) and [setting-specific options](../../more/archetypes/index#setting-archetypes).

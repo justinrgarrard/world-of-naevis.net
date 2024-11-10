@@ -42,7 +42,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 #### Cant
 
-During your rogue training you learned [cant](../../docs//character_creation/class/rogue#cant), a combination sign and signal language that allows you to communicate without words.
+During your rogue training you learned [cant](../../docs/adventuring/languages#cant), a combination sign and signal language that allows you to communicate without words.
 
 #### Cunning Action
 

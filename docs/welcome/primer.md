@@ -7,24 +7,60 @@ parent: Welcome
 
 # Primer
 
-#### The Premise
+#### System
 
-> Adventurers have come from far and wide to explore the newly discovered [Forgotten City](../lore/city_below), an underground ruin overflowing with exotic treasures and terrible dangers. They have settled in a desert outpost called the [Canvaslands](../lore/canvaslands/index) just outside the City's entrance. 
+> * **Four Classes**: Fighter, Cleric, Rogue, Wizard.
+> * **Four Races**: Elf, Dwarf, Halfling, Human.
+> * **Uses the [5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**
 
-#### The Party
+#### Places
 
-> You are an adventurer from the [Greenlands](../lore/greenlands/index), the fertile north where civilization thrives. You may be a sellsword, a criminal, a curious scholar, or have any number of reasons for seeking out the City. You live in one of the many hostels run by aspiring slumlords; uncomfortable yurts offering meager protection from the desert elements. Together with an outfit of similarly-minded fellows, you earn your daily bread in this desolate land by trading rare materials found in the City's bowels.
+> ##### The Nameless Desert
+>
+> A [vast arid desert](../lore/nameless_desert) prone to sandstorms and drought. Giant scorpions and sand worms hunt for unsuspecting wanderers foolish enough to venture in without a guide.
+>
+> ##### The City Below
+>
+> A subterranean otherworld beneath the long-destroyed ruins of a mysterious desert city. The great powers of Naevis covet the treasures hidden within.
+>
+> ##### The Canvaslands
+>
+> A [lawless shantytown](../lore/canvaslands/index) of yurts and market stalls that sprung up around the City's entrance. Within its unmarked boundaries are tradesmen, soldiers, camp followers, and aspiring adventurers. 
+
+
+#### People
+
+> ##### Adventurers
 > 
-> It is brutal, punishing work. But it also puts you on the forefront of a new age. Every artifact uncovered threatens to overturn centuries of existing research. Miraculous weapons promise to revolutionize warfare, while enigmatic panaceas go far beyond what modern alchemy can muster.
-> 
-> You, adventurer, have a chance to go down in history as the harbinger of an era. 
+> The greedy, the desperate, and the hopeful. [Persons of talent](../character_creation/index) that have left the comforts of civilization to plumb the City's depths for fortune. 
+>
+> ##### Embassies
+>
+> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands, albeit with less bloodshed and more espionage. Representatives from both nations are on the watch for powerful artifacts that can upset the current balance of power.
+>
+> ##### City Dwellers
+>
+> Strange, monstrous [creatures](../lore/city_dwellers/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels, where civilizations entire thrive far from the sun.
 
-#### The System
 
-> Naevis uses the [*5E Basic Rules*](../more/DnD_BasicRules_2018.pdf). It has [four classes](../character_creation/class/index), [four races](../character_creation/race/index), and a [subset of spells](../more/spells/index). These restrictions have several purposes.
+#### Languages
+
+> ##### Common
+> The human tongue, widely used as the language of trade and diplomacy.
+>
+> ##### Undercommon
+> The verbal language of the City Below, used by orcs, kobolds, and other City Dwellers.
+>
+> ##### Infernal
+> The written language of the City Below, used in mystic tomes, scrawled warnings, and other writing found beneath the crust of the earth.
+>
+> ##### Words of Power
+> Languages imbued with ancient magic, used to speak with [beasts](../adventuring/languages#sylvan), commune with the [dead](../adventuring/languages#abyssal), and more.
+
+<!-- > Naevis uses the [*5E Basic Rules*](../more/DnD_BasicRules_2018.pdf). It has [four classes](../character_creation/class/index), [four races](../character_creation/race/index), and a [subset of spells](../more/spells/index). These restrictions have several purposes.
 > 
 > 1. **To Keep the World More Grounded**, allowing for roleplay that focuses on the relationships between a small number of cultures.
 >    
 > 2. **To Reduce the Amount of Material** that players and game masters need to keep in the forefront of their minds during play.
 >    
-> 3. **To Encourage Strategy**, forcing players to think carefully about the tradeoffs that each character creation decision brings.
+> 3. **To Encourage Strategy**, forcing players to think carefully about the tradeoffs that each character creation decision brings. -->
