@@ -29,7 +29,7 @@ A typical session consists of the party exploring a map made of index cards. Eac
 
 > A dungeon is no place for leisurely napping. Long rests are prohibited while exploring. [Short rests](../adventuring/resting) can be taken using rations.
 
-##### Loot
+##### Loot and Encumbrance
 
 {: .mundane-item}
 > **Loot (25 gp)**
@@ -37,8 +37,6 @@ A typical session consists of the party exploring a map made of index cards. Eac
 > *Treasure, 5 lb.*
 >
 > Carefully preserved monster viscera, rocks that glow when exposed to moonlight, damaged armor made of quality materials; this is anything that might be of interest to a curious merchant.
-
-##### Encumbrance
 
 > Given that loot is valued by weight, the [Variant Encumbrance](../adventuring/encumbrance) rules encourage strong characters that can carry their own gear and treasures. *Bags of Holding* and similar items do not exist in this setting.
 
@@ -65,3 +63,16 @@ A typical session consists of the party exploring a map made of index cards. Eac
 
 > Not all Rooms include a barrier to progress. Many are simply strange, or have wholly optional elements, such as a tree with glowing fruits. Ambitious parties might engage with these features in the hopes of securing bonus treasure, while cautious or exhausted parties could choose to skirt around the edges.
  
+#### Downtime
+
+##### Outfitting
+
+> A select few adventurers take their winnings and leave for home, purses full and pride satisfied. But most adventurers are addicted to the risk. They invest their earnings in [gear](../gear/index), [scrolls](../gear/scrolls), and [charms](../gear/charms), hoping for an even bigger payout than the last.
+
+##### Preparing
+
+> Brewing potions, fletching explosive arrows, and reading omens are all common [Downtime Activities](../adventuring/downtime) that adventurers engage in between sessions. Each provides benefits that may mean the difference between life and death on the next run.
+
+##### Lifestyle Expenses
+
+> Adventurers are expected to spend **25 gp** to secure room and board between sessions. Those that don't are prohibited from undertaking any Downtime Activities.
