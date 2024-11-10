@@ -1,29 +1,27 @@
 ---
 layout: default
-title: For Veterans
+title: 5E Veteran's Corner
 nav_order: 2
 parent: Welcome
 ---
 
-# For Veterans
+# 5E Veteran's Corner
 
 #### Signs That Naevis Might Be For You
 
-> * Your party's last combat encounter took two weeks to finish.
+> * Your party loves tactical gameplay, but is tired of combat encounters that take two sessions to run.
 >
-> * Your party showed up to a *Lord of the Rings* themed campaign with a Warforged, a Kenku, and a Tabaxi.
->
-> * Your party has a Sorcadin that's better at fighting than the Fighter, and better at wizardry than the Wizard.
+> * Half of your party are emulating *Lord of the Rings*, while the other are emulating *Final Fantasy*.
+> 
+> * There is a divide in your party between those who use optimized builds and those who don't.
 
 ---
 
-#### Doing More With Less
+#### How Naevis Addresses All That
 
-> The 5th edition of Dungeons & Dragons came out in 2014. Since then dozens of supplement books have been released, each expanding the already considerable *Player's Handbook* with hundreds of new customization options. 
+> Naevis is a compromise. In exchange for trading away some of the customization options in 5E, it provides a focused and streamlined experience. Players will have an easier time roleplaying in a shared narrative context, while game masters will find it easier to craft stories and tactical challenges.
 > 
-> While these changes have allowed for new styles of play, they have also introduced challenges. Differences in character power levels, added mechanical complexity, and sheer volume of information can hamper a table, as players and game masters alike struggle to gracefully incorporate the expanded ruleset into their campaigns.
-> 
-> Naevis takes a different approach. **Where modern 5E focuses on breadth of options, Naevis focuses on depth**. 
+> Naevis also includes specialized rules for [creating dungeons](../gm_guide/rooms/rooms), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting). These help to give sessions a tangible dungeon crawling flavor. They also create a shared set of assumptions between players and game masters about resources. 
 
 ---
 
