@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5E Veteran's Corner
-nav_order: 2
+nav_order: 3
 parent: Welcome
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Dungeon Crawling
-nav_order: 3
+title: Gameplay
+nav_order: 2
 parent: Welcome
 ---
 
-# Dungeon Crawling
+# Gameplay
 
 #### A House of Cards
 
@@ -21,11 +21,11 @@ A typical session consists of the party exploring a map made of index cards. Eac
 
 #### Survival
 
-##### Combat
+##### Three Round Combat
 
 > A rule of thumb is that combats do not typically go [longer than three rounds](../gm_guide/combat/combat). By design, most skirmishes that reach Round 3 have seen at least one side decimated and fleeing for survival.
 
-##### Resting
+##### Short Rests
 
 > A dungeon is no place for leisurely napping. Long rests are prohibited while exploring. [Short rests](../adventuring/resting) can be taken using rations.
 
@@ -57,17 +57,19 @@ A typical session consists of the party exploring a map made of index cards. Eac
 
 ##### Hazards
 
-> Aside from threats, quite a few Rooms present challenges that can't be resolved through combat. Boiling hot springs, toxic mushroom spores, and jagged cliffs can also pose a challenge.
+> Aside from threats, quite a few Rooms present challenges that can't be resolved through combat. Boiling hot springs, toxic mushroom spores, and jagged cliffs can also impede progress and require careful planning to safely cross.
 
 ##### Oddities
 
 > Not all Rooms include a barrier to progress. Many are simply strange, or have wholly optional elements, such as a tree with glowing fruits. Ambitious parties might engage with these features in the hopes of securing bonus treasure, while cautious or exhausted parties could choose to skirt around the edges.
- 
+
+---
+
 #### Downtime
 
 ##### Outfitting
 
-> A select few adventurers take their winnings and leave for home, purses full and pride satisfied. But most adventurers are addicted to the risk. They invest their earnings in [gear](../gear/index), [scrolls](../gear/scrolls), and [charms](../gear/charms), hoping for an even bigger payout than the last.
+> A select few adventurers take their winnings and leave for home, purses full and pride satisfied. But far more are addicted to the chase. They invest their earnings in [gear](../gear/index), [scrolls](../gear/scrolls), and [charms](../gear/charms), hoping for an even bigger payout on tomorrow's expedition.
 
 ##### Preparing
 
