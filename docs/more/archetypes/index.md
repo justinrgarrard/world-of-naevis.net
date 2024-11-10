@@ -67,9 +67,9 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 > * **Provide Context** for where your abilities come from in this setting.
 
 
-#### Example: War Domain
+##### Example: War Domain
 
-The Cleric War domain can be repurposed with minor changes to its spell list. Note that the replacement spells have a theme close to their originals. 
+> The Cleric War domain can be repurposed with minor changes to its spell list. Note that the replacement spells have a theme close to their originals. 
 
 | Cleric Level |                                                                      Spells |
 | :----------- | --------------------------------------------------------------------------: |
@@ -79,8 +79,8 @@ The Cleric War domain can be repurposed with minor changes to its spell list. No
 | 7th          |                                              Freedom of Movement, Stoneskin |
 | 9th          |   Flame Strike, [Dominate Person](../../../data/srd_spells/dominate_person) |
 
-#### Example: Rune Knight
+##### Example: Rune Knight
 
-The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the [Giant](../../adventuring/languages#giant) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../data/archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
-
-In terms of mechanics, the Rune Knight archetype is largely compatible as-is, but a Game Master might remove the size increase ability to avoid veering into high fantasy.
+> The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the [Giant](../../adventuring/languages#giant) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../data/archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
+> 
+> In terms of mechanics, the Rune Knight archetype is largely compatible as-is, but a Game Master might remove the size increase ability to avoid veering into high fantasy.
