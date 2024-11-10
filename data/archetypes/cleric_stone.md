@@ -23,7 +23,7 @@ _Warrior priests who subject themselves to arduous trials to better develop thei
 
 #### Bonus Proficiencies
 
-At 1st level, you gain proficiency with heavy armor and the [Giant](../../docs/more/secret_languages) language.
+At 1st level, you gain proficiency with heavy armor and the [Giant](../../docs/adventuring/languages#giant) language.
 
 
 #### Amor Fati

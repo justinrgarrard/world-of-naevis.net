@@ -24,7 +24,7 @@ _Winter is an ancient and august order, one that predates Navean wizardry. Their
 
 #### Winter's Touch 
 
-At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../../docs/more/secret_languages) language.
+At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../../docs/adventuring/languages#sylvan) language.
 
 
 #### Frost Sorcery

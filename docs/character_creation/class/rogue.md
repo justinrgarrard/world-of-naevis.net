@@ -21,10 +21,6 @@ Even a modest rogue can boast six different skills and two areas of [Expertise](
 >
 > A rogue with expertise in Arcana can outclass a wizard with their mystic knowledge, while a rogue with expertise in Athletics can outrun a trained warrior. Consider making the most of these benefits by pairing Expertise with a high ability score in the corresponding skill.
 
-##### Cant
-
-{: .language}
-> **Cant** is a sign and signal language. Being proficient in this language allows you to communicate with your hands or certain visual tools (like torches and flags). 
 
 ### Starting Gear
 _Rogue's Pack (39 lb.)_ or 100 gp.

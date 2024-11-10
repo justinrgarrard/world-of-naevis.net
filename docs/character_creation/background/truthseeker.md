@@ -8,7 +8,7 @@ nav_order: 7
 
 # Truthseeker
 
-You came to the Forgotten City to understand its mysteries. You may be an archaeologist hunting knowledge, a wizard seeking new magic to make your own, or a priest following the urgings of your cult. You are a specialist in [City Dweller](../../lore/city_dwellers/index) languages.
+You came to the City to understand its mysteries. You may be an archaeologist hunting knowledge, a mage seeking new magic to make your own, or something else entirely. You are a specialist in [City Dweller](../../lore/city_dwellers/index) languages.
 
 **[Skill Proficiency](../../more/review/skills)**: Arcana, History
 

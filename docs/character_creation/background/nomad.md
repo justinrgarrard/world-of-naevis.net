@@ -8,7 +8,7 @@ nav_order: 4
 
 # Nomad
 
-You came to the Forgotten City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. 
+You came to the City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. 
 
 **[Skill Proficiency](../../more/review/skills)**: Athletics, Survival
 

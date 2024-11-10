@@ -8,11 +8,11 @@ nav_order: 8
 
 # Warlord
 
-You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../character_creation/class/rogue#cant).
+You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../adventuring/languages#cant).
 
 **[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
 
-**[Language Proficiency](../../adventuring/languages)**: Cant
+**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial
 
 **[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
 

@@ -8,7 +8,7 @@ nav_order: 6
 
 # Treasure Hunter
 
-You came to the Forgotten City in search of fortune and glory. You may be a sellsword, a tomb raider, or an aspiring merchant hoping to find inventory. You are capable of noticing danger before it blossoms into a problem.
+You came to the City in search of fortune and glory. You may be a sellsword, a tomb raider, or an aspiring merchant hoping to find new inventory. You have a sixth sense for danger.
 
 **[Skill Proficiency](../../more/review/skills)**: Perception, Insight
 

@@ -19,6 +19,6 @@ Using an appropriate artisan tool, create [alchemics](../../docs/gear/alchemics)
 | Tinker or Mason     | [Firebomb](../../data/alchemics/firebomb), [Flashbomb](../../data/alchemics/flashbomb), [Thunderbomb](../../data/alchemics/thunderbomb)                                                                                         |
 | Woodcarver or Smith | [Shocking Ammo](../../data/alchemics/shocking_ammo), [Sonic Ammo](../../data/alchemics/sonic_ammo), [Sparking Ammo](../../data/alchemics/sparking_ammo)                                                                         |
 
-#### Example
+##### Example
 
-Maric has 14 (+2) Intelligence and proficiency in the Herbalist tool. He can create up to three potions. During downtime, he creates two _Potions of Healing_ and one _Potion of Darkvision_.
+> Maric has 14 (+2) Intelligence and proficiency in the Herbalist tool. He can create up to three potions. During downtime, he creates two _Potions of Healing_ and one _Potion of Darkvision_.

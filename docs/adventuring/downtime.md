@@ -10,7 +10,13 @@ has_toc: false
 
 #### Hard-Earned Rest
 
-Downtime is the time between adventures. It encompasses the activities that characters get up to when they aren't dungeon diving or otherwise in mortal danger. In game, downtime will often represent **4-6 weeks of recuperation**. 
+Downtime is the time spent between adventures. It encompasses activities that characters get up to when they aren't exploring the City or otherwise in mortal danger. In game, downtime will often represent **4-6 weeks of recuperation**. 
+
+
+##### Lifestyle Expenses
+> When characters take downtime, they must expend **25 gp**. This gold covers costs related to food, shelter, and equipment used during downtime activities.
+>
+> Adventurers that don't pay their lifestyle expenses cannot participate in a downtime activity. They instead perform manual labor to fund room and board.
 
 #### Activities
 

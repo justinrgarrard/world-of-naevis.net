@@ -6,7 +6,7 @@ grand_parent: More
 nav_exclude: true
 ---
 
-# Rogue: Scoundrel (Thief)
+# Rogue: Thief (Scoundrel)
 
 _Scoundrels match the mental imagery most have when they think of rogues. They possess remarkable agility and carry plenty of hidden tricks up their sleeves._
 

@@ -9,7 +9,7 @@ nav_order: 1
 
 # Alchemist
 
-You came to the Forgotten City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. 
+You came to the City to be at the forefront of your art. You may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. Regardless, your practice is founded upon observation and understanding.
 
 **[Skill Proficiency](../../more/review/skills)**: Nature, Investigation
 

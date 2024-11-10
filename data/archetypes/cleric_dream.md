@@ -23,7 +23,7 @@ _The Dreamweavers are a religious sect that walk between the conscious and uncon
 
 #### Look Within 
 
-At 1st level, you gain proficiency in insight and the [Deep Speech](../../docs/more/secret_languages) language. Your proficiency bonus is doubled when you use Insight.
+At 1st level, you gain proficiency in insight and the [Deep Speech](../../docs/adventuring/languages#deep-speech) language. Your proficiency bonus is doubled when you use Insight.
 
 #### Psychic Casting
 

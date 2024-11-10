@@ -10,4 +10,4 @@ nav_exclude: true
 
 *Requires proficiency in an instrument.*
 
-Gain an amount of gp equal to your Charisma ability score multiplied by your proficiency bonus.
+Waive your [Lifestyle Expenses](../../docs/adventuring/downtime#lifestyle-expenses) for this downtime. Gain an amount of gp equal to your Charisma ability score multiplied by your proficiency bonus.
