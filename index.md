@@ -16,8 +16,8 @@ Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https:/
 #### Highlights
 
 <!-- * **A World of Steel and Sand** -->
-* **[5E Basic Rules](docs/more/DnD_BasicRules_2018.pdf) Gameplay**
-* **Designed with [OSR](https://en.wikipedia.org/wiki/Old_School_Renaissance) Principles**
+* **[5E Basic Rules Gameplay](docs/more/DnD_BasicRules_2018.pdf)**
+* **Designed with [OSR Principles](https://en.wikipedia.org/wiki/Old_School_Renaissance)**
 * **Swords and Sorcery Dungeon Crawling**
 <!-- * **New Mechanics for Survival, Resting, and Encumbrance** -->
 
