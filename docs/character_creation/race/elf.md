@@ -8,7 +8,7 @@ nav_order: 1
 
 # Elf
 
-Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawling nation that covers nearly all of the continent. Their society is rigidly stratified along bloodlines and codified traditions going back thousands of years.
+Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawling nation that covers nearly all of the continent. Their society is rigidly stratified along bloodlines going back thousands of years.
 
 {: .language}
 > **Elven** is the language of enchanting. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls.
@@ -27,7 +27,7 @@ Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawl
 | Trance             | you require 4 hours of rest instead of 8, and remain conscious throughout                                         |
 | **Cantrip**        | you know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. |
 
-High elves are born to the ruling caste. They spend 100 years undergoing strict training to embody the elven ideal before being allowed to participate in the outside world.
+High elves are born to the ruling caste. They are raised to embody the Elven ideal, mastering sword, spell, and bow as part of their aristocratic upbringing.
 
 #### Wood Elf
 
@@ -43,4 +43,4 @@ High elves are born to the ruling caste. They spend 100 years undergoing strict 
 | Trance               | you require 4 hours of rest instead of 8, and remain conscious throughout                                                                |
 | **Mask of the Wild** | you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. |
 
-Wood elves are born to the lesser class. They serve a compulsory military service term and are charged with managing the empire's lands.
+Wood elves are born to the lesser caste. They serve a compulsory military service term and are charged with managing the empire's affairs.

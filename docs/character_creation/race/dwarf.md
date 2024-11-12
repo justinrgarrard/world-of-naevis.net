@@ -27,7 +27,7 @@ Navean dwarves live in [city states](../../lore/greenlands/dwarves) dominated by
 | Stonecunning       | add double your proficiency bonus to Intelligence (History) checks on stonework. |
 | **Armor**          | light armor and medium armor                                                     |
 
-Mountain dwarves are raised in prosperous clans and taught warcraft from a young age. They are expected to carry on the honor of their clan.
+Mountain dwarves are raised in prosperous clans and taught warcraft from a young age. They are universally proficient in armor, dwarven weaponry, and basic alchemy.
 
 #### Hill Dwarf
 
@@ -43,4 +43,4 @@ Mountain dwarves are raised in prosperous clans and taught warcraft from a young
 | Stonecunning          | add double your proficiency bonus to Intelligence (History) checks on stonework    |
 | **Dwarven Toughness** | your maximum hit points increases by one additional point for each level you have. |
 
-Hill dwarves come from impoverished or fallen clans. They are driven by a deep need to reclaim their clan's former glory.
+Hill dwarves come from impoverished or fallen clans. They lack the upbringing of wealthier dwarves, but make up for it with grit and street smarts.

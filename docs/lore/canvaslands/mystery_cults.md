@@ -13,12 +13,10 @@ grand_parent: Lore
 
 #### Local Cults
 
-> There are thousands of cults in Naevis, each with their own beliefs and agendas. Four currently have a presence in the Canvaslands.
+> There are thousands of cults in Naevis, each with their own beliefs and agendas. Two currently have a presence in the Canvaslands.
 >
-> * **[Stone Legionnaires](../../../data/archetypes/cleric_stone)** are a fraternity of warrior priests who believe in testing themselves against ever-greater trials.
-> * **[Dreamweavers](../../../data/archetypes/cleric_dream)** are occultist mystics who pursue esoteric truths about the world.
 > * **[Hell Knights](../../../data/archetypes/cleric_hell)** are revolutionaries and anarchists, generally unwelcome in settled lands.
-> * **[Winter Witches](../../../data/archetypes/cleric_winter)** are nuns and monks who establish monasteries in remote lands.
+> * **[Winter Witches](../../../data/archetypes/cleric_winter)** are an ancient order of sorcerers who establish monasteries in remote lands.
 
 #### Divinity
 

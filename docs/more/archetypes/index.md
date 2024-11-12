@@ -23,8 +23,7 @@ These optional archetypes were designed for use with Naevis and can be used as-i
 
 | Class       | Archetypes                                              |                                                         |
 | :---------- | :------------------------------------------------------ | :------------------------------------------------------ |
-| **Cleric**  | [Dream Cult](../../../data/archetypes/cleric_dream)     | [Hell Cult](../../../data/archetypes/cleric_hell)       |
-|             | [Stone Cult](../../../data/archetypes/cleric_stone)     | [Winter Cult](../../../data/archetypes/cleric_winter)   |
+| **Cleric**  | [Hell Cult](../../../data/archetypes/cleric_hell)       | [Winter Cult](../../../data/archetypes/cleric_winter)   |
 | **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince) |
 | **Rogue**   | [Delver](../../../data/archetypes/rogue_delver)         | [Knife Dancer](../../../data/archetypes/rogue_knife)    |
 | **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Tower Mage](../../../data/archetypes/wizard_tower)     |
@@ -79,8 +78,3 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 | 7th          |                                              Freedom of Movement, Stoneskin |
 | 9th          |   Flame Strike, [Dominate Person](../../../data/srd_spells/dominate_person) |
 
-##### Example: Rune Knight
-
-> The Fighter Rune Knight archetype can be themed as a warrior or scholar seeking out fragments of the [Giant](../../adventuring/languages#giant) language. They may have an adversarial relationship with the [Stone Legionnaires](../../../data/archetypes/cleric_stone) as presumed plunderers of knowledge typically reserved for initiates.
-> 
-> In terms of mechanics, the Rune Knight archetype is largely compatible as-is, but a Game Master might remove the size increase ability to avoid veering into high fantasy.

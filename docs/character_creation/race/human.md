@@ -12,17 +12,20 @@ Humans live as the vassals of Dwarves and Elves in small kingdoms between the tw
 
 {: .language}
 > **Common**, the human tongue, is widely used as the language of trade and diplomacy. All characters are proficient in Common.
-
+>
+> **Sylvan**, the language of beasts, is inherited through blood rather than instruction.
+>
+> **Abyssal**, the language of the dead, is also heritable, but far rarer and more stigmatized.
 
 #### Standard
 
-| Feature            | Description                                                                   |
-| :----------------- | :---------------------------------------------------------------------------- |
-| **Ability Scores** | +1 to all ability scores                                                      |
-| Speed              | 30 ft. walking speed                                                          |
-| **Languages**      | Common, any one [secret language](../../adventuring/languages#words-of-power) |
+| Feature            | Description                                                                                            |
+| :----------------- | :----------------------------------------------------------------------------------------------------- |
+| **Ability Scores** | +1 to all ability scores                                                                               |
+| Speed              | 30 ft. walking speed                                                                                   |
+| **Languages**      | Common, [Sylvan](../../adventuring/languages#sylvan) or [Abyssal](../../adventuring/languages#abyssal) |
 
-Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trades, and form the backbone of all settled lands as laborers and soldiers. Most have an innate affinity for Words of Power.
+Hardy and adaptable, Standard Humans represent the largest bodies of common laborers in any land. Many have inherited the language of beasts, giving them a close kinship with hounds, livestock, and other farm animals. A small number inherit grave speech instead, gaining the ability to speak with ghosts and other undead.
 
 
 #### Variant
@@ -35,4 +38,4 @@ Hardy and adaptable, Standard Humans can excel in any field as jacks-of-all-trad
 | **Skills**         | any one skill                    |
 | **Feats**          | any one [feat](../../more/feats) |
 
-Variant Humans are those who benefit from an unusual upbringing. Many come from servile clans, lineages of humans raised to excel in a niche field, such as wizardry or warcraft. Though less versatile than other humans, they are the only adventurers that can [multiclass](../../more/feats/index) at level one.
+Variant Humans are those who come from an unusual upbringing. Many hail from servile clans, lineages of humans raised to excel in a niche field, such as wizardry or warcraft. Others may be nobility or astounding prodigies.
