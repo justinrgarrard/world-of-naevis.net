@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Winter Witch
 
-_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be pragmatic to a fault, placing cold logic above fickle emotions._
+_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be ruthlessly pragmatic._
 
 
 #### Winter Domain Spells
@@ -33,17 +33,13 @@ At 1st level, your *Ray of Frost* cantrip deviates from the standard casting, gr
 
 * **Range**: The spell's range increases by 10 feet for each level of your proficiency bonus.
 
-* **Targets**: The number of targets this spell can affect is equal to your proficiency bonus. Targets must be within 5 feet of one another.
+* **Targets**: The number of targets this spell can affect is equal to your proficiency bonus. Targets must be within 5 feet of one another, and are each subject to an attack roll.
 
-<!-- #### Diamond Dust
+#### Channel Divinity: Deep Slumber
 
-At 1st level, you can call on the power of winter to raise a cloud of icy fog. You create a 20-foot-radius sphere of fog centered on a point within 100 feet of you. The sphere spreads around corners, and its area is heavily obscured. It lasts for ten minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. You must take a short or long rest before using this feature again. -->
+Starting at 2nd level, you can use your Channel Divinity to send others into a deep slumber.
 
-
-#### Channel Divinity: Winter's Heart
-
-Starting at 2nd level, you can use your Channel Divinity to plummet the temperature nearby. As an action, you can present your holy symbol. All creatures within 100 feet of you must make a Dexterity saving throw against your spell DC or have their movement set to 0 until the start of your next turn. Creatures that pass the save have their movement speed halved instead. Any uncovered water in the area freezes into a thin sheet of ice.
-
+When you cast the _Sleep_ spell, you can use your Channel Divinity with a bonus action to roll the maximum possible result.
 
 #### Winter Gale
 

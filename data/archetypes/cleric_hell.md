@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Hell Knight
 
-_Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggressively seek to overturn order. The best of them seek out unjust systems to destroy, while others simply revel in destruction. They are widely shunned in settled lands, finding work among criminals and rebels._
+_Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggressively seek to overturn order. The best of them seek out unjust systems to destroy, while others simply revel in destruction._
 
 
 #### Hell Domain Spells
@@ -39,7 +39,7 @@ Starting at 2nd level, you can use your Channel Divinity as a reaction when you 
 
 Beginning at 6th level, you can use your Channel Divinity to create a small wall of flame.
 
-As an action, you present your holy symbol, and the wall forms within five feet of you. It can be up to 10 feet wide, 10 feet high, and one foot thick. Any creature standing in the wall when it forms or attempting to move through the wall after it forms takes 1d8 fire damage per level of proficiency bonus you have. The wall exists for one minute before fading to non-magical embers.
+As an action, you present your holy symbol, and the wall forms within five feet of you. It can be up to 10 feet wide, 5 feet high, and one foot thick. Any creature standing in the wall when it forms or attempting to move through the wall after it forms takes 1d8 fire damage per level of proficiency bonus you have. The wall exists for one minute before fading to non-magical embers.
 
 
 #### Divine Strike

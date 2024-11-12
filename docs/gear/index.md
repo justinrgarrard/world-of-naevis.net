@@ -20,12 +20,16 @@ Adventurers can use their class' starting pack to begin play, or purchase their 
 {: .note}
 > **Pricing and Selection**
 >
-> Any adventuring gear in the _Basic Rules_ is available for purchase and should be searchable using the search bar at the top of the page. Item prices differ from the _[Basic Rules](../more/DnD_BasicRules_2018.pdf)_ (minimum 1 gp, weights rounded up to the nearest lb.)
+> Any adventuring gear in the _Basic Rules_ is available for purchase. Item prices differ from the _[Basic Rules](../more/DnD_BasicRules_2018.pdf)_ (minimum 1 gp, weights rounded up to the nearest lb.)
 
-#### Specialty Equipment
-
-A selection of *Common* rarity magical items are available for purchase as well. They represent a significant expense, but can mean the difference between life or death while adventuring.
-
-* [Alchemics](alchemics) (25 gp)
-* [Charms](charms) (50 gp)
-* [Scrolls](scrolls) (25 gp)
+> ##### Specialty Equipment
+> 
+> A selection of *Common* rarity magical items are available for purchase as well. They represent a significant expense, but can mean the difference between life or death while adventuring.
+> 
+> * [Alchemics](alchemics) (25 gp)
+> * [Charms](charms) (50 gp)
+> * [Scrolls](scrolls) (25 gp)
+>
+> ##### Full Listings
+>
+> * [Items Page](../more/items/index)

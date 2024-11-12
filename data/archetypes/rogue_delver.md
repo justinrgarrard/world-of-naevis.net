@@ -8,14 +8,14 @@ nav_exclude: true
 
 # Rogue: Delver
 
-_The archetypical adventurer, delvers are rogues that have mastered a broad array of talents for exploring deadly dungeons._
+_The archetypical adventurer, Delvers are rogues that are especially adept with magic items. Though not true spellcasters, they can emulate both arcane and divine magic through the use of scrolls._
 
 #### Clever Hands
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to drink a potion, shove a creature, or take the **Use an Object** action. 
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to drink a potion or take the **Use an Object** action. 
 
 
 #### Savvy
-At 3rd level, you learn to unlock the magic in scrolls through unorthodox means. You can use any spell scroll of a level equal to or less than your proficiency bonus. Your spellcasting modifier is Charisma. 
+At 3rd level, you learn to unlock the magic within scrolls through unorthodox means. You can use any spell scroll of a level equal to or less than your proficiency bonus. Your spellcasting modifier is Charisma. 
 
 
 #### Uncanny Luck
