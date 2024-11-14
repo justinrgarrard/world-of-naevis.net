@@ -30,19 +30,3 @@ grand_parent: More
 > Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 
 
-#### Medium/Heavy Armor Enhancements (+50 gp)
-
-{: .mundane-item}
-> **Silvered**
->
-> The wearer of this armor has advantage on Wisdom saves against magic.
-
-{: .mundane-item}
-> **Adamantine**
->
-> The wearer of this armor is immune to critical hits.
-
-{: .mundane-item}
-> **Mythril**
->
-> The weight of this armor is halved and any penalties to stealth are removed.

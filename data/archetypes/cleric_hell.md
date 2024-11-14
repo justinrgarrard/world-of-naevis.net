@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Hell Knight
 
-_Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggressively seek to overturn order. The best of them seek out unjust systems to destroy, while others simply revel in destruction._
+_Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggressively seek to overturn order. The best of them seek out unjust systems to dismantle, while others simply revel in destruction._
 
 
 #### Hell Domain Spells
@@ -16,9 +16,9 @@ _Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggress
 | Cleric Level |                        Spells |
 | :----------- | ----------------------------: |
 | 1st          | Burning Hands, Inflict Wounds |
-| 3rd          |   Flaming Sphere, Hold Person |
+| 3rd          |  Flaming Sphere, Magic Weapon |
 | 5th          |     Fireball, Speak with Dead |
-| 7th          |  Wall of Fire, Dimension Door |
+| 7th          |  Dimension Door, Wall of Fire |
 | 9th          |      Flame Strike, Raise Dead |
 
 #### Knight of Hell

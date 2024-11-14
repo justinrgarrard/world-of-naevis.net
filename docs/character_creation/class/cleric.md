@@ -16,7 +16,7 @@ Religion in Naevis is organized across countless organizations, each with their 
 
 #### Divine Magic
 
-Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within and grows steadily stronger as they advance in skill.
+Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within and grows steadily stronger as they advance in skill. Their spellcasting tools are [talismans](../../../data/items/holy_symbol).
 
 {: .note}
 > **Domains**

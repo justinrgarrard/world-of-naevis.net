@@ -10,13 +10,13 @@ has_toc: false
 
 In Naevis, feats allow characters to gain abilities outside of their class. In addition to other benefits, taking a feat allows characters to multiclass at future levels should the player choose to do so.
 
-#### Multiclassing
+##### Multiclassing
 
-1. **Prerequisite**: Characters must take a multiclassing feat before they can take their first level in a new class.
-
-2. **Redundancy**: A feat's benefits are replaced when the character gains their first level in a new class.
-
-3. **Benefits**: Characters gain all the proficiencies that a new class would provide at level 1. These include proficiencies for skills, equipment, and ability saves. If a class provides spellcasting, it does not stack with other class spellcasting progressions. The two provide separate spell slots.
+> 1. **Prerequisite**: Characters must take a multiclassing feat before they can take their first level in a new class.
+> 
+> 2. **Redundancy**: A feat's benefits are replaced when the character gains their first level in a new class.
+> 
+> 3. **Benefits**: Characters gain all the proficiencies that a new class would provide at level 1. These include proficiencies for skills, equipment, and ability saves. If a class provides spellcasting, it does not stack with other class spellcasting progressions. The two provide separate spell slots.
 
 #### Listings
 
@@ -32,10 +32,11 @@ In Naevis, feats allow characters to gain abilities outside of their class. In a
 >
 > *Requirements: Strength 13, Not a Fighter*
 > 
-> Choose one of the following:
+> You gain proficiency in a Fighting Style and one of the following:
 > 
-> * Proficiency in shields, two weapons, and one type of armor
-> * Proficiency in a Fighting Style
+> * Proficiency in shields
+> * Proficiency in armor
+> * Proficiency in two weapons
 > 
 > The armor proficiency you gain is the lightest armor you are not currently proficient in. When you next level up, you can choose to gain a level in Fighter.
 
@@ -44,10 +45,10 @@ In Naevis, feats allow characters to gain abilities outside of their class. In a
 >
 > *Requirements: Dexterity 13, Not a Rogue*
 > 
-> You gain proficiency with Cant, one skill, and one of the following:
-> 
-> * Thieves' Tools
-> * One additional skill
+> You gain proficiency in one skill and one of the following:
+>
+> * Proficiency in Cant
+> * Proficiency with Thieves' Tools
 > * Expertise in one skill
 >
 > When you next level up, you can choose to gain a level in Rogue. 
@@ -58,14 +59,3 @@ In Naevis, feats allow characters to gain abilities outside of their class. In a
 > *Requirements: Intelligence 13, Not a Wizard*
 > 
 > You learn three Wizard cantrips. When you next level up, you can choose to gain a level in Wizard. 
-
-<!-- Feats are the result of training in disciplines outside of one's own class. Adventurers can choose between taking a feat or an ability score increase at level 4, 8, 12, 16, and 20. Fighters gain bonus feats at levels 6 and 14.
-
-#### Multiclassing
-
-Multiclassing in Naevis is handled through [specialized feats](multiclassing). Adventurers must take a multiclassing feat **before** taking the first level of a new class.
-
-{: .note}
-> **Human Versatility**
->
-> [Certain Humans](../../character_creation/race/human) gain a feat at level one. This makes them the only race capable of multiclassing before level 5. -->

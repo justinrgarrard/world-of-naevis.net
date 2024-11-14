@@ -19,7 +19,3 @@ has_toc: false
 #### Ambassadors
 
 > The flip side of the former group, a number of [diplomats](../../character_creation/background/emissary) have come to see the region as a demilitarized zone ideal for negotiating treaties and trade contracts. The uncomfortable climate keeps it from being a popular location, but a lack of excessive scrutiny makes it perfect for drafting secret alliances.
-
-#### Artisans and Fashion
-
-> Exotic materials from the City have sparked a revolution in many crafts, alchemy and arms dealing included. Moreover, the presence of both Dwarven and Elven artisans has led to an exchanging of ideas (as well as fierce competition).

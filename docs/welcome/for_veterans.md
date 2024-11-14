@@ -17,11 +17,12 @@ parent: Welcome
 
 ---
 
-#### How Naevis Addresses All That
+#### How Naevis Addresses Common Problems
 
-> Naevis is a compromise. In exchange for trading away some of the customization options in 5E, it provides a focused and streamlined experience. Players will have an easier time roleplaying in a shared narrative context, while game masters will find it easier to craft stories and tactical challenges.
+> * **Specialized Setting Rules** are introduced for [creating dungeons](../gm_guide/rooms/rooms), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting), the better to keep crawls engaging and fast-paced.
 > 
-> Naevis also includes specialized rules for [creating dungeons](../gm_guide/rooms/rooms), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting). These help to give sessions a tangible dungeon crawling flavor. They also create a shared set of assumptions between players and game masters about resources. 
+> * **Limitations on Customization** help keep gameplay enjoyable by providing a space where build exploration is rewarded, but not to the extent of eclipsing [quickstart](../character_creation/index#quickstart) characters. Limitations also aid in creating a more cohesive world.
+
 
 ---
 
@@ -38,7 +39,7 @@ parent: Welcome
 ##### Inventory Management
 
 > * [Variant Encumbrance](../adventuring/encumbrance) is in effect.
-> * [All items](../more/items/index) have prices that round to the nearest gp.
+> * [Adventuring Gear](../more/items/index) has prices that round to the nearest gp.
 > * [Resting](../adventuring/resting) consumes rations.
 > * *Uncommon* magic items are harder to find. 
 > * Dimensional storage items, such as Bags of Holding, do not exist.

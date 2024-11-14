@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Winter Witch
 
-_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be ruthlessly pragmatic._
+_Winter is an ancient and august order, one that predates Navean wizardry. Their magic has its roots in primal sorceries and elemental forces. Initiates tend to be ruthlessly pragmatic and secretive._
 
 
 #### Winter Domain Spells
@@ -37,7 +37,7 @@ At 1st level, your *Ray of Frost* cantrip deviates from the standard casting, gr
 
 #### Channel Divinity: Deep Slumber
 
-Starting at 2nd level, you can use your Channel Divinity to send others into a deep slumber.
+Starting at 2nd level, you can use your Channel Divinity to empower sleep enchantments.
 
 When you cast the _Sleep_ spell, you can use your Channel Divinity with a bonus action to roll the maximum possible result.
 
