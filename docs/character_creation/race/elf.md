@@ -43,4 +43,4 @@ High elves are born to the ruling caste. They are raised to embody the Elven ide
 | Trance               | you require 4 hours of rest instead of 8, and remain conscious throughout                                                                |
 | **Mask of the Wild** | you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. |
 
-Wood elves are born to the lesser caste. They serve a compulsory military service term and are charged with managing the empire's affairs.
+Wood elves are born to the lesser caste. They serve a compulsory military service term and are charged with managing the empire's affairs. They tend to be more worldly than their High Elven counterparts.

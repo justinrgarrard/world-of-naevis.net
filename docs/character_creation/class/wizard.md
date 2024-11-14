@@ -13,11 +13,11 @@ Wizards are adventurers trained in the practice of arcane spellcasting. Their cl
 #### Well-Rounded Education
 Arcane magic is taught alongside rhetoric, grammar, and mathematics in academies for the well-to-do. Though few ever develop to the point of casting full-fledged spells, most graduates are aware of what magic is capable of, and many can work simple cantrips.
 
-In less "civilized" parts of the world, wizardry may be instructed through apprenticeship. This is prevalent among tribal shamans, village witches, and other rural traditions where schooling is uncommon.
+In less "civilized" parts of the world, wizardry may be taught through apprenticeship. This is prevalent among tribal shamans, village witches, and other rural traditions.
 
 
 #### Arcane Magic
-Navean wizards draw ambient energy from ley lines under the earth using a wand or similar implement, then shape the energy into spells. A wizard can handle energy more skillfully as they advance in level.
+Navean wizards draw ambient energy from ley lines under the earth using a [wand](../../../data/items/arcane_focus), then shape the energy into spells. A wizard can handle energy more skillfully as they advance in level.
 
 {: .note}
 > **Spellbooks**

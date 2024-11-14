@@ -36,7 +36,7 @@ h1 {
 h4,
 .text-delta {
   @include fs-6;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: none;
   letter-spacing: normal;
 }
@@ -69,13 +69,17 @@ td {
 }
 
 .character-header {
-    @include fs-6;
+    @include fs-6
 }
 
 // Override font colors. //////////////////////////////////////////////////////
 p {
     strong {
         color: #49464d;
-        // color: #525058;
     }
+}
+
+// Override table settings. ///////////////////////////////////////////////////
+.table-wrapper {
+    @include fs-6
 }

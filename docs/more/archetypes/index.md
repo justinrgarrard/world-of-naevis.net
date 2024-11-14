@@ -17,9 +17,9 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 | Rogue   | [Thief](../../../data/archetypes/rogue_thief)          |
 | Wizard  | [Evocation](../../../data/archetypes/wizard_evocation) |
 
-#### Setting Archetypes
+##### Setting Archetypes
 
-These optional archetypes were designed for use with Naevis and can be used as-is.
+> These optional archetypes were designed for use with Naevis.
 
 | Class       | Archetypes                                              |                                                         |
 | :---------- | :------------------------------------------------------ | :------------------------------------------------------ |
@@ -29,46 +29,23 @@ These optional archetypes were designed for use with Naevis and can be used as-i
 | **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Tower Mage](../../../data/archetypes/wizard_tower)     |
 
 
-#### External Archetypes
-
-Other archetypes may be used with GM permission, provided that they can be adapted for use in the Naevis setting. The archetypes below can be used as-is without changes. Others may need modifications to fit the setting.
-
-| Class       | Archetypes       |               |
-| :---------- | :--------------- | :------------ |
-| **Cleric**  | -                |               |
-| **Fighter** | Banneret         | Battle Master |
-|             | Eldritch Knight  | Samurai       |
-| **Rogue**   | Arcane Trickster | Scout         |
-|             | Swashbuckler     |               |
-| **Wizard**  | Abjuration       | Bladesinging  |
-|             | Enchantment      | Illusion      |
-|             | War Magic        |               |
-
-{: .note}
-> **Cleric Domains**
->
-> Cleric subclasses typically require a minimal change to their list of spells for use in Naevis. See the War Domain example for reference.
-
 #### Adapting Archetypes
 
-Archetypes from outside the _Basic Rules_ may require customization for use in this setting. Some, like the Echo Knight, may involve too much magic for a low-fantasy setting. Others may provide spells that aren't included in the _Basic Rules_. Work with your Game Master to adjust or reflavor features as necessary.
-
-**Keep in mind that the GM can veto an archetype.**
+Should your Game Master allow other archetypes, they may require adjustments for use in this setting. 
 
 
-{: .note}
-> **Guidelines**
-> 
+##### Guidelines
+
 > * **Replace Spells** that do not exist in the _Basic Rules_ with those that do.
-> 
-> * **Reflavor Magical Effects** as martial techniques or feats of skill.
 > 
 > * **Provide Context** for where your abilities come from in this setting.
 
 
 ##### Example: War Domain
 
-> The Cleric War domain can be repurposed with minor changes to its spell list. Note that the replacement spells have a theme close to their originals. 
+> _Clerics of the War domain draw their power from qi, gradually accumulating power through training and meditation. Their tradition stems from the Elven Empire and places great importance on demonstrating skill through combat._
+>
+> Note that the spells for this archetype have been changed to their nearest Basic Rules equivalents.
 
 | Cleric Level |                                                                      Spells |
 | :----------- | --------------------------------------------------------------------------: |
@@ -77,4 +54,3 @@ Archetypes from outside the _Basic Rules_ may require customization for use in t
 | 5th          | [Beacon of Hope](../../../data/srd_spells/beacon_of_hope), Spirit Guardians |
 | 7th          |                                              Freedom of Movement, Stoneskin |
 | 9th          |   Flame Strike, [Dominate Person](../../../data/srd_spells/dominate_person) |
-

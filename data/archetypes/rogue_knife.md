@@ -8,23 +8,34 @@ nav_exclude: true
 
 # Rogue: Knife Dancer
 
-_The practice of throwing knives is common to many martial and performance arts. Those who specialize in the discipline find their talents well-suited to the adventuring life. Assassins, grenadiers, and hunters have been known to follow this tradition._
-
+_Throwing knives are a popular choice for many adventurers, able to strike up close or at range, and discrete enough to fit in one's sleeve. Assassins, grenadiers, and street performers are common trades for this style of fighting._
 
 #### Practiced Hands
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action or make an improvised throwing weapon attack. The range of these attacks is 60 feet instead of 20 feet, and you are considered proficient in their use.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action or make a ranged attack with an improvised throwing weapon (such as *Alchemist's Fire*). 
+
+Additionally, you become exceedingly accurate with throwing weapons. You gain a +2 bonus to attack rolls you make when throwing a weapon in its normal range, and no longer suffer disadvantage for making long range attacks with such weapons.
 
 
-#### Throwing Expertise
-At 3rd level, you become exceedingly accurate with throwing weapons. When you make a throwing weapon attack within 20 feet of the target, your proficiency bonus is doubled. Additionally, you no longer receive a penalty for making long range attacks with thrown weapons.
+#### Called Shot
+At 3rd level, you learn to modify your Sneak Attacks, trading greater harm for debilitating effects. When you make a Sneak Attack you can forfeit one damage die to use one of the following:
+
+* **Eyes**: The target creature gains the Blindness condition until the end of their next turn, or until they spend an action clearing their vision.
+
+* **Throat**: The target creature is unable to speak or cast spells with a verbal component until the end of their next turn.
+
+* **Knee**: The target creature has their movement set to zero until the end of their next turn.
 
 
-#### Extra Attack
-Starting at 9th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. If you throw a weapon as part of these attacks, you can draw an additional weapon in the same motion.
+#### Trick Shots
+Starting at 9th level, you learn new techniques for throwing weapons.
+
+* **Fan of Knives**: You can use your action to make a throwing weapon attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+
+* **Flurry of Knives**: When you use a bonus action to activate Two-Weapon Fighting, you can make two attacks instead of one.
 
 
-#### Fan of Knives
-Ay 13th level, you can use your action to make a ranged throwing attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+#### Reliable Marksmanship
+Starting at 13th level, when you make an ranged weapon attack roll that lets you add your proficiency bonus, you can treat a d20 roll of 5 or lower as a 6.
 
 
 #### Thief’s Reflexes

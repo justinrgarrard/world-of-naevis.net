@@ -47,13 +47,26 @@ grand_parent: Gear
 
 #### Weapons
 
-| Name            | Damage          | Weight | Price | Properties                                                  |
-| :-------------- | :-------------- | :----- | :---- | :---------------------------------------------------------- |
-| Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                  |
-| Club            | 1d4 bludgeoning | 2 lb.  | 1 gp  | Light                                                       |
-| Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard** |
-| Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                         |
-| Mace            | 1d6 bludgeoning | 4 lb.  | 5 gp  | —                                                           |
-| Quarterstaff    | 1d6 bludgeoning | 4 lb.  | 1 gp  | Versatile (1d8), **wizard**                                 |
-| Sling           | 1d4 piercing    | —      | 1 gp  | Ammunition, range (30/120), **wizard**                      |
+| Name                | Damage          | Weight | Price |
+| :------------------ | :-------------- | :----- | :---- |
+| Blunt               |                 |        |       |
+| ... Club            | 1d4 bludgeoning | 2 lb.  | 1 gp  |
+| ... Mace            | 1d6 bludgeoning | 4 lb.  | 5 gp  |
+| ... Quarterstaff    | 1d6 bludgeoning | 4 lb.  | 1 gp  |
+| Ranged              |                 |        |       |
+| ... Ammunition (20) | —               | 1 lb.  | 1 gp  |
+| ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  |
+| ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  |
+| ... Sling           | 1d4 piercing    | —      | 1 gp  |
 
+<!-- | Name                | Damage          | Weight | Price | Properties                                                  |
+| :------------------ | :-------------- | :----- | :---- | :---------------------------------------------------------- |
+| Blunt               |                 |        |       |                                                             |
+| ... Club            | 1d4 bludgeoning | 2 lb.  | 1 gp  | Light                                                       |
+| ... Mace            | 1d6 bludgeoning | 4 lb.  | 5 gp  | —                                                           |
+| ... Quarterstaff    | 1d6 bludgeoning | 4 lb.  | 1 gp  | Versatile (1d8), **wizard**                                 |
+| Ranged              |                 |        |       |                                                             |
+| ... Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                  |
+| ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard** |
+| ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                         |
+| ... Sling           | 1d4 piercing    | —      | 1 gp  | Ammunition, range (30/120), **wizard**                      | -->

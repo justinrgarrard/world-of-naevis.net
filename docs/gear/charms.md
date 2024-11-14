@@ -23,5 +23,5 @@ Charms are magical tools crafted from materials found within the City. Charms ca
 | [Ash Wand](../../data/magic_items/ash_wand)                         | [Boots of Leaping](../../data/magic_items/boots_of_leaping)                     |
 | [Compliant Rod](../../data/magic_items/compliant_rod)               | [Glass Gems of Lightbending](../../data/magic_items/glass_gems_of_lightbending) |
 | [Marble Ring of Force](../../data/magic_items/marble_ring_of_force) | [Mist Dagger](../../data/magic_items/mist_dagger)                               |
-| [Phantom Shortsword](../../data/magic_items/phantom_shortsword)     | [Volt Staff](../../data/magic_items/volt_staff)                                 |
+| [Mythril Longsword](../../data/magic_items/mythril_longsword)       | [Volt Staff](../../data/magic_items/volt_staff)                                 |
 

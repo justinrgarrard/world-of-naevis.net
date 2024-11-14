@@ -53,27 +53,3 @@ grand_parent: More
 {: .language}
 > Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 
-
-#### Melee Weapon Enhancements (+50 gp)
-
-{: .mundane-item}
-> **Silvered**
->
-> This weapon is treated as magical for the purposes of damage resistance.
-
-{: .mundane-item}
-> **Adamantine**
->
-> This weapon deals double damage to objects. It can withstand upwards of 2,000 lbs of force before breaking.
-
-{: .mundane-item}
-> **Mythril**
->
-> If this weapon has the _Heavy_ tag, the tag is removed. Otherwise, it gains the _Finesse_ tag.
-
-<!-- #### Ranged Weapon Enhancements (+50 gp)
-
-{: .mundane-item}
-> **Recurve**
->
-> This weapon allows the user to add their Strength modifier to damage. -->

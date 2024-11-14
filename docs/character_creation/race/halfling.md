@@ -27,7 +27,7 @@ Halflings live as nomads in winding caravans, carrying trade across all nations.
 | **Naturally Stealthy** | you can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.                   |
 
 
-Lightfoot halflings come from sociable tribes known for their skill in trade. They are polite, canny, and peerless hagglers.
+Lightfoot halflings come from sociable tribes known for their skill in trade. They are polite, canny, and well-liked in most lands.
 
 #### Stout Halfling
 
@@ -42,4 +42,4 @@ Lightfoot halflings come from sociable tribes known for their skill in trade. Th
 | Small                | you are considered small, and have difficulty wielding weapons with the _Heavy_ tag.                                               |
 | **Stout Resilience** | you have advantage on saving throws against poison, and you have resistance against poison damage.                                 |
 
-Stout halflings come from hunting tribes. They live harder lives than their Lightfoot brethren, but have hardier bodies in exchange. 
+Stout halflings come from hunting tribes. They live harder lives than their Lightfoot brethren, but have hardier bodies in exchange. Many find work as bodyguards or sellswords during lean years.
