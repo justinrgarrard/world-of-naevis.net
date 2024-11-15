@@ -13,6 +13,8 @@ nav_order: 1
 
 Campaigns are longer form games, typically consisting of [10 or more sessions](leveling_tables) conducted over months of real world time. They allow players to grow their characters and interact with the world more thoroughly than in a oneshot.
 
+---
+
 #### Dungeon a Day
 
 Campaigns in Naevis are designed to be run as a series of standalone adventures, each self contained. Today's dungeon might be an undead infested library, next week's could be a negotiation between two rival orc clans. This structure provides the following benefits:

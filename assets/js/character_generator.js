@@ -194,11 +194,10 @@ const CULTIVATOR = {
     ITEMS.shield,
     ITEMS.holy_symbol,
     ITEMS.longbow,
-    ITEMS.ammunition,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [],
+  inv_pouch: [ITEMS.ammunition],
   inv_backpack: [ITEMS.rations],
   ability_proficiencies: ["CHA", "WIS"],
 };

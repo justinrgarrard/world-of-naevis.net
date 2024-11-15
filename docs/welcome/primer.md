@@ -9,8 +9,7 @@ parent: Welcome
 
 #### System
 
-> * **Naevis**: Pronounced *Nay-Viss*.
-> * **Uses the [5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**.
+> * **[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**.
 > * **Four Classes**: Fighter, Cleric, Rogue, Wizard.
 > * **Four Races**: Elf, Dwarf, Halfling, Human.
 
@@ -18,7 +17,7 @@ parent: Welcome
 
 > ##### The City Below
 >
-> A subterranean otherworld beneath the ruins of a mysterious desert city. The great powers of Naevis covet the treasures hidden within.
+> A [subterranean otherworld](../lore/city_below) beneath the ruins of a mysterious desert city. The great powers of Naevis covet the treasures hidden within.
 >
 > ##### The Canvaslands
 >
@@ -37,30 +36,21 @@ parent: Welcome
 >
 > ##### Embassies
 >
-> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands, albeit with less bloodshed and more espionage. Representatives from both nations stand watch for powerful artifacts that could upset the current balance of power.
+> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. Representatives from both nations stand watch for powerful artifacts that could upset the current balance of power.
 >
 > ##### City Dwellers
 >
-> Strange, monstrous [creatures](../lore/city_dwellers/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels, where entire civilizations thrive far from the sun.
+> Strange, monstrous [creatures](../lore/city_dwellers/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels.
 
 
 #### Languages
 
-> ##### Common
-> The human language, widely used for trade and diplomacy.
->
-> ##### Undercommon
-> The verbal language of City Dwellers, used by creatures such as orcs and lamias.
->
-> ##### Infernal
-> The written language of the City Dwellers, used in mystic tomes and scrawled warnings found below the earth.
->
-> ##### Sylvan
-> The [ancient language](../adventuring/languages#sylvan) used to commune with beasts, known instinctively to many [humans](../character_creation/race/human#standard).
->
-> ##### Abyssal
-> The [ancient language](../adventuring/languages#abyssal) used to commune with the dead, practiced by fell necromancers.
+> * **Common**: The human language, widely used for trade and diplomacy.
+> * **Undercommon**: The spoken language of orcs, kobolds, and other City Dwellers.
+> * **Infernal**: The written language of orcs, kobolds, and other City Dwellers.
+> * **Sylvan**: The secret language of beasts.
+> * **Abyssal**: The secret language of the dead.
 
 #### You
 
-> You are an adventurer, come to the Canvaslands for [your own ends](../character_creation/background/index). You have banded together with an outfit of similarly-minded allies to scour the City Below for valuables and secrets.
+> You are an adventurer, come to the Canvaslands for [your own ends](../character_creation/background/index). You have banded together with an outfit of similarly-minded allies to scour the City Below for secrets and treasures.

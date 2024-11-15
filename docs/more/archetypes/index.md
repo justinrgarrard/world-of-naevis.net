@@ -12,10 +12,10 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 
 | Class   | Archetype                                              |
 | :------ | :----------------------------------------------------- |
-| Cleric  | [Life](../../../data/archetypes/cleric_life)           |
-| Fighter | [Champion](../../../data/archetypes/fighter_champion)  |
-| Rogue   | [Thief](../../../data/archetypes/rogue_thief)          |
-| Wizard  | [Evocation](../../../data/archetypes/wizard_evocation) |
+| **Cleric**  | [Life](../../../data/archetypes/cleric_life)           |
+| **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  |
+| **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          |
+| **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) |
 
 ##### Setting Archetypes
 
