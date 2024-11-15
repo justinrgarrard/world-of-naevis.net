@@ -3,82 +3,63 @@ layout: default
 title: Bosses
 parent: Combat
 grand_parent: GM Guide
-nav_order: 1
+nav_order: 2
 ---
 
 # Bosses
 
-#### The Big Bads
-
-Boss fights are challenging encounters intended to threaten parties. They should be very difficult to win against without some form of tactics. 
-
-> To make strong bosses, do one of the following:
->
-> * Increase all of their modifiers from +4 to +6.
-> * Increase their physical modifiers, but drop their mental modifiers by the same amount.
-> * Make them resistant to non-magical weaponry.
-> * Give them single use spells.
-> * Give them a swarm of minions.
-
 {: .monster}
-> **Lamia Sorceress (+4)**
+> **Lamia Sorceress**
 > 
-> *Large monstrosity, neutral evil*
-> 
-> **Armor Class**  14
-> 
-> **Hit Points**  25 + 10 per player character
+> | Monster           |                                                                |
+> | :---------------- | :------------------------------------------------------------- |
+> | Count             | 1                                                              |
+> | Motivation        | Territorial, Treasure                                          |
+> | Statistics        | hp:20+10 per player, ac:14, damage:6                           |
+> | Modifiers         | STR/DEX/CON: +4, WIS/INT/CHA: +2                               |
+> | Special Abilities | Two Initiatives, Resistant to Nonmagical Weapons               |
+> | Initiative 01     | Spear Attack: 6 damage + reach                                 |
+> | Initiative 02     | Psychic Assault: 4 damage + 30 ft AoE, DC 15 WIS Save for None |
+> | 1/day             | Shatter: 15 damage, DC 15 CON Save for Half                    |
+
+
+Bosses are powerful enemies that require the party to use all or most of their available resources to defeat. Not every dungeon has a boss, but those that do typically only have one.
+
+##### Designing a Boss Fight
+
+> In general, boss fights can use the [bear](bears) template with enhancements. Many standard 5E statblocks can also be used as bosses. Remember that the [three round combat](combat) rule is still in effect. Standard statblocks need to be appropriately lethal to drive a conclusion.
 >
-> **Initiative** 15, 5
-> 
-> **Speed**       30ft.
-> 
-> |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-> | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-> | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) |
-> 
-> **Senses**  darkvision 60 ft., passive Perception 14
-> 
-> **Languages**  undercommon
+> From the player perspective, a boss fight is the time to use all remaining items and spells. When it's present (and it [won't always be](#alternatives-to-boss-fights)), it should serve as a high-stakes finale to the dungeon crawl.
+
+
+##### Running a Boss Fight
+
+> * **Death Saving Throws**: Bosses get death saves, unless their stat block says otherwise (i.e. creatures that self-destruct). This allows players some roleplaying opportunities.
 >
-> ---
-> 
-> ***Spear.*** Melee Attack: +4 to hit, reach 10 ft., one target. Hit: 8 (1d6+4) piercing damage.
-> 
-> ***Shrieking Curse.*** Ranged Attack: DC 14 vs. Wisdom, inflicts 4 (1d6) psychic damage to all enemies in earshot that fail to save.
-> 
-> ***Multi-Initiative.*** This creature has two initiatives. On the first, she uses her spear. On the second, she uses her curse.
+> * **No Legendary Resistances**: In general, avoid abilities that negate player actions through fiat. Instead, when a boss would be stunned or similarly impaired, have the boss lose one of their initiatives in combat.
 >
-> ***Frantic.*** At 1/2 HP, add an additional initiative for this creature, allowing it to act three times per round. The GM determines which action she takes on these turns.
->
-> ***Sleepproof.*** This creature is immune to magical sleep.
-> 
-> *A prideful creature with the lower body of a massive snake and the upper body of a giantess. She is ten feet tall when drawn up at her full height.*
-> 
-> *The lamia is hostile and will refuse diplomacy until reaching half HP. At 1/4 HP, she will attempt to surrender, or failing that, flee.*
+> * **Minions**: Most bosses are accompanied by [swarms](swarms).
 
-<!-- 
-#### Running Bosses
-
-* **Multiple Initiatives**: Bosses attack multiple times each round, spread out between player actions.
-
-* **Death Saving Throws**: Bosses get death saves, unless their stat block says otherwise (i.e. creatures that self-destruct). This allows players some roleplaying opportunities.
-
-* **Superior Stats**: Bosses typically have a +4 to hit, a 14 AC, and a +4 to all saves. GM's may adjust this where appropriate (such as making a very strong, but easily fooled, minotaur).
-
-* **Scaling Hit Points**: The number of hit points a boss has depends on the number of players participating. A good rule of thumb is (25 + 10 per player).
-
-* **High Lethality**: Boss creatures deal a large, flat amount of damage each attack. Typically, this amount is just short of enough to kill a low-level player character. High damage attacks reinforce the danger involved, keeps fights short, and encourages players to strategize.
-
-* **Multiple Stages**: Boss creatures change their behavior throughout the fight. They may attempt to surrender at a certain percentage of health, gain more turns each round, or introduce new attacks.
 
 {: .note}
-> **Why +4?**
+> **(Optional) Not Even My Final Form**
 >
-> Readers will notice that many of the boss creature's statistics revolve around the number 4.
-> 
-> In 5E, most values operate around a d20 system where each "step" loosely represents a 5% change. Within this framework, a +4 roughly corresponds to a 20% increase in something.
+> Boss fights can be a delicate balancing act between "overpowering the party that ran out of resources" and "obliterated by a party that carefully rationed their spells". A good way to mitigate this is by dividing a boss into three stages.
 >
-> For example, someone with a +4 to hit is about 20% more likely to land a hit than someone with a +0. A +4 to dexterity translates to about a 20% increase in chance of success for making a dexterity save. A boss creature, then, is about 20% better at everything than a creature with no remarkable stats.
+> 1. `100% HP -> 50% HP` Standard Fight
 >
-> **GM's can scale boss monsters on the fly by changing their modifier from +4.** A tougher boss might have a +6 stat base, while a weaker boss could go as low as +2. -->
+> 2. `50% HP -> 0% HP` Desperate Fight
+>
+> 3. `0% HP -> -50% HP` Optional Secret Fight
+>
+> Build your bosses to have a third stage that only triggers if the party has too easy of a time with the first two. Give the third stage an extra 50% of the boss' HP and a dangerous new ability.
+
+#### Alternatives to Boss Fights
+
+Not every dungeon has a big boss waiting in the last room. Many are setup in a way that a boss fight is unnecessary, or handled in a different fashion. Below are a few examples.
+
+> * **Too Strong**: Sometimes the "boss" is creature that's too powerful to fight, such as an ancient dragon, and instead needs to treated like a [Hazard](../rooms/rooms#hazard).
+>
+> * **Different Finale**: Sometimes the last "boss" is actually a cave-in, flood, or other trial that is equally dangerous but can't be handled through combat.
+>
+> * **Hidden Danger**: Sometimes the party survives a harrowing dungeon by the skin of their teeth, only to be confronted by bandits waiting at the entrance for easy pickings.

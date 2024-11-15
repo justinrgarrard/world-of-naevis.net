@@ -9,20 +9,42 @@ parent: Welcome
 
 #### The Big Idea
 
-Naevis is a game about **dungeon crawling**. It is sometimes also about other things, like scheming wizards and evil cultists, but the focus is always on exploration. That means that players have two main goals in any given session:
-
-1. Survive.
-2. Collect treasure.
-
-![Dungeon Rooms as Cards, Partial](../../../assets/img/dungeon_01.jpg)
-
-![Dungeon Rooms as Cards, Full](../../../assets/img/dungeon_02.jpg)
+{: .note}
+> **Dungeon Crawl:** A tactical, resource-based survival game. Characters are typically between levels 1-10 and rely on their wits, rather than raw power, to succeed.
 
 ##### The Typical Dungeon
 
 > An average session consists of the party exploring a map made of index cards. Each [Room](../gm_guide/rooms/rooms) may contain some manner of threat, treasure, hazard, or oddity. As the party explores, more of the map is revealed, with most single-session dungeons containing roughly [twelve rooms](../gm_guide/rooms/twelve_room_dungeon).
 
-##### Threats 
+
+![Dungeon Rooms as Cards, Partial](../../../assets/img/dungeon_01.jpg)
+
+![Dungeon Rooms as Cards, Full](../../../assets/img/dungeon_02.jpg)
+
+---
+
+
+#### The Little Ideas
+
+##### Three Round Combats
+
+> By design, combat will rarely last longer than [three rounds](../gm_guide/combat/combat). Diplomacy, bribery, and ambushes are encouraged.
+
+##### Short Rests
+
+> Long rests are prohibited during sessions. [Short rests](../adventuring/resting) can be taken by consuming rations. Spellcasters are advised to stock up on [scrolls](../gear/scrolls).
+
+##### Loot and Encumbrance
+
+> [Loot](../adventuring/loot) is valued by weight, with every **5 lbs. of treasure matching 25 gp**. The [Variant Encumbrance](../adventuring/encumbrance) rules put a premium on Strength and storage space.
+
+
+##### More
+
+> Other mechanics, like [Languages](../adventuring/languages), [Downtime](../adventuring/downtime), [Attunement](../adventuring/attunement), and [Multiclassing](../more/feats/index) are discussed in their own sections.
+
+
+<!-- ##### Threats 
 
 > Some rooms have an obvious hostile force in them. Parties will generally have one chance to try diffusing the situation before swords are drawn. Diplomacy, bribery, and roundabout tactics are encouraged. But should cooler heads fail to prevail, a fight will break out. By design, [combat will rarely last for three rounds](../gm_guide/combat/combat). 
 
@@ -32,25 +54,8 @@ Naevis is a game about **dungeon crawling**. It is sometimes also about other th
 
 ##### Oddities
 
-> Not all Rooms include a barrier to progress. Some are simply strange, or have wholly optional elements. Rooms with riddles, mysterious shrines, exotic plants, and other static features fall under this category.
+> Not all Rooms include a barrier to progress. Some are simply strange, or have wholly optional elements. Rooms with riddles, mysterious shrines, exotic plants, and other static features fall under this category. -->
 
----
+<!-- ##### Languages
 
-
-#### The Little Ideas
-
-##### Short Rests
-
-> A dungeon is no place for leisurely napping. Long rests are prohibited while exploring. [Short rests](../adventuring/resting) can be taken using rations. Spellcasters are advised to stock up on [scrolls](../gear/scrolls).
-
-##### Loot and Encumbrance
-
-> Given that [loot](../adventuring/loot) is valued by weight, the [Variant Encumbrance](../adventuring/encumbrance) rules encourage strong characters that can carry their own gear and treasures. *Bags of Holding* and similar items do not exist in this setting.
-
-##### Languages
-
-> The Common tongue is not so common beneath the earth's surface. Adventurers hoping to try [diplomacy with monsters](../adventuring/languages#city-dweller-languages), make [peace with beasts](../adventuring/languages#sylvan), or [talk to ghosts](../adventuring/languages#abyssal) will need the right language proficiencies to do so. This also means that the character with the highest Charisma score is not necessarily the one who will be handling negotiations.
-
-##### More
-
-> Other mechanics, like [Downtime](../adventuring/downtime), [Attunement](../adventuring/attunement), and [Multiclassing](../more/feats/index) are discussed in their own sections.
+> Adventurers hoping to try [diplomacy with monsters](../adventuring/languages#city-dweller-languages), make [peace with beasts](../adventuring/languages#sylvan), or [talk to ghosts](../adventuring/languages#abyssal) will need the right language proficiencies to do so. This means that the character with the highest Charisma score is not necessarily the one who will be handling negotiations. -->

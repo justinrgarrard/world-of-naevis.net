@@ -18,6 +18,7 @@ A loot table is a randomized treasure system. When players stumble on to a treas
 | [Minor](minor) | Low rarity.  | 1-5           |
 | [Major](major) | High rarity. | 6-10          |
 
+---
 
 #### Rare Items
 

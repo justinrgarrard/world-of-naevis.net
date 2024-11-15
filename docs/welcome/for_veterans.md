@@ -21,8 +21,9 @@ parent: Welcome
 
 > * **Specialized Setting Rules** are introduced for [creating dungeons](../gm_guide/rooms/rooms), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting), the better to keep crawls engaging and fast-paced.
 > 
-> * **Limitations on Customization** help keep gameplay enjoyable by providing a space where build exploration is rewarded, but not to the extent of eclipsing [quickstart](../character_creation/index#quickstart) characters. Limitations also aid in creating a more cohesive world.
-
+> * **Limitations on Customization** provide a space where build exploration is rewarded, but not to the extent of eclipsing [quickstart](../character_creation/index#quickstart) characters. Limitations also aid in creating a more cohesive world.
+>
+> * **Lower Level Gameplay** changes how tables approach problems, placing greater importance on player strategy over character powers.
 
 ---
 
