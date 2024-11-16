@@ -9,14 +9,15 @@ nav_order: 99
 
 # Recommended Reading
 
-| Resource                                                                                              | Favorite Takeaways                          |
-| :---------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| [FATE Core](https://fate-srd.com/fate-core/running-game)                                              | How to run a game that's interesting.       |
-| [AngryGM](https://theangrygm.com/the-angry-guide-to-akicking-combats-part-1-picking-your-enemies/)    | How to run 5E combats that are interesting. |
-| [Dungeon World](https://www.dungeonworldsrd.com/gamemastering/)                                       | How soft and hard moves work.               |
-| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)              | What should be in a dungeon.           |
-| [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html) | -                                           |
-| [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view) | Tips for Dungeon Crawling Games |
+| Resource                                                                                                          | Favorite Takeaways                          |
+| :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [FATE Core GM Advice](https://fate-srd.com/fate-core/running-game)                                                | How to run a game that's interesting.       |
+| [AngryGM](https://theangrygm.com/the-angry-guide-to-akicking-combats-part-1-picking-your-enemies/)                | How to run 5E combats that are interesting. |
+| [Dungeon World GM Advice](https://www.dungeonworldsrd.com/gamemastering/)                                         | How soft and hard moves work.               |
+| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)                          | What should be in a dungeon.                |
+| [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html)             | -                                           |
+| [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view)                     | Tips for dungeon crawling games.            |
+| [Sanderson's Third Law of Magic](https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic#Sanderson.27s_Third_Law) | Do more with less.                          |
 
 {: .note}
 > **Conflicting Advice**

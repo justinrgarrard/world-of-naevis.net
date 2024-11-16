@@ -8,7 +8,7 @@ nav_order: 8
 
 # Warlord
 
-You came to the City to raid and pillage. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../adventuring/languages#cant).
+You came to the City to test your abilities against a true challenge. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight. You specialize in warfare, possessing familiarity with tactics like first aid and [hand signs](../../adventuring/languages#cant).
 
 **[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
 

@@ -58,7 +58,7 @@ Bosses are powerful enemies that require the party to use all or most of their a
 
 Not every dungeon has a big boss waiting in the last room. Many are setup in a way that a boss fight is unnecessary, or handled in a different fashion. Below are a few examples.
 
-> * **Too Strong**: Sometimes the "boss" is creature that's too powerful to fight, such as an ancient dragon, and instead needs to treated like a [Hazard](../rooms/rooms#hazard).
+> * **Too Strong**: Sometimes the "boss" is creature that's too powerful to fight, such as an ancient dragon, and instead needs to treated like a [Hazard](../dungeons/dungeons#hazard).
 >
 > * **Different Finale**: Sometimes the last "boss" is actually a cave-in, flood, or other trial that is equally dangerous but can't be handled through combat.
 >

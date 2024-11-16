@@ -22,7 +22,7 @@ A **Background** describes an adventurer's motivation for coming to the Canvasla
 | **[Piper](piper)**                     | To form lucrative connections in the [Canvaslands](../../lore/canvaslands/index).                                              |
 | **[Treasure Hunter](treasure_hunter)** | To acquire incredible riches and unimaginable fame.                                                                            |
 | **[Truthseeker](truthseeker)**         | To publish the authoritative book on [City Dwellers](../../lore/city_dwellers/index).                                          |
-| **[Warlord](warlord)**                 | To prove yourself worthy to inherit your family's lands and titles.                                                            |
+| **[Warlord](warlord)**                 | To test yourself against the City's greatest dangers.                                                                          |
 
 {: .note}
 > **Professions and Backgrounds**
