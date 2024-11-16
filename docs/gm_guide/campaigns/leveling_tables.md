@@ -24,6 +24,17 @@ grand_parent: GM Guide
 
 ---
 
+#### [OSR](https://en.wikipedia.org/wiki/Old_School_Renaissance) (15 Session Low-Power Campaign)
+
+| Party Level | Sessions Till Next Level | Total Sessions |
+| :---------- | -----------------------: | -------------: |
+| 1           |                        5 |              0 |
+| 2           |                        5 |              5 |
+| 3           |                        5 |             10 |
+| 4           |                        - |             15 |
+
+---
+
 #### Quick Adventure (10 Session Campaign)
 
 | Party Level | Sessions Till Next Level | Total Sessions |
@@ -38,14 +49,3 @@ grand_parent: GM Guide
 | 8           |                        1 |              7 |
 | 9           |                        1 |              8 |
 | 10          |                        - |              9 |
-
----
-
-#### [OSR](https://en.wikipedia.org/wiki/Old_School_Renaissance) (15 Session Low-Power Campaign)
-
-| Party Level | Sessions Till Next Level | Total Sessions |
-| :---------- | -----------------------: | -------------: |
-| 1           |                        5 |              0 |
-| 2           |                        5 |              5 |
-| 3           |                        5 |             10 |
-| 4           |                        - |             15 |

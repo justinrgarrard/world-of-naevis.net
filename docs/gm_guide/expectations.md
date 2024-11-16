@@ -30,15 +30,15 @@ Before rolling any dice or creating any characters, you must sit down with your 
 
 Equally important, you (the GM), need to have an understanding of the games that Naevis is intended to run. The setting borrows heavily from [OSR](https://en.wikipedia.org/wiki/Old_School_Renaissance#Style_of_play) principles. A few of the most important are listed below:
 
-**Player Skill > Character Builds**
+##### Player Skill > Character Builds
 
 > Sessions are not a test of how well-optimized a character is. They are about creative problem solving that leverages a character's abilities. 
 
-**Tactics**
+##### Tactics
 
 > Fair fights get adventurers killed. Set the expectation (gently at first) that going toe-to-toe with monsters without a plan will end badly. 
 
-**Yes, And...**
+##### Yes, And...
 
 > While you shouldn't be afraid to tell your players no when they try to do something impossible, you should always try to work with their attempts.
 

@@ -45,11 +45,13 @@ parent: Welcome
 
 #### Languages
 
-> * **Common**: The human language, widely used for trade and diplomacy.
-> * **Undercommon**: The spoken language of orcs, kobolds, and other City Dwellers.
-> * **Infernal**: The written language of orcs, kobolds, and other City Dwellers.
-> * **Sylvan**: The secret language of beasts.
-> * **Abyssal**: The secret language of the dead.
+> | Language        | Description                                                     |
+> | :-------------- | :-------------------------------------------------------------- |
+> | **Common**      | The human language, widely used for trade and diplomacy.        |
+> | **Undercommon** | The spoken language of orcs, kobolds, and other City Dwellers.  |
+> | **Infernal**    | The written language of orcs, kobolds, and other City Dwellers. |
+> | **Sylvan**      | The secret language of beasts.                                  |
+> | **Abyssal**     | The secret language of the dead.                                |
 
 #### You
 

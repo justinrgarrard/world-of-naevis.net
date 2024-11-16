@@ -11,7 +11,7 @@ parent: Welcome
 
 > * Your party loves tactical gameplay, but is tired of combat encounters that take two sessions to run.
 >
-> * Half of your party are emulating *Lord of the Rings*, while the other are emulating *Final Fantasy*.
+> * Half of your party are emulating *Lord of the Rings*, while the others are emulating *Final Fantasy*.
 > 
 > * There is a divide in your party between those who use optimized builds and those who don't.
 
@@ -19,7 +19,7 @@ parent: Welcome
 
 #### How Naevis Addresses Common Problems
 
-> * **Specialized Setting Rules** are introduced for [creating dungeons](../gm_guide/rooms/rooms), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting), the better to keep crawls engaging and fast-paced.
+> * **Specialized Setting Rules** are introduced for [creating dungeons](../gm_guide/dungeons/dungeons#hazard), [running short combats](../gm_guide/combat/combat), and [restricting resting](../adventuring/resting), the better to keep crawls engaging and fast-paced.
 > 
 > * **Limitations on Customization** provide a space where build exploration is rewarded, but not to the extent of eclipsing [quickstart](../character_creation/index#quickstart) characters. Limitations also aid in creating a more cohesive world.
 >
