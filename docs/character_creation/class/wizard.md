@@ -22,7 +22,7 @@ Navean wizards draw ambient energy from ley lines under the earth using a [wand]
 {: .note}
 > **Spellbooks**
 >
-> A Navean wizard's selection of spells is typically determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards charms and illusions, while a [Warlord's](../background/warlord) will focus on combat magic.
+> A Navean wizard's selection of spells is typically determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards charms and illusions, while a [Warlord's](../background/warlord) will focus on combat magic. 
 
 ### Starting Gear
 

@@ -29,7 +29,7 @@ _Rogue's Pack (39 lb.)_ or 100 gp.
 | :------------------------------------------- | :------------------ | :---- |
 | Daggers (x5)                                 | 5 lb.               | 5 gp  |
 | Studded Leather                              | 13 lb.              | 10 gp |
-| Pouch                                        | 1 lb. (6 / 6 lb.)   | 1 gp  |
+| Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
 | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
 | ...Thieves' Tools                            | 1 lb.               | 10 gp |
 | Backpack                                     | 5 lb. (12 / 30 lb.) | 2 gp  |

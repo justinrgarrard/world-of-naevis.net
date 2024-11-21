@@ -16,10 +16,11 @@ The discipline of alchemy is founded upon the transmutation of ingredients into 
 
 #### Listings
 
-| Artisan Tool        | Alchemics                                                                                                                                                                                                                       |
-| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Alchemist           | [Alchemical Glue](../../data/alchemics/alchemical_glue), [Agua Regia](../../data/alchemics/agua_regia), [Luminessence](../../data/alchemics/luminessence), [Midnight Oil](../../data/alchemics/midnight_oil)                    |
-| Herbalist or Brewer | Potions of [Clarity](../../data/alchemics/potion_of_clarity), [Cleansing](../../data/alchemics/potion_of_cleansing), [Darkvision](../../data/alchemics/potion_of_darkvision), [Healing](../../data/alchemics/potion_of_healing) |
-| Poisoner            | [Mellow Dust](../../data/alchemics/mellow_dust), [Scorpion Venom](../../data/alchemics/scorpion_venom), [Sleeping Powder](../../data/alchemics/sleeping_powder)                                                                 |
-| Tinker or Mason     | [Firebomb](../../data/alchemics/firebomb), [Flashbomb](../../data/alchemics/flashbomb), [Thunderbomb](../../data/alchemics/thunderbomb)                                                                                         |
-| Woodcarver or Smith | [Shocking Ammo](../../data/alchemics/shocking_ammo), [Sonic Ammo](../../data/alchemics/sonic_ammo), [Sparking Ammo](../../data/alchemics/sparking_ammo)                                                                         |
+| Tool                | Alchemics                                                                                                                       |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------ |
+| Alchemist           | [Alchemical Glue](../../data/alchemics/alchemical_glue) and [Agua Regia](../../data/alchemics/agua_regia)                       |
+| Herbalist or Brewer | [Potion of Cleansing](../../data/alchemics/potion_of_cleansing) and [Potion of Healing](../../data/alchemics/potion_of_healing) |
+| Poisoner            | [Scorpion Venom](../../data/alchemics/scorpion_venom) and [Sleeping Powder](../../data/alchemics/sleeping_powder)               |
+| Tinker or Mason     | [Firebomb](../../data/alchemics/firebomb) and [Thunderbomb](../../data/alchemics/thunderbomb)                                   |
+| Woodcarver or Smith | [Sonic Ammo](../../data/alchemics/sonic_ammo) and [Sparking Ammo](../../data/alchemics/sparking_ammo)                           |
+

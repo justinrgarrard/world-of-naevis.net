@@ -14,7 +14,7 @@ nav_order: 0
 Before rolling any dice or creating any characters, you must sit down with your players and describe the type of game this supplement is designed to run.
 
 {: .note}
-> **Dungeon Crawl:** A tactical, resource-based survival game. Characters are typically between levels 1-5 and rely on their wits, rather than raw power, to succeed.
+> **Dungeon Crawl:** A tactical, resource-based survival game. Characters are typically between levels 1-10 and rely on their wits, rather than raw power, to succeed.
 
 ##### Optimization
 
