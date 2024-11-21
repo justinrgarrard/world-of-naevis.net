@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Hell Knight
 
-_Anarchists and revolutionaries, Hell Knights are devotees of chaos that aggressively seek to overturn order. The best of them seek out unjust systems to dismantle, while others simply revel in destruction._
+_Hell Knights are clerics that draw their power from raw fury. They are at the forefront of revolutions and rebellions, riding the anger of bloodthirsty mobs. A few principled members seek out unjust systems to overturn, but most revel in destruction regardless of cause._
 
 
 #### Hell Domain Spells

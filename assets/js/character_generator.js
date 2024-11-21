@@ -3,57 +3,174 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Items
 ITEMS = {
-  ammunition: { weight: 1, value: 1, title: "ammunition (20)" },
-  ash_wand: { weight: 1, value: 50, title: "<i>ash wand</i>" },
-  backpack: { weight: 5, value: 2, title: "backpack" },
-  battleaxe: { weight: 1, value: 10, title: "battleaxe" },
-  boots_of_leaping: { weight: 1, value: 50, title: "<i>boots of leaping</i>" },
-  breastplate: { weight: 20, value: 50, title: "breastplate" },
-  bullseye_lantern: { weight: 2, value: 5, title: "bullseye lantern" },
-  chainmail: { weight: 55, value: 50, title: "chainmail" },
-  chainshirt: { weight: 20, value: 25, title: "chain shirt" },
-  dagger: { weight: 1, value: 1, title: "dagger" },
-  dagger2: { weight: 2, value: 2, title: "dagger (2)" },
-  dagger5: { weight: 5, value: 5, title: "dagger (5)" },
-  darts: { weight: 5, value: 1, title: "darts (20)" },
-  flintlock_pistol: { weight: 2, value: 50, title: "flintlock pistol" },
-  halberd: { weight: 6, value: 10, title: "halberd" },
-  holy_symbol: { weight: 1, value: 10, title: "holy symbol" },
-  longbow: { weight: 2, value: 10, title: "longbow" },
-  longsword: { weight: 3, value: 10, title: "longsword" },
-  greatsword: { weight: 6, value: 10, title: "longsword" },
-  hand_crossbow: { weight: 3, value: 10, title: "hand crossbow" },
-  mace: { weight: 4, value: 5, title: "mace" },
-  javelin: { weight: 2, value: 1, title: "javelin" },
-  javelin3: { weight: 6, value: 3, title: "javelin (3)" },
-  javelin5: { weight: 10, value: 5, title: "javelin (5)" },
-  marble_ring: { weight: 0, value: 50, title: "<i>marble ring of force</i>" },
-  mist_dagger: { weight: 1, value: 50, title: "<i>mist dagger</i>" },
-  mythril_longsword: { weight: 3, value: 50, title: "mythril longsword" },
-  oil3: { weight: 3, value: 3, title: "flask of oil (3)" },
-  potion_of_healing: { weight: 1, value: 25, title: "potion of healing" },
-  pouch: { weight: 1, value: 1, title: "pouch" },
-  rapier: { weight: 2, value: 10, title: "rapier" },
-  rations: { weight: 1, value: 1, title: "rations (3)" },
-  ringmail: { weight: 40, value: 25, title: "ring mail" },
-  robes: { weight: 4, value: 1, title: "robes" },
-  scroll_sleep: { weight: 1, value: 25, title: "scroll of sleep" },
-  shield: { weight: 6, value: 5, title: "shield" },
-  shortbow: { weight: 2, value: 5, title: "shortbow" },
-  shortsword: { weight: 2, value: 5, title: "shortsword" },
-  sleeping_powder: { weight: 1, value: 25, title: "sleeping powder (3)" },
-  sparking_ammo: { weight: 1, value: 25, title: "sparking ammunition (20)" },
-  sonic_ammo: { weight: 1, value: 25, title: "sonic ammunition (20)" },
-  spear: { weight: 3, value: 5, title: "spear" },
-  spellbook: { weight: 1, value: 25, title: "spellbook" },
-  studded_leather: { weight: 13, value: 10, title: "studded leather" },
-  thieves_tools: { weight: 1, value: 10, title: "thieves' tools" },
-  thunderbomb: { weight: 5, value: 25, title: "thunderbomb" },
-  tinderbox: { weight: 1, value: 1, title: "tinderbox" },
-  torches: { weight: 5, value: 1, title: "torches (5)" },
-  wand: { weight: 1, value: 10, title: "wand" },
-  warhammer: { weight: 2, value: 10, title: "warhammer" },
-  volt_staff: { weight: 1, value: 50, title: "<i>volt staff</i>" },
+  ammunition: {
+    weight: 1,
+    value: 1,
+    title: "ammunition (20)",
+    discount: "dwarven",
+  },
+  ash_wand: {
+    weight: 1,
+    value: 50,
+    title: "<i>ash wand</i>",
+    discount: "elven",
+  },
+  backpack: { weight: 5, value: 2, title: "backpack", discount: "none" },
+  battleaxe: { weight: 1, value: 10, title: "battleaxe", discount: "dwarven" },
+  boots_of_leaping: {
+    weight: 1,
+    value: 50,
+    title: "<i>boots of leaping</i>",
+    discount: "none",
+  },
+  breastplate: {
+    weight: 20,
+    value: 50,
+    title: "breastplate",
+    discount: "dwarven",
+  },
+  bullseye_lantern: {
+    weight: 2,
+    value: 5,
+    title: "bullseye lantern",
+    discount: "none",
+  },
+  chainmail: { weight: 55, value: 50, title: "chainmail", discount: "dwarven" },
+  chainshirt: {
+    weight: 20,
+    value: 25,
+    title: "chain shirt",
+    discount: "dwarven",
+  },
+  dagger: { weight: 1, value: 1, title: "dagger", discount: "dwarven" },
+  dagger2: { weight: 2, value: 2, title: "dagger (2)", discount: "dwarven" },
+  dagger5: { weight: 5, value: 5, title: "dagger (5)", discount: "dwarven" },
+  darts: { weight: 5, value: 1, title: "darts (20)", discount: "dwarven" },
+  flintlock_pistol: {
+    weight: 2,
+    value: 50,
+    title: "flintlock pistol",
+    discount: "dwarven",
+  },
+  halberd: { weight: 6, value: 10, title: "halberd", discount: "dwarven" },
+  holy_symbol: {
+    weight: 1,
+    value: 10,
+    title: "holy symbol",
+    discount: "elven",
+  },
+  longbow: { weight: 2, value: 10, title: "longbow", discount: "dwarven" },
+  longsword: { weight: 3, value: 10, title: "longsword", discount: "dwarven" },
+  greatsword: {
+    weight: 6,
+    value: 10,
+    title: "greatsword",
+    discount: "dwarven",
+  },
+  hand_crossbow: {
+    weight: 3,
+    value: 10,
+    title: "hand crossbow",
+    discount: "dwarven",
+  },
+  mace: { weight: 4, value: 5, title: "mace", discount: "dwarven" },
+  javelin: { weight: 2, value: 1, title: "javelin", discount: "dwarven" },
+  javelin3: { weight: 6, value: 3, title: "javelin (3)", discount: "dwarven" },
+  javelin5: { weight: 10, value: 5, title: "javelin (5)", discount: "dwarven" },
+  marble_ring: {
+    weight: 0,
+    value: 50,
+    title: "<i>marble ring of force</i>",
+    discount: "none",
+  },
+  mist_dagger: {
+    weight: 1,
+    value: 50,
+    title: "<i>mist dagger</i>",
+    discount: "dwarven",
+  },
+  mythril_longsword: {
+    weight: 3,
+    value: 50,
+    title: "<i>mythril longsword</i>",
+    discount: "dwarven",
+  },
+  oil3: { weight: 3, value: 3, title: "flask of oil (3)", discount: "none" },
+  potion_of_healing: {
+    weight: 1,
+    value: 25,
+    title: "potion of healing",
+    discount: "halfling",
+  },
+  pouch: { weight: 1, value: 1, title: "pouch", discount: "none" },
+  rapier: { weight: 2, value: 10, title: "rapier", discount: "dwarven" },
+  rations: { weight: 6, value: 3, title: "rations (3)", discount: "none" },
+  ringmail: { weight: 40, value: 25, title: "ring mail", discount: "dwarven" },
+  robes: { weight: 4, value: 1, title: "robes", discount: "dwarven" },
+  scroll_command: {
+    weight: 1,
+    value: 25,
+    title: "scroll of command",
+    discount: "elven",
+  },
+  scroll_sleep: {
+    weight: 1,
+    value: 25,
+    title: "scroll of sleep",
+    discount: "elven",
+  },
+  shield: { weight: 6, value: 5, title: "shield", discount: "dwarven" },
+  shortbow: { weight: 2, value: 5, title: "shortbow", discount: "dwarven" },
+  shortsword: { weight: 2, value: 5, title: "shortsword", discount: "dwarven" },
+  sleeping_powder: {
+    weight: 1,
+    value: 25,
+    title: "sleeping powder (3)",
+    discount: "halfling",
+  },
+  sparking_ammo: {
+    weight: 1,
+    value: 25,
+    title: "sparking ammunition (20)",
+    discount: "halfling",
+  },
+  sonic_ammo: {
+    weight: 1,
+    value: 25,
+    title: "sonic ammunition (20)",
+    discount: "halfling",
+  },
+  spear: { weight: 3, value: 5, title: "spear", discount: "dwarven" },
+  spellbook: { weight: 1, value: 25, title: "spellbook", discount: "elven" },
+  studded_leather: {
+    weight: 13,
+    value: 10,
+    title: "studded leather",
+    discount: "dwarven",
+  },
+  thieves_tools: {
+    weight: 1,
+    value: 10,
+    title: "thieves' tools",
+    discount: "none",
+  },
+  thunderbomb: {
+    weight: 5,
+    value: 25,
+    title: "thunderbomb",
+    discount: "halfling",
+  },
+  tinderbox: { weight: 1, value: 1, title: "tinderbox", discount: "none" },
+  torches: { weight: 5, value: 1, title: "torches (5)", discount: "none" },
+  wand: { weight: 1, value: 10, title: "wand", discount: "elven" },
+  warhammer: { weight: 2, value: 10, title: "warhammer", discount: "dwarven" },
+  volt_staff: {
+    weight: 1,
+    value: 50,
+    title: "<i>volt staff</i>",
+    discount: "elven",
+  },
+  rope: { weight: 5, value: 10, title: "silk rope (30 ft)", discount: "none" },
 };
 
 CONTAINERS = {
@@ -76,7 +193,7 @@ CLERIC_SPELLS = [
 
 // Classes.
 // Human, Mountain Dwarf
-const VANGUARD = {
+const LEGIONNAIRE = {
   ability_scores: { STR: 15, DEX: 14, CON: 13, WIS: 12, INT: 8, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -88,11 +205,10 @@ const VANGUARD = {
   resistances: [],
   skills: ["athletics", "intimidation"],
   spells: [],
-  title: "vanguard",
+  title: "legionnaire",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup:
-    "You are a Vanguard, a warrior that can march unflinchingly into danger.",
+  writeup: "You are a Legionnaire, a professional soldier trained for war.",
   races: ["human", "mountain dwarf"],
   inv_worn: [
     ITEMS.javelin5,
@@ -100,46 +216,81 @@ const VANGUARD = {
     ITEMS.breastplate,
     ITEMS.backpack,
     ITEMS.pouch,
+    ITEMS.rope,
   ],
   inv_pouch: [],
   inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
   ability_proficiencies: ["STR", "CON"],
 };
 
-// Human, High Elf
-const FENCER = {
-  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 8, INT: 13, CHA: 12 },
+// Human, Mountain Dwarf
+const MERCENARY = {
+  ability_scores: { STR: 14, DEX: 15, CON: 13, WIS: 12, INT: 10, CHA: 8 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "fighter",
   hp: 10,
   expertise: [],
-  features: ["fighting style: dueling", "second wind"],
+  features: ["fighting style: archery", "second wind"],
   languages: [],
   resistances: [],
-  skills: ["athletics", "acrobatics"],
+  skills: ["athletics", "survival"],
   spells: [],
-  title: "fencer",
+  title: "mercenary",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Fencer, a martial artists trained for high-stakes duels.",
-  races: ["human", "high elf"],
+  writeup: "You are a Mercenary, a sword for hire with a knack for survival.",
+  races: ["human", "stout halfling"],
   inv_worn: [
-    ITEMS.rapier,
-    ITEMS.dagger2,
-    ITEMS.studded_leather,
+    ITEMS.shortsword,
     ITEMS.shield,
-    ITEMS.longbow,
+    ITEMS.shortbow,
+    ITEMS.studded_leather,
     ITEMS.backpack,
     ITEMS.pouch,
+    ITEMS.rope,
   ],
-  inv_pouch: [ITEMS.ammunition, ITEMS.sparking_ammo],
+  inv_pouch: [ITEMS.ammunition, ITEMS.sparking_ammo, ITEMS.potion_of_healing],
   inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
   ability_proficiencies: ["STR", "CON"],
 };
 
+// Variant Human
+const MAGE_KNIGHT = {
+  ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 12, INT: 14, CHA: 10 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: ["light", "fire bolt", "minor illusion"],
+  class: "fighter",
+  hp: 10,
+  expertise: [],
+  features: [
+    "fighting style: defense",
+    "second wind",
+    "feat: wizard multiclass",
+  ],
+  languages: [],
+  resistances: [],
+  skills: ["athletics", "history", "arcana"],
+  spells: [],
+  title: "mage knight",
+  tools: [],
+  weapons: ["simple", "martial"],
+  writeup: "You are a Mage Knight, a warrior trained in arcane magic.",
+  races: ["variant"],
+  inv_worn: [
+    ITEMS.halberd,
+    ITEMS.chainmail,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.wand,
+  ],
+  inv_pouch: [],
+  inv_backpack: [ITEMS.rations],
+  ability_proficiencies: ["STR", "CON"],
+};
+
 // Hill Dwarf
-const EXORCIST = {
+const CRUSADER = {
   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -151,10 +302,10 @@ const EXORCIST = {
   resistances: [],
   skills: ["medicine", "history"],
   spells: ["bless", "cure wounds"],
-  title: "exorcist",
+  title: "crusader",
   tools: [],
   weapons: ["simple"],
-  writeup: "You are an Exorcist, a holy warrior that purifies evil spirits.",
+  writeup: "You are a Crusader, a warrior priest trained for the battlefield.",
   races: ["hill dwarf"],
   inv_worn: [
     ITEMS.chainmail,
@@ -164,13 +315,13 @@ const EXORCIST = {
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [],
+  inv_pouch: [ITEMS.scroll_command],
   inv_backpack: [ITEMS.rations],
   ability_proficiencies: ["CHA", "WIS"],
 };
 
 // Wood Elf
-const CULTIVATOR = {
+const EXORCIST = {
   ability_scores: { STR: 12, DEX: 14, CON: 13, WIS: 15, INT: 10, CHA: 8 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -182,11 +333,10 @@ const CULTIVATOR = {
   resistances: [],
   skills: ["medicine", "insight"],
   spells: ["bless", "cure wounds"],
-  title: "cultivator",
+  title: "exorcist",
   tools: [],
   weapons: ["simple"],
-  writeup:
-    "You are a Cultivator, a martial artist that produces miracles using qi.",
+  writeup: "You are an Exorcist, a specialist in hunting unholy creatures.",
   races: ["wood elf"],
   inv_worn: [
     ITEMS.studded_leather,
@@ -210,7 +360,11 @@ const TEMPLAR = {
   class: "cleric",
   hp: 8,
   expertise: [],
-  features: ["disciple of life", "feat: fighter multiclass", "fighting style: defense"],
+  features: [
+    "disciple of life",
+    "feat: fighter multiclass",
+    "fighting style: defense",
+  ],
   languages: [],
   resistances: [],
   skills: ["athletics", "medicine", "persuasion"],
@@ -233,30 +387,31 @@ const TEMPLAR = {
 };
 
 // Human, Hill Dwarf, Wood Elf
-const RAIDER = {
-  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 13, INT: 8, CHA: 12 },
+const DUNGEONEER = {
+  ability_scores: { STR: 12, DEX: 15, CON: 14, WIS: 13, INT: 8, CHA: 10 },
   armor: ["light"],
   cantrips: [],
   class: "rogue",
   hp: 8,
-  expertise: ["perception", "stealth"],
+  expertise: ["athletics", "perception"],
   features: ["sneak attack"],
-  languages: [, "cant"],
+  languages: ["cant"],
   resistances: [],
-  skills: ["acrobatics", "perception", "sleight of hand", "stealth"],
+  skills: ["athletics", "perception", "insight", "stealth"],
   spells: [],
-  title: "raider",
+  title: "dungeoneer",
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
   writeup:
-    "You are a Raider, a specialist in looting ruins and robbing graves.",
+    "You are a Dungeoneer, a specialist in looting ruins and spotting traps.",
   races: ["human", "hill dwarf", "wood elf"],
   inv_worn: [
-    ITEMS.dagger5,
+    ITEMS.dagger2,
     ITEMS.studded_leather,
-    ITEMS.boots_of_leaping,
+    ITEMS.marble_ring,
     ITEMS.backpack,
     ITEMS.pouch,
+    ITEMS.rope,
   ],
   inv_pouch: [],
   inv_backpack: [
@@ -269,22 +424,22 @@ const RAIDER = {
 };
 
 // Human, Stout Halfling
-const SKIRMISHER = {
+const SCOUT = {
   ability_scores: { STR: 14, DEX: 15, CON: 13, WIS: 12, INT: 8, CHA: 10 },
   armor: ["light"],
   cantrips: [],
   class: "rogue",
   hp: 8,
-  expertise: ["athletics", "acrobatics"],
+  expertise: ["perception", "stealth"],
   features: ["sneak attack"],
-  languages: [, "cant"],
+  languages: ["cant"],
   resistances: [],
   skills: ["athletics", "acrobatics", "perception", "stealth"],
   spells: [],
-  title: "skirmisher",
+  title: "scout",
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
-  writeup: "You are a Skirmisher, a fleet-footed warrior specialized in ambushes.",
+  writeup: "You are a Scout, an expert in ambushes and reconnaissance.",
   races: ["human", "stout halfling"],
   inv_worn: [
     ITEMS.shortsword,
@@ -294,81 +449,7 @@ const SKIRMISHER = {
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.sparking_ammo, ITEMS.ammunition],
-  inv_backpack: [
-    ITEMS.rations,
-    ITEMS.thieves_tools,
-    ITEMS.bullseye_lantern,
-    ITEMS.oil3,
-  ],
-  ability_proficiencies: ["DEX", "INT"],
-};
-
-// Human or Lightfoot Halfling
-const DESPERADO = {
-  ability_scores: { STR: 10, DEX: 15, CON: 14, WIS: 8, INT: 12, CHA: 13 },
-  armor: ["light"],
-  cantrips: [],
-  class: "rogue",
-  hp: 8,
-  expertise: ["persuasion", "deception"],
-  features: ["sneak attack"],
-  languages: [, "cant"],
-  resistances: [],
-  skills: ["deception", "persuasion", "sleight of hand", "performance"],
-  spells: [],
-  title: "desperado",
-  tools: ["thieves'"],
-  weapons: ["simple", "rogue"],
-  writeup:
-    "You are a Desperado, a swashbuckling marksman that's quick on the draw.",
-  races: ["human", "lightfoot halfling"],
-  inv_worn: [
-    ITEMS.dagger2,
-    ITEMS.hand_crossbow,
-    ITEMS.marble_ring,
-    ITEMS.studded_leather,
-    ITEMS.backpack,
-    ITEMS.pouch,
-  ],
-  inv_pouch: [ITEMS.ammunition],
-  inv_backpack: [
-    ITEMS.rations,
-    ITEMS.thieves_tools,
-    ITEMS.bullseye_lantern,
-    ITEMS.oil3,
-  ],
-  ability_proficiencies: ["DEX", "INT"],
-};
-
-// Variant human.
-const SNIPER = {
-  ability_scores: { STR: 10, DEX: 16, CON: 14, WIS: 14, INT: 12, CHA: 8 },
-  armor: ["light"],
-  cantrips: [],
-  class: "rogue",
-  hp: 8,
-  expertise: ["perception", "stealth"],
-  features: ["sneak attack", "feat: fighter multiclass", "fighting style: archery"],
-  languages: ["cant"],
-  resistances: [],
-  skills: ["perception", "acrobatics", "stealth", "sleight of hand"],
-  spells: [],
-  title: "sniper",
-  tools: ["thieves'"],
-  weapons: ["simple", "rogue", "longbow", "heavy crossbow"],
-  writeup:
-    "You are a Sniper, a stealth-oriented marksman with exceptional accuracy.",
-  races: ["variant"],
-  inv_worn: [
-    ITEMS.dagger2,
-    ITEMS.longbow,
-    ITEMS.shortsword,
-    ITEMS.studded_leather,
-    ITEMS.backpack,
-    ITEMS.pouch,
-  ],
-  inv_pouch: [ITEMS.ammunition, ITEMS.sonic_ammo],
+  inv_pouch: [ITEMS.sonic_ammo, ITEMS.ammunition],
   inv_backpack: [
     ITEMS.rations,
     ITEMS.thieves_tools,
@@ -396,7 +477,7 @@ const WITCH = {
   weapons: ["wizard"],
   writeup: "You are a Witch, an enchanter skilled with magic items.",
   races: ["human", "lightfoot halfling"],
-  inv_worn: [ITEMS.volt_staff, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
+  inv_worn: [ITEMS.dagger, ITEMS.volt_staff, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
   ability_proficiencies: ["INT", "WIS"],
@@ -453,62 +534,27 @@ const SPELLSWORD = {
   races: ["high elf"],
   inv_worn: [
     ITEMS.shortsword,
+    ITEMS.dagger2,
     ITEMS.shortbow,
     ITEMS.wand,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.scroll_sleep, ITEMS.ammunition],
+  inv_pouch: [ITEMS.scroll_sleep, ITEMS.ammunition, ITEMS.potion_of_healing],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
   ability_proficiencies: ["INT", "WIS"],
 };
 
-// Variant Human
-const MAGE_KNIGHT = {
-  ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 12, INT: 14, CHA: 10 },
-  armor: ["light", "medium", "heavy", "shields"],
-  cantrips: ["light", "fire bolt", "minor illusion"],
-  class: "fighter",
-  hp: 10,
-  expertise: [],
-  features: [
-    "fighting style: defense",
-    "second wind",
-    "feat: wizard multiclass",
-  ],
-  languages: [],
-  resistances: [],
-  skills: ["athletics", "history", "arcana"],
-  spells: [],
-  title: "mage knight",
-  tools: [],
-  weapons: ["simple", "martial"],
-  writeup: "You are a Mage Knight, an expert warrior trained in arcane magic.",
-  races: ["variant"],
-  inv_worn: [
-    ITEMS.halberd,
-    ITEMS.chainmail,
-    ITEMS.backpack,
-    ITEMS.pouch,
-    ITEMS.wand,
-  ],
-  inv_pouch: [],
-  inv_backpack: [ITEMS.rations],
-  ability_proficiencies: ["STR", "CON"],
-};
-
 const CLASSES = {
   "mage knight": MAGE_KNIGHT,
-  cultivator: CULTIVATOR,
-  desperado: DESPERADO,
+  crusader: CRUSADER,
+  dungeoneer: DUNGEONEER,
   exorcist: EXORCIST,
-  fencer: FENCER,
-  raider: RAIDER,
-  skirmisher: SKIRMISHER,
-  sniper: SNIPER,
+  legionnaire: LEGIONNAIRE,
+  mercenary: MERCENARY,
+  scout: SCOUT,
   spellsword: SPELLSWORD,
   templar: TEMPLAR,
-  vanguard: VANGUARD,
   warder: WARDER,
   witch: WITCH,
 };
@@ -1176,10 +1222,15 @@ function calculateEquipment(equip, container, gold) {
     `;
 }
 
-function calculateGold(worn, pouch, backpack) {
-  const wornCost = worn.map((x) => x.value).reduce((a, b) => a + b, 0);
-  const pouchCost = pouch.map((x) => x.value).reduce((a, b) => a + b, 0);
-  const backpackCost = backpack.map((x) => x.value).reduce((a, b) => a + b, 0);
+function calculateGold(worn, pouch, backpack, c_languages) {
+  function calculateDiscount(item, character_languages) {
+    const discountLanguage = item.discount
+    const outputValue = character_languages.includes(discountLanguage) ? Math.round(item.value*0.8) : item.value
+    return outputValue
+  }
+  const wornCost = worn.map((x) => calculateDiscount(x, c_languages)).reduce((a, b) => a + b, 0);
+  const pouchCost = pouch.map((x) => calculateDiscount(x, c_languages)).reduce((a, b) => a + b, 0);
+  const backpackCost = backpack.map((x) => calculateDiscount(x, c_languages)).reduce((a, b) => a + b, 0);
   return 100 - (wornCost + pouchCost + backpackCost);
 }
 
@@ -1314,10 +1365,16 @@ function generateEquipment(
   character_background,
   character_ability_scores
 ) {
+  const languages = joinAndSort(
+    character_class.languages,
+    character_race.languages,
+    character_background.languages
+  );
   const gold = calculateGold(
     character_class.inv_worn,
     character_class.inv_pouch,
-    character_class.inv_backpack
+    character_class.inv_backpack,
+    languages
   );
   const worn_equipment = calculateEquipment(
     character_class.inv_worn,

@@ -43,9 +43,6 @@ grand_parent: Gear
 | ... Dagger          | 1d4 piercing    | 1 lb.  | 1 gp  | 
 | ... Rapier          | 1d8 piercing    | 2 lb.  | 10 gp | 
 | ... Shortsword      | 1d6 piercing    | 2 lb.  | 5 gp  | 
-| Light               |                 |        |       | 
-| ... Handaxe         | 1d6 slashing    | 2 lb.  | 5 gp  | 
-| ... Light Hammer    | 1d4 bludgeoning | 2 lb.  | 1 gp  | 
 | Longsword           |                 |        |       | 
 | ... Longsword       | 1d8 slashing    | 3 lb.  | 10 gp | 
 | Ranged              |                 |        |       | 

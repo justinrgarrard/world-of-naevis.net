@@ -8,4 +8,4 @@ nav_exclude: true
 
 *Poison, injury, illicit*
 
-Creatures injured by a weapon coated in this poison take an additional 1d4 poison damage. Creatures immune to poison are unaffected, and those with resistance take half.
+Creatures injured by a weapon coated in this poison take an additional 1 poison damage. If the user has proficiency in *Poisoner's Kits*, the damage is increased by their proficiency bonus.
