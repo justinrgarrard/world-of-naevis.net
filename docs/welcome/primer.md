@@ -9,34 +9,46 @@ parent: Welcome
 
 #### System
 
-> * **[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**.
+> * **[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**
 > * **Four Classes**: Fighter, Cleric, Rogue, Wizard.
 > * **Four Races**: Elf, Dwarf, Halfling, Human.
+
+#### You
+
+> ... are an adventurer, an individual of unusual skill and remarkable drive, come to the Canvaslands for [your own ends](../character_creation/background/index). 
+>
+> You may be a swordsman, a scoundrel, or a practitioner of some esoteric art. But first and foremost, you are a survivalist. You face hunger and thirst as readily as any monster. Your wits, rather than skill at arms, are your greatest asset.
+>
+> As you venture into danger, keep these three guidelines in mind:
+>
+> * Not all fights can be won.
+> * Not all mysteries can be solved.
+> * Careful preparation is worth more than spell or steel.
 
 #### Places
 
 > ##### The City Below
 >
-> A [subterranean otherworld](../lore/city_below) beneath the ruins of a mysterious desert city. The great powers of Naevis covet the treasures hidden within.
+> A [subterranean otherworld](../lore/city_below) beneath the ruins of a mysterious desert city. Its tunnels are filled with treasures and danger.
 >
 > ##### The Canvaslands
 >
-> A [lawless shantytown](../lore/canvaslands/index) of yurts and market stalls that sprung up around the City's entrance. Within its unmarked boundaries are tradesmen, soldiers, camp followers, and aspiring adventurers. 
+> A [lawless shantytown](../lore/canvaslands/index) of yurts and market stalls around the City's entrance. Aspiring slumlords rent out hostels to adventuring parties in the area, while opportunistic merchants trade water for gold.
 > 
 > ##### The Nameless Desert
 >
-> A [vast arid desert](../lore/nameless_desert) prone to sandstorms and drought. Giant scorpions and sand worms hunt for unsuspecting travelers foolish enough to venture in without a guide.
+> A [vast arid desert](../lore/nameless_desert) prone to sandstorms and drought. Giant scorpions and other megafauna hunt for any travelers foolish enough to venture in without a guide.
 
 
 #### People
 
 > ##### Adventurers
 > 
-> The greedy, the desperate, and the hopeful. [Persons of talent](../character_creation/index) that have left the comforts of civilization to plumb the City's depths for fortune. 
+> The greedy, the desperate, and the hopeful. [Persons of talent](../character_creation/index) that have left the comforts of civilization to plumb the City's depths. 
 >
 > ##### Embassies
 >
-> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. Representatives from both nations stand watch for powerful artifacts that could upset the current balance of power.
+> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. 
 >
 > ##### City Dwellers
 >
@@ -53,6 +65,9 @@ parent: Welcome
 > | **Sylvan**      | The secret language of beasts.                                  |
 > | **Abyssal**     | The secret language of the dead.                                |
 
-#### You
 
-> You are an adventurer, come to the Canvaslands for [your own ends](../character_creation/background/index). You have banded together with an outfit of similarly-minded allies to scour the City Below for secrets and treasures.
+#### Tips
+
+> * Avoid fair fights.
+> * Keep an open mind.
+> * [You are more than your character's class](../more/strategy#be-more-than-a-statblock).

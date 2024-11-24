@@ -12,7 +12,7 @@ You did not come to the City of your own free will. You were driven here, perhap
 
 **[Skill Proficiency](../../more/review/skills)**: Stealth, Survival
 
-**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial
+**[Language Proficiency](../../adventuring/languages)**: Cant or One [Racial](../../adventuring/languages#racial-languages) Language
 
 **[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
 
@@ -21,10 +21,6 @@ You did not come to the City of your own free will. You were driven here, perhap
 > 
 > You gain proficiency in Constitution saves. If you already have proficiency, you gain proficiency in Dexterity or Wisdom saves instead.
 
-<!-- {: .background-feature}
-> **Redundant Proficiencies**
-> 
-> If you are already proficient in Cant, you gain proficiency in a different [language](../../adventuring/languages/index) instead. -->
 
 #### (Optional) Starting Wizard Spells
 

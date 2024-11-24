@@ -29,6 +29,8 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 | **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Tower Mage](../../../data/archetypes/wizard_tower)     |
 
 
+---
+
 #### Adapting Archetypes
 
 Should your Game Master allow other archetypes, they may require adjustments for use in this setting. 
@@ -43,7 +45,7 @@ Should your Game Master allow other archetypes, they may require adjustments for
 
 ##### Example: War Domain
 
-> _Clerics of the War domain draw their power from qi, gradually accumulating power through training and meditation. Their tradition stems from the Elven Empire and places great importance on demonstrating skill through combat._
+> _Clerics of the War domain draw their power from qi, gradually accumulating energy through training and meditation. Their tradition stems from the Elven Empire and places great importance on demonstrating skill through combat._
 >
 > Note that the spells for this archetype have been changed to their nearest Basic Rules equivalents.
 

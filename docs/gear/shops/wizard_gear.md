@@ -7,6 +7,15 @@ grand_parent: Gear
 
 # Wizard Gear
 
+{: .note}
+> **Proficiencies**
+>
+> [Wizards](../../character_creation/class/wizard) have proficiency in:
+>
+> * Armor: None
+> * Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+> * Tools: Wands, spellbooks, arcane scrolls
+
 #### General Goods
 
 | Item            | Price | Weight |

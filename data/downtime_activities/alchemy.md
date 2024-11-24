@@ -23,4 +23,4 @@ Using an appropriate tool, create [alchemics](../../docs/gear/alchemics). The nu
 
 > Maric has 14 (+2) Intelligence and proficiency in the Herbalist tool. He can create up to three potions. During downtime he creates two _Potions of Healing_ and one _Potion of Cleansing_.
 
-> Johanna has 16 (+3) Intelligence and proficiency in two tools; Alchemist and Smith. She can create up to four items, choosing from either category. During downtime she creates one set of _Sonic Arrows_, one set of _Sparking Arrows_, and two vials of _Agua Regia_.
+> Johanna has 16 (+3) Intelligence and proficiency in two types of tools; Alchemist and Smith. She can create up to four items, choosing from either category. During downtime she creates one set of _Sonic Arrows_, one set of _Sparking Arrows_, and two vials of _Agua Regia_.
