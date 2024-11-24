@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Life Domain
 
-_The Life domain is the most common and varied in Naevis. Practitioners may refer to the energy that fuels their powers as qi, aura, or divine grace, and often have diverse beliefs regarding its true nature._
+_The Life domain is the most common and varied in Naevis. Practitioners may refer to the energy that fuels their powers as divine grace, qi, aura, or something else entirely. The sole commonality between such cults is their talent in healing magic._
 
 #### Life Domain Spells
 

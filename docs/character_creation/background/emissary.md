@@ -12,7 +12,7 @@ You came to the City at the behest of a greater power. Maybe a nation, a temple,
 
 **[Skill Proficiency](../../more/review/skills)**: Persuasion, Deception
 
-**[Language Proficiency](../../adventuring/languages)**: Two Languages
+**[Language Proficiency](../../adventuring/languages)**: Two [Racial](../../adventuring/languages#racial-languages) Languages
 
 {: .background-feature}
 > **Herald**
@@ -36,7 +36,7 @@ You came to the City at the behest of a greater power. Maybe a nation, a temple,
 | 2    | I'm always careful, watching and analyzing others.                                        |
 | 3    | I blend in with any crowd, moderating my opinions and beliefs to avoid drawing attention. |
 | 4    | I'm patriotic to an excessive degree.                                                     |
-| 5    | I take my duties very seriously, and can seem overly serious to some.                     |
+| 5    | I take my duties very seriously, and can seem overly stern to some.                       |
 | 6    | I pretend to be foolish and excitable to seem less dangerous than I actually am.          |
 
 

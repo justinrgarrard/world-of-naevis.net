@@ -7,6 +7,15 @@ grand_parent: Gear
 
 # Rogue Gear
 
+{: .note}
+> **Proficiencies**
+>
+> [Rogues](../../character_creation/class/rogue) have proficiency in:
+>
+> * Armor: Light armor
+> * Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+> * Tools: Thieves’ tools
+
 #### General Goods
 
 | Item              | Price | Weight |

@@ -8,7 +8,7 @@ nav_order: 3
 
 # Halfling
 
-Halflings live as nomads in winding caravans, carrying trade across all nations. They have no homeland to speak of, though many tribes maintain semi-permanent residences in the [Nameless Desert](../../lore/nameless_desert).
+Halflings live as nomads in winding caravans, carrying trade across all nations. They have an aptitude for luck, bravery, and agility.
 
 {: .language}
 > **Halfling** is the language of [alchemy](../../gear/alchemics). Nearly all recipes are written in the language and use the halfling measurement system. Proficient characters receive a 20% discount when buying alchemics, like potions.

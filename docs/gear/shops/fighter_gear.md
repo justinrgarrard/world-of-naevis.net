@@ -7,6 +7,15 @@ grand_parent: Gear
 
 # Fighter Gear
 
+{: .note}
+> **Proficiencies**
+>
+> [Fighters](../../character_creation/class/fighter) have proficiency in:
+>
+> * Armor: All armor, shields
+> * Weapons: Simple weapons, martial weapons
+> * Tools: None
+
 #### General Goods
 
 | Item            | Price | Weight |

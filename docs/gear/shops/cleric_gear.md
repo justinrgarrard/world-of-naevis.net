@@ -7,6 +7,15 @@ grand_parent: Gear
 
 # Cleric Gear
 
+{: .note}
+> **Proficiencies**
+>
+> [Clerics](../../character_creation/class/cleric) have proficiency in:
+>
+> * Armor: Light armor, medium armor, [heavy armor](../../../data/archetypes/cleric_life), shields
+> * Weapons: All simple weapons
+> * Tools: Holy symbols, divine scrolls
+
 #### General Goods
 
 | Item            | Price | Weight |

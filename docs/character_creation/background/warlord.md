@@ -12,7 +12,7 @@ You came to the City to test your abilities against a true challenge. You may be
 
 **[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
 
-**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial
+**[Language Proficiency](../../adventuring/languages)**: Cant or One [Racial](../../adventuring/languages#racial-languages)
 
 **[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
 

@@ -25,11 +25,11 @@ Rooms are the atoms of a dungeon. They represents a single location with some fo
 
 ##### Threat
 
-> In contrast to hazards, threats can be resolved by beating someone (or something) up. A pack of wolves, an ambush of goblins, and an undead necromancer are all threats. However, most threats can also be negotiated through diplomacy, bribery, or trickery should players demonstrate the necessary cunning.
+> In contrast to hazards, threats can be resolved by beating someone (or something) up. A pack of wolves, an ambush of goblins, and an undead necromancer are all threats. However, **most threats can also be negotiated through diplomacy, bribery, or trickery** should players demonstrate the necessary cunning.
 
 ##### Oddity
 
-> These are rooms where nothing is overtly hostile or impeding the players. Instead, some feature of the room allows for optional interaction. A cursed sword stuck in the ground is in oddity, as is a demon trapped in a magic circle. The players can choose to ignore an oddity without issue, or take a risk (usually for the promise of extra treasure).
+> These are rooms where nothing is overtly hostile or impeding the players. Instead, some feature of the room allows for **optional interaction**. A cursed sword stuck in the ground is in oddity, as is a demon trapped in a magic circle. The players can choose to ignore an oddity without issue, or take a risk (usually for the promise of extra treasure).
 
 ---
 
