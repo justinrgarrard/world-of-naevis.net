@@ -12,17 +12,13 @@ You came to the City in search of fortune and glory. You may be a sellsword, a t
 
 **[Skill Proficiency](../../more/review/skills)**: Perception, Insight
 
-**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Thieves' Tools, One Alchemy Tool
+**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Thieves' Tools and One Alchemy Tool, or Two Alchemy Tools
 
 {: .background-feature}
 > **Read the Room**
 > 
 > Add +5 to your passive perception.
 
-<!-- {: .note}
-> **Redundant Proficiencies**
->
-> If you already have proficiency in Thieves' Tools, you gain Expertise with them instead. -->
 
 #### (Optional) Starting Wizard Spells
 

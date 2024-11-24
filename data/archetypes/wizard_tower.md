@@ -23,7 +23,7 @@ Beginning at 2nd level, when you cast a cantrip, you can do so without any verba
 
 #### Quick Cast
 
-At 6th level, you can cast a spell that normally requires an action by using a bonus action. You must take a short or long rest before using this feature again.
+At 6th level, you can cast a cantrip or spell that normally requires an action by using a bonus action. You must take a short or long rest before using this feature again.
 
 
 #### Pocket Cast

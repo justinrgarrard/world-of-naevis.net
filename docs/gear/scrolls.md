@@ -14,7 +14,7 @@ has_toc: false
 {: .language}
 > Adventurers proficient in **Elven** can purchase scrolls at the discounted price of **20 gp**.
 
-#### Useful Information
+##### Related Information
 
-* [Spell Scroll Item Description](../../data/items/spell_scroll)
-* [Crafting Scrolls](../../data/downtime_activities/scribe_scrolls)
+> * [Spell Scroll Item Description](../../data/items/spell_scroll)
+> * [Crafting Scrolls](../../data/downtime_activities/scribe_scrolls)

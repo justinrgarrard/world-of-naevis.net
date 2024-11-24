@@ -19,11 +19,11 @@ An adventurer's Strength score determines how many pounds they can shoulder with
 | 16       |     80 |          160 |      240 |
 | 18       |     90 |          180 |      270 |
 
-**Slowed**: Movement speed is reduced by 10 feet.
+##### Penalties
 
-**Disadvantage**: Movement speed is reduced by 20 feet, and rolls that depend on Strength, Dexterity, or Constitution are made at disadvantage.
-
-**Immobile**: You are unable to move.
+> * **Slowed**: Movement speed is reduced by 10 feet.
+> * **Disadvantage**: Movement speed is reduced by 20 feet, and rolls that depend on Strength, Dexterity, or Constitution are made at disadvantage.
+> * **Immobile**: You are unable to move.
 
 ##### Containers
 

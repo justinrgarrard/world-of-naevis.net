@@ -8,7 +8,7 @@ nav_order: 1
 
 # Elf
 
-Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawling nation that covers nearly all of the continent. Their society is rigidly stratified along bloodlines going back thousands of years.
+Navean elves belong to the [Elven Empire](../../lore/greenlands/elves), a sprawling nation that covers nearly all of the continent. They have an aptitude for weaponry, magic resistance, and agility.
 
 {: .language}
 > **Elven** is the language of enchanting. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls.

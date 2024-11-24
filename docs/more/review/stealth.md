@@ -12,7 +12,7 @@ grand_parent: More
 >
 > When a player attempts to enter stealth, the _Game Master_ rolls in their place, calculating the result without the player's knowledge.
 >
-> As a result, the player believes themselves to be hidden, but does not know how whether or not they've succeeded.
+> As a result, the player believes themselves to be hidden, but does not know whether or not they've succeeded.
 
 #### Hiding
 

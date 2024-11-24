@@ -8,7 +8,7 @@ nav_order: 4
 
 # Human
 
-Humans live in small kingdoms between the two great powers. The kings of men are pawns of Elves and Dwarves, their armies little more than game pieces in a larger continental struggle for supremacy.
+Humans live in small kingdoms between the two great powers. They have an aptitude for versatility.
 
 {: .language}
 > **Common**, the human tongue, is widely used as the language of trade and diplomacy. All characters are proficient in Common.

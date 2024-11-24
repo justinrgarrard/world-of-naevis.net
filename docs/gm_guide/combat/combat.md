@@ -17,6 +17,31 @@ In general, combat should not take longer than three rounds. By that time, whate
 
 > Tabletop games live and die by momentum. When the game is moving at a good pace, the table is full of energy and enjoyment. When the game drags on, players check their phones.
 
+##### How?
+
+> The contents of this section include several GM-facing tools for use in facilitating three round combats. They are optional, and can be used or discarded as the GM sees fit. 
+
+---
+
+#### Breaking Deadlocks
+
+When a fight hits the end of its third round, **introduce a complication**.
+
+{: .note}
+> **Example Complications**
+> 
+> | d4   | Complication                                                                                          |
+> | :--- | :---------------------------------------------------------------------------------------------------- |
+> | 1    | A much stronger third party, hostile to both sides, enters the fray and scatter the fight.            |
+> | 2    | A large terrain shift, such as impending floods or a cave-in, that disrupts the fight.                |
+> | 3    | A wand crackling with lightning is revealed shortly in the distance, changing combat into a footrace. |
+> | 4    | A band of fellow adventurers intervene on the party's behalf, moping up foes.                         |
+
+
+##### How Complications Work
+
+> A complication intentionally disrupts the back-and-forth of a fight by changing its objective. Continuing the fight becomes less meaningful than dealing with the new situation. In turn, this helps to keep players interested in the game.
+
 ---
 
 #### Simplified Enemies
@@ -53,42 +78,34 @@ In general, combat should not take longer than three rounds. By that time, whate
 >
 > The main benefit of this mechanic is increasing the lethality of fights. Less time is spent on attacks that deal 1 or 2 damage; instead, every hit becomes a meaningfully dangerous experience for players.
 
-##### Uncontested Rolls
+---
+
+#### Uncontested Rolls
+
+##### Concept
 
 > Most elements traditionally found on a creature's statblock can be replaced by the [Difficulty Class Ladder](../../more/review/difficulty_class).
+
+{: .note}
+> **Example: Spellcasting**
+> 
+> If a creature casts a spell, we do not need to know its spellcasting modifier. We can instead treat the spell as we would any other challenge. If the caster is weak, we set the check to DC 10 (Easy). If they are skilled, we set the check to DC 15 (Moderate). If the caster is a powerful mage, we set the check to DC 20 (Hard).
 >
-> For example, if a creature casts a spell, we do not need to know its spellcasting modifier. We can instead treat the spell as we would any other challenge. If the caster is weak, we set the check to DC 10 (Easy). If they are skilled, we set the check to DC 15 (Moderate).
->
-> The same applies to stealth. We do not need to know the creature's perception to determine if player character sneaks up on it. We simply treat it as a DC 10 check if the creature is unobservant, a DC 15 check it they are watchful, and a DC 20 if they are actively searching for hostiles.
+> **Example: Stealth**
+> 
+> We do not need to know the creature's perception score to determine if a player character sneaks up on it. We simply treat it as a DC 10 (Easy) check if the creature is unobservant, a DC 15 (Moderate) check it they are watchful, and a DC 20 (Hard) if they are actively searching.
 
 ---
 
-#### Breaking Deadlocks
 
-Even with changes to the way enemies are created, it is still possible to wind up in a fight that lasts for too many rounds. When that happens, it's important to **introduce a complication**.
-
-##### Example Complications
-
-| d4   | Complication                                                                                          |
-| :--- | :---------------------------------------------------------------------------------------------------- |
-| 1    | A much stronger third party, hostile to both sides, enters the fray and scatter the fight.            |
-| 2    | A large terrain shift, such as impending floods or a cave-in, that disrupts the fight.                |
-| 3    | A wand crackling with lightning is revealed shortly in the distance, changing combat into a footrace. |
-| 4    | A band of fellow adventurers intervene on the party's behalf, moping up foes.                         |
-
-
-##### How Complications Work
-
-> A complication intentionally disrupts the back-and-forth of a fight by changing its objective. Continuing the fight becomes less meaningful than dealing with the new situation. In turn, this helps to keep players interested in the game.
-
----
 
 #### Avoiding Combat
 
 In almost every situation, players should be given **one chance** to avoid an impending combat situation. Describe the orcs closing in before declaring initiative. Allow them to try their hand at a distraction, or diplomacy, or something else altogether. And if they fail, move into combat.
 
-##### Examples
-
+{: .note}
+> **Combat Alternative Examples**
+>
 > * **Orcs**: A character proficient in _Undercommon_ tries a Bluff check to convince the Orcs that weaker prey can be found just behind them.
 >
 > * **Goblin Sentries**: A character quietly makes their way in range and casts the _Sleep_ spell to put the goblins to sleep without causing noise.
