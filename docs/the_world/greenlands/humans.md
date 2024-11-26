@@ -2,22 +2,18 @@
 layout: default
 title: Humans
 parent: Greenlands
-grand_parent: Lore
+grand_parent: The World
 ---
 
 # Humans
 
 #### Overview
 
-> The Human Kingdoms are puppet states ostensibly ruled by human monarchs. In truth, every kingdom is vassal to either the Elven Empire or a Dwarven City-State. 
-
-#### Laborers
-
 > Humanity forms the base of every nation's workforce as the most numerous Kindred race. They serve as farmers, miners, soldiers, and occasionally craftsmen. They receive little education and have comparatively few rights, leading a considerable number to strike out as adventurers in the hopes of escaping poverty. 
 
 #### Servile Clans
 
-> Some humans live in clans dedicated to an influential family of Elves or Dwarves. Owing to differences in lifespan, several generations might serve the same lord as spies, wizards, elite warriors, or household staff. Descendants of these clans tend to be [unusually skilled](../../character_creation/race/human#variant) and make for powerful assets.
+> The most fortunate of humans live in clans dedicated to an influential family of Elves or Dwarves. Owing to differences in lifespan, several generations might serve the same lord as spies, wizards, elite warriors, or household staff. Descendants of these clans tend to be [unusually skilled](../../character_creation/race/human#variant).
 
 #### Dwarven Dissent
 
@@ -46,4 +42,4 @@ grand_parent: Lore
 >
 > * ***Stealthy***: Requires a DC 15 check to detect.
 > * ***Two Weapon Fighting***: Throws daggers with a bonus action.
-> * ***Silent Image***: Can cast the silent image spell twice per fight, creating swirling clouds of fog.
+> * ***Silent Image***: Can cast the silent image spell twice per day, creating swirling clouds of fog.

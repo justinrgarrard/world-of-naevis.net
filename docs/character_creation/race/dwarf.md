@@ -8,7 +8,7 @@ nav_order: 2
 
 # Dwarf
 
-Navean dwarves live in [city states](../../lore/greenlands/dwarves) dominated by individual clans. They have an aptitude for weaponry, alchemy, and hardiness.
+Navean dwarves live in [city states](../../lore/greenlands/dwarves) dominated by individual clans. They have an aptitude for weaponry, crafting, and hardiness.
 
 {: .language}
 > **Dwarven** is the language of industry. Nearly all schematics, blueprints, and architectural diagrams are written in Dwarven. Proficient characters receive a 20% discount when buying weapons and armor.

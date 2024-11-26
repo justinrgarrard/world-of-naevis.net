@@ -20,12 +20,12 @@ You came to the City in search of fortune and glory. You may be a sellsword, a t
 > Add +5 to your passive perception.
 
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Treasure Hunter's Spellbook**
-> 
-> Burning Hands, Comprehend Languages, Detect Magic, Identify, Shield, Sleep
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Burning Hands, Comprehend Languages, Detect Magic, Identify, Shield, Sleep*
 
 #### (Optional) Trait Tables
 

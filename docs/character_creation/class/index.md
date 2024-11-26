@@ -17,9 +17,9 @@ nav_order: 1
 * **[Wizards](wizard)** are trained arcanists with knowledge of many rituals.
 
 {: .note }
-> **Non-Basic Classes and Archetypes**
+> **Non-Basic Classes**
 > 
-> Classes and [Archetypes](../../more/archetypes/index) outside those provided in the _[Basic Rules](../../more/DnD_BasicRules_2018.pdf)_ are not supported by this setting.
+> Classes outside those provided in the _[Basic Rules](../../more/DnD_BasicRules_2018.pdf)_ are not supported by this setting.
 > 
-> Players interested in playing a Ranger, Paladin, or other class should consider making use of [multiclassing feats](../../more/feats/index) and playing a [variant human](../race/human#variant). Players looking for [alternative archetypes](../../more/archetypes/index#setting-archetypes) can examine the setting-specific options.
+> Players interested in playing a Ranger, Paladin, or other class should consider making use of [multiclassing feats](../../more/feats/index) and playing a [variant human](../race/human#variant). [Archetypes](../../more/archetypes/index) are discussed in their own section.
 

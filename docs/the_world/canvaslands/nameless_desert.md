@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Nameless Desert
-parent: Lore
+parent: Canvaslands
+grand_parent: The World
 ---
 
 # The Nameless Desert

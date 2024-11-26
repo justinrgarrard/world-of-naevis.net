@@ -2,7 +2,7 @@
 layout: default
 title: Halflings
 parent: Greenlands
-grand_parent: Lore
+grand_parent: The World
 ---
 
 # Halflings

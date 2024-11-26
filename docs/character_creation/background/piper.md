@@ -19,12 +19,12 @@ You came to the City to broker information. You are a member of the Piper's Guil
 > 
 > You can replicate the effects of the [*Minor Illusion*](../../../data/srd_spells/minor_illusion) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Piper's Spellbook**
-> 
-> Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Silent Image, Thunderwave
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Silent Image, Thunderwave*
 
 #### (Optional) Trait Tables
 

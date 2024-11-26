@@ -22,12 +22,12 @@ You came to the City to test your abilities against a true challenge. You may be
 > You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls. You cannot be surprised while awake.
 
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Warlord's Spellbook**
-> 
-> Burning Hands, Detect Magic, Magic Missile, Mage Armor, Shield, Thunderwave
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Burning Hands, Detect Magic, Magic Missile, Mage Armor, Shield, Thunderwave*
 
 #### (Optional) Trait Tables
 

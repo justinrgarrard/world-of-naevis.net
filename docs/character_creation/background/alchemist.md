@@ -21,12 +21,12 @@ You came to the City to be at the forefront of your art. You may approach alchem
 >
 > You can replicate the effects of the [*Poison Spray*](../../../data/srd_spells/poison_spray) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Alchemist's Spellbook**
-> 
-> Burning Hands, Charm Person, Comprehend Languages, Detect Magic, Identify, Sleep
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Burning Hands, Charm Person, Comprehend Languages, Detect Magic, Identify, Sleep*
 
 #### (Optional) Trait Tables
 

@@ -19,12 +19,12 @@ You came to the City at the behest of a greater power. Maybe a nation, a temple,
 > 
 > You can replicate the effects of the [*Thaumaturgy*](../../../data/srd_spells/thaumaturgy) cantrip. If you are a spellcaster, you learn the cantrip.
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Emissary's Spellbook**
-> 
-> Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Mage Armor, Silent Image
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Mage Armor, Silent Image*
 
 #### (Optional) Trait Tables
 

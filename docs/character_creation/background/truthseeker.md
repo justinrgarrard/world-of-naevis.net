@@ -19,12 +19,12 @@ You came to the City to understand its mysteries. You may be an archaeologist hu
 > 
 > You can replicate the effects of the [*Light*](../../../data/srd_spells/light) cantrip. If you are a spellcaster, you learn the cantrip and use your spellcasting ability to cast it. Otherwise, your spellcasting ability for this cantrip is Intelligence.
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Truthseeker's Spellbook**
-> 
-> Comprehend Languages, Detect Magic, Identify, Mage Armor, Silent Image, Sleep
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Comprehend Languages, Detect Magic, Identify, Mage Armor, Silent Image, Sleep*
 
 #### (Optional) Trait Tables
 

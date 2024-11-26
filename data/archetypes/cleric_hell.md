@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Hell Knight
+title: Demon Worshipper
 parent: Archetypes
 grand_parent: More
 nav_exclude: true
 ---
 
-# Cleric: Hell Knight
+# Cleric: Demon Worshipper
 
-_Hell Knights are clerics that draw their power from raw fury. They are at the forefront of revolutions and rebellions, riding the anger of bloodthirsty mobs. A few principled members seek out unjust systems to overturn, but most revel in destruction regardless of cause._
+_If a ghost is left uncleansed for years it will gradually fester into a demon, gaining flesh and terrible power. Exceptional demons may gather mortal servants around them, bestowing power upon favored minions through sinister rites._
 
 
-#### Hell Domain Spells
+#### Demon Domain Spells
 
 | Cleric Level |                        Spells |
 | :----------- | ----------------------------: |

@@ -22,12 +22,12 @@ You did not come to the City of your own free will. You were driven here, perhap
 > You gain proficiency in Constitution saves. If you already have proficiency, you gain proficiency in Dexterity or Wisdom saves instead.
 
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Exile's Spellbook**
-> 
-> Detect Magic, Disguise Self, Mage Armor, Magic Missile, Sleep, Thunderwave
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Detect Magic, Disguise Self, Mage Armor, Magic Missile, Sleep, Thunderwave*
 
 #### (Optional) Trait Tables
 

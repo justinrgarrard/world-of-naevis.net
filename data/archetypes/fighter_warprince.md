@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Fighter: Warprince
 
-_Warprinces are terrors on the battlefield, dancing between foes with lethal grace. Their approach to combat mixes weapon and unarmed strikes together._
+_Warprinces are terrors on the battlefield, dancing between foes with lethal grace. Their approach to combat mixes well-placed kicks with more traditional weapon attacks._
 
 #### Bonus Proficiencies
 When you choose this archetype at 3rd level, you gain proficiency in acrobatics. 
@@ -33,7 +33,7 @@ At 10th level, you learn two new techniques for striking down hordes of foes.
 
 * **Whirlwind Attack**: You can use your action to make a melee weapon attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-* **Steel Dervish**: You can use your action to make a melee weapon attack against any number of creatures in a 15 foot cone in front of you, with a separate attack roll for each target.
+* **Flurry of Blows**: When you use a bonus action to activate Unarmed Strike, you can make two attacks instead of one.
 
 
 #### Glancing Blows

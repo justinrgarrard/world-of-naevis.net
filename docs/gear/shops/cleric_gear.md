@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cleric Gear
-parent: Shops
+parent: General Shops
 grand_parent: Gear
 ---
 
@@ -14,7 +14,24 @@ grand_parent: Gear
 >
 > * Armor: Light armor, medium armor, [heavy armor](../../../data/archetypes/cleric_life), shields
 > * Weapons: All simple weapons
-> * Tools: Holy symbols, divine scrolls
+> * Tools: Holy symbols, spell scrolls
+>
+> **Starting Gear**
+> 
+> _Cleric's Pack (37 lb.)_ or 100 gp.
+> 
+> | Item                                         | Weight              | gp    |
+> | :------------------------------------------- | :------------------ | :---- |
+> | Mace                                         | 4 lb.               | 5 gp  |
+> | Shield                                       | 6 lb.               | 5 gp  |
+> | Studded Leather                              | 13 lb.              | 10 gp |
+> | Holy Amulet                                  | 1 lb.               | 10 gp |
+> | Pouch                                        | 1 lb. (1 / 6 lb.)   | 1 gp  |
+> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                              | 6 lb.               | 3 gp  |
+> | ...Spare Gold                                | -                   | 39 gp |
+
 
 #### General Goods
 
@@ -26,12 +43,12 @@ grand_parent: Gear
 
 #### Tools of the Trade
 
-| Item                            | Cost  | Weight |
-| :------------------------------ | :---- | :----- |
-| Holy symbol, amulet             | 10 gp | 1 lb.  |
-| Holy symbol, shield             | 15 gp | 6 lb.  |
-| Holy water                      | 25 gp | 1 lb.  |
-| [Scroll](../scrolls), 1st-level | 25 gp | 3 lb.  |
+| Item                    | Cost  | Weight |
+| :---------------------- | :---- | :----- |
+| Holy symbol, amulet     | 10 gp | 1 lb.  |
+| Holy symbol, shield     | 15 gp | 6 lb.  |
+| Holy water              | 25 gp | 1 lb.  |
+| Spell Scroll, 1st-level | 25 gp | 1 lb.  |
 
 #### Armor
 
@@ -44,11 +61,9 @@ grand_parent: Gear
 | Medium                   |                           |              |       |        |
 | ... Chain Shirt          | 13 + Dex modifier (max 2) | —            | 25 gp | 20 lb. |
 | ... Breastplate          | 14 + Dex modifier (max 2) | —            | 50 gp | 20 lb. |
-| ... Half Plate           | 15 + Dex modifier (max 2) | Disadvantage | 75 gp | 40 lb. |
 | Heavy                    |                           |              |       |        |
 | ... Ring Mail            | 14                        | Disadvantage | 25 gp | 40 lb. |
 | ... Chain Mail           | 16                        | Disadvantage | 50 gp | 55 lb. |
-| ... Plate                | 18                        | Disadvantage | 75 gp | 65 lb. |
 | Shield                   |                           |              |       |        |
 | ... Shield               | +2                        | —            | 5 gp  | 6 lb.  |
 | ... Shield (Holy Symbol) | +2                        | —            | 15 gp | 6 lb.  |
@@ -68,14 +83,3 @@ grand_parent: Gear
 | ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  |
 | ... Sling           | 1d4 piercing    | —      | 1 gp  |
 
-<!-- | Name                | Damage          | Weight | Price | Properties                                                  |
-| :------------------ | :-------------- | :----- | :---- | :---------------------------------------------------------- |
-| Blunt               |                 |        |       |                                                             |
-| ... Club            | 1d4 bludgeoning | 2 lb.  | 1 gp  | Light                                                       |
-| ... Mace            | 1d6 bludgeoning | 4 lb.  | 5 gp  | —                                                           |
-| ... Quarterstaff    | 1d6 bludgeoning | 4 lb.  | 1 gp  | Versatile (1d8), **wizard**                                 |
-| Ranged              |                 |        |       |                                                             |
-| ... Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                  |
-| ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard** |
-| ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                         |
-| ... Sling           | 1d4 piercing    | —      | 1 gp  | Ammunition, range (30/120), **wizard**                      | -->

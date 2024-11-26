@@ -11,35 +11,13 @@ nav_order: 1
 Clerics are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. 
 
 ##### Mystery Cults
-
 > Religion in Naevis is organized across countless organizations, each with their own particular beliefs and rituals. While some venerate deities, many are non-theistic, focusing instead on a school of philosophy or way of life.
 
 ##### Divine Magic
-
 > Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within and grows steadily stronger as they advance in skill. Their spellcasting tools are [talismans](../../../data/items/holy_symbol).
 
-{: .note}
-> **Domains**
->
-> Most clerics are tied to the [Life Domain](../../../data/archetypes/cleric_life), drawing on qi, aura, or divine grace to fuel their abilities. However, more [exotic domains](../../more/archetypes/index#setting-archetypes) may be used with permission from the Game Master.
-
-
-### Starting Gear
-
-_Cleric's Pack (37 lb.)_ or 100 gp.
-
-| Item                                         | Weight              | gp    |
-| :------------------------------------------- | :------------------ | :---- |
-| Mace                                         | 4 lb.               | 5 gp  |
-| Shield                                       | 6 lb.               | 5 gp  |
-| Studded Leather                              | 13 lb.              | 10 gp |
-| Holy Amulet                                  | 1 lb.               | 10 gp |
-| Pouch                                        | 1 lb. (1 / 6 lb.)   | 1 gp  |
-| ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
-| Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
-| ...Rations (x3)                              | 6 lb.               | 3 gp  |
-| ...Spare Gold                                | -                   | 39 gp |
-
+##### Life Energy
+> Most clerics are tied to the [Life Domain](../../../data/archetypes/cleric_life), describing their power as qi, aura, or divine grace. However, more [exotic domains](../../more/archetypes/index#setting-archetypes) exist on the fringes of society.
 
 ---
 
@@ -62,7 +40,19 @@ _Cleric's Pack (37 lb.)_ or 100 gp.
 >
 > **Equipment**
 >
-> * [Cleric's Pack](#starting-gear) or 100 gp
+> * _Cleric's Pack_ (37 lb.) or 100 gp. 
+> 
+> | Item                                         | Weight              | gp    |
+> | :------------------------------------------- | :------------------ | :---- |
+> | Mace                                         | 4 lb.               | 5 gp  |
+> | Shield                                       | 6 lb.               | 5 gp  |
+> | Studded Leather                              | 13 lb.              | 10 gp |
+> | Holy Amulet                                  | 1 lb.               | 10 gp |
+> | Pouch                                        | 1 lb. (1 / 6 lb.)   | 1 gp  |
+> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                              | 6 lb.               | 3 gp  |
+> | ...Spare Gold                                | -                   | 39 gp |
 
 #### Spellcasting
 

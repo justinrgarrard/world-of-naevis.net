@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fighter Gear
-parent: Shops
+parent: General Shops
 grand_parent: Gear
 ---
 
@@ -15,6 +15,25 @@ grand_parent: Gear
 > * Armor: All armor, shields
 > * Weapons: Simple weapons, martial weapons
 > * Tools: None
+>
+> **Starting Gear**
+> 
+> _Fighter's Pack (44 lb.)_ or 100 gp.
+> 
+> | Item                                         | Weight              | gp    |
+> | :------------------------------------------- | :------------------ | :---- |
+> | Longsword                                    | 3 lb.               | 10 gp |
+> | Longbow                                      | 2 lb.               | 10 gp |
+> | Shield                                       | 6 lb.               | 5 gp  |
+> | Studded Leather                              | 13 lb.              | 10 gp |
+> | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
+> | ...Arrows (20)                               | 1 lb.               | 1 gp  |
+> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | Backpack                                     | 5 lb. (12 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                              | 6 lb.               | 3 gp  |
+> | ...Tinderbox                                 | 1 lb.               | 1 gp  |
+> | ...Torches (x5)                              | 5 lb.               | 1 gp  |
+> | ...Spare Gold                                | -                   | 31 gp |
 
 #### General Goods
 
@@ -36,11 +55,9 @@ grand_parent: Gear
 | Medium              |                           |              |       |        |
 | ... Chain Shirt     | 13 + Dex modifier (max 2) | —            | 25 gp | 20 lb. |
 | ... Breastplate     | 14 + Dex modifier (max 2) | —            | 50 gp | 20 lb. |
-| ... Half Plate      | 15 + Dex modifier (max 2) | Disadvantage | 75 gp | 40 lb. |
 | Heavy               |                           |              |       |        |
 | ... Ring Mail       | 14                        | Disadvantage | 25 gp | 40 lb. |
 | ... Chain Mail      | 16                        | Disadvantage | 50 gp | 55 lb. |
-| ... Plate           | 18                        | Disadvantage | 75 gp | 65 lb. |
 | Shield              |                           |              |       |        |
 | ... Shield          | +2                        | —            | 5 gp  | 6 lb.  |
 
@@ -66,22 +83,3 @@ grand_parent: Gear
 | ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  |
 | ... Longbow         | 1d8 piercing    | 2 lb.  | 10 gp |
 
-
-<!-- | Name                | Damage          | Weight | Price | Properties                                                           |
-| :------------------ | :-------------- | :----- | :---- | :------------------------------------------------------------------- |
-| Finesse             |                 |        |       |                                                                      |
-| ... Dagger          | 1d4 piercing    | 1 lb.  | 1 gp  | Finesse, light, thrown (20/60), **wizard**                           |
-| ... Rapier          | 1d8 piercing    | 2 lb.  | 10 gp | Finesse, **martial**, **rogue**                                      |
-| Versatile           |                 |        |       |                                                                      |
-| ... Battleaxe       | 1d8 slashing    | 4 lb.  | 10 gp | Versatile (1d10), **martial**, **dwarf**                             |
-| ... Longsword       | 1d8 slashing    | 3 lb.  | 10 gp | Versatile (1d10), **martial**, **elf**, **rogue**                    |
-| ... Warhammer       | 1d8 bludgeoning | 2 lb.  | 10 gp | Versatile (1d10), **martial**, **dwarf**                             |
-| Heavy               |                 |        |       |                                                                      |
-| ... Greataxe        | 1d12 slashing   | 7 lb.  | 10 gp | Heavy, two-handed, **martial**                                       |
-| ... Greatsword      | 2d6 slashing    | 6 lb.  | 10 gp | Heavy, two-handed, **martial**                                       |
-| ... Halberd         | 1d10 slashing   | 6 lb.  | 10 gp | Heavy, reach, two-handed, **martial**                                |
-| Ranged              |                 |        |       |                                                                      |
-| ... Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                           |
-| ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard**          |
-| ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                                  |
-| ... Longbow         | 1d8 piercing    | 2 lb.  | 10 gp | Ammunition, range (150/600), heavy, two-handed, **martial**, **elf** | -->

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Canvaslands
-parent: Lore
+parent: The World
 has_children: true
 has_toc: false
 ---

@@ -11,35 +11,14 @@ nav_order: 2
 Fighters are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess. 
 
 ##### Martial Arts
-
 > Skill at arms is the bare minimum requirement for one to be a fighter. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also adopt or adapt a martial arts tradition, reflected in their [Fighting Style](#fighting-style) and [archetype](../../more/archetypes/index).
 
 ##### Honor
 > One's reputation and history of service take on a force of their own, though it need not be positive. Heroes and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 
 
-{: .note}
-> **Second Wind**
->
+##### Endurance
 > Fighters begin play with the [Second Wind](#second-wind) ability, which functions similarly to a rechargeable [potion of healing](../../../data/alchemics/potion_of_healing). This ability makes them the sturdiest of the four base classes, able to recover health even after their Hit Dice are expended.
 
-### Starting Gear
-
-_Fighter's Pack (44 lb.)_ or 100 gp.
-
-| Item                                         | Weight              | gp    |
-| :------------------------------------------- | :------------------ | :---- |
-| Longsword                                    | 3 lb.               | 10 gp |
-| Longbow                                      | 2 lb.               | 10 gp |
-| Shield                                       | 6 lb.               | 5 gp  |
-| Studded Leather                              | 13 lb.              | 10 gp |
-| Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
-| ...Arrows (20)                               | 1 lb.               | 1 gp  |
-| ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
-| Backpack                                     | 5 lb. (12 / 30 lb.) | 2 gp  |
-| ...Rations (x3)                              | 6 lb.               | 3 gp  |
-| ...Tinderbox                                 | 1 lb.               | 1 gp  |
-| ...Torches (x5)                              | 5 lb.               | 1 gp  |
-| ...Spare Gold                                | -                   | 31 gp |
 
 ---
 
@@ -62,7 +41,22 @@ _Fighter's Pack (44 lb.)_ or 100 gp.
 >
 > **Equipment**
 >
-> * [Fighter's Pack](#starting-gear) or 100 gp
+> * _Fighter's Pack (44 lb.)_ or 100 gp.
+> 
+> | Item                                         | Weight              | gp    |
+> | :------------------------------------------- | :------------------ | :---- |
+> | Longsword                                    | 3 lb.               | 10 gp |
+> | Longbow                                      | 2 lb.               | 10 gp |
+> | Shield                                       | 6 lb.               | 5 gp  |
+> | Studded Leather                              | 13 lb.              | 10 gp |
+> | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
+> | ...Arrows (20)                               | 1 lb.               | 1 gp  |
+> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | Backpack                                     | 5 lb. (12 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                              | 6 lb.               | 3 gp  |
+> | ...Tinderbox                                 | 1 lb.               | 1 gp  |
+> | ...Torches (x5)                              | 5 lb.               | 1 gp  |
+> | ...Spare Gold                                | -                   | 31 gp |
 
 #### Fighting Style
 

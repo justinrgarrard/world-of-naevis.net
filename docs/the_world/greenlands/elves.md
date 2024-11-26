@@ -2,7 +2,7 @@
 layout: default
 title: Elves
 parent: Greenlands
-grand_parent: Lore
+grand_parent: The World
 ---
 
 # Elves
@@ -11,9 +11,9 @@ grand_parent: Lore
 
 > Vast and sprawling, the Elven Empire dominates global politics as the singular greatest force known to Kindred. Its holdings span a collection of Elven and Human provinces that run from the Eastern end of the continent to the Western Mountains. The Ivory Emperor (3rd of her dynasty and 22nd to rule) is held up as *Steward of the World Itself*.
 
-#### Imperial Intrigue
+#### Mandate of Heaven
 
-> The inner courts of the Elven Empire are awash in sordid schemes. There are power-hungry eunuchs and machiavellian empress dowagers, religious schisms and clan wars, foul sorcery and bewitching alchemy. Elven plots are measured in centuries. Their inner workings are indecipherable to all but the most acute watchers.
+> The inner courts of the Elven Empire are awash in sordid schemes. There are power-hungry eunuchs and machiavellian empress dowagers, religious schisms and clan wars, foul sorcery and bewitching alchemy. Organizing it all is a belief that those who rule do so with the blessing of the gods. Should they be removed from power, then that too is the will of the divine.
 
 #### Bloodlines
 

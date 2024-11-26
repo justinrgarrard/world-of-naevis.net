@@ -10,4 +10,4 @@ nav_exclude: true
 
 A short blade that blurs strangely when swung.
  
-When attuned, this dagger reappears in the wielder's hand shortly after being thrown. If lost or discarded, it will reappear in the pack of whomever it is attuned to within 24 hours. 
+When attuned, this dagger reappears in the wielder's hand shortly after being thrown. If lost or discarded, it will reappear in the pack of whomever it is attuned to within 24 hours. It counts as a magical weapon for the purposes of bypassing damage resistance when attuned.

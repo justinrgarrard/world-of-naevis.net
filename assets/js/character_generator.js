@@ -17,12 +17,6 @@ ITEMS = {
   },
   backpack: { weight: 5, value: 2, title: "backpack", discount: "none" },
   battleaxe: { weight: 1, value: 10, title: "battleaxe", discount: "dwarven" },
-  boots_of_leaping: {
-    weight: 1,
-    value: 50,
-    title: "<i>boots of leaping</i>",
-    discount: "none",
-  },
   breastplate: {
     weight: 20,
     value: 50,
@@ -80,7 +74,7 @@ ITEMS = {
   marble_ring: {
     weight: 0,
     value: 50,
-    title: "<i>marble ring of force</i>",
+    title: "<i>marble ring</i>",
     discount: "none",
   },
   mist_dagger: {
@@ -290,7 +284,7 @@ const MAGE_KNIGHT = {
 };
 
 // Hill Dwarf
-const CRUSADER = {
+const AUGURES = {
   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -302,10 +296,10 @@ const CRUSADER = {
   resistances: [],
   skills: ["medicine", "history"],
   spells: ["bless", "cure wounds"],
-  title: "crusader",
+  title: "augures",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
-  writeup: "You are a Crusader, a warrior priest trained for the battlefield.",
+  writeup: "You are an Augures, a diviner and warrior priest.",
   races: ["hill dwarf"],
   inv_worn: [
     ITEMS.chainmail,
@@ -372,7 +366,7 @@ const TEMPLAR = {
   title: "templar",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple", "greatsword", "longsword"],
-  writeup: "You are a Templar, an ordained knight trained to slay monsters.",
+  writeup: "You are a Templar, an ordained knight blessed with divine power.",
   races: ["variant"],
   inv_worn: [
     ITEMS.chainmail,
@@ -547,7 +541,7 @@ const SPELLSWORD = {
 
 const CLASSES = {
   "mage knight": MAGE_KNIGHT,
-  crusader: CRUSADER,
+  augures: AUGURES,
   dungeoneer: DUNGEONEER,
   exorcist: EXORCIST,
   legionnaire: LEGIONNAIRE,
@@ -574,7 +568,7 @@ const MOUNTAIN_DWARF = {
   subrace: "mountain",
   tools: ["smith"],
   weapons: ["dwarf"],
-  writeup: "You are a dwarf from a well-respected clan.",
+  writeup: "You are an upper-class dwarf from a prestigious clan.",
   mv: 25,
 };
 
@@ -592,7 +586,7 @@ const HILL_DWARF = {
   subrace: "hill",
   tools: ["brewer"],
   weapons: ["dwarf"],
-  writeup: "You are a dwarf from a fallen clan.",
+  writeup: "You are a lower-class dwarf from a fallen clan.",
   mv: 25,
 };
 
@@ -610,7 +604,7 @@ const HIGH_ELF = {
   subrace: "high",
   tools: [],
   weapons: ["elf"],
-  writeup: "You are an elf of noble lineage.",
+  writeup: "You are an upper-class elf of distinguished lineage.",
   mv: 30,
 };
 
@@ -628,7 +622,7 @@ const WOOD_ELF = {
   subrace: "wood",
   tools: [],
   weapons: ["elf"],
-  writeup: "You are an elf of common birth.",
+  writeup: "You are a lower-class elf of common blood.",
   mv: 35,
 };
 
@@ -646,7 +640,7 @@ const STOUT_HALFLING = {
   subrace: "stout",
   tools: [],
   weapons: [],
-  writeup: "You are a halfling from a militant tribe of raiders and hunters.",
+  writeup: "You are a halfling born to a tribe of hunters.",
   mv: 25,
 };
 
@@ -664,7 +658,7 @@ const LIGHTFOOT_HALFLING = {
   subrace: "lightfoot",
   tools: [],
   weapons: [],
-  writeup: "You are a halfling from a tribe of merchants and peddlers.",
+  writeup: "You are a halfling born to a tribe of merchants.",
   mv: 25,
 };
 
@@ -682,7 +676,7 @@ const HUMAN = {
   subrace: "standard",
   tools: [],
   weapons: [],
-  writeup: "You are a human from the surrounding kingdoms.",
+  writeup: "You are a lower-class human of no particular heritage.",
   mv: 30,
 };
 
@@ -701,7 +695,7 @@ const VARIANT_HUMAN = {
   tools: [],
   weapons: [],
   writeup:
-    "You are a human of some distinction, such as a noble heir or rare prodigy.",
+    "You are an upper-class human from an influential family.",
   mv: 30,
 };
 
@@ -832,7 +826,7 @@ const PIPER = {
   ],
   ability_proficiencies: [],
   writeup:
-    "You came to the Forgotten City to make lucrative connections and impress the right people.",
+    "You came to the Forgotten City to make lucrative connections.",
 };
 
 const TREASURE_HUNTER = {
@@ -880,7 +874,7 @@ const TRUTHSEEKER = {
   ],
   ability_proficiencies: [],
   writeup:
-    "You came to the Forgotten City to write a book about the strange creatures living within.",
+    "You came to the Forgotten City to study the strange creatures living within.",
 };
 
 const WARLORD = {
@@ -1088,7 +1082,7 @@ function calculateSpellAttack(c, ability_scores) {
 
 function calculateNumberPreparedSpells(c, ability_scores) {
   if (c === "cleric") {
-    return Math.max(Math.floor((ability_scores["WIS"] - 10) / 2) + 1, 1);
+    return Math.max(Math.floor((ability_scores["WIS"] - 10) / 2) + 1, 1) + 2;
   } else {
     return Math.max(Math.floor((ability_scores["INT"] - 10) / 2) + 1, 1);
   }
@@ -1120,7 +1114,7 @@ function calculateCantrips(c, race, background) {
 
 function calculatePreparedSpells(c, ability_scores, spellbook, domain_spells) {
   // Determine the number of prepared spells.
-  const numPreparedSpells = calculateNumberPreparedSpells(c, ability_scores);
+  const numPreparedSpells = calculateNumberPreparedSpells(c.class, ability_scores);
 
   // If the character is a wizard...
   if (c.class === "wizard") {
@@ -1132,7 +1126,7 @@ function calculatePreparedSpells(c, ability_scores, spellbook, domain_spells) {
         wizard_prepared_spells.push(spell_to_add);
       }
     }
-    return wizard_prepared_spells.join(", ");
+    return wizard_prepared_spells.sort().join(", ");
   }
 
   // If the character is a cleric...
@@ -1144,12 +1138,12 @@ function calculatePreparedSpells(c, ability_scores, spellbook, domain_spells) {
     }
 
     // Randomly select additional spells from the cleric list until full.
-    while (cleric_prepared_spells.length < numPreparedSpells + 2) {
+    while (cleric_prepared_spells.length < numPreparedSpells) {
       const spell_to_add = randomEntry(CLERIC_SPELLS);
       if (!cleric_prepared_spells.includes(spell_to_add))
         cleric_prepared_spells.push(spell_to_add);
     }
-    return cleric_prepared_spells.join(", ");
+    return cleric_prepared_spells.sort().join(", ");
   }
 
   // Otherwise, return an empty string.
@@ -1578,7 +1572,6 @@ function generateCharacter() {
 
   // Assemble the components.
   const character_sheet = `
-    <blockquote>
     ${overview}
         ${description}
             <div class="table-wrapper">
@@ -1604,7 +1597,6 @@ function generateCharacter() {
                 </tbody>
               </table>
             </div>
-    </blockquote>
     `;
   return character_sheet;
 }
