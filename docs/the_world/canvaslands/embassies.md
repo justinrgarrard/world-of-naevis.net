@@ -2,7 +2,7 @@
 layout: default
 title: Embassies
 parent: Canvaslands
-grand_parent: Lore
+grand_parent: The World
 ---
 
 # Embassies

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Alchemy
+title: Craft Alchemic
 parent: Downtime
 grand_parent: Adventuring
 nav_exclude: true
 ---
 
 
-# Alchemy
+# Craft Alchemic
 
 Using an appropriate tool, create [alchemics](../../docs/gear/alchemics). The number of items you create is equal to: **(Intelligence Modifier + 1)**, minimum 1. 
 

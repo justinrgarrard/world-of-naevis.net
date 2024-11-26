@@ -19,12 +19,12 @@ You came to the City out of curiosity. You are a wanderer, perhaps a knight erra
 > 
 > You gain proficiency in Dexterity saves. If you already have proficiency, you gain proficiency in Strength or Wisdom saves instead.
 
-#### (Optional) Starting Wizard Spells
-
 {: .background-spells}
-> **Nomad's Spellbook**
-> 
-> Burning Hands, Comprehend Languages, Detect Magic, Silent Image, Shield, Sleep
+> **Spellbook**
+>
+> If you are a wizard, you start with the following spells in your spellbook:
+>
+> *Burning Hands, Comprehend Languages, Detect Magic, Silent Image, Shield, Sleep*
 
 #### (Optional) Trait Tables
 

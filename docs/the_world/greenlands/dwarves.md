@@ -2,7 +2,7 @@
 layout: default
 title: Dwarves
 parent: Greenlands
-grand_parent: Lore
+grand_parent: The World
 ---
 
 # Dwarves

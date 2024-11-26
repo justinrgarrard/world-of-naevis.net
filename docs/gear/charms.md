@@ -9,19 +9,19 @@ has_toc: false
 
 # Charms
 
-Charms are magical tools crafted from materials found within the City. Charms can be **purchased for 50 gp** and sold for half that amount.
+Charms can be **purchased for 50 gp** and sold for half that amount.
 
 {: .note}
 > **Charisma-Based**
 >
-> Most charms require [attunement](../adventuring/attunement) to use and benefit from a high Charisma score. 
+> Most charms require [attunement](../adventuring/attunement) to use and benefit from a high Charisma score. The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**, minimum 1.
 
 #### Listings
 
-| Name                                                                |                                                                                 |
-| :------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| [Ash Wand](../../data/magic_items/ash_wand)                         | [Boots of Leaping](../../data/magic_items/boots_of_leaping)                     |
-| [Compliant Rod](../../data/magic_items/compliant_rod)               | [Glass Gems of Lightbending](../../data/magic_items/glass_gems_of_lightbending) |
-| [Marble Ring of Force](../../data/magic_items/marble_ring_of_force) | [Mist Dagger](../../data/magic_items/mist_dagger)                               |
-| [Mythril Longsword](../../data/magic_items/mythril_longsword)       | [Volt Staff](../../data/magic_items/volt_staff)                                 |
-| [Black Hammer](../../data/magic_items/black_hammer)                 | [Witchbone Ring](../../data/magic_items/witchbone_ring)                         |
+| Name                                                    |                                                               |
+| :------------------------------------------------------ | :------------------------------------------------------------ |
+| [Ash Wand](../../data/magic_items/ash_wand)             | [Black Hammer](../../data/magic_items/black_hammer)           |
+| [Bluesteel Ring](../../data/magic_items/bluesteel_ring) | [Compliant Rod](../../data/magic_items/compliant_rod)         |
+| [Glass Ring](../../data/magic_items/glass_ring)         | [Marble Ring](../../data/magic_items/marble_ring)             |
+| [Mist Dagger](../../data/magic_items/mist_dagger)       | [Mythril Longsword](../../data/magic_items/mythril_longsword) |
+| [Volt Staff](../../data/magic_items/volt_staff)         | [Witchbone Ring](../../data/magic_items/witchbone_ring)       |

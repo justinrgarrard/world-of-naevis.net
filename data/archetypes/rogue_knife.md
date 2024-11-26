@@ -29,9 +29,9 @@ At 3rd level, you learn to modify your Sneak Attacks, trading greater harm for d
 #### Trick Shots
 Starting at 9th level, you learn new techniques for throwing weapons.
 
-* **Fan of Knives**: You can use your action to make a throwing weapon attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+* **Volley**: You can use your action to make a throwing weapon attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
-* **Flurry of Knives**: When you use a bonus action to activate Two-Weapon Fighting, you can make two attacks instead of one.
+* **Fan of Knives**: You can use your action to make a throwing weapon attack against any number of creatures in a 15 foot cone in front of you, with a separate attack roll for each target. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. Attacks made against creatures in melee range do not suffer from disadvantage.
 
 
 #### Reliable Marksmanship

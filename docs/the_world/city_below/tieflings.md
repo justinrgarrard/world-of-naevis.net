@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tieflings
-parent: City Dwellers
-grand_parent: Lore
+parent: City Below
+grand_parent: The World
 nav_order: 0
 ---
 

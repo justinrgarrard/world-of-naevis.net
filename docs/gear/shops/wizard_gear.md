@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wizard Gear
-parent: Shops
+parent: General Shops
 grand_parent: Gear
 ---
 
@@ -14,7 +14,23 @@ grand_parent: Gear
 >
 > * Armor: None
 > * Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
-> * Tools: Wands, spellbooks, arcane scrolls
+> * Tools: Wands, spellbooks, spell scrolls
+>
+> **Starting Gear**
+> 
+> _Wizard's Pack (22 lb.)_ or 100 gp.
+> 
+> | Item                                     | Weight             | gp    |
+> | :--------------------------------------- | :----------------- | :---- |
+> | Dagger                                   | 1 lb.              | 1 gp  |
+> | Robes                                    | 4 lb.              | 1 gp  |
+> | Wand                                     | 1 lb.              | 10 gp |
+> | Pouch                                    | 1 lb. (1 / 6 lb.)  | 1 gp  |
+> | ...[Scroll of Sleep](../../gear/scrolls) | 1 lb.              | 25 gp |
+> | Backpack                                 | 5 lb. (9 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                          | 6 lb.              | 3 gp  |
+> | ...Spellbook                             | 3 lb.              | 25 gp |
+> | ...Spare Gold                            | -                  | 27 gp |
 
 #### General Goods
 
@@ -26,12 +42,12 @@ grand_parent: Gear
 
 #### Tools of the Trade
 
-| Item                            | Cost   | Weight |
-| :------------------------------ | :----- | :----- |
-| Arcane focus, wand              | 10 gp. | 1 lb.  |
-| Glass pearl                     | 25 gp  | -      |
-| Spellbook (blank, 100 pages)    | 25 gp  | 3 lb.  |
-| [Scroll](../scrolls), 1st-level | 25 gp  | 3 lb.  |
+| Item                         | Cost   | Weight |
+| :--------------------------- | :----- | :----- |
+| Arcane focus, wand           | 10 gp. | 1 lb.  |
+| Glass pearl                  | 25 gp  | -      |
+| Spellbook (blank, 100 pages) | 25 gp  | 3 lb.  |
+| Spell Scroll, 1st-level      | 25 gp  | 1 lb.  |
 
 #### Armor
 
@@ -52,15 +68,3 @@ grand_parent: Gear
 | ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  |
 | ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  |
 | ... Sling           | 1d4 piercing    | —      | 1 gp  |
-
-<!-- | Name                | Damage          | Weight | Price | Properties                                                  |
-| :------------------ | :-------------- | :----- | :---- | :---------------------------------------------------------- |
-| Simple              |                 |        |       |                                                             |
-| ... Dagger          | 1d4 piercing    | 1 lb.  | 1 gp  | Finesse, light, thrown (20/60), **wizard**                  |
-| ... Quarterstaff    | 1d6 bludgeoning | 4 lb.  | 1 gp  | Versatile (1d8), **wizard**                                 |
-| Ranged              |                 |        |       |                                                             |
-| ... Ammunition (20) | —               | 1 lb.  | 1 gp  | Ammunition                                                  |
-| ... Crossbow, light | 1d8 piercing    | 5 lb.  | 5 gp  | Ammunition, range (80/320), loading, two-handed, **wizard** |
-| ... Dart (20)       | 1d4 piercing    | 5 lb.  | 1 gp  | Finesse, thrown (20/60), **wizard**                         |
-| ... Sling           | 1d4 piercing    | —      | 1 gp  | Ammunition, range (30/120), **wizard**                      |
- -->

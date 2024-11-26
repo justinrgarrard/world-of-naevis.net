@@ -23,7 +23,7 @@ At 3rd level, your extensive training allows you to take a bonus action on each 
 
 * **Cleave**: Make an additional weapon attack against a creature within 5 feet of the target.
 
-* **Repel**: Move the target 10 feet away from you in a straight line.
+* **Smite**: Increase the damage of the attack by your proficiency bonus.
 
 * **Addle**: Take away the target's reaction until the start of their next turn.
 

@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Winter Witch
 
-_Winter is an ancient and august order that predates Navean wizardry. Practitioners draw power by binding primal energies through esoteric rites. Though similar in some respects to arcane magic, the Winter tradition has no roots in academic practice, its devotees preferring moonlit sacrifices over tidy notebooks._
+_Winter is an ancient order that draws their power from primal sorcery. Their initiation rites are rumored to involve moonlit sacrifices over bloodstained altars, with power drawn from the moment of death. Navean Wizardry is said to have been derived from these Old Ways and softened for use by those with faint hearts._
 
 
 #### Winter Domain Spells

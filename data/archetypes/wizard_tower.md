@@ -8,22 +8,22 @@ nav_exclude: true
 
 # Wizard: Tower Mage
 
-_Tower Mages are recluses that practice their arts in isolation. They may be magic craftsmen, arcane theorists, ward carvers, or others whose spellcasting requires exceptional technique and efficiency._
+_Tower Mages are wizards who devote themselves to understanding the fundamental mechanics of magic. They are able to cast cantrips more efficiently and more flexibly than other mages. Many fund their research by operating scroll scribing ateliers._
 
 
-#### Weave Glamour
-
-When you take this archetype at 2nd level, you gain the ability to cast [Silent Image](../srd_spells/detect_magic) at-will. You do not need to prepare it or expend a spell slot when casting it.
-
-
-#### Subtle Cantrip
+#### Subtle Cast
 
 Beginning at 2nd level, when you cast a cantrip, you can do so without any verbal or somatic components.
 
 
 #### Quick Cast
 
-At 6th level, you can cast a cantrip or spell that normally requires an action by using a bonus action. You must take a short or long rest before using this feature again.
+At 2nd level, you can cast a cantrip that normally requires an action by using a bonus action. You must take a short or long rest before using this feature again.
+
+
+#### Fundamentals
+
+At 6th level, you learn two additional wizard cantrips.
 
 
 #### Pocket Cast

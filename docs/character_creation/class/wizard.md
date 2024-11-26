@@ -15,32 +15,11 @@ Wizards are adventurers trained in the practice of arcane spellcasting. Most com
 > 
 > In less "civilized" parts of the world, wizardry may be taught through apprenticeship. This is prevalent among tribal shamans, village witches, and other rural traditions.
 
-
 ##### Arcane Magic
 > Navean wizards draw ambient energy from ley lines under the earth using a [wand](../../../data/items/arcane_focus), then shape the energy into spells. A wizard can handle energy more skillfully as they advance in level.
 
-{: .note}
-> **Spellbooks and Rituals**
->
+##### Spellbooks
 > A Navean wizard's selection of spells is typically determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards charms and illusions, while a [Warlord's](../background/warlord) will focus on combat magic. 
->
-> Regardless of background, wizards are particularly talented at ritual casting. They can cast certain spells (like [Detect Magic](../../../data/srd_spells/detect_magic)) without expending a spell slot or preparing the spell, so long as it is in their spellbook.
-
-### Starting Gear
-
-_Wizard's Pack (22 lb.)_ or 100 gp.
-
-| Item                                     | Weight             | gp    |
-| :--------------------------------------- | :----------------- | :---- |
-| Dagger                                   | 1 lb.              | 1 gp  |
-| Robes                                    | 4 lb.              | 1 gp  |
-| Wand                                     | 1 lb.              | 10 gp |
-| Pouch                                    | 1 lb. (1 / 6 lb.)  | 1 gp  |
-| ...[Scroll of Sleep](../../gear/scrolls) | 1 lb.              | 25 gp |
-| Backpack                                 | 5 lb. (9 / 30 lb.) | 2 gp  |
-| ...Rations (x3)                          | 6 lb.              | 3 gp  |
-| ...Spellbook                             | 3 lb.              | 25 gp |
-| ...Spare Gold                            | -                  | 27 gp |
 
 ---
 
@@ -63,7 +42,19 @@ _Wizard's Pack (22 lb.)_ or 100 gp.
 >
 > **Equipment**
 >
-> * [Wizard's Pack](#starting-gear) or 100 gp
+> * _Wizard's Pack (22 lb.)_ or 100 gp.
+> 
+> | Item                                     | Weight             | gp    |
+> | :--------------------------------------- | :----------------- | :---- |
+> | Dagger                                   | 1 lb.              | 1 gp  |
+> | Robes                                    | 4 lb.              | 1 gp  |
+> | Wand                                     | 1 lb.              | 10 gp |
+> | Pouch                                    | 1 lb. (1 / 6 lb.)  | 1 gp  |
+> | ...[Scroll of Sleep](../../gear/scrolls) | 1 lb.              | 25 gp |
+> | Backpack                                 | 5 lb. (9 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                          | 6 lb.              | 3 gp  |
+> | ...Spellbook                             | 3 lb.              | 25 gp |
+> | ...Spare Gold                            | -                  | 27 gp |
 
 #### Spellcasting
 

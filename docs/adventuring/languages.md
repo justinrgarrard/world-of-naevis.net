@@ -28,7 +28,7 @@ has_toc: false
 {: .exotic-language}
 > **Abyssal (Grave Speech)**
 > 
-> The secret language of the dead. Proficiency allows the user to commune with zombies, skeletons, ghosts, and other creatures returned from the grave. [Hell Knights](../../data/archetypes/cleric_hell) use this language when casting spells.
+> The secret language of the dead. Proficiency allows the user to commune with zombies, skeletons, ghosts, and other creatures returned from the grave. [Demon Worshippers](../../data/archetypes/cleric_hell) use this language when casting spells.
 
 ##### **Sylvan**
 
