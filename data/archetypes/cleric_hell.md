@@ -23,7 +23,7 @@ _If a ghost is left uncleansed for years it will gradually fester into a demon, 
 
 #### Knight of Hell
 
-At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../../docs/adventuring/languages#abyssal) language.
+At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../../docs/adventuring/mechanics/languages#abyssal) language.
 
 #### Reap
 

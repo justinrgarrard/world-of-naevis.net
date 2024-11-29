@@ -299,7 +299,7 @@ const AUGURES = {
   title: "augures",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
-  writeup: "You are an Augures, a diviner and warrior priest.",
+  writeup: "You are an Augures, a seer and warrior priest.",
   races: ["hill dwarf"],
   inv_worn: [
     ITEMS.chainmail,
@@ -330,7 +330,7 @@ const EXORCIST = {
   title: "exorcist",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
-  writeup: "You are an Exorcist, a specialist in hunting unholy creatures.",
+  writeup: "You are an Exorcist, a specialist in laying the dead to rest.",
   races: ["wood elf"],
   inv_worn: [
     ITEMS.studded_leather,
@@ -834,11 +834,11 @@ const TREASURE_HUNTER = {
   "cleric cantrips": ["guidance", "light", "resistance"],
   expertise: [],
   features: ["read the room"],
-  languages: [],
+  languages: ["undercommon"],
   resistances: [],
   skills: ["perception", "insight"],
   title: "treasure hunter",
-  tools: ["thieves'", "tinker"],
+  tools: ["thieves'"],
   "wizard cantrips": ["mage hand", "fire bolt", "light"],
   "wizard spellbook": [
     "burning hands",

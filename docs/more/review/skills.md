@@ -30,6 +30,6 @@ Skills are niche specialties that are commonly called upon while adventuring. Ha
 |                  | Performance     |
 
 {: .note}
-> **Fighter's Honor**
+> **Fighter's Reputation**
 >
 > Fighters can use _Persuasion_ and _Intimidation_ with their Strength modifier, instead of their Charisma modifier.

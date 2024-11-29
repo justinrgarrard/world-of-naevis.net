@@ -24,8 +24,9 @@ a {
     font-weight: normal;
 }
 
-b {
-    font-weight: 900
+b, strong {
+    // font-weight: 900;
+    font-family: "Aref Ruqaa Ink";
 }
 
 // Override header settings. //////////////////////////////////////////////////
@@ -42,7 +43,14 @@ h4,
 }
 
 h5 {
+    @include fs-4;
     font-weight: bold;
+}
+
+.note, .language, .exotic-language {
+    h5 {
+        margin-top: 0;
+    }
 }
 
 // Override text sizes. ///////////////////////////////////////////////////////

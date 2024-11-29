@@ -8,11 +8,11 @@ nav_order: 2
 
 # Emissary
 
-You came to the City at the behest of a greater power. Maybe a nation, a temple, or a powerful noble. You are specialist in the arts of diplomacy.
+You came to the City at the behest of a greater power. You may be a knight representing your nation, a priest evangelizing your cult, or fulfill some other semi-official ambassadorial role. You have training the arts of diplomacy.
 
 **[Skill Proficiency](../../more/review/skills)**: Persuasion, Deception
 
-**[Language Proficiency](../../adventuring/languages)**: Two [Racial](../../adventuring/languages#racial-languages) Languages
+**[Language Proficiency](../../adventuring/mechanics/languages)**: Two Racial Languages
 
 {: .background-feature}
 > **Herald**

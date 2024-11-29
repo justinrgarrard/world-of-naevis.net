@@ -24,7 +24,7 @@ _Winter is an ancient order that draws their power from primal sorcery. Their in
 
 #### Winter's Touch 
 
-At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../../docs/adventuring/languages#sylvan) language.
+At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../../docs/adventuring/mechanics/languages#sylvan) language.
 
 
 #### Frost Sorcery

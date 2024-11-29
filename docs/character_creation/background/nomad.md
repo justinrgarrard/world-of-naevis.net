@@ -8,11 +8,11 @@ nav_order: 4
 
 # Nomad
 
-You came to the City out of curiosity. You are a wanderer, perhaps a knight errant or an urchin with no homeland, seeking out adventure in unexplored lands. 
+You came to the City out of curiosity. You are a wanderer, perhaps a knight errant or a mystic hermit, seeking out adventure in unexplored lands. You know something of fieldcraft and may carry an instrument to wile away sleepless nights spend in dangerous places.
 
 **[Skill Proficiency](../../more/review/skills)**: Athletics, Survival
 
-**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Instrument, Herbalist
+**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Instruments, Herbalist
 
 {: .background-feature}
 > **Wary**

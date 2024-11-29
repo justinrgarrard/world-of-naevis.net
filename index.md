@@ -10,7 +10,7 @@ has_toc: false
 
 #### What is Naevis?
 
-Naevis is a low fantasy setting for **[Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd)**. Players take on the role of adventurers exploring an otherworldly ruin, one filled with underground civilizations, dark gods, and sentient swords. 
+Naevis is a low fantasy setting for [Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd). Players take on the role of adventurers exploring an otherworldly ruin, one filled with underground civilizations, dark gods, and sentient swords. 
 
 
 #### Highlights

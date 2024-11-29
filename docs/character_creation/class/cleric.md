@@ -40,7 +40,7 @@ Clerics are initiates into one of Naevis' many mystery cults. As part of their i
 >
 > **Equipment**
 >
-> * _Cleric's Pack_ (37 lb.) or 100 gp. 
+> * _Cleric's Pack (38 lb.)_ or 100 gp.
 > 
 > | Item                                         | Weight              | gp    |
 > | :------------------------------------------- | :------------------ | :---- |
@@ -48,11 +48,12 @@ Clerics are initiates into one of Naevis' many mystery cults. As part of their i
 > | Shield                                       | 6 lb.               | 5 gp  |
 > | Studded Leather                              | 13 lb.              | 10 gp |
 > | Holy Amulet                                  | 1 lb.               | 10 gp |
-> | Pouch                                        | 1 lb. (1 / 6 lb.)   | 1 gp  |
-> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
+> | ...[Potion of Healing](../../character_creation/equipment/alchemics) | 1 lb.               | 25 gp |
+> | ...[Scroll of Bless](../../../data/items/spell_scroll)     | 1 lb.               | 25 gp |
 > | Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                              | 6 lb.               | 3 gp  |
-> | ...Spare Gold                                | -                   | 39 gp |
+> | ...Spare Gold                                | -                   | 14 gp |
 
 #### Spellcasting
 
