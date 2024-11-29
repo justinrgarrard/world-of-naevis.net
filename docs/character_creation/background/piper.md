@@ -8,11 +8,11 @@ nav_order: 5
 
 # Piper
 
-You came to the City to broker information. You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities.
+You came to the City to broker information. You are a member of the Piper's Guild, a loose collective of traveling illusionists that carries news and entertainment between cities, and your fate hinges on being able to establish a network of reliable contacts in this forsaken land.
 
 **[Skill Proficiency](../../more/review/skills)**: Sleight of Hand, Performance
 
-**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: Instrument, Tinker
+**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Instruments, Tinker
 
 {: .background-feature}
 > **Stage Magic**

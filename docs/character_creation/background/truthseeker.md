@@ -8,11 +8,11 @@ nav_order: 7
 
 # Truthseeker
 
-You came to the City to understand its mysteries. You may be an archaeologist hunting knowledge, a mage seeking new magic to make your own, or something else entirely. You are a specialist in [City Dweller](../../lore/city_dwellers/index) languages.
+You came to the City to understand its mysteries. You may be an archaeologist hunting knowledge, a mage seeking new magic to make your own, or a spy sent to scout out a dangerous new land. You are a specialist in City Dweller languages.
 
 **[Skill Proficiency](../../more/review/skills)**: Arcana, History
 
-**[Language Proficiency](../../adventuring/languages)**: Undercommon and Infernal
+**[Language Proficiency](../../adventuring/mechanics/languages)**: Undercommon and Infernal
 
 {: .background-feature}
 > **Illuminate**

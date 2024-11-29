@@ -4,7 +4,7 @@ title: Ability Scores
 parent: Character Creation
 has_children: false
 has_toc: false
-nav_order: 4
+nav_order: 5
 ---
 
 # Ability Scores
@@ -15,12 +15,12 @@ The standard array consists of six values: 15, 14, 13, 12, 10, 8. These are assi
 
 | Ability                                                | Value | High Elf Bonus | Total |
 | :----------------------------------------------------- | :---- | :------------- | :---- |
-| [Strength](../adventuring/encumbrance)                 | 10    | +0             | 10    |
+| [Strength](../adventuring/mechanics/encumbrance)       | 10    | +0             | 10    |
 | Dexterity                                              | 14    | +2             | 16    |
 | Constitution                                           | 12    | +0             | 12    |
-| [Intelligence](../../data/downtime_activities/alchemy) | 15    | +1             | 16    |
-| [Wisdom](../more/awareness)                            | 08    | +0             | 08    |
-| [Charisma](../adventuring/attunement)                  | 13    | +0             | 13    |
+| [Intelligence](../adventuring/downtime/alchemy) | 15    | +1             | 16    |
+| [Wisdom](../adventuring/strategy/awareness)            | 08    | +0             | 08    |
+| [Charisma](../adventuring/mechanics/attunement)        | 13    | +0             | 13    |
 
 {: .note}
 > **Other Methods**

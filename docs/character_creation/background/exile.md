@@ -12,9 +12,9 @@ You did not come to the City of your own free will. You were driven here, perhap
 
 **[Skill Proficiency](../../more/review/skills)**: Stealth, Survival
 
-**[Language Proficiency](../../adventuring/languages)**: Cant or One [Racial](../../adventuring/languages#racial-languages) Language
+**[Language Proficiency](../../adventuring/mechanics/languages)**: Cant or One Racial Language
 
-**[Tool Proficiency](../../../data/downtime_activities/alchemy)**: One Alchemy Tool
+**[Tool Proficiency](../../adventuring/downtime/alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **Survivor**

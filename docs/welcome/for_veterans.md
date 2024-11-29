@@ -25,7 +25,7 @@ parent: Welcome
 
 ##### Dungeon Crawling Aids
 
-> Prepping and running a session is easier in Naevis. Rules for [creating dungeons](../gm_guide/dungeons/dungeons), [running short combats](../gm_guide/combat/combat), and [handling resting](../adventuring/resting) are introduced to keep the game moving at a good pace with modest effort.
+> Prepping and running a session is easier in Naevis. Rules for [creating dungeons](../gm_guide/toolbox/dungeons/index), [running short combats](../gm_guide/toolbox/combat/index), and [handling resting](../adventuring/mechanics/resting) are introduced to keep the game moving at a good pace with modest effort.
 
 ##### Cognitive Load
 
@@ -39,26 +39,23 @@ parent: Welcome
 
 > * Classes are limited to Fighter, Cleric, Rogue, and Wizard. 
 > * Races are limited to Human, Dwarf, Elf, and Halfling.
-> * [Spell Lists](../more/spells/index) are narrowed to those in the Basic Rules.
+> * Spell Lists are narrowed to those in the Basic Rules.
 > * [Archetypes](../more/archetypes/index) are limited to the Basic Rules and setting-specific options.
 > * Multiclassing requires a special [feat](../more/feats/index).
 
 ##### Inventory Management
 
-> * [Variant Encumbrance](../adventuring/encumbrance) is in effect.
-> * [Adventuring Gear](../more/items/index) has prices that round to the nearest gp.
-> * [Resting](../adventuring/resting) consumes rations.
+> * [Variant Encumbrance](../adventuring/mechanics/encumbrance) is in effect.
+> * [Adventuring Gear](../character_creation/equipment/index) has prices that round to the nearest gp.
+> * [Resting](../adventuring/mechanics/resting) consumes rations.
 > * *Uncommon* magic items are harder to find. 
 > * Dimensional storage items, such as Bags of Holding, do not exist.
-> * The number of items that can be attuned is [determined by Charisma](../adventuring/attunement). 
+> * The number of items that can be attuned is [determined by Charisma](../adventuring/mechanics/attunement). 
 
 ##### Downtime, Tools, and More
 
 > * [Downtime](../adventuring/downtime) has been overhauled.
 > * [Lifestyle Expenses](../adventuring/downtime#lifestyle-expenses) have been simplified.
-> * Tools unlock new downtime options related to [alchemy](../../data/downtime_activities/alchemy).
-> * The number of [languages](../adventuring/languages) has been reduced and their applications more focused.
+> * Tools unlock new downtime options related to [alchemy](../adventuring/downtime/alchemy).
+> * The number of [languages](../adventuring/mechanics/languages) has been reduced and their applications more focused.
 
-<!-- and that players don't need a search engine to remember their character's abilities -->
-
-<!-- It also means that [Quickstart](../character_creation/index#quickstart) characters can stand on the same playing field as optimized characters. -->

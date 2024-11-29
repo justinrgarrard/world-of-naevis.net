@@ -42,19 +42,20 @@ Wizards are adventurers trained in the practice of arcane spellcasting. Most com
 >
 > **Equipment**
 >
-> * _Wizard's Pack (22 lb.)_ or 100 gp.
+> * _Wizard's Pack (23 lb.)_ or 100 gp.
 > 
-> | Item                                     | Weight             | gp    |
-> | :--------------------------------------- | :----------------- | :---- |
-> | Dagger                                   | 1 lb.              | 1 gp  |
-> | Robes                                    | 4 lb.              | 1 gp  |
-> | Wand                                     | 1 lb.              | 10 gp |
-> | Pouch                                    | 1 lb. (1 / 6 lb.)  | 1 gp  |
-> | ...[Scroll of Sleep](../../gear/scrolls) | 1 lb.              | 25 gp |
-> | Backpack                                 | 5 lb. (9 / 30 lb.) | 2 gp  |
-> | ...Rations (x3)                          | 6 lb.              | 3 gp  |
-> | ...Spellbook                             | 3 lb.              | 25 gp |
-> | ...Spare Gold                            | -                  | 27 gp |
+> | Item                                             | Weight             | gp    |
+> | :----------------------------------------------- | :----------------- | :---- |
+> | Dagger                                           | 1 lb.              | 1 gp  |
+> | Robes                                            | 4 lb.              | 1 gp  |
+> | Wand                                             | 1 lb.              | 10 gp |
+> | Pouch                                            | 1 lb. (2 / 6 lb.)  | 1 gp  |
+> | ...[Scroll of Sleep](../../../data/items/spell_scroll)         | 1 lb.              | 25 gp |
+> | ...[Scroll of Magic Missile](../../../data/items/spell_scroll) | 1 lb.              | 25 gp |
+> | Backpack                                         | 5 lb. (9 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                                  | 6 lb.              | 3 gp  |
+> | ...Spellbook                                     | 3 lb.              | 25 gp |
+> | ...Spare Gold                                    | -                  | 2 gp  |
 
 #### Spellcasting
 

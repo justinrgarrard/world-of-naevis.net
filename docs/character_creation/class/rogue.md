@@ -40,21 +40,23 @@ Rogues are the subtler counterpart to Fighters. Not quite as brawny, they make u
 >
 > **Equipment**
 >
-> * _Rogue's Pack (39 lb.)_ or 100 gp.
+> * _Rogue's Pack (48 lb.)_ or 100 gp.
 > 
 > | Item                                         | Weight              | gp    |
 > | :------------------------------------------- | :------------------ | :---- |
 > | Daggers (x5)                                 | 5 lb.               | 5 gp  |
 > | Studded Leather                              | 13 lb.              | 10 gp |
+> | Rope, silk (50 feet)                         | 5 lb.               | 10 gp |
 > | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
-> | ...[Potion of Healing](../../gear/alchemics) | 1 lb.               | 25 gp |
+> | ...[Potion of Healing](../../character_creation/equipment/alchemics) | 1 lb.               | 25 gp |
 > | ...Thieves' Tools                            | 1 lb.               | 10 gp |
-> | Backpack                                     | 5 lb. (12 / 30 lb.) | 2 gp  |
+> | Backpack                                     | 5 lb. (16 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                              | 6 lb.               | 3 gp  |
 > | ...Lantern, Bullseye                         | 2 lb.               | 5 gp  |
 > | ...Flasks of Oil (x3)                        | 3 lb.               | 3 gp  |
 > | ...Tinderbox                                 | 1 lb.               | 1 gp  |
-> | ...Spare Gold                                | -                   | 35 gp |
+> | ...Grappling Hook                            | 4 lb.               | 2 gp  |
+> | ...Spare Gold                                | -                   | 23 gp |
 
 #### Expertise
 
@@ -72,7 +74,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 #### Cant
 
-During your rogue training you learned [cant](../../adventuring/languages#cant), a combination sign and signal language that allows you to communicate without words.
+During your rogue training you learned [cant](../../adventuring/mechanics/languages#cant), a combination sign and signal language that allows you to communicate without words.
 
 #### Cunning Action
 

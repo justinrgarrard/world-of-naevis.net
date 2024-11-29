@@ -29,15 +29,15 @@ parent: Welcome
 
 > ##### The City Below
 >
-> A [subterranean otherworld](../lore/city_below) beneath the ruins of a mysterious desert city. Its tunnels are filled with treasures and danger.
+> A [subterranean otherworld](../more/the_city_below/index) beneath the ruins of a mysterious desert city. Its tunnels are filled with treasures and danger.
 >
 > ##### The Canvaslands
 >
-> A [lawless shantytown](../lore/canvaslands/index) of yurts and market stalls around the City's entrance. Aspiring slumlords rent out hostels to adventuring parties in the area, while opportunistic merchants trade water for gold.
+> A [lawless shantytown](../more/the_world/canvaslands) of yurts and market stalls around the City's entrance. Aspiring slumlords rent out hostels to adventuring parties in the area, while opportunistic merchants trade water for gold.
 > 
 > ##### The Nameless Desert
 >
-> A [vast arid desert](../lore/nameless_desert) prone to sandstorms and drought. Giant scorpions and other megafauna hunt for any travelers foolish enough to venture in without a guide.
+> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions and other megafauna hunt for any travelers foolish enough to venture in without a guide.
 
 
 #### People
@@ -48,11 +48,11 @@ parent: Welcome
 >
 > ##### Embassies
 >
-> Ambassadors of the [Elves](../lore/greenlands/elves) and [Dwarves](../lore/greenlands/dwarves). Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. 
+> Ambassadors of the Elves and Dwarves. Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. 
 >
 > ##### City Dwellers
 >
-> Strange, monstrous [creatures](../lore/city_dwellers/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels.
+> Strange, monstrous [creatures](../more/the_city_below/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels.
 
 
 #### Languages
@@ -70,4 +70,4 @@ parent: Welcome
 
 > * Avoid fair fights.
 > * Keep an open mind.
-> * [You are more than your character's class](../more/strategy#be-more-than-a-statblock).
+> * [You are more than your character's class](../adventuring/strategy/delving_tips#3-be-more-than-a-stat-block).
