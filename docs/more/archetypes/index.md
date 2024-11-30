@@ -21,12 +21,12 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 
 > These optional archetypes were designed for use with Naevis.
 
-| Class       | Archetypes                                              |                                                         |
-| :---------- | :------------------------------------------------------ | :------------------------------------------------------ |
-| **Cleric**  | [Demon Cult](../../../data/archetypes/cleric_hell)      | [Winter Cult](../../../data/archetypes/cleric_winter)   |
-| **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince) |
-| **Rogue**   | [Delver](../../../data/archetypes/rogue_delver)         | [Knife Dancer](../../../data/archetypes/rogue_knife)    |
-| **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Tower Mage](../../../data/archetypes/wizard_tower)     |
+| Class       | Archetypes                                              |                                                           |
+| :---------- | :------------------------------------------------------ | :-------------------------------------------------------- |
+| **Cleric**  | [Demon Cult](../../../data/archetypes/cleric_demon)     | [Winter Cult](../../../data/archetypes/cleric_winter)     |
+| **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince)   |
+| **Rogue**   | [Delver](../../../data/archetypes/rogue_delver)         | [Trailblazer](../../../data/archetypes/rogue_trailblazer) |
+| **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Djinn Mage](../../../data/archetypes/wizard_djinn)       |
 
 
 ---

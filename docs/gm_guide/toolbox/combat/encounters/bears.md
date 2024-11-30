@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Bears
-parent: Combat
-grand_parent: Toolbox
+parent: Encounters
+grand_parent: Combat
 nav_order: 1
 ---
 

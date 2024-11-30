@@ -16,7 +16,7 @@ nav_order: 0
 
 #### Settlements
 
-> Weak undead are most common in abandoned areas where no priests or shamans might pass by. More powerful undead will venture to the fringes of societies in order to secure food. A small number may create [demon worshipping cults](../../../data/archetypes/cleric_hell) for the same reasons.
+> Weak undead are most common in abandoned areas where no priests or shamans might pass by. More powerful undead will venture to the fringes of societies in order to secure food. A small number may create [demon worshipping cults](../../../data/archetypes/cleric_demon) for the same reasons.
 
 #### Disposition
 

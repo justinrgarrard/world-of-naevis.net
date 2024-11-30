@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Wizard: Court Mage
 
-_Court Mages are sociable arcanists who typically hold civic positions. They may be advisors to kings, tribal shamans, notable professors, or others whose knowledge is held in high esteem._
+_Court Mages are broadly educated wizards that supplement their spellcasting with scholarly know-how. Their tradition is known for its preoccupation with pedagogy, with many of its members serving as advisors to kings and chieftains._
 
 
 #### Appraisal

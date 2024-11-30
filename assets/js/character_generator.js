@@ -284,7 +284,7 @@ const MAGE_KNIGHT = {
 };
 
 // Hill Dwarf
-const AUGURES = {
+const SEER = {
   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
@@ -296,10 +296,10 @@ const AUGURES = {
   resistances: [],
   skills: ["medicine", "history"],
   spells: ["bless", "cure wounds"],
-  title: "augures",
+  title: "seer",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
-  writeup: "You are an Augures, a seer and warrior priest.",
+  writeup: "You are a seer, a warrior priest with skill in divination.",
   races: ["hill dwarf"],
   inv_worn: [
     ITEMS.chainmail,
@@ -541,12 +541,12 @@ const SPELLSWORD = {
 
 const CLASSES = {
   "mage knight": MAGE_KNIGHT,
-  augures: AUGURES,
   dungeoneer: DUNGEONEER,
   exorcist: EXORCIST,
   legionnaire: LEGIONNAIRE,
   mercenary: MERCENARY,
   scout: SCOUT,
+  seer: SEER,
   spellsword: SPELLSWORD,
   templar: TEMPLAR,
   warder: WARDER,

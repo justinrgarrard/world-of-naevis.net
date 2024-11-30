@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Wizard: Evocation (Battle Mage)
 
-_Battle Mages are specialists in destructive magic. They operate as portable artillery in military outfits, able to minimize friendly fire through extensive training._
+_Battle Mages are specialists in destructive magic. Their tradition is known for its lethality and control of volatile energies._
 
 
 #### Evocation Savant
