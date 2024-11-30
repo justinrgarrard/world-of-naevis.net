@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leveling Tables
-parent: Campaigns
+parent: Tables
 grand_parent: Toolbox
 ---
 

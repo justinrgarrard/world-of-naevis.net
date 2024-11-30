@@ -3,6 +3,7 @@ layout: default
 title: Recommended Reading
 parent: Handbook
 grand_parent: GM Guide
+nav_order: 99
 ---
 
 # Recommended Reading

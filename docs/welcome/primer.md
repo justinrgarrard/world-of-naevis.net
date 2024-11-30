@@ -7,8 +7,9 @@ parent: Welcome
 
 # Primer
 
-#### System
-
+{: .note}
+> ##### System
+>
 > * **[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**
 > * **Four Classes**: Fighter, Cleric, Rogue, Wizard.
 > * **Four Races**: Elf, Dwarf, Halfling, Human.
